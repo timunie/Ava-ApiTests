@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html []><html lang="en-US"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="shortcut icon" href="../icons/favicon.ico" /><link rel="stylesheet" href="../css/bulma.css" /><link rel="stylesheet" href="../css/font-awesome.min.css" /><link rel="stylesheet" href="../css/presentationStyle.css" /><link rel="stylesheet" href="../css/vs.min.css" /><script src="../scripts/jquery-3.5.1.min.js"></script><script src="../scripts/clipboard.min.js"></script><script src="../scripts/highlight.min.js"></script><script src="../scripts/presentationStyle.js"></script><title>DataGrid Events</title><meta name="Title" content="Events" /><meta name="Help.Id" content="Events.T:Avalonia.Controls.DataGrid" /><meta name="Help.ContentType" content="Reference" /><meta name="container" content="Avalonia.Controls" /><meta name="guid" content="Events_T_Avalonia_Controls_DataGrid" /><meta name="tocFile" content="../toc/ID0NB0L.xml" /></head><body><div class="fixedLayout"><div id="Header" class="fixedHeader"><div class="pageHeader level mb-0 py-2 px-4"><div id="TitleContainer" class="level-left"><div class="level-item"><a target="_blank" rel="noopener noreferrer" href="https://avaloniaui.net"><img alt="Avalonia Logo" style="height: 40px; width: 40px;" src="../icons/avalonia_logo_box_white.png" /></a></div><div id="DocumentationTitle" class="level-item">Avalonia API Reference</div></div><div id="LangFilterSearchContainer" class="level-right"><div class="level-item"><div class="dropdown is-hoverable"><div class="dropdown-trigger"><button class="button" aria-haspopup="true" aria-controls="dropdown-menu"><span id="CurrentLanguage"></span><span class="icon is-small"><i class="fa fa-angle-down" aria-hidden="true"></i></span></button></div><div class="dropdown-menu" role="menu"><div id="LanguageSelections" class="dropdown-content"><a class="dropdown-item languageFilterItem" data-languageId="cs">C#</a><a class="dropdown-item languageFilterItem" data-languageId="vb">VB</a><a class="dropdown-item languageFilterItem" data-languageId="fs">F#</a></div></div></div></div><div class="level-item"><form id="SearchForm" action="#" onsubmit="TransferToSearchPage(); return false;"><div class="field"><div class="control has-icons-left"><input id="SearchTerms" class="input" type="text" maxlength="200" placeholder="Search" /><span class="icon is-small is-left"><i class="fa fa-search"></i></span><button id="SearchButton" type="submit" class="is-hidden"></button></div></div></form></div></div></div></div><div class="fixedContent"><nav class="breadcrumb my-1 px-2 border-bottom" role="navigation"><ul id="TopicBreadcrumbs" /></nav><div id="ContentContainer" class="columns pl-5 pr-5 fixedContent"><div id="ShowHideTOCColumn" class="column is-hidden-tablet"><a id="ShowHideTOC">Show/Hide TOC</a></div><div id="TOCColumn" class="column is-hidden-mobile toc-resizable"><nav class="toc"><ul id="TableOfContents" class="toc-menu" /></nav></div><div id="Resizer" class="toc-resizer"></div><div id="TopicContent" class="column content is-7 toc-resizable-content"><h1>Data<wbr />Grid Events</h1><h2 class="quickLinkHeader"><span class="icon toggleSection" tabindex="0"><i class="fa fa-angle-down"></i></span>Events</h2><div id="IDADASection"><table id="EventList" class="table is-hoverable"><tr><td><a href="E_Avalonia_StyledElement_ActualThemeVariantChanged.htm">ActualThemeVariantChanged</a></td><td>
+            Raised when the theme variant is changed on the element or an ancestor of the element.
+            <br />(Inherited from <a href="T_Avalonia_StyledElement.htm">StyledElement</a>)</td></tr><tr><td><a href="E_Avalonia_StyledElement_AttachedToLogicalTree.htm">AttachedToLogicalTree</a></td><td>
+            Raised when the styled element is attached to a rooted logical tree.
+            <br />(Inherited from <a href="T_Avalonia_StyledElement.htm">StyledElement</a>)</td></tr><tr><td><a href="E_Avalonia_Visual_AttachedToVisualTree.htm">AttachedToVisualTree</a></td><td>
+            Raised when the control is attached to a rooted visual tree.
+            <br />(Inherited from <a href="T_Avalonia_Visual.htm">Visual</a>)</td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_AutoGeneratingColumn.htm">AutoGeneratingColumn</a></td><td>
+            Occurs one time for each public, non-static property in the bound data type when the
+            <a href="P_Avalonia_Controls_DataGrid_ItemsSource.htm">ItemsSource</a> property is changed and the
+            <a href="P_Avalonia_Controls_DataGrid_AutoGenerateColumns.htm">AutoGenerateColumns</a> property is true.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_BeginningEdit.htm">BeginningEdit</a></td><td>
+            Occurs before a cell or row enters editing mode.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_CellEditEnded.htm">CellEditEnded</a></td><td>
+            Occurs after cell editing has ended.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_CellEditEnding.htm">CellEditEnding</a></td><td>
+            Occurs immediately before cell editing has ended.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_CellPointerPressed.htm">CellPointerPressed</a></td><td>
+            Occurs when cell is mouse-pressed.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_ColumnDisplayIndexChanged.htm">ColumnDisplayIndexChanged</a></td><td>
+            Occurs when the <a href="P_Avalonia_Controls_DataGridColumn_DisplayIndex.htm">DisplayIndex</a>
+            property of a column changes.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_ColumnReordered.htm">ColumnReordered</a></td><td>
+            Raised when column reordering ends, to allow subscribers to clean up.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_ColumnReordering.htm">ColumnReordering</a></td><td>
+            Raised when starting a column reordering action.  Subscribers to this event can
+            set tooltip and caret UIElements, constrain tooltip position, indicate that
+            a preview should be shown, or cancel reordering.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_Control_ContextRequested.htm">ContextRequested</a></td><td>
+            Occurs when the user has completed a context input gesture, such as a right-click.
+            <br />(Inherited from <a href="T_Avalonia_Controls_Control.htm">Control</a>)</td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_CopyingRowClipboardContent.htm">CopyingRowClipboardContent</a></td><td>
+            This event is raised by OnCopyingRowClipboardContent method after the default row content is prepared.
+            Event listeners can modify or add to the row clipboard content.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_CurrentCellChanged.htm">CurrentCellChanged</a></td><td>
+            Occurs when a different cell becomes the current cell.
+            </td></tr><tr><td><a href="E_Avalonia_StyledElement_DataContextChanged.htm">DataContextChanged</a></td><td>
+            Occurs when the <a href="P_Avalonia_StyledElement_DataContext.htm">DataContext</a> property changes.
+            <br />(Inherited from <a href="T_Avalonia_StyledElement.htm">StyledElement</a>)</td></tr><tr><td><a href="E_Avalonia_StyledElement_DetachedFromLogicalTree.htm">DetachedFromLogicalTree</a></td><td>
+            Raised when the styled element is detached from a rooted logical tree.
+            <br />(Inherited from <a href="T_Avalonia_StyledElement.htm">StyledElement</a>)</td></tr><tr><td><a href="E_Avalonia_Visual_DetachedFromVisualTree.htm">DetachedFromVisualTree</a></td><td>
+            Raised when the control is detached from a rooted visual tree.
+            <br />(Inherited from <a href="T_Avalonia_Visual.htm">Visual</a>)</td></tr><tr><td><a href="E_Avalonia_Input_InputElement_DoubleTapped.htm">DoubleTapped</a></td><td>
+            Occurs when a double-tap gesture occurs on the control.
+            <br />(Inherited from <a href="T_Avalonia_Input_InputElement.htm">InputElement</a>)</td></tr><tr><td><a href="E_Avalonia_Layout_Layoutable_EffectiveViewportChanged.htm">EffectiveViewportChanged</a></td><td>
+            Occurs when the element's effective viewport changes.
+            <br />(Inherited from <a href="T_Avalonia_Layout_Layoutable.htm">Layoutable</a>)</td></tr><tr><td><a href="E_Avalonia_Input_InputElement_GotFocus.htm">GotFocus</a></td><td>
+            Occurs when the control receives focus.
+            <br />(Inherited from <a href="T_Avalonia_Input_InputElement.htm">InputElement</a>)</td></tr><tr><td><a href="E_Avalonia_Input_InputElement_Holding.htm">Holding</a></td><td>
+            Occurs when a hold gesture occurs on the control.
+            <br />(Inherited from <a href="T_Avalonia_Input_InputElement.htm">InputElement</a>)</td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_HorizontalScroll.htm">HorizontalScroll</a></td><td> </td></tr><tr><td><a href="E_Avalonia_StyledElement_Initialized.htm">Initialized</a></td><td>
+            Occurs when the styled element has finished initialization.
+            <br />(Inherited from <a href="T_Avalonia_StyledElement.htm">StyledElement</a>)</td></tr><tr><td><a href="E_Avalonia_Input_InputElement_KeyDown.htm">KeyDown</a></td><td>
+            Occurs when a key is pressed while the control has focus.
+            <br />(Inherited from <a href="T_Avalonia_Input_InputElement.htm">InputElement</a>)</td></tr><tr><td><a href="E_Avalonia_Input_InputElement_KeyUp.htm">KeyUp</a></td><td>
+            Occurs when a key is released while the control has focus.
+            <br />(Inherited from <a href="T_Avalonia_Input_InputElement.htm">InputElement</a>)</td></tr><tr><td><a href="E_Avalonia_Layout_Layoutable_LayoutUpdated.htm">LayoutUpdated</a></td><td>
+            Occurs when a layout pass completes for the control.
+            <br />(Inherited from <a href="T_Avalonia_Layout_Layoutable.htm">Layoutable</a>)</td></tr><tr><td><a href="E_Avalonia_Controls_Control_Loaded.htm">Loaded</a></td><td>
+            Occurs when the control has been fully constructed in the visual tree and both
+            layout and render are complete.
+            <br />(Inherited from <a href="T_Avalonia_Controls_Control.htm">Control</a>)</td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_LoadingRow.htm">LoadingRow</a></td><td>
+            Occurs after a <a href="T_Avalonia_Controls_DataGridRow.htm">DataGridRow</a>
+            is instantiated, so that you can customize it before it is used.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_LoadingRowDetails.htm">LoadingRowDetails</a></td><td>
+            Occurs when a new row details template is applied to a row, so that you can customize
+            the details section before it is used.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_LoadingRowGroup.htm">LoadingRowGroup</a></td><td>
+            Occurs before a DataGridRowGroupHeader header is used.
+            </td></tr><tr><td><a href="E_Avalonia_Input_InputElement_LostFocus.htm">LostFocus</a></td><td>
+            Occurs when the control loses focus.
+            <br />(Inherited from <a href="T_Avalonia_Input_InputElement.htm">InputElement</a>)</td></tr><tr><td><a href="E_Avalonia_Input_InputElement_PointerCaptureLost.htm">PointerCaptureLost</a></td><td>
+            Occurs when the control or its child control loses the pointer capture for any reason,
+            event will not be triggered for a parent control if capture was transferred to another child of that parent control
+            <br />(Inherited from <a href="T_Avalonia_Input_InputElement.htm">InputElement</a>)</td></tr><tr><td><a href="E_Avalonia_Input_InputElement_PointerEntered.htm">PointerEntered</a></td><td>
+            Occurs when the pointer enters the control.
+            <br />(Inherited from <a href="T_Avalonia_Input_InputElement.htm">InputElement</a>)</td></tr><tr><td><a href="E_Avalonia_Input_InputElement_PointerExited.htm">PointerExited</a></td><td>
+            Occurs when the pointer leaves the control.
+            <br />(Inherited from <a href="T_Avalonia_Input_InputElement.htm">InputElement</a>)</td></tr><tr><td><a href="E_Avalonia_Input_InputElement_PointerMoved.htm">PointerMoved</a></td><td>
+            Occurs when the pointer moves over the control.
+            <br />(Inherited from <a href="T_Avalonia_Input_InputElement.htm">InputElement</a>)</td></tr><tr><td><a href="E_Avalonia_Input_InputElement_PointerPressed.htm">PointerPressed</a></td><td>
+            Occurs when the pointer is pressed over the control.
+            <br />(Inherited from <a href="T_Avalonia_Input_InputElement.htm">InputElement</a>)</td></tr><tr><td><a href="E_Avalonia_Input_InputElement_PointerReleased.htm">PointerReleased</a></td><td>
+            Occurs when the pointer is released over the control.
+            <br />(Inherited from <a href="T_Avalonia_Input_InputElement.htm">InputElement</a>)</td></tr><tr><td><a href="E_Avalonia_Input_InputElement_PointerWheelChanged.htm">PointerWheelChanged</a></td><td>
+            Occurs when the mouse is scrolled over the control.
+            <br />(Inherited from <a href="T_Avalonia_Input_InputElement.htm">InputElement</a>)</td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_PreparingCellForEdit.htm">PreparingCellForEdit</a></td><td>
+             Occurs when a cell in a <a href="T_Avalonia_Controls_DataGridTemplateColumn.htm">DataGridTemplateColumn</a> enters editing mode.
+            
+             </td></tr><tr><td><a href="E_Avalonia_AvaloniaObject_PropertyChanged.htm">PropertyChanged</a></td><td>
+            Raised when a <a href="T_Avalonia_AvaloniaProperty.htm">AvaloniaProperty</a> value changes on this object.
+            <br />(Inherited from <a href="T_Avalonia_AvaloniaObject.htm">AvaloniaObject</a>)</td></tr><tr><td><a href="E_Avalonia_StyledElement_ResourcesChanged.htm">ResourcesChanged</a></td><td>
+            Occurs when a resource in this styled element or a parent styled element has changed.
+            <br />(Inherited from <a href="T_Avalonia_StyledElement.htm">StyledElement</a>)</td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_RowDetailsVisibilityChanged.htm">RowDetailsVisibilityChanged</a></td><td>
+            Occurs when the <a href="P_Avalonia_Controls_DataGrid_RowDetailsVisibilityMode.htm">RowDetailsVisibilityMode</a>
+            property value changes.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_RowEditEnded.htm">RowEditEnded</a></td><td>
+            Occurs when the row has been successfully committed or cancelled.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_RowEditEnding.htm">RowEditEnding</a></td><td>
+            Occurs immediately before the row has been successfully committed or cancelled.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_SelectionChanged.htm">SelectionChanged</a></td><td>
+            Occurs when the <a href="P_Avalonia_Controls_DataGrid_SelectedItem.htm">SelectedItem</a> or
+            <a href="P_Avalonia_Controls_DataGrid_SelectedItems.htm">SelectedItems</a> property value changes.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_Control_SizeChanged.htm">SizeChanged</a></td><td>
+            Occurs when the bounds (actual size) of the control have changed.
+            <br />(Inherited from <a href="T_Avalonia_Controls_Control.htm">Control</a>)</td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_Sorting.htm">Sorting</a></td><td>
+            Occurs when the <a href="T_Avalonia_Controls_DataGridColumn.htm">DataGridColumn</a> sorting request is triggered.
+            </td></tr><tr><td><a href="E_Avalonia_Input_InputElement_Tapped.htm">Tapped</a></td><td>
+            Occurs when a tap gesture occurs on the control.
+            <br />(Inherited from <a href="T_Avalonia_Input_InputElement.htm">InputElement</a>)</td></tr><tr><td><a href="E_Avalonia_Controls_Primitives_TemplatedControl_TemplateApplied.htm">TemplateApplied</a></td><td>
+            Raised when the control's template is applied.
+            <br />(Inherited from <a href="T_Avalonia_Controls_Primitives_TemplatedControl.htm">TemplatedControl</a>)</td></tr><tr><td><a href="E_Avalonia_Input_InputElement_TextInput.htm">TextInput</a></td><td>
+            Occurs when a user typed some text while the control has focus.
+            <br />(Inherited from <a href="T_Avalonia_Input_InputElement.htm">InputElement</a>)</td></tr><tr><td><a href="E_Avalonia_Input_InputElement_TextInputMethodClientRequested.htm">TextInputMethodClientRequested</a></td><td>
+            Occurs when an input element gains input focus and input method is looking for the corresponding client
+            <br />(Inherited from <a href="T_Avalonia_Input_InputElement.htm">InputElement</a>)</td></tr><tr><td><a href="E_Avalonia_Controls_Control_Unloaded.htm">Unloaded</a></td><td>
+            Occurs when the control is removed from the visual tree.
+            <br />(Inherited from <a href="T_Avalonia_Controls_Control.htm">Control</a>)</td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_UnloadingRow.htm">UnloadingRow</a></td><td>
+            Occurs when a <a href="T_Avalonia_Controls_DataGridRow.htm">DataGridRow</a>
+            object becomes available for reuse.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_UnloadingRowDetails.htm">UnloadingRowDetails</a></td><td>
+            Occurs when a row details element becomes available for reuse.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_UnloadingRowGroup.htm">UnloadingRowGroup</a></td><td>
+            Occurs when the DataGridRowGroupHeader is available for reuse.
+            </td></tr><tr><td><a href="E_Avalonia_Controls_DataGrid_VerticalScroll.htm">VerticalScroll</a></td><td> </td></tr></table></div><h2 class="quickLinkHeader"><span class="icon toggleSection" tabindex="0"><i class="fa fa-angle-down"></i></span>See Also</h2><div id="seeAlsoSection"><h4>Reference</h4><div><a href="T_Avalonia_Controls_DataGrid.htm">DataGrid Class</a></div><div><a href="N_Avalonia_Controls.htm">Avalonia.Controls Namespace</a></div></div></div><div id="InThisArticleColumn" class="column is-hidden-mobile"><nav class="menu sticky is-hidden"><p class="menu-label"><strong>In This Article</strong></p><ul id="InThisArticleMenu" class="menu-list"><li><a class="quickLink">Events</a></li><li><a class="quickLink">See Also</a></li></ul></nav></div></div></div><footer id="PageFooter" class="footer border-top py-3 fixedFooter"><div class="columns"><div id="FooterContent" class="column"><p><a href="https://avaloniaui.net" target="_blank" rel="noopener noreferrer">© AvaloniaUI OÜ</a></p> 
+				</div></div></footer></div><script>$(function(){
+SetDefaultLanguage("cs");
+LoadTocFile(null, null);
+InitializeQuickLinks();
+
+$(".toggleSection" ).click(function () {
+    SectionExpandCollapse(this);
+});
+
+$(".toggleSection").keypress(function () {
+    SectionExpandCollapseCheckKey(this, event)
+});
+});</script></body></html>
