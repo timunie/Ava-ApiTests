@@ -1,0 +1,75 @@
+---
+title:ILogicalRoot Methods
+description: Autogenertated API Reference page
+hide_table_of_contents: false
+---
+# ILogicalRoot Methods
+
+
+
+
+## Methods
+<table>
+<tr>
+<td><a href="M_Avalonia_LogicalTree_ILogical_NotifyAttachedToLogicalTree">NotifyAttachedToLogicalTree(LogicalTreeAttachmentEventArgs)</a></td>
+<td><br />(Inherited from <a href="T_Avalonia_LogicalTree_ILogical">ILogical</a>)</td></tr>
+<tr>
+<td><a href="M_Avalonia_LogicalTree_ILogical_NotifyDetachedFromLogicalTree">NotifyDetachedFromLogicalTree(LogicalTreeAttachmentEventArgs)</a></td>
+<td><br />(Inherited from <a href="T_Avalonia_LogicalTree_ILogical">ILogical</a>)</td></tr>
+<tr>
+<td><a href="M_Avalonia_LogicalTree_ILogical_NotifyResourcesChanged">NotifyResourcesChanged(ResourcesChangedEventArgs)</a></td>
+<td><br />(Inherited from <a href="T_Avalonia_LogicalTree_ILogical">ILogical</a>)</td></tr>
+</table>
+
+## Extension Methods
+<table>
+<tr>
+<td><a href="M_Avalonia_Controls_NameScopeExtensions_Find__1_1">Find(T)(String)</a></td>
+<td><br />(Defined by <a href="T_Avalonia_Controls_NameScopeExtensions">NameScopeExtensions</a>)</td></tr>
+<tr>
+<td><a href="M_Avalonia_LogicalTree_LogicalExtensions_FindLogicalAncestorOfType__1">FindLogicalAncestorOfType(T)(Boolean)</a></td>
+<td><br />(Defined by <a href="T_Avalonia_LogicalTree_LogicalExtensions">LogicalExtensions</a>)</td></tr>
+<tr>
+<td><a href="M_Avalonia_LogicalTree_LogicalExtensions_FindLogicalDescendantOfType__1">FindLogicalDescendantOfType(T)(Boolean)</a></td>
+<td><br />(Defined by <a href="T_Avalonia_LogicalTree_LogicalExtensions">LogicalExtensions</a>)</td></tr>
+<tr>
+<td><a href="M_Avalonia_Controls_NameScopeExtensions_FindNameScope">FindNameScope()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_Controls_NameScopeExtensions">NameScopeExtensions</a>)</td></tr>
+<tr>
+<td><a href="M_Avalonia_Controls_NameScopeExtensions_Get__1_1">Get(T)(String)</a></td>
+<td><br />(Defined by <a href="T_Avalonia_Controls_NameScopeExtensions">NameScopeExtensions</a>)</td></tr>
+<tr>
+<td><a href="M_Avalonia_LogicalTree_LogicalExtensions_GetLogicalAncestors">GetLogicalAncestors()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_LogicalTree_LogicalExtensions">LogicalExtensions</a>)</td></tr>
+<tr>
+<td><a href="M_Avalonia_LogicalTree_LogicalExtensions_GetLogicalChildren">GetLogicalChildren()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_LogicalTree_LogicalExtensions">LogicalExtensions</a>)</td></tr>
+<tr>
+<td><a href="M_Avalonia_LogicalTree_LogicalExtensions_GetLogicalDescendants">GetLogicalDescendants()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_LogicalTree_LogicalExtensions">LogicalExtensions</a>)</td></tr>
+<tr>
+<td><a href="M_Avalonia_LogicalTree_LogicalExtensions_GetLogicalParent">GetLogicalParent()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_LogicalTree_LogicalExtensions">LogicalExtensions</a>)</td></tr>
+<tr>
+<td><a href="M_Avalonia_LogicalTree_LogicalExtensions_GetLogicalParent__1">GetLogicalParent(T)()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_LogicalTree_LogicalExtensions">LogicalExtensions</a>)</td></tr>
+<tr>
+<td><a href="M_Avalonia_LogicalTree_LogicalExtensions_GetLogicalSiblings">GetLogicalSiblings()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_LogicalTree_LogicalExtensions">LogicalExtensions</a>)</td></tr>
+<tr>
+<td><a href="M_Avalonia_LogicalTree_LogicalExtensions_GetSelfAndLogicalAncestors">GetSelfAndLogicalAncestors()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_LogicalTree_LogicalExtensions">LogicalExtensions</a>)</td></tr>
+<tr>
+<td><a href="M_Avalonia_LogicalTree_LogicalExtensions_GetSelfAndLogicalDescendants">GetSelfAndLogicalDescendants()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_LogicalTree_LogicalExtensions">LogicalExtensions</a>)</td></tr>
+<tr>
+<td><a href="M_Avalonia_LogicalTree_LogicalExtensions_IsLogicalAncestorOf">IsLogicalAncestorOf(ILogical)</a></td>
+<td><br />(Defined by <a href="T_Avalonia_LogicalTree_LogicalExtensions">LogicalExtensions</a>)</td></tr>
+</table>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_LogicalTree_ILogicalRoot">ILogicalRoot Interface</a>  
+<a href="N_Avalonia_LogicalTree">Avalonia.LogicalTree Namespace</a>  

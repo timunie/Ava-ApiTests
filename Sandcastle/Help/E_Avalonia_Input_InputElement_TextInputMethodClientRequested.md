@@ -1,0 +1,39 @@
+---
+title:TextInputMethodClientRequested Event
+description: Autogenertated API Reference page
+hide_table_of_contents: false
+---
+# TextInputMethodClientRequested Event
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Input">Avalonia.Input</a>  
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.4
+
+**C#**
+``` C#
+public event EventHandler<TextInputMethodClientRequestedEventArgs> TextInputMethodClientRequested
+```
+**VB**
+``` VB
+Public Event TextInputMethodClientRequested As EventHandler(Of TextInputMethodClientRequestedEventArgs)
+```
+**F#**
+``` F#
+member TextInputMethodClientRequested : IEvent<EventHandler<TextInputMethodClientRequestedEventArgs>,
+    TextInputMethodClientRequestedEventArgs>
+```
+
+
+
+#### Value
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Input_TextInput_TextInputMethodClientRequestedEventArgs">TextInputMethodClientRequestedEventArgs</a>)
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Input_InputElement">InputElement Class</a>  
+<a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  

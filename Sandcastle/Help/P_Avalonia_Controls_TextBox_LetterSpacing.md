@@ -1,0 +1,40 @@
+---
+title:LetterSpacing Property
+description: Autogenertated API Reference page
+hide_table_of_contents: false
+---
+# LetterSpacing Property
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.4
+
+**C#**
+``` C#
+public double LetterSpacing { get; set; }
+```
+**VB**
+``` VB
+Public Property LetterSpacing As Double
+	Get
+	Set
+```
+**F#**
+``` F#
+member LetterSpacing : float with get, set
+```
+
+
+
+#### Property Value
+<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Controls_TextBox">TextBox Class</a>  
+<a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  

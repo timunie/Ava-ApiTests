@@ -1,0 +1,46 @@
+---
+title:Get Method
+description: Autogenertated API Reference page
+hide_table_of_contents: false
+---
+# Get Method
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Input">Avalonia.Input</a>  
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.4
+
+**C#**
+``` C#
+Object? Get(
+	string dataFormat
+)
+```
+**VB**
+``` VB
+Function Get ( 
+	dataFormat As String
+) As Object
+```
+**F#**
+``` F#
+abstract Get : 
+        dataFormat : string -> Object 
+```
+
+
+
+#### Parameters
+<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a></dt><dd> </dd></dl>
+
+#### Return Value
+<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Input_IDataObject">IDataObject Interface</a>  
+<a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  

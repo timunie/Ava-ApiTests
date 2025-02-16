@@ -1,0 +1,29 @@
+---
+title:IScreenImpl Properties
+description: Autogenertated API Reference page
+hide_table_of_contents: false
+---
+# IScreenImpl Properties
+
+
+
+
+## Properties
+<table>
+<tr>
+<td><a href="P_Avalonia_Platform_IScreenImpl_AllScreens">AllScreens</a></td>
+<td> </td></tr>
+<tr>
+<td><a href="P_Avalonia_Platform_IScreenImpl_Changed">Changed</a></td>
+<td> </td></tr>
+<tr>
+<td><a href="P_Avalonia_Platform_IScreenImpl_ScreenCount">ScreenCount</a></td>
+<td> </td></tr>
+</table>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Platform_IScreenImpl">IScreenImpl Interface</a>  
+<a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  

@@ -1,0 +1,55 @@
+---
+title:Register&lt;TSender&gt;(Action&lt;TSender, EventHandler&gt;, Action&lt;TSender, EventHandler&gt;) Method
+description: Autogenertated API Reference page
+hide_table_of_contents: false
+---
+# Register&lt;TSender&gt;(Action&lt;TSender, EventHandler&gt;, Action&lt;TSender, EventHandler&gt;) Method
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Utilities">Avalonia.Utilities</a>  
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.4
+
+**C#**
+``` C#
+public static WeakEvent<TSender, EventArgs> Register<TSender>(
+	Action<TSender, EventHandler> subscribe,
+	Action<TSender, EventHandler> unsubscribe
+)
+where TSender : class
+
+```
+**VB**
+``` VB
+Public Shared Function Register(Of TSender As Class) ( 
+	subscribe As Action(Of TSender, EventHandler),
+	unsubscribe As Action(Of TSender, EventHandler)
+) As WeakEvent(Of TSender, EventArgs)
+```
+**F#**
+``` F#
+static member Register : 
+        subscribe : Action<'TSender, EventHandler> * 
+        unsubscribe : Action<'TSender, EventHandler> -> WeakEvent<'TSender, EventArgs>  when 'TSender : not struct
+```
+
+
+
+#### Parameters
+<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.action-2" target="_blank" rel="noopener noreferrer">Action</a>(TSender, <a href="https://learn.microsoft.com/dotnet/api/system.eventhandler" target="_blank" rel="noopener noreferrer">EventHandler</a>)</dt><dd> </dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.action-2" target="_blank" rel="noopener noreferrer">Action</a>(TSender, <a href="https://learn.microsoft.com/dotnet/api/system.eventhandler" target="_blank" rel="noopener noreferrer">EventHandler</a>)</dt><dd> </dd></dl>
+
+#### Type Parameters
+<dl><dt /><dd /></dl>
+
+#### Return Value
+<a href="T_Avalonia_Utilities_WeakEvent_2">WeakEvent</a>(TSender, <a href="https://learn.microsoft.com/dotnet/api/system.eventargs" target="_blank" rel="noopener noreferrer">EventArgs</a>)
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Utilities_WeakEvent">WeakEvent Class</a>  
+<a href="Overload_Avalonia_Utilities_WeakEvent_Register">Register Overload</a>  
+<a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  

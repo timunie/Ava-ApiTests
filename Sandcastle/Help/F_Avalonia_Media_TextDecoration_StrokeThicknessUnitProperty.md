@@ -1,0 +1,38 @@
+---
+title:StrokeThicknessUnitProperty Field
+description: Autogenertated API Reference page
+hide_table_of_contents: false
+---
+# StrokeThicknessUnitProperty Field
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.4
+
+**C#**
+``` C#
+public static readonly StyledProperty<TextDecorationUnit> StrokeThicknessUnitProperty
+```
+**VB**
+``` VB
+Public Shared ReadOnly StrokeThicknessUnitProperty As StyledProperty(Of TextDecorationUnit)
+```
+**F#**
+``` F#
+static val StrokeThicknessUnitProperty: StyledProperty<TextDecorationUnit>
+```
+
+
+
+#### Field Value
+<a href="T_Avalonia_StyledProperty_1">StyledProperty</a>(<a href="T_Avalonia_Media_TextDecorationUnit">TextDecorationUnit</a>)
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Media_TextDecoration">TextDecoration Class</a>  
+<a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  

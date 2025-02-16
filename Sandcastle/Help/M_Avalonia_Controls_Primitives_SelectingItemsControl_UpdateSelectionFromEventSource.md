@@ -1,0 +1,69 @@
+---
+title:UpdateSelectionFromEventSource Method
+description: Autogenertated API Reference page
+hide_table_of_contents: false
+---
+# UpdateSelectionFromEventSource Method
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.4
+
+**C#**
+``` C#
+protected bool UpdateSelectionFromEventSource(
+	Object? eventSource,
+	bool select = true,
+	bool rangeModifier = false,
+	bool toggleModifier = false,
+	bool rightButton = false,
+	bool fromFocus = false
+)
+```
+**VB**
+``` VB
+Protected Function UpdateSelectionFromEventSource ( 
+	eventSource As Object,
+	Optional select As Boolean = true,
+	Optional rangeModifier As Boolean = false,
+	Optional toggleModifier As Boolean = false,
+	Optional rightButton As Boolean = false,
+	Optional fromFocus As Boolean = false
+) As Boolean
+```
+**F#**
+``` F#
+member UpdateSelectionFromEventSource : 
+        eventSource : Object * 
+        ?select : bool * 
+        ?rangeModifier : bool * 
+        ?toggleModifier : bool * 
+        ?rightButton : bool * 
+        ?fromFocus : bool 
+(* Defaults:
+        let _select = defaultArg select true
+        let _rangeModifier = defaultArg rangeModifier false
+        let _toggleModifier = defaultArg toggleModifier false
+        let _rightButton = defaultArg rightButton false
+        let _fromFocus = defaultArg fromFocus false
+*)
+-> bool 
+```
+
+
+
+#### Parameters
+<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a></dt><dd> </dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>  (Optional)</dt><dd> </dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>  (Optional)</dt><dd> </dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>  (Optional)</dt><dd> </dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>  (Optional)</dt><dd> </dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>  (Optional)</dt><dd> </dd></dl>
+
+#### Return Value
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl Class</a>  
+<a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  

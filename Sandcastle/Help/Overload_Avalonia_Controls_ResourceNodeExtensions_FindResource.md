@@ -1,0 +1,24 @@
+---
+title:FindResource Method
+description: Autogenertated API Reference page
+hide_table_of_contents: false
+---
+# FindResource Method
+
+
+## Overload List
+<table>
+<tr>
+<td><a href="M_Avalonia_Controls_ResourceNodeExtensions_FindResource_1">FindResource(IResourceHost, Object)</a></td>
+<td> </td></tr>
+<tr>
+<td><a href="M_Avalonia_Controls_ResourceNodeExtensions_FindResource">FindResource(IResourceHost, ThemeVariant, Object)</a></td>
+<td> </td></tr>
+</table>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Controls_ResourceNodeExtensions">ResourceNodeExtensions Class</a>  
+<a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  

@@ -1,0 +1,28 @@
+---
+title:Avalonia.Controls.Remote Namespace
+description: Autogenertated API Reference page
+hide_table_of_contents: false
+---
+# Avalonia.Controls.Remote Namespace
+
+
+
+
+
+
+## Classes
+<table>
+<tr>
+<td><a href="T_Avalonia_Controls_Remote_RemoteServer">RemoteServer</a></td>
+<td> </td></tr>
+<tr>
+<td><a href="T_Avalonia_Controls_Remote_RemoteWidget">RemoteWidget</a></td>
+<td> </td></tr>
+</table>
+
+## Enumerations
+<table>
+<tr>
+<td><a href="T_Avalonia_Controls_Remote_RemoteWidget_SizingMode">RemoteWidget.SizingMode</a></td>
+<td> </td></tr>
+</table>

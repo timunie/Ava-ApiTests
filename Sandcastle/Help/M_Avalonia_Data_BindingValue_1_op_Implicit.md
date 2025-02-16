@@ -1,0 +1,46 @@
+---
+title:Implicit Conversion (Optional&lt;T&gt; to BindingValue&lt;T&gt;)
+description: Autogenertated API Reference page
+hide_table_of_contents: false
+---
+# Implicit Conversion (Optional&lt;T&gt; to BindingValue&lt;T&gt;)
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Data">Avalonia.Data</a>  
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.4
+
+**C#**
+``` C#
+public static implicit operator BindingValue<T> (
+	Optional<T> optional
+)
+```
+**VB**
+``` VB
+Public Shared Widening Operator CType ( 
+	optional As Optional(Of T)
+) As BindingValue(Of T)
+```
+**F#**
+``` F#
+F# does not support the declaration of new casting operators.
+```
+
+
+
+#### Parameters
+<dl><dt>  <a href="T_Avalonia_Data_Optional_1">Optional</a>(<a href="T_Avalonia_Data_BindingValue_1">T</a>)</dt><dd> </dd></dl>
+
+#### Return Value
+<a href="T_Avalonia_Data_BindingValue_1">BindingValue</a>(<a href="T_Avalonia_Data_BindingValue_1">T</a>)
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Data_BindingValue_1">BindingValue(T) Structure</a>  
+<a href="Overload_Avalonia_Data_BindingValue_1_op_Implicit">Implicit Overload</a>  
+<a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  

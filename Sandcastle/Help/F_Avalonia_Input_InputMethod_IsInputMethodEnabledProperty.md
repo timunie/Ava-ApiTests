@@ -1,0 +1,38 @@
+---
+title:IsInputMethodEnabledProperty Field
+description: Autogenertated API Reference page
+hide_table_of_contents: false
+---
+# IsInputMethodEnabledProperty Field
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Input">Avalonia.Input</a>  
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.4
+
+**C#**
+``` C#
+public static readonly AvaloniaProperty<bool> IsInputMethodEnabledProperty
+```
+**VB**
+``` VB
+Public Shared ReadOnly IsInputMethodEnabledProperty As AvaloniaProperty(Of Boolean)
+```
+**F#**
+``` F#
+static val IsInputMethodEnabledProperty: AvaloniaProperty<bool>
+```
+
+
+
+#### Field Value
+<a href="T_Avalonia_AvaloniaProperty_1">AvaloniaProperty</a>(<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>)
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Input_InputMethod">InputMethod Class</a>  
+<a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  

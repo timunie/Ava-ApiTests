@@ -1,0 +1,26 @@
+---
+title:IX11OptionsToplevelImplFeature Methods
+description: Autogenertated API Reference page
+hide_table_of_contents: false
+---
+# IX11OptionsToplevelImplFeature Methods
+
+
+
+
+## Methods
+<table>
+<tr>
+<td><a href="M_Avalonia_Controls_Platform_IX11OptionsToplevelImplFeature_SetNetWmWindowType">SetNetWmWindowType(X11NetWmWindowType)</a></td>
+<td> </td></tr>
+<tr>
+<td><a href="M_Avalonia_Controls_Platform_IX11OptionsToplevelImplFeature_SetWmClass">SetWmClass(String)</a></td>
+<td> </td></tr>
+</table>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Controls_Platform_IX11OptionsToplevelImplFeature">IX11OptionsToplevelImplFeature Interface</a>  
+<a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  

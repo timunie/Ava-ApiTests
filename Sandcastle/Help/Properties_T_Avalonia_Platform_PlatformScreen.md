@@ -1,0 +1,38 @@
+---
+title:PlatformScreen Properties
+description: Autogenertated API Reference page
+hide_table_of_contents: false
+---
+# PlatformScreen Properties
+
+
+
+
+## Properties
+<table>
+<tr>
+<td><a href="P_Avalonia_Platform_Screen_Bounds">Bounds</a></td>
+<td><br />(Inherited from <a href="T_Avalonia_Platform_Screen">Screen</a>)</td></tr>
+<tr>
+<td><a href="P_Avalonia_Platform_Screen_CurrentOrientation">CurrentOrientation</a></td>
+<td><br />(Inherited from <a href="T_Avalonia_Platform_Screen">Screen</a>)</td></tr>
+<tr>
+<td><a href="P_Avalonia_Platform_Screen_DisplayName">DisplayName</a></td>
+<td><br />(Inherited from <a href="T_Avalonia_Platform_Screen">Screen</a>)</td></tr>
+<tr>
+<td><a href="P_Avalonia_Platform_Screen_IsPrimary">IsPrimary</a></td>
+<td><br />(Inherited from <a href="T_Avalonia_Platform_Screen">Screen</a>)</td></tr>
+<tr>
+<td><a href="P_Avalonia_Platform_Screen_Scaling">Scaling</a></td>
+<td><br />(Inherited from <a href="T_Avalonia_Platform_Screen">Screen</a>)</td></tr>
+<tr>
+<td><a href="P_Avalonia_Platform_Screen_WorkingArea">WorkingArea</a></td>
+<td><br />(Inherited from <a href="T_Avalonia_Platform_Screen">Screen</a>)</td></tr>
+</table>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Platform_PlatformScreen">PlatformScreen Class</a>  
+<a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
