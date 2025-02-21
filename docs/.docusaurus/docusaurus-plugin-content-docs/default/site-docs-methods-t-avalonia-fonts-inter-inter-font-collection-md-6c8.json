@@ -1,0 +1,24 @@
+{
+  "id": "Methods_T_Avalonia_Fonts_Inter_InterFontCollection",
+  "title": "InterFontCollection Methods",
+  "description": "Methods",
+  "source": "@site/docs/Methods_T_Avalonia_Fonts_Inter_InterFontCollection.md",
+  "sourceDirName": ".",
+  "slug": "/Methods_T_Avalonia_Fonts_Inter_InterFontCollection",
+  "permalink": "/docs/Methods_T_Avalonia_Fonts_Inter_InterFontCollection",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Methods_T_Avalonia_Fonts_Inter_InterFontCollection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AppBuilderExtension Methods",
+    "permalink": "/docs/Methods_T_Avalonia_AppBuilderExtension"
+  },
+  "next": {
+    "title": "Avalonia Namespace",
+    "permalink": "/docs/N_Avalonia"
+  }
+}

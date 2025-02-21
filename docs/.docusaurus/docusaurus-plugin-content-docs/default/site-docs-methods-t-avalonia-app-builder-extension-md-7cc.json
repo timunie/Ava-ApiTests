@@ -1,0 +1,24 @@
+{
+  "id": "Methods_T_Avalonia_AppBuilderExtension",
+  "title": "AppBuilderExtension Methods",
+  "description": "Methods",
+  "source": "@site/docs/Methods_T_Avalonia_AppBuilderExtension.md",
+  "sourceDirName": ".",
+  "slug": "/Methods_T_Avalonia_AppBuilderExtension",
+  "permalink": "/docs/Methods_T_Avalonia_AppBuilderExtension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Methods_T_Avalonia_AppBuilderExtension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "InterFontCollection Constructor",
+    "permalink": "/docs/M_Avalonia_Fonts_Inter_InterFontCollection__ctor"
+  },
+  "next": {
+    "title": "InterFontCollection Methods",
+    "permalink": "/docs/Methods_T_Avalonia_Fonts_Inter_InterFontCollection"
+  }
+}

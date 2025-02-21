@@ -1,0 +1,20 @@
+{
+  "id": "T_Avalonia_Fonts_Inter_InterFontCollection",
+  "title": "InterFontCollection Class",
+  "description": "Definition",
+  "source": "@site/docs/T_Avalonia_Fonts_Inter_InterFontCollection.md",
+  "sourceDirName": ".",
+  "slug": "/T_Avalonia_Fonts_Inter_InterFontCollection",
+  "permalink": "/docs/T_Avalonia_Fonts_Inter_InterFontCollection",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/T_Avalonia_Fonts_Inter_InterFontCollection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AppBuilderExtension Class",
+    "permalink": "/docs/T_Avalonia_AppBuilderExtension"
+  }
+}

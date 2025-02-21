@@ -1,0 +1,24 @@
+{
+  "id": "9d5e6c91-4ff0-4044-afb7-cd85faad1986",
+  "title": "Welcome to the Avalonia API-Reference",
+  "description": "This is the API-Reference documentation for Avalonia.",
+  "source": "@site/docs/9d5e6c91-4ff0-4044-afb7-cd85faad1986.md",
+  "sourceDirName": ".",
+  "slug": "/9d5e6c91-4ff0-4044-afb7-cd85faad1986",
+  "permalink": "/docs/9d5e6c91-4ff0-4044-afb7-cd85faad1986",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9d5e6c91-4ff0-4044-afb7-cd85faad1986.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2ca9c974-0a3e-4b91-aba8-a0b700721b3e",
+    "permalink": "/docs/2ca9c974-0a3e-4b91-aba8-a0b700721b3e"
+  },
+  "next": {
+    "title": "WithInterFont Method",
+    "permalink": "/docs/M_Avalonia_AppBuilderExtension_WithInterFont"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "N_Avalonia",
+  "title": "Avalonia Namespace",
+  "description": "Classes",
+  "source": "@site/docs/N_Avalonia.md",
+  "sourceDirName": ".",
+  "slug": "/N_Avalonia",
+  "permalink": "/docs/N_Avalonia",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/N_Avalonia.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "InterFontCollection Methods",
+    "permalink": "/docs/Methods_T_Avalonia_Fonts_Inter_InterFontCollection"
+  },
+  "next": {
+    "title": "Avalonia.Fonts.Inter Namespace",
+    "permalink": "/docs/N_Avalonia_Fonts_Inter"
+  }
+}

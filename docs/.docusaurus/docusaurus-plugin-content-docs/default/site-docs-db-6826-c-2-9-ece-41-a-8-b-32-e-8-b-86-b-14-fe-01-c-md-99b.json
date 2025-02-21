@@ -1,0 +1,20 @@
+{
+  "id": "db6826c2-9ece-41a8-b32e-8b86b14fe01c",
+  "title": "db6826c2-9ece-41a8-b32e-8b86b14fe01c",
+  "description": "The topics in this section describe the various changes made to the [TODO: Project Title] over the life of the project.",
+  "source": "@site/docs/db6826c2-9ece-41a8-b32e-8b86b14fe01c.md",
+  "sourceDirName": ".",
+  "slug": "/db6826c2-9ece-41a8-b32e-8b86b14fe01c",
+  "permalink": "/docs/db6826c2-9ece-41a8-b32e-8b86b14fe01c",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/db6826c2-9ece-41a8-b32e-8b86b14fe01c.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "InterFontCollection Class",
+    "permalink": "/docs/T_Avalonia_Fonts_Inter_InterFontCollection"
+  }
+}

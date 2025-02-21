@@ -1,0 +1,24 @@
+{
+  "id": "M_Avalonia_AppBuilderExtension_WithInterFont",
+  "title": "WithInterFont Method",
+  "description": "Definition",
+  "source": "@site/docs/M_Avalonia_AppBuilderExtension_WithInterFont.md",
+  "sourceDirName": ".",
+  "slug": "/M_Avalonia_AppBuilderExtension_WithInterFont",
+  "permalink": "/docs/M_Avalonia_AppBuilderExtension_WithInterFont",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/M_Avalonia_AppBuilderExtension_WithInterFont.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "InterFontCollection Constructor",
+    "permalink": "/docs/M_Avalonia_Fonts_Inter_InterFontCollection__ctor"
+  }
+}
