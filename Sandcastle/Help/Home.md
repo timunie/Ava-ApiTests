@@ -1,8 +1,3 @@
----
-title:Welcome to the Avalonia API-Reference
-description: Autogenertated API Reference page
-hide_table_of_contents: false
----
 # Welcome to the Avalonia API-Reference
 
 This is the API-Reference documentation for Avalonia.

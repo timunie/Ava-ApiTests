@@ -76,9 +76,22 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'apiSidebar',
           position: 'left',
           label: 'Tutorial',
+        },
+		{
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: 'API',
+        },
+		{to: '/api', label: 'API', position: 'left'},
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          label: 'GitHub',
+          position: 'right',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {

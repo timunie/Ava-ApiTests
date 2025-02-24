@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sandcastle.PresentationStyles</name>
+    </assembly>
+    <members>
+        <member name="T:Sandcastle.PresentationStyles.Markdown.MarkdownPresentationStyle">
+            <summary>
+            This defines a presentation style used to generate markdown content (GitHub flavored)
+            </summary>
+        </member>
+        <member name="P:Sandcastle.PresentationStyles.Markdown.MarkdownPresentationStyle.Location">
+            <inheritdoc />
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownPresentationStyle.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownPresentationStyle.ResourceItemFiles(System.String)">
+            <inheritdoc />
+            <remarks>This presentation style uses the standard shared content and overrides a few items with
+            Markdown specific values.</remarks>
+        </member>
+        <member name="T:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation">
+            <summary>
+            This class is used to generate a MAML or API markdown topic from the raw topic XML data for the Markdown
+            presentation style.
+            </summary>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.#ctor(System.Func{System.String,System.String})">
+            <summary>
+            Constructor
+            </summary>
+            <param name="resolvePath">The function used to resolve content file paths for the presentation style</param>
+        </member>
+        <member name="P:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.MaxVersionParts">
+            <summary>
+            Maximum version parts
+            </summary>
+        </member>
+        <member name="P:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.IncludeEnumValues">
+            <summary>
+            Include enumerated type values
+            </summary>
+        </member>
+        <member name="P:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.EnumMemberSortOrder">
+            <summary>
+            Enumeration member sort order
+            </summary>
+        </member>
+        <member name="P:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.FlagsEnumValueFormat">
+            <summary>
+            Flags enumeration value format
+            </summary>
+        </member>
+        <member name="P:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.FlagsEnumSeparatorSize">
+            <summary>
+            Flags enumeration value separator group size
+            </summary>
+        </member>
+        <member name="P:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.IncludeIntegerEnumSeparators">
+            <summary>
+            Include separators for integer enumeration values
+            </summary>
+        </member>
+        <member name="P:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.BaseSourceCodeUrl">
+            <summary>
+            Base source code URL
+            </summary>
+        </member>
+        <member name="P:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.ShowParametersOnAllMethods">
+            <summary>
+            Show parameters on all methods on the member list page, not just on overloads
+            </summary>
+        </member>
+        <member name="P:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.IconPath">
+            <inheritdoc />
+        </member>
+        <member name="P:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.StyleSheetPath">
+            <inheritdoc />
+            <remarks>Not used by this transformation</remarks>
+        </member>
+        <member name="P:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.ScriptPath">
+            <inheritdoc />
+            <remarks>Not used by this transformation</remarks>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.CreateTransformationArguments">
+            <inheritdoc />
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.CreateLanguageSpecificText">
+            <inheritdoc />
+            <remarks>This presentation style does not use language specific text</remarks>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.CreateElementHandlers">
+            <inheritdoc />
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.CreateApiTopicSectionHandlers">
+            <inheritdoc />
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderTopic">
+            <inheritdoc />
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderTextNode(System.Xml.Linq.XElement,System.Xml.Linq.XText)">
+            <summary>
+            This is used to provide additional whitespace handling and normalization for markdown elements
+            </summary>
+            <param name="content">The content element to which the text is added</param>
+            <param name="textNode">The text node to render</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.CreateSection(System.String,System.Boolean,System.String,System.String)">
+            <inheritdoc />
+            <remarks>The returned content element is always null and the content should be inserted into the
+            transformation's current element after adding the title element.</remarks>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.CreateSubsection(System.Boolean,System.String)">
+            <inheritdoc />
+            <remarks>The returned content element is always null and the content should be inserted into the
+            transformation's current element after adding the title element.</remarks>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderNotices(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore)">
+            <summary>
+            This is used to render the preliminary, obsolete, and experimental API notices
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiSummarySection(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore)">
+            <summary>
+            This is used to render the summary section
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiInheritanceHierarchy(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore,System.Xml.Linq.XElement)">
+            <summary>
+            Render the inheritance hierarchy section
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+            <param name="content">The content element to which the information is added</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiNamespaceAndAssemblyInformation(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore,System.Xml.Linq.XElement)">
+            <summary>
+            This is used to render namespace and assembly information for an API topic
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+            <param name="content">The content element to which the information is added</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiSyntaxSection(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore)">
+            <summary>
+            This is used to render the syntax section
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiMemberList(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore)">
+            <summary>
+            This is used to render a member list topic (root, root group, namespace group, namespace, enumeration,
+            type, or type member list).
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiRootList(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore)">
+            <summary>
+            Render the list in a root group or root topic
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiNamespaceGroupList(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore)">
+            <summary>
+            Render the list in a namespace group topic
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiNamespaceList(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore)">
+            <summary>
+            Render the category lists in a namespace topic
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiEnumerationMembersList(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore)">
+            <summary>
+            Render the members of an enumeration
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiTypeMemberLists(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore)">
+            <summary>
+            Render type member lists
+            </summary>
+            <remarks>This is used for types and the member list subtopics</remarks>
+            <param name="transformation">The topic transformation to use</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiSectionTable(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore,System.String,System.Collections.Generic.IEnumerable{System.Xml.Linq.XElement})">
+            <summary>
+            Render a section with a title and a table containing the element content
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+            <param name="sectionTitleItem">The section title include item</param>
+            <param name="sectionElements">An enumerable list of the elements to render in the table</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiRemarksSection(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore)">
+            <summary>
+            This is used to render the remarks section
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiExamplesSection(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore)">
+            <summary>
+            This is used to render the examples section
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiVersionsSection(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore)">
+            <summary>
+            This is used to render the versions section
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiRevisionHistorySection(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore)">
+            <summary>
+            Render the revision history section if applicable
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiBibliographySection(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore)">
+            <summary>
+            Render the bibliography section if applicable
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiSeeAlsoSection(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore)">
+            <summary>
+            This renders the See Also section if applicable
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+        </member>
+        <member name="M:Sandcastle.PresentationStyles.Markdown.MarkdownTransformation.RenderApiAutoGeneratedSeeAlsoLinks(Sandcastle.Core.PresentationStyle.Transformation.TopicTransformationCore,System.Xml.Linq.XElement)">
+            <summary>
+            Render auto-generated see also section links based on the API topic
+            </summary>
+            <param name="transformation">The topic transformation to use</param>
+            <param name="subsection">The subsection to which the links are added</param>
+        </member>
+    </members>
+</doc>
