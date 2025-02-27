@@ -18,7 +18,7 @@
     <Name>ApiDocumentation</Name>
     <!-- SHFB properties -->
     <FrameworkVersion>.NET Core/.NET Standard/.NET 5.0+</FrameworkVersion>
-    <OutputPath>Help\</OutputPath>
+    <OutputPath>..\..\..\website\docs\</OutputPath>
     <HtmlHelpName>ApiDocumentation</HtmlHelpName>
     <Language>en-US</Language>
     <TransformComponentArguments>
@@ -43,42 +43,42 @@
       <DocumentationSource sourceFile="..\TestProject\TestProject.csproj" xmlns="" />
     </DocumentationSources>
     <PlugInConfigurations>
-      <PlugInConfig id="DocusaurusExport" enabled="True">
-        <configuration />
+      <PlugInConfig id="Output Deployment" enabled="False">
+        <configuration deleteAfterDeploy="false" verboseLogging="true">
+          <deploymentLocation id="help1x" location="">
+            <userCredentials useDefault="true" userName="" password="" />
+            <proxyCredentials useProxy="false" proxyServer="">
+              <userCredentials useDefault="true" userName="" password="" />
+            </proxyCredentials>
+          </deploymentLocation>
+          <deploymentLocation id="helpViewer" location="" renameMSHA="false">
+            <userCredentials useDefault="true" userName="" password="" />
+            <proxyCredentials useProxy="false" proxyServer="">
+              <userCredentials useDefault="true" userName="" password="" />
+            </proxyCredentials>
+          </deploymentLocation>
+          <deploymentLocation id="website" location="">
+            <userCredentials useDefault="true" userName="" password="" />
+            <proxyCredentials useProxy="false" proxyServer="">
+              <userCredentials useDefault="true" userName="" password="" />
+            </proxyCredentials>
+          </deploymentLocation>
+          <deploymentLocation id="openXml" location="">
+            <userCredentials useDefault="true" userName="" password="" />
+            <proxyCredentials useProxy="false" proxyServer="">
+              <userCredentials useDefault="true" userName="" password="" />
+            </proxyCredentials>
+          </deploymentLocation>
+          <deploymentLocation id="markdown" location="..\..\..\..\website\docs\">
+            <userCredentials useDefault="true" userName="" password="" />
+            <proxyCredentials useProxy="false" proxyServer="">
+              <userCredentials useDefault="true" userName="" password="" />
+            </proxyCredentials>
+          </deploymentLocation>
+        </configuration>
       </PlugInConfig>
 <PlugInConfig id="XPath Reflection File Filter" enabled="True"><configuration><expressions><expression>/reflection/apis/api/attributes/attribute[type/@api="T:Avalonia.Metadata.PrivateApiAttribute"]</expression></expressions></configuration></PlugInConfig>
-<PlugInConfig id="Output Deployment" enabled="True"><configuration deleteAfterDeploy="false" verboseLogging="false">
-  <deploymentLocation id="help1x" location="">
-    <userCredentials useDefault="true" userName="" password="" />
-    <proxyCredentials useProxy="false" proxyServer="">
-      <userCredentials useDefault="true" userName="" password="" />
-    </proxyCredentials>
-  </deploymentLocation>
-  <deploymentLocation id="helpViewer" location="" renameMSHA="false">
-    <userCredentials useDefault="true" userName="" password="" />
-    <proxyCredentials useProxy="false" proxyServer="">
-      <userCredentials useDefault="true" userName="" password="" />
-    </proxyCredentials>
-  </deploymentLocation>
-  <deploymentLocation id="website" location="">
-    <userCredentials useDefault="true" userName="" password="" />
-    <proxyCredentials useProxy="false" proxyServer="">
-      <userCredentials useDefault="true" userName="" password="" />
-    </proxyCredentials>
-  </deploymentLocation>
-  <deploymentLocation id="openXml" location="">
-    <userCredentials useDefault="true" userName="" password="" />
-    <proxyCredentials useProxy="false" proxyServer="">
-      <userCredentials useDefault="true" userName="" password="" />
-    </proxyCredentials>
-  </deploymentLocation>
-  <deploymentLocation id="markdown" location="..\..\docs\my-website\docs\">
-    <userCredentials useDefault="true" userName="" password="" />
-    <proxyCredentials useProxy="false" proxyServer="">
-      <userCredentials useDefault="true" userName="" password="" />
-    </proxyCredentials>
-  </deploymentLocation>
-</configuration></PlugInConfig></PlugInConfigurations>
+<PlugInConfig id="DocusaurusExport" enabled="True"><configuration /></PlugInConfig></PlugInConfigurations>
     <ComponentPath>tools\</ComponentPath>
     <WarnOnMissingSourceContext>False</WarnOnMissingSourceContext>
     <HelpTitle>Avalonia API Documentation</HelpTitle>
@@ -91,6 +91,7 @@
     <Preliminary>False</Preliminary>
     <SdkLinkTarget>Blank</SdkLinkTarget>
     <MissingTags>Summary, Parameter, Returns, AutoDocumentCtors, TypeParameter, AutoDocumentDispose</MissingTags>
+    <WorkingPath>Help\</WorkingPath>
   </PropertyGroup>
   <!-- There are no properties for these groups.  AnyCPU needs to appear in order for Visual Studio to perform
 			 the build.  The others are optional common platform types that may appear. -->
