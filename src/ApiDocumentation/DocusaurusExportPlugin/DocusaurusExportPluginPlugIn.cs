@@ -6,12 +6,10 @@ using System.Xml.Linq;
 using SandcastleBuilder.Utils.BuildComponent;
 using SandcastleBuilder.Utils.BuildEngine;
 
-// Search for "TODO" to find changes that you need to make to this plug-in template.
-
 namespace DocusaurusExportPlugin
 {
     /// <summary>
-    /// TODO: Set your plug-in's unique ID and description in the export attribute below.
+    /// A plugin to export docusarus compliant mdx-files
     /// </summary>
     /// <remarks>The <c>HelpFileBuilderPlugInExportAttribute</c> is used to export your plug-in so that the help
     /// file builder finds it and can make use of it.  The example below shows the basic usage for a common
@@ -28,8 +26,8 @@ namespace DocusaurusExportPlugin
     /// 
     /// Plug-ins are singletons in nature.  The composition container will create instances as needed and will
     /// dispose of them when the container is disposed of.</remarks>
-    [HelpFileBuilderPlugInExport("DocusaurusExportPlugin", Version = AssemblyInfo.ProductVersion,
-      Copyright = AssemblyInfo.Copyright, Description = "DocusaurusExportPlugin plug-in")]
+    [HelpFileBuilderPlugInExport("DocusaurusExport", Version = AssemblyInfo.ProductVersion,
+      Copyright = AssemblyInfo.Copyright, Description = "DocusaurusExport plug-in")]
     public sealed class DocusaurusExportPluginPlugIn : IPlugIn
     {
         #region Private data members
@@ -52,12 +50,10 @@ namespace DocusaurusExportPlugin
         {
             get
             {
-                if(executionPoints == null)
+                if (executionPoints == null)
                     executionPoints = new List<ExecutionPoint>
                     {
-                        // TODO: Modify this to set your execution points
-                        new ExecutionPoint(BuildStep.ValidatingDocumentationSources, ExecutionBehaviors.Before),
-                        new ExecutionPoint(BuildStep.GenerateReflectionInfo, ExecutionBehaviors.Before)
+                        new ExecutionPoint(BuildStep.CompilingHelpFile, ExecutionBehaviors.InsteadOf)
                     };
 
                 return executionPoints;
@@ -77,8 +73,6 @@ namespace DocusaurusExportPlugin
                 typeof(HelpFileBuilderPlugInExportAttribute), false).First();
 
             builder.ReportProgress("{0} Version {1}\r\n{2}", metadata.Id, metadata.Version, metadata.Copyright);
-
-            // TODO: Add your initialization code here such as reading the configuration data
         }
 
         /// <summary>
@@ -87,30 +81,20 @@ namespace DocusaurusExportPlugin
         /// <param name="context">The current execution context</param>
         public void Execute(ExecutionContext context)
         {
-            // TODO: Add your execution code here
-            builder.ReportProgress("In DocusaurusExportPluginPlugIn Execute() method");
+            builder.ReportProgress("In DocusaurusExport-PlugIn Execute() method");
+            new DocusaurusContentGenerator(builder).Execute();
+            builder.ReportProgress("DocusaurusExport-PlugIn execution finished");
         }
         #endregion
 
         #region IDisposable implementation
         //=====================================================================
 
-        // TODO: If the plug-in hasn't got any disposable resources, this finalizer can be removed
-        /// <summary>
-        /// This handles garbage collection to ensure proper disposal of the plug-in if not done explicitly
-        /// with <see cref="Dispose()"/>.
-        /// </summary>
-        ~DocusaurusExportPluginPlugIn()
-        {
-            this.Dispose();
-        }
-
         /// <summary>
         /// This implements the Dispose() interface to properly dispose of the plug-in object
         /// </summary>
         public void Dispose()
         {
-            // TODO: Dispose of any resources here if necessary
             GC.SuppressFinalize(this);
         }
         #endregion

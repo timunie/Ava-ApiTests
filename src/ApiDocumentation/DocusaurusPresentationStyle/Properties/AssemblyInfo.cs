@@ -25,5 +25,5 @@ internal static partial class AssemblyInfo
     public const string ProductVersion = "1.0.0.0";
 
     // Assembly copyright information
-    public const string Copyright = "Copyright \xA9 2025, Uniewski, All Rights Reserved.";
+    public const string Copyright = "Copyright \xA9 2025, Avalonia UI, All Rights Reserved.";
 }

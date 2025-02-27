@@ -3,7 +3,7 @@
 			 for information on why conditional target frameworks are used. -->
 	<PropertyGroup Condition="'$(Configuration)'=='Debug'">
 		<!-- Use the full framework for debugging -->
-		<TargetFramework>net47</TargetFramework>
+		<TargetFramework>net472</TargetFramework>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)'=='Release'">
@@ -22,13 +22,13 @@
 		<AnalysisMode>AllEnabledByDefault</AnalysisMode>
 		<RootNamespace>DocusaurusExportPlugin</RootNamespace>
 		<AssemblyName>DocusaurusExportPlugin</AssemblyName>
-		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
 		<Product>DocusaurusExportPlugin</Product>
-		<Title>DocusaurusExportPlugin Plug-In</Title>
+		<Title>DocusaurusExport Plug-In</Title>
 		<Description>A Sandcastle Help File Builder plug-in</Description>
 		<Version>1.0.0.0</Version>
-		<Authors>Uniewski</Authors>
-		<Company>Uniewski</Company>
+		<Authors>timunie</Authors>
+		<Company>Avalonia UI</Company>
 		<PackageIconUrl></PackageIconUrl>
 		<PackageIcon></PackageIcon>
 		<RepositoryUrl></RepositoryUrl>
@@ -40,6 +40,17 @@
 		<IsTool>true</IsTool>
 		<NoWarn>$(NoWarn);NU5128</NoWarn>
 		<ContentTargetFolders>tools\</ContentTargetFolders>
+		<GenerateDocumentationFile>True</GenerateDocumentationFile>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+		<AppendTargetFrameworkToOutputPath>False</AppendTargetFrameworkToOutputPath>
+		<OutputPath>..\ApiDocumentation\tools\plug-ins\</OutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+		<AppendTargetFrameworkToOutputPath>False</AppendTargetFrameworkToOutputPath>
+		<OutputPath>..\ApiDocumentation\tools\plug-ins\</OutputPath>
 	</PropertyGroup>
 
 	<ItemGroup>

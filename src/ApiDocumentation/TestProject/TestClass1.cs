@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace TestClass
+namespace TestProject
 {
     /// <summary>
     /// This is a simple test
@@ -18,6 +18,9 @@ namespace TestClass
         /// </summary>
         public static string TestField = "TestField";
 
+        /// <summary>
+        /// This is a test property
+        /// </summary>
         public string? TestProperty { get; set; }
 
         /// <summary>
