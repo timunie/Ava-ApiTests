@@ -46,11 +46,7 @@
       <PlugInConfig id="DocusaurusExport" enabled="True">
         <configuration />
       </PlugInConfig>
-<PlugInConfig id="XPath Reflection File Filter" enabled="True"><configuration>
-  <expressions>
-    <expression>/reflection/apis/api/attributes/attribute[type/@api="T:Avalonia.Metadata.PrivateApiAttribute"]</expression>
-  </expressions>
-</configuration></PlugInConfig>
+<PlugInConfig id="XPath Reflection File Filter" enabled="True"><configuration><expressions><expression>/reflection/apis/api/attributes/attribute[type/@api="T:Avalonia.Metadata.PrivateApiAttribute"]</expression></expressions></configuration></PlugInConfig>
 <PlugInConfig id="Output Deployment" enabled="True"><configuration deleteAfterDeploy="false" verboseLogging="false">
   <deploymentLocation id="help1x" location="">
     <userCredentials useDefault="true" userName="" password="" />
@@ -76,7 +72,7 @@
       <userCredentials useDefault="true" userName="" password="" />
     </proxyCredentials>
   </deploymentLocation>
-  <deploymentLocation id="markdown" location="..\..\docs\docs">
+  <deploymentLocation id="markdown" location="..\..\docs\my-website\docs\">
     <userCredentials useDefault="true" userName="" password="" />
     <proxyCredentials useProxy="false" proxyServer="">
       <userCredentials useDefault="true" userName="" password="" />

@@ -410,7 +410,10 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                     ToDoAlertTemplatePath = ResolvePath(@"Templates\ToDoAlertTemplate.xml")
                 },
                 new MarkdownElement("paramref", "name", "*", "*", "em"), new PreliminaryElement(),
-                new NamedSectionElement("remarks"), new ReturnsElement(), new SeeElement(),
+                // TODO: new PassthroughElement("remarks"),
+                new NamedSectionElement("remarks"), 
+				new ReturnsElement(), 
+				new SeeElement(),
                 // seeAlso should be a top-level element in the comments but may appear within other elements.
                 // We'll ignore it if seen as they'll be handled manually by the See Also section processing.
                 new IgnoredElement("seealso"),
@@ -1229,7 +1232,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                         // Enum members may have additional authored content in the remarks node
                         if (remarks != null)
                         {
-                            summaryCell.Add(new XElement("br"), "**Remarks**", remarks.Value);
+                            summaryCell.Add(new XElement("br"), "**Remarks**", remarks.Nodes());
                         }
                             
                             // thisTransform.RenderChildElements(summaryCell, remarks.Value);
