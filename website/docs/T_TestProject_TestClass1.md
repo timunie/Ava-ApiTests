@@ -1,4 +1,14 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
 # TestClass1 Class
+:::warning[Obsolete]
+
+Note: This API is now obsolete.
+
+:::
+
 
 
 This is a simple test
@@ -7,28 +17,38 @@ This is a simple test
 
 ## Definition
 **Namespace:** <a href="N_TestProject">TestProject</a>  
-**Assembly:** TestProject (in TestProject.exe) Version: 1.0.0+ecdc54db18b7f1ab8ec75f629a4f094efff2e57b
+**Assembly:** TestProject (in TestProject.exe) Version: 1.0.0+ed74aaa27d13e7636b8d00b6a3f7fb9291dc0d72
 
-**C#**
-``` C#
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+[ObsoleteAttribute]
 public class TestClass1 : INotifyPropertyChanged
 ```
-**VB**
-``` VB
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+<ObsoleteAttribute>
 Public Class TestClass1
 	Implements INotifyPropertyChanged
 ```
-**C++**
-``` C++
+</TabItem>
+<TabItem value="ManagedCPlusPlus" label="ManagedCPlusPlus">
+```ManagedCPlusPlus
+[ObsoleteAttribute]
 public ref class TestClass1 : INotifyPropertyChanged
 ```
-**F#**
-``` F#
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+[<ObsoleteAttribute>]
 type TestClass1 = 
     class
         interface INotifyPropertyChanged
     end
 ```
+</TabItem>
+</Tabs>
 
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  TestClass1</td></tr>

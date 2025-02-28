@@ -1,3 +1,7 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
 # Welcome to the [TODO: Add project name]
 
 This is a sample conceptual topic. You can use this as a starting point for adding more conceptual content to your help project.

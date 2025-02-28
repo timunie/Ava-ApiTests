@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Xml.Linq;
+using DocusaurusPresentationStyle.DocusaurusMarkdown.Elements;
 using Sandcastle.Core;
 using Sandcastle.Core.PresentationStyle.Transformation;
 using Sandcastle.Core.PresentationStyle.Transformation.Elements;
@@ -419,7 +420,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                 new IgnoredElement("seealso"),
                 // For this presentation style, namespace/assembly info and inheritance hierarchy are part of
                 // the definition (syntax) section.
-                new SyntaxElement(nameof(BaseSourceCodeUrl))
+                new MdxSyntaxElement(nameof(BaseSourceCodeUrl))
                 {
                     NamespaceAndAssemblyInfoRenderer = RenderApiNamespaceAndAssemblyInformation,
                     InheritanceHierarchyRenderer = RenderApiInheritanceHierarchy
@@ -469,6 +470,13 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
             var document = new XDocument(pageTemplate);
 
             CurrentElement = document.Root;
+            
+            // add needed mdx modules
+            CurrentElement.Add(
+                "import Tabs from '@theme/Tabs'; \n",
+                "import TabItem from '@theme/TabItem'; \n",
+                "import Tag from '@site/src/components/Tag'; \n",
+                "\n");
 
             if (!IsMamlTopic)
             {
@@ -641,10 +649,10 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
             if (preliminary != null || obsolete != null)
             {
                 var currentElement = transformation.CurrentElement;
-                var notes = new XElement("blockquote");
-
-                currentElement.Add(notes, "\n");
-                transformation.CurrentElement = notes;
+                // var notes = new XElement("div");
+                //
+                // currentElement.Add(notes, "\n");
+                // transformation.CurrentElement = notes;
 
                 if (preliminary != null)
                     transformation.RenderNode(preliminary);
@@ -652,10 +660,11 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                 if (obsolete != null)
                 {
                     if (preliminary != null)
-                        notes.Add(new XElement("br"));
+                        currentElement.Add(new XElement("br"));
 
-                    notes.Add(new XElement("strong",
-                        new XElement("include", new XAttribute("item", "boilerplate_obsoleteLong"))));
+                    currentElement.Add(":::warning[Obsolete]\n\n",
+                        new XElement("include", new XAttribute("item", "boilerplate_obsoleteLong")),
+                        "\n\n", ":::", "\n\n");
                 }
 
                 transformation.CurrentElement = currentElement;
@@ -1073,7 +1082,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
 
                             if (obsoleteAttr != null)
                             {
-                                summaryCell.Add(new XElement("strong",
+                                summaryCell.Add(new XElement("Tag",
                                     new XElement("include", new XAttribute("item", "boilerplate_obsoleteShort"))));
                             }
 
@@ -1224,6 +1233,9 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                     var summary = e.Element("summary");
                     var remarks = e.Element("remarks");
 
+                    Debug.WriteLine(remarks?.ToString() ?? "No remarks found");
+
+
                     if (summary != null || remarks != null)
                     {
                         if (summary != null)
@@ -1232,7 +1244,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                         // Enum members may have additional authored content in the remarks node
                         if (remarks != null)
                         {
-                            summaryCell.Add(new XElement("br"), "**Remarks**", remarks.Nodes());
+                            thisTransform.RenderChildElements(summaryCell, remarks.Nodes());
                         }
                             
                             // thisTransform.RenderChildElements(summaryCell, remarks.Value);

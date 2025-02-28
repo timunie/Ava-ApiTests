@@ -8,6 +8,7 @@ namespace TestProject
     /// <remarks>
     /// Please note that this has no useful output
     /// </remarks>
+    [Obsolete]
     public class TestClass1 : INotifyPropertyChanged
     {
         /// <inheritdoc/>

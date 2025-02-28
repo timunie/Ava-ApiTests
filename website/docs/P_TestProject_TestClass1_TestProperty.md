@@ -1,3 +1,7 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
 # TestProperty Property
 
 
@@ -7,30 +11,36 @@ This is a test property
 
 ## Definition
 **Namespace:** <a href="N_TestProject">TestProject</a>  
-**Assembly:** TestProject (in TestProject.exe) Version: 1.0.0+ecdc54db18b7f1ab8ec75f629a4f094efff2e57b
+**Assembly:** TestProject (in TestProject.exe) Version: 1.0.0+ed74aaa27d13e7636b8d00b6a3f7fb9291dc0d72
 
-**C#**
-``` C#
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
 public string? TestProperty { get; set; }
 ```
-**VB**
-``` VB
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
 Public Property TestProperty As String
 	Get
 	Set
 ```
-**C++**
-``` C++
+</TabItem>
+<TabItem value="ManagedCPlusPlus" label="ManagedCPlusPlus">
+```ManagedCPlusPlus
 public:
 property String^ TestProperty {
 	String^ get ();
 	void set (String^ value);
 }
 ```
-**F#**
-``` F#
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
 member TestProperty : string with get, set
 ```
+</TabItem>
+</Tabs>
 
 
 
