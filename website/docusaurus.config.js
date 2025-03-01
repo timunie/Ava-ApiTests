@@ -100,6 +100,9 @@ const config = {
 		additionalLanguages: ['csharp', 'fsharp'],
       },
     }),
+  future: {
+		experimental_faster: true,
+	},
 };
 
 export default config;
