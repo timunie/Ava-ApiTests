@@ -1,0 +1,47 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
+# ItemSelector Property
+
+
+Gets or sets the custom method that combines the user-entered text and one of the items specified by the <a href="P_Avalonia_Controls_AutoCompleteBox_ItemsSource">ItemsSource</a>.
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public AutoCompleteSelector<Object>? ItemSelector { get; set; }
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Property ItemSelector As AutoCompleteSelector(Of Object)
+	Get
+	Set
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+member ItemSelector : AutoCompleteSelector<Object> with get, set
+```
+</TabItem>
+</Tabs>
+
+
+
+#### Property Value
+<a href="T_Avalonia_Controls_AutoCompleteSelector_1">AutoCompleteSelector</a>(<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)  
+The custom method that combines the user-entered text and one of the items specified by the <a href="P_Avalonia_Controls_AutoCompleteBox_ItemsSource">ItemsSource</a>.
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
+<a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  

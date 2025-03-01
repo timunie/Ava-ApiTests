@@ -1,0 +1,44 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
+# IsOffscreen Method
+
+
+Gets a value that indicates whether an element is off the screen.
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public bool IsOffscreen()
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Function IsOffscreen As Boolean
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+member IsOffscreen : unit -> bool 
+```
+</TabItem>
+</Tabs>
+
+
+
+#### Return Value
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>This property does not indicate whether the element is visible. In some circumstances, an element is on the screen but is still not visible. For example, if the element is on the screen but obscured by other elements, it might not be visible. In this case, the method returns false.
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer Class</a>  
+<a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  

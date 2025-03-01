@@ -1,0 +1,46 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
+# ApplicationLifetime Property
+
+
+Application lifetime, use it for things like setting the main window and exiting the app from code Currently supported lifetimes are: - <a href="T_Avalonia_Controls_ApplicationLifetimes_IClassicDesktopStyleApplicationLifetime">IClassicDesktopStyleApplicationLifetime</a> - <a href="T_Avalonia_Controls_ApplicationLifetimes_ISingleViewApplicationLifetime">ISingleViewApplicationLifetime</a> - <a href="T_Avalonia_Controls_ApplicationLifetimes_IControlledApplicationLifetime">IControlledApplicationLifetime</a> - <a href="T_Avalonia_Controls_ApplicationLifetimes_IActivatableApplicationLifetime">IActivatableApplicationLifetime</a>
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia">Avalonia</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public IApplicationLifetime? ApplicationLifetime { get; set; }
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Property ApplicationLifetime As IApplicationLifetime
+	Get
+	Set
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+member ApplicationLifetime : IApplicationLifetime with get, set
+```
+</TabItem>
+</Tabs>
+
+
+
+#### Property Value
+<a href="T_Avalonia_Controls_ApplicationLifetimes_IApplicationLifetime">IApplicationLifetime</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Application">Application Class</a>  
+<a href="N_Avalonia">Avalonia Namespace</a>  

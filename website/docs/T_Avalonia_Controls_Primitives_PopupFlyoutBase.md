@@ -1,0 +1,388 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
+# PopupFlyoutBase Class
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public abstract class PopupFlyoutBase : FlyoutBase, 
+	IPopupHostProvider
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public MustInherit Class PopupFlyoutBase
+	Inherits FlyoutBase
+	Implements IPopupHostProvider
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+[<AbstractClassAttribute>]
+type PopupFlyoutBase = 
+    class
+        inherit FlyoutBase
+        interface IPopupHostProvider
+    end
+```
+</TabItem>
+</Tabs>
+
+<table>
+<tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  AvaloniaObject  →  <a href="T_Avalonia_Controls_Primitives_FlyoutBase">FlyoutBase</a>  →  PopupFlyoutBase</td></tr>
+<tr><td><strong>Derived</strong></td><td><a href="T_Avalonia_Controls_Flyout">Avalonia.Controls.Flyout</a><br /><a href="T_Avalonia_Controls_MenuFlyout">Avalonia.Controls.MenuFlyout</a></td></tr>
+<tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_Diagnostics_IPopupHostProvider">IPopupHostProvider</a></td></tr>
+</table>
+
+
+
+## Constructors
+<table>
+<tr>
+<td><a href="M_Avalonia_Controls_Primitives_PopupFlyoutBase__ctor">PopupFlyoutBase</a></td>
+<td>Initializes a new instance of the PopupFlyoutBase class</td>
+</tr>
+</table>
+
+## Properties
+<table>
+<tr>
+<td><a href="P_Avalonia_Controls_Primitives_PopupFlyoutBase_CustomPopupPlacementCallback">CustomPopupPlacementCallback</a></td>
+<td>Gets or sets a delegate handler method that positions the Popup control, when <a href="P_Avalonia_Controls_Primitives_Popup_Placement">Placement</a> is set to <a href="T_Avalonia_Controls_PlacementMode">Custom</a>.</td>
+</tr>
+<tr>
+<td><a href="P_Avalonia_Controls_Primitives_PopupFlyoutBase_HorizontalOffset">HorizontalOffset</a></td>
+<td>Gets or sets the Horizontal offset of the popup in relation to the <a href="P_Avalonia_Controls_Primitives_Popup_PlacementTarget">PlacementTarget</a>.</td>
+</tr>
+<tr>
+<td>InheritanceParent</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td><a href="P_Avalonia_Controls_Primitives_FlyoutBase_IsOpen">IsOpen</a></td>
+<td>Gets whether this Flyout is currently Open<br />(Inherited from <a href="T_Avalonia_Controls_Primitives_FlyoutBase">FlyoutBase</a>)</td>
+</tr>
+<tr>
+<td>Item</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>Item</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td><a href="P_Avalonia_Controls_Primitives_PopupFlyoutBase_OverlayDismissEventPassThrough">OverlayDismissEventPassThrough</a></td>
+<td>Gets or sets a value indicating whether the event that closes the flyout is passed through to the parent window.</td>
+</tr>
+<tr>
+<td><a href="P_Avalonia_Controls_Primitives_PopupFlyoutBase_OverlayInputPassThroughElement">OverlayInputPassThroughElement</a></td>
+<td>Gets or sets an element that should receive pointer input events even when underneath the flyout's overlay.</td>
+</tr>
+<tr>
+<td><a href="P_Avalonia_Controls_Primitives_PopupFlyoutBase_Placement">Placement</a></td>
+<td>Gets or sets the desired placement of the popup in relation to the <a href="P_Avalonia_Controls_Primitives_Popup_PlacementTarget">PlacementTarget</a>.</td>
+</tr>
+<tr>
+<td><a href="P_Avalonia_Controls_Primitives_PopupFlyoutBase_PlacementAnchor">PlacementAnchor</a></td>
+<td>Gets or sets the anchor point on the <a href="P_Avalonia_Controls_Primitives_Popup_PlacementRect">PlacementRect</a> when <a href="P_Avalonia_Controls_Primitives_Popup_Placement">Placement</a> is <a href="T_Avalonia_Controls_PlacementMode">AnchorAndGravity</a>.</td>
+</tr>
+<tr>
+<td><a href="P_Avalonia_Controls_Primitives_PopupFlyoutBase_PlacementConstraintAdjustment">PlacementConstraintAdjustment</a></td>
+<td>Gets or sets a value describing how the popup position will be adjusted if the unadjusted position would result in the popup being partly constrained.</td>
+</tr>
+<tr>
+<td><a href="P_Avalonia_Controls_Primitives_PopupFlyoutBase_PlacementGravity">PlacementGravity</a></td>
+<td>Gets or sets a value which defines in what direction the popup should open when <a href="P_Avalonia_Controls_Primitives_Popup_Placement">Placement</a> is <a href="T_Avalonia_Controls_PlacementMode">AnchorAndGravity</a>.</td>
+</tr>
+<tr>
+<td><a href="P_Avalonia_Controls_Primitives_PopupFlyoutBase_Popup">Popup</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="P_Avalonia_Controls_Primitives_PopupFlyoutBase_ShowMode">ShowMode</a></td>
+<td>Gets or sets the desired ShowMode</td>
+</tr>
+<tr>
+<td><a href="P_Avalonia_Controls_Primitives_FlyoutBase_Target">Target</a></td>
+<td>Gets the Target used for showing the Flyout<br />(Inherited from <a href="T_Avalonia_Controls_Primitives_FlyoutBase">FlyoutBase</a>)</td>
+</tr>
+<tr>
+<td><a href="P_Avalonia_Controls_Primitives_PopupFlyoutBase_VerticalOffset">VerticalOffset</a></td>
+<td>Gets or sets the Vertical offset of the popup in relation to the <a href="P_Avalonia_Controls_Primitives_Popup_PlacementTarget">PlacementTarget</a>.</td>
+</tr>
+</table>
+
+## Methods
+<table>
+<tr>
+<td>Bind(AvaloniaProperty, IBinding)</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>Bind(AvaloniaProperty, IObservable(Object), BindingPriority)</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>Bind``1(DirectPropertyBase(UMP), IObservable(UMP))</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>Bind``1(DirectPropertyBase(UMP), IObservable(BindingValue(UMP)))</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>Bind``1(DirectPropertyBase(UMP), IObservable(Object))</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>Bind``1(StyledProperty(UMP), IObservable(UMP), BindingPriority)</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>Bind``1(StyledProperty(UMP), IObservable(BindingValue(UMP)), BindingPriority)</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>Bind``1(StyledProperty(UMP), IObservable(Object), BindingPriority)</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>CheckAccess</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>ClearValue(AvaloniaProperty)</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>ClearValue``1(AvaloniaProperty(UMP))</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>ClearValue``1(DirectPropertyBase(UMP))</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>ClearValue``1(StyledProperty(UMP))</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>CoerceValue</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Controls_Primitives_PopupFlyoutBase_CreatePresenter">CreatePresenter</a></td>
+<td>Used to create the content the Flyout displays</td>
+</tr>
+<tr>
+<td>Equals</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.finalize" target="_blank" rel="noopener noreferrer">Finalize</a></td>
+<td>Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
+</tr>
+<tr>
+<td>GetBaseValue``1</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>GetHashCode</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType</a></td>
+<td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a> of the current instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
+</tr>
+<tr>
+<td>GetValue(AvaloniaProperty)</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>GetValue``1(DirectPropertyBase(UMP))</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>GetValue``1(StyledProperty(UMP))</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Controls_Primitives_PopupFlyoutBase_Hide">Hide</a></td>
+<td>Hides the Flyout<br />(Overrides <a href="M_Avalonia_Controls_Primitives_FlyoutBase_Hide">FlyoutBase.Hide()</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Controls_Primitives_PopupFlyoutBase_HideCore">HideCore</a></td>
+<td> </td>
+</tr>
+<tr>
+<td>IsAnimating</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>IsSet</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone" target="_blank" rel="noopener noreferrer">MemberwiseClone</a></td>
+<td>Creates a shallow copy of the current <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Controls_Primitives_FlyoutBase_OnClosed">OnClosed</a></td>
+<td><br />(Inherited from <a href="T_Avalonia_Controls_Primitives_FlyoutBase">FlyoutBase</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Controls_Primitives_PopupFlyoutBase_OnClosing">OnClosing</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Controls_Primitives_FlyoutBase_OnOpened">OnOpened</a></td>
+<td><br />(Inherited from <a href="T_Avalonia_Controls_Primitives_FlyoutBase">FlyoutBase</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Controls_Primitives_PopupFlyoutBase_OnOpening">OnOpening</a></td>
+<td> </td>
+</tr>
+<tr>
+<td>OnPropertyChanged</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>OnPropertyChangedCore</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>RaisePropertyChanged``1</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>SetAndRaise``1</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>SetCurrentValue(AvaloniaProperty, Object)</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>SetCurrentValue``1(StyledProperty(UMP), UMP)</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>SetValue(AvaloniaProperty, Object, BindingPriority)</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>SetValue``1(DirectPropertyBase(UMP), UMP)</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>SetValue``1(StyledProperty(UMP), UMP, BindingPriority)</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Controls_Primitives_PopupFlyoutBase_ShowAt_1">ShowAt(Control)</a></td>
+<td>Shows the Flyout at the given Control<br />(Overrides <a href="M_Avalonia_Controls_Primitives_FlyoutBase_ShowAt">FlyoutBase.ShowAt(Control)</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Controls_Primitives_PopupFlyoutBase_ShowAt">ShowAt(Control, Boolean)</a></td>
+<td>Shows the Flyout for the given control at the current pointer location, as in a ContextFlyout</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Controls_Primitives_PopupFlyoutBase_ShowAtCore">ShowAtCore</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString</a></td>
+<td>Returns a string that represents the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
+</tr>
+<tr>
+<td>UpdateDataValidation</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+<tr>
+<td>VerifyAccess</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+</table>
+
+## Events
+<table>
+<tr>
+<td><a href="E_Avalonia_Controls_Primitives_FlyoutBase_Closed">Closed</a></td>
+<td><br />(Inherited from <a href="T_Avalonia_Controls_Primitives_FlyoutBase">FlyoutBase</a>)</td>
+</tr>
+<tr>
+<td><a href="E_Avalonia_Controls_Primitives_PopupFlyoutBase_Closing">Closing</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="E_Avalonia_Controls_Primitives_FlyoutBase_Opened">Opened</a></td>
+<td><br />(Inherited from <a href="T_Avalonia_Controls_Primitives_FlyoutBase">FlyoutBase</a>)</td>
+</tr>
+<tr>
+<td><a href="E_Avalonia_Controls_Primitives_PopupFlyoutBase_Opening">Opening</a></td>
+<td> </td>
+</tr>
+<tr>
+<td>PropertyChanged</td>
+<td><br />(Inherited from AvaloniaObject)</td>
+</tr>
+</table>
+
+## Fields
+<table>
+<tr>
+<td><a href="F_Avalonia_Controls_Primitives_PopupFlyoutBase_CustomPopupPlacementCallbackProperty">CustomPopupPlacementCallbackProperty</a></td>
+<td>Defines the <a href="P_Avalonia_Controls_Primitives_Popup_CustomPopupPlacementCallback">CustomPopupPlacementCallback</a> property.</td>
+</tr>
+<tr>
+<td><a href="F_Avalonia_Controls_Primitives_PopupFlyoutBase_HorizontalOffsetProperty">HorizontalOffsetProperty</a></td>
+<td>Defines the <a href="P_Avalonia_Controls_Primitives_Popup_HorizontalOffset">HorizontalOffset</a> property.</td>
+</tr>
+<tr>
+<td><a href="F_Avalonia_Controls_Primitives_PopupFlyoutBase_OverlayDismissEventPassThroughProperty">OverlayDismissEventPassThroughProperty</a></td>
+<td>Defines the <a href="P_Avalonia_Controls_Primitives_PopupFlyoutBase_OverlayDismissEventPassThrough">OverlayDismissEventPassThrough</a> property</td>
+</tr>
+<tr>
+<td><a href="F_Avalonia_Controls_Primitives_PopupFlyoutBase_OverlayInputPassThroughElementProperty">OverlayInputPassThroughElementProperty</a></td>
+<td>Defines the <a href="P_Avalonia_Controls_Primitives_PopupFlyoutBase_OverlayInputPassThroughElement">OverlayInputPassThroughElement</a> property</td>
+</tr>
+<tr>
+<td><a href="F_Avalonia_Controls_Primitives_PopupFlyoutBase_PlacementAnchorProperty">PlacementAnchorProperty</a></td>
+<td>Defines the <a href="P_Avalonia_Controls_Primitives_Popup_PlacementAnchor">PlacementAnchor</a> property.</td>
+</tr>
+<tr>
+<td><a href="F_Avalonia_Controls_Primitives_PopupFlyoutBase_PlacementConstraintAdjustmentProperty">PlacementConstraintAdjustmentProperty</a></td>
+<td>Defines the <a href="P_Avalonia_Controls_Primitives_PopupFlyoutBase_PlacementConstraintAdjustment">PlacementConstraintAdjustment</a> property</td>
+</tr>
+<tr>
+<td><a href="F_Avalonia_Controls_Primitives_PopupFlyoutBase_PlacementGravityProperty">PlacementGravityProperty</a></td>
+<td>Defines the <a href="P_Avalonia_Controls_Primitives_Popup_PlacementAnchor">PlacementAnchor</a> property.</td>
+</tr>
+<tr>
+<td><a href="F_Avalonia_Controls_Primitives_PopupFlyoutBase_PlacementProperty">PlacementProperty</a></td>
+<td>Defines the <a href="P_Avalonia_Controls_Primitives_Popup_Placement">Placement</a> property.</td>
+</tr>
+<tr>
+<td><a href="F_Avalonia_Controls_Primitives_PopupFlyoutBase_ShowModeProperty">ShowModeProperty</a></td>
+<td>Defines the <a href="P_Avalonia_Controls_Primitives_PopupFlyoutBase_ShowMode">ShowMode</a> property</td>
+</tr>
+<tr>
+<td><a href="F_Avalonia_Controls_Primitives_PopupFlyoutBase_VerticalOffsetProperty">VerticalOffsetProperty</a></td>
+<td>Defines the <a href="P_Avalonia_Controls_Primitives_Popup_VerticalOffset">VerticalOffset</a> property.</td>
+</tr>
+</table>
+
+## See Also
+
+
+#### Reference
+<a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  

@@ -1,0 +1,46 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
+# DisplayEdgeToEdge Property
+
+
+Gets or sets whether the window draws edge to edge. behind any visibile system bars.
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+bool DisplayEdgeToEdge { get; set; }
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Property DisplayEdgeToEdge As Boolean
+	Get
+	Set
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+abstract DisplayEdgeToEdge : bool with get, set
+```
+</TabItem>
+</Tabs>
+
+
+
+#### Property Value
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Controls_Platform_IInsetsManager">IInsetsManager Interface</a>  
+<a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  

@@ -1,0 +1,49 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
+# ResourcesChanged Event
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia">Avalonia</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public event EventHandler<ResourcesChangedEventArgs> ResourcesChanged
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Event ResourcesChanged As EventHandler(Of ResourcesChangedEventArgs)
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+abstract ResourcesChanged : IEvent<EventHandler<ResourcesChangedEventArgs>,
+    ResourcesChangedEventArgs>
+override ResourcesChanged : IEvent<EventHandler<ResourcesChangedEventArgs>,
+    ResourcesChangedEventArgs>
+```
+</TabItem>
+</Tabs>
+
+
+
+#### Value
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(ResourcesChangedEventArgs)
+
+#### Implements
+IResourceHost.ResourcesChanged  
+
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Application">Application Class</a>  
+<a href="N_Avalonia">Avalonia Namespace</a>  

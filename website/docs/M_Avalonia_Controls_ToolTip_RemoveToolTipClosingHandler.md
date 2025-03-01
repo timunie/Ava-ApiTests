@@ -1,0 +1,52 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
+# RemoveToolTipClosingHandler Method
+
+
+Removes a handler for the <a href="F_Avalonia_Controls_ToolTip_ToolTipClosingEvent">ToolTipClosingEvent</a> attached event.
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public static void RemoveToolTipClosingHandler(
+	Control element,
+	EventHandler<RoutedEventArgs> handler
+)
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Shared Sub RemoveToolTipClosingHandler ( 
+	element As Control,
+	handler As EventHandler(Of RoutedEventArgs)
+)
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+static member RemoveToolTipClosingHandler : 
+        element : Control * 
+        handler : EventHandler<RoutedEventArgs> -> unit 
+```
+</TabItem>
+</Tabs>
+
+
+
+#### Parameters
+<dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd><a href="T_Avalonia_Controls_Control">Control</a> that listens to this event.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(RoutedEventArgs)</dt><dd>Event Handler to be removed.</dd></dl>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Controls_ToolTip">ToolTip Class</a>  
+<a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  

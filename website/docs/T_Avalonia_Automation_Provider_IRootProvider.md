@@ -1,0 +1,68 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
+# IRootProvider Interface
+
+
+Exposes methods and properties to support UI Automation client access to the root of an automation tree.
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public interface IRootProvider
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Interface IRootProvider
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+type IRootProvider = interface end
+```
+</TabItem>
+</Tabs>
+
+This interface is implemented by the <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a> class, and should only be implemented on true root elements, such as Windows. To embed an automation tree, use <a href="T_Avalonia_Automation_Provider_IEmbeddedRootProvider">IEmbeddedRootProvider</a> instead.
+
+## Properties
+<table>
+<tr>
+<td><a href="P_Avalonia_Automation_Provider_IRootProvider_PlatformImpl">PlatformImpl</a></td>
+<td>Gets the platform implementation of the TopLevel for the element.</td>
+</tr>
+</table>
+
+## Methods
+<table>
+<tr>
+<td><a href="M_Avalonia_Automation_Provider_IRootProvider_GetFocus">GetFocus</a></td>
+<td>Gets the currently focused element.</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Automation_Provider_IRootProvider_GetPeerFromPoint">GetPeerFromPoint</a></td>
+<td>Gets the element at the specified point, expressed in top-level coordinates.</td>
+</tr>
+</table>
+
+## Events
+<table>
+<tr>
+<td><a href="E_Avalonia_Automation_Provider_IRootProvider_FocusChanged">FocusChanged</a></td>
+<td>Raised by the automation peer when the focus changes.</td>
+</tr>
+</table>
+
+## See Also
+
+
+#### Reference
+<a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider Namespace</a>  

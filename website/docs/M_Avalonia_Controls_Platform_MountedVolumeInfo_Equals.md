@@ -1,0 +1,57 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
+# Equals(MountedVolumeInfo) Method
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public bool Equals(
+	MountedVolumeInfo? other
+)
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Function Equals ( 
+	other As MountedVolumeInfo
+) As Boolean
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+abstract Equals : 
+        other : MountedVolumeInfo -> bool 
+override Equals : 
+        other : MountedVolumeInfo -> bool 
+```
+</TabItem>
+</Tabs>
+
+
+
+#### Parameters
+<dl><dt>  <a href="T_Avalonia_Controls_Platform_MountedVolumeInfo">MountedVolumeInfo</a></dt><dd> </dd></dl>
+
+#### Return Value
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+#### Implements
+<a href="https://learn.microsoft.com/dotnet/api/system.iequatable-1.equals" target="_blank" rel="noopener noreferrer">IEquatable(T).Equals(T)</a>  
+
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Controls_Platform_MountedVolumeInfo">MountedVolumeInfo Class</a>  
+<a href="Overload_Avalonia_Controls_Platform_MountedVolumeInfo_Equals">Equals Overload</a>  
+<a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  

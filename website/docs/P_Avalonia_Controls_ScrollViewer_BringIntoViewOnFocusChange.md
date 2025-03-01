@@ -1,0 +1,53 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
+# BringIntoViewOnFocusChange Property
+
+
+Gets or sets a value that determines whether the <a href="T_Avalonia_Controls_ScrollViewer">ScrollViewer</a> uses a bring-into-view scroll behavior when an item in the view gets focus.
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public bool BringIntoViewOnFocusChange { get; set; }
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Property BringIntoViewOnFocusChange As Boolean
+	Get
+	Set
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+member BringIntoViewOnFocusChange : bool with get, set
+```
+</TabItem>
+</Tabs>
+
+
+
+#### Property Value
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>  
+true to use a behavior that brings focused items into view. false to use a behavior that focused items do not automatically scroll into view. The default is true.BringIntoViewOnFocusChange can either be set explicitly on a <a href="T_Avalonia_Controls_ScrollViewer">ScrollViewer</a>, or a the attached 
+
+**C#**  
+``` C#
+ScrollViewer.BringIntoViewOnFocusChange
+```
+ property can be set on an element that hosts a <a href="T_Avalonia_Controls_ScrollViewer">ScrollViewer</a>.
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Controls_ScrollViewer">ScrollViewer Class</a>  
+<a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  

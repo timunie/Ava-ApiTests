@@ -1,0 +1,52 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
+# IMenuInteractionHandler Interface
+
+
+Handles user interaction for menus.
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public interface IMenuInteractionHandler
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Interface IMenuInteractionHandler
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+type IMenuInteractionHandler = interface end
+```
+</TabItem>
+</Tabs>
+
+
+
+## Methods
+<table>
+<tr>
+<td><a href="M_Avalonia_Controls_Platform_IMenuInteractionHandler_Attach">Attach</a></td>
+<td>Attaches the interaction handler to a menu.</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Controls_Platform_IMenuInteractionHandler_Detach">Detach</a></td>
+<td>Detaches the interaction handler from the attached menu.</td>
+</tr>
+</table>
+
+## See Also
+
+
+#### Reference
+<a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  

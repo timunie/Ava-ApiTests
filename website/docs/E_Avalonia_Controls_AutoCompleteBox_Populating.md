@@ -1,0 +1,45 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
+# Populating Event
+
+
+Occurs when the <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox</a> is populating the drop-down with possible matches based on the <a href="P_Avalonia_Controls_AutoCompleteBox_Text">Text</a> property.
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public event EventHandler<PopulatingEventArgs> Populating
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Event Populating As EventHandler(Of PopulatingEventArgs)
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+member Populating : IEvent<EventHandler<PopulatingEventArgs>,
+    PopulatingEventArgs>
+```
+</TabItem>
+</Tabs>
+
+
+
+#### Value
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Controls_PopulatingEventArgs">PopulatingEventArgs</a>)If the event is canceled, by setting the PopulatingEventArgs.Cancel property to true, the AutoCompleteBox will not automatically populate the selection adapter contained in the drop-down. In this case, if you want possible matches to appear, you must provide the logic for populating the selection adapter.
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
+<a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  

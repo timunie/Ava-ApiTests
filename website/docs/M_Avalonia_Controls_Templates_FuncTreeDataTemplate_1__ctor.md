@@ -1,0 +1,56 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
+# FuncTreeDataTemplate&lt;T&gt;(Func&lt;T, Boolean&gt;, Func&lt;T, INameScope, Control&gt;, Func&lt;T, IEnumerable&gt;) Constructor
+
+
+Initializes a new instance of the <a href="T_Avalonia_Controls_Templates_FuncTreeDataTemplate_1">FuncTreeDataTemplate(T)</a> class.
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public FuncTreeDataTemplate(
+	Func<T, bool> match,
+	Func<T, INameScope, Control> build,
+	Func<T, IEnumerable> itemsSelector
+)
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Sub New ( 
+	match As Func(Of T, Boolean),
+	build As Func(Of T, INameScope, Control),
+	itemsSelector As Func(Of T, IEnumerable)
+)
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+new : 
+        match : Func<'T, bool> * 
+        build : Func<'T, INameScope, Control> * 
+        itemsSelector : Func<'T, IEnumerable> -> FuncTreeDataTemplate
+```
+</TabItem>
+</Tabs>
+
+
+
+#### Parameters
+<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.func-2" target="_blank" rel="noopener noreferrer">Func</a>(<a href="T_Avalonia_Controls_Templates_FuncTreeDataTemplate_1">T</a>, <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>)</dt><dd>A function which determines whether the data template matches the specified data.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.func-3" target="_blank" rel="noopener noreferrer">Func</a>(<a href="T_Avalonia_Controls_Templates_FuncTreeDataTemplate_1">T</a>, INameScope, <a href="T_Avalonia_Controls_Control">Control</a>)</dt><dd>A function which when passed a matching object returns a control.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.func-2" target="_blank" rel="noopener noreferrer">Func</a>(<a href="T_Avalonia_Controls_Templates_FuncTreeDataTemplate_1">T</a>, <a href="https://learn.microsoft.com/dotnet/api/system.collections.ienumerable" target="_blank" rel="noopener noreferrer">IEnumerable</a>)</dt><dd>A function which when passed a matching object returns the child items.</dd></dl>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Controls_Templates_FuncTreeDataTemplate_1">FuncTreeDataTemplate(T) Class</a>  
+<a href="Overload_Avalonia_Controls_Templates_FuncTreeDataTemplate_1__ctor">FuncTreeDataTemplate(T) Overload</a>  
+<a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates Namespace</a>  

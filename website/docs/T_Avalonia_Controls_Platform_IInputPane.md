@@ -1,0 +1,60 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
+# IInputPane Interface
+
+
+Listener for the platform's input pane(eg, software keyboard). Provides access to the input pane height and state.
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public interface IInputPane
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Interface IInputPane
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+type IInputPane = interface end
+```
+</TabItem>
+</Tabs>
+
+
+
+## Properties
+<table>
+<tr>
+<td><a href="P_Avalonia_Controls_Platform_IInputPane_OccludedRect">OccludedRect</a></td>
+<td>The current input pane bounds.</td>
+</tr>
+<tr>
+<td><a href="P_Avalonia_Controls_Platform_IInputPane_State">State</a></td>
+<td>The current input pane state.</td>
+</tr>
+</table>
+
+## Events
+<table>
+<tr>
+<td><a href="E_Avalonia_Controls_Platform_IInputPane_StateChanged">StateChanged</a></td>
+<td>Occurs when the input pane's state has changed.</td>
+</tr>
+</table>
+
+## See Also
+
+
+#### Reference
+<a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  

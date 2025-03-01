@@ -1,0 +1,51 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
+# OnPopulated Method
+
+
+Raises the <a href="E_Avalonia_Controls_AutoCompleteBox_Populated">Populated</a> event.
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+protected virtual void OnPopulated(
+	PopulatedEventArgs e
+)
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Protected Overridable Sub OnPopulated ( 
+	e As PopulatedEventArgs
+)
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+abstract OnPopulated : 
+        e : PopulatedEventArgs -> unit 
+override OnPopulated : 
+        e : PopulatedEventArgs -> unit 
+```
+</TabItem>
+</Tabs>
+
+
+
+#### Parameters
+<dl><dt>  <a href="T_Avalonia_Controls_PopulatedEventArgs">PopulatedEventArgs</a></dt><dd>A <a href="T_Avalonia_Controls_PopulatedEventArgs">PopulatedEventArgs</a> that contains the event data.</dd></dl>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
+<a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  

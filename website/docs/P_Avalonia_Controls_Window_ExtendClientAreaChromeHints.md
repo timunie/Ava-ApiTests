@@ -1,0 +1,46 @@
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag'; 
+
+# ExtendClientAreaChromeHints Property
+
+
+Gets or Sets the <a href="T_Avalonia_Platform_ExtendClientAreaChromeHints">ExtendClientAreaChromeHints</a> that control how the chrome looks when the client area is extended.
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public ExtendClientAreaChromeHints ExtendClientAreaChromeHints { get; set; }
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Property ExtendClientAreaChromeHints As ExtendClientAreaChromeHints
+	Get
+	Set
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+member ExtendClientAreaChromeHints : ExtendClientAreaChromeHints with get, set
+```
+</TabItem>
+</Tabs>
+
+
+
+#### Property Value
+<a href="T_Avalonia_Platform_ExtendClientAreaChromeHints">ExtendClientAreaChromeHints</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Controls_Window">Window Class</a>  
+<a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
