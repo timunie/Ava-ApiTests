@@ -412,7 +412,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                 },
                 new MarkdownElement("paramref", "name", "*", "*", "em"), new PreliminaryElement(),
                 // TODO: new PassthroughElement("remarks"),
-                new NamedSectionElement("remarks"), 
+                // TODO: new NamedSectionElement("remarks"), 
 				new ReturnsElement(), 
 				new SeeElement(),
                 // seeAlso should be a top-level element in the comments but may appear within other elements.
@@ -1233,8 +1233,6 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                     var summary = e.Element("summary");
                     var remarks = e.Element("remarks");
 
-                    Debug.WriteLine(remarks?.ToString() ?? "No remarks found");
-
 
                     if (summary != null || remarks != null)
                     {
@@ -1246,8 +1244,6 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                         {
                             thisTransform.RenderChildElements(summaryCell, remarks.Nodes());
                         }
-                            
-                            // thisTransform.RenderChildElements(summaryCell, remarks.Value);
                     }
 
                     if (e.AttributeOfType("T:System.ObsoleteAttribute") != null)
