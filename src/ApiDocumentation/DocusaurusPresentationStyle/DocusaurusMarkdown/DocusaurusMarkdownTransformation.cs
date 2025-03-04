@@ -412,7 +412,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                 },
                 new MarkdownElement("paramref", "name", "*", "*", "em"), new PreliminaryElement(),
                 // TODO: new PassthroughElement("remarks"),
-                // TODO: new NamedSectionElement("remarks"), 
+                new NamedSectionElement("remarksStandalone"), 
 				new ReturnsElement(), 
 				new SeeElement(),
                 // seeAlso should be a top-level element in the comments but may appear within other elements.
@@ -982,9 +982,21 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                     summaryCell, "\n"), "\n");
 
                 var summary = e.Element("summary");
+                var remarks = e.Element("remarks");
 
-                if (summary != null)
-                    transformation.RenderChildElements(summaryCell, summary.Nodes());
+
+                if (summary != null || remarks != null)
+                {
+                    if (summary != null)
+                        transformation.RenderChildElements(summaryCell, summary.Nodes());
+
+                    // Enum members may have additional authored content in the remarks node
+                    if (remarks != null)
+                    {
+                        transformation.RenderChildElements(summaryCell, new []{ new XElement("br"), new XElement("b", "Remarks: ")});
+                        transformation.RenderChildElements(summaryCell, remarks.Nodes());
+                    }
+                }
                 else
                     summaryCell.Add(Element.NonBreakingSpace);
             }
@@ -1026,9 +1038,21 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                     summaryCell, "\n"), "\n");
 
                 var summary = e.Element("summary");
+                var remarks = e.Element("remarks");
 
-                if (summary != null)
-                    transformation.RenderChildElements(summaryCell, summary.Nodes());
+
+                if (summary != null || remarks != null)
+                {
+                    if (summary != null)
+                        transformation.RenderChildElements(summaryCell, summary.Nodes());
+
+                    // Enum members may have additional authored content in the remarks node
+                    if (remarks != null)
+                    {
+                        transformation.RenderChildElements(summaryCell, new []{ new XElement("br"), new XElement("b", "Remarks: ")});
+                        transformation.RenderChildElements(summaryCell, remarks.Nodes());
+                    }
+                }
                 else
                     summaryCell.Add(Element.NonBreakingSpace);
             }
@@ -1068,9 +1092,21 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                             summaryCell, "\n"), "\n");
 
                         var summary = e.Element("summary");
+                        var remarks = e.Element("remarks");
 
-                        if (summary != null)
-                            transformation.RenderChildElements(summaryCell, summary.Nodes());
+
+                        if (summary != null || remarks != null)
+                        {
+                            if (summary != null)
+                                transformation.RenderChildElements(summaryCell, summary.Nodes());
+
+                            // Enum members may have additional authored content in the remarks node
+                            if (remarks != null)
+                            {
+                                transformation.RenderChildElements(summaryCell, new []{ new XElement("br"), new XElement("b", "Remarks: ")});
+                                transformation.RenderChildElements(summaryCell, remarks.Nodes());
+                            }
+                        }
 
                         var obsoleteAttr = e.AttributeOfType("T:System.ObsoleteAttribute");
                         var prelimComment = e.Element("preliminary");
@@ -1242,6 +1278,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                         // Enum members may have additional authored content in the remarks node
                         if (remarks != null)
                         {
+                            thisTransform.RenderChildElements(summaryCell, new []{ new XElement("br"), new XElement("b", "Remarks: ")});
                             thisTransform.RenderChildElements(summaryCell, remarks.Nodes());
                         }
                     }
@@ -1251,7 +1288,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                         if (!summaryCell.IsEmpty)
                             summaryCell.Add(new XElement("br"));
 
-                        summaryCell.Add(new XElement("strong",
+                        summaryCell.Add(new XElement("Tag",
                             new XElement("include", new XAttribute("item", "boilerplate_obsoleteShort"))));
                     }
 
@@ -1467,9 +1504,21 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                     table.Add(new XElement("tr", "\n", new XElement("td", referenceLink), "\n", summaryCell, "\n"), "\n");
 
                     var summary = e.Element("summary");
+                    var remarks = e.Element("remarks");
 
-                    if (summary != null)
-                        transformation.RenderChildElements(summaryCell, summary.Nodes());
+
+                    if (summary != null || remarks != null)
+                    {
+                        if (summary != null)
+                            transformation.RenderChildElements(summaryCell, summary.Nodes());
+
+                        // Enum members may have additional authored content in the remarks node
+                        if (remarks != null)
+                        {
+                            transformation.RenderChildElements(summaryCell, new []{ new XElement("br"), new XElement("b", "Remarks: ")});
+                            transformation.RenderChildElements(summaryCell, remarks.Nodes());
+                        }
+                    }
 
                     if (transformation.ApiMember.ApiTopicSubgroup != ApiMemberGroup.Overload)
                     {
@@ -1525,7 +1574,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
 
                         if (obsoleteAttr != null)
                         {
-                            summaryCell.Add(new XElement("strong",
+                            summaryCell.Add(new XElement("Tag",
                                 new XElement("include", new XAttribute("item", "boilerplate_obsoleteShort"))));
                         }
 
@@ -1589,13 +1638,27 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
         {
             // For overloads, render remarks from the first overloads element.  There should only be one.
             if (transformation.ApiMember.ApiTopicSubgroup != ApiMemberGroup.Overload)
-                transformation.RenderNode(transformation.CommentsNode.Element("remarks"));
+            {
+                var remarks = transformation.CommentsNode.Element("remarks");
+                if (remarks != null)
+                {
+                    remarks.Name = "remarksStandalone";
+                    transformation.RenderNode(remarks);
+                }
+            }
             else
             {
                 var overloads = transformation.ReferenceNode.Descendants("overloads").FirstOrDefault();
 
                 if (overloads != null)
-                    transformation.RenderNode(overloads.Element("remarks"));
+                {
+                    var remarks = transformation.CommentsNode.Element("remarks");
+                    if (remarks != null)
+                    {
+                        remarks.Name = "remarksStandalone";
+                        transformation.RenderNode(remarks);
+                    }
+                }
             }
         }
 

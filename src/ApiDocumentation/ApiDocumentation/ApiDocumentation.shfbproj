@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <!-- Import the common properties to support NuGet restore -->
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
@@ -22,13 +22,15 @@
     <HtmlHelpName>ApiDocumentation</HtmlHelpName>
     <Language>en-US</Language>
     <TransformComponentArguments>
-      <Argument Key="logoFile" Value="Help.png" xmlns="" />
-      <Argument Key="logoHeight" Value="" xmlns="" />
-      <Argument Key="logoWidth" Value="" xmlns="" />
-      <Argument Key="logoAltText" Value="" xmlns="" />
-      <Argument Key="logoPlacement" Value="left" xmlns="" />
-      <Argument Key="logoAlignment" Value="left" xmlns="" />
-      <Argument Key="maxVersionParts" Value="" xmlns="" />
+      <Argument Key="BibliographyDataFile" Value="" />
+      <Argument Key="MaxVersionParts" Value="" />
+      <Argument Key="IncludeEnumValues" Value="True" />
+      <Argument Key="EnumMemberSortOrder" Value="Value" />
+      <Argument Key="FlagsEnumValueFormat" Value="IntegerValue" />
+      <Argument Key="FlagsEnumSeparatorSize" Value="0" />
+      <Argument Key="IncludeIntegerEnumSeparators" Value="true" />
+      <Argument Key="BaseSourceCodeUrl" Value="https://github.com/AvaloniaUI/Avalonia/tree/master/src" />
+      <Argument Key="ShowParametersOnAllMethods" Value="true" />
     </TransformComponentArguments>
     <HelpFileFormat>Markdown</HelpFileFormat>
     <SyntaxFilters>C#, Visual Basic, F#</SyntaxFilters>
@@ -132,6 +134,8 @@
     <SdkLinkTarget>Blank</SdkLinkTarget>
     <MissingTags>AutoDocumentCtors, AutoDocumentDispose</MissingTags>
     <WorkingPath>Help\</WorkingPath>
+    <BuildLogFile>Build-Log\Help.log</BuildLogFile>
+    <SourceCodeBasePath>..\..\..\Avalonia\src\</SourceCodeBasePath>
   </PropertyGroup>
   <!-- There are no properties for these groups.  AnyCPU needs to appear in order for Visual Studio to perform
 			 the build.  The others are optional common platform types that may appear. -->
@@ -151,23 +155,6 @@
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|Win32' ">
   </PropertyGroup>
-  <ItemGroup>
-    <Folder Include="Content" />
-    <Folder Include="Content\VersionHistory" />
-    <Folder Include="icons" />
-    <Folder Include="media" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Content\VersionHistory\v1.0.0.0.aml" />
-    <None Include="Content\VersionHistory\VersionHistory.aml" />
-    <None Include="Content\Welcome.aml" />
-  </ItemGroup>
-  <ItemGroup>
-    <ContentLayout Include="ContentLayout.content" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="icons\Help.png" />
-  </ItemGroup>
   <ItemGroup>
     <PackageReference Include="EWSoftware.SHFB.NET">
       <Version>9.0.0</Version>

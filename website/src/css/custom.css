@@ -28,3 +28,12 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+div.warning {
+   padding: 0.2rem;
+   margin: 0 2px;
+   background: deeppink;
+   color: #fff;
+   float:left;
+   border-radius: 10px;
+}
