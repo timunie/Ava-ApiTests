@@ -36,6 +36,10 @@ member AfterPlatformServicesSetup :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AppBuilder.cs#L175" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.action-1" target="_blank" rel="noopener noreferrer">Action</a>(<a href="T_Avalonia_AppBuilder">AppBuilder</a>)</dt><dd> </dd></dl>
 

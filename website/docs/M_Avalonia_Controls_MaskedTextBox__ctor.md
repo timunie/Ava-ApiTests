@@ -33,6 +33,10 @@ new : unit -> MaskedTextBox
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/MaskedTextBox.cs#L77" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

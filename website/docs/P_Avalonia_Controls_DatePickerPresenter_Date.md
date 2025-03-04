@@ -35,6 +35,10 @@ member Date : DateTimeOffset with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/DateTimePickers/DatePickerPresenter.cs#L153" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.datetimeoffset" target="_blank" rel="noopener noreferrer">DateTimeOffset</a>
 

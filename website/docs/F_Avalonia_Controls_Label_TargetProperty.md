@@ -33,6 +33,10 @@ static val TargetProperty: StyledProperty<IInputElement>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Label.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(IInputElement)
 

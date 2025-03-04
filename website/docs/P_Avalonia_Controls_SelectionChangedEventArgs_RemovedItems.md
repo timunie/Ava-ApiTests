@@ -34,6 +34,10 @@ member RemovedItems : IList with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SelectionChangedEventArgs.cs#L33" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.collections.ilist" target="_blank" rel="noopener noreferrer">IList</a>
 

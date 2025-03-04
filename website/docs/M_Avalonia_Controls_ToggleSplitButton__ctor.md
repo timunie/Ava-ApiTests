@@ -33,6 +33,10 @@ new : unit -> ToggleSplitButton
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SplitButton/ToggleSplitButton.cs#L45" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

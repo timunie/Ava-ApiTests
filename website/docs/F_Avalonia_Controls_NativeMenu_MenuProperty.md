@@ -31,6 +31,10 @@ static val MenuProperty: AttachedProperty<NativeMenu>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/NativeMenu.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 AttachedProperty(<a href="T_Avalonia_Controls_NativeMenu">NativeMenu</a>)
 

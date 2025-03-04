@@ -32,6 +32,10 @@ override Select : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/ListItemAutomationPeer.cs#L33" title="View the source code">View Source</a>
+
+
+
 #### Implements
 <a href="M_Avalonia_Automation_Provider_ISelectionItemProvider_Select">ISelectionItemProvider.Select()</a>  
 

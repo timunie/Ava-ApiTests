@@ -38,6 +38,10 @@ override IsVisibleChanged :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Window.cs#L629" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  AvaloniaPropertyChangedEventArgs</dt><dd> </dd></dl>
 

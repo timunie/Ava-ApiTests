@@ -33,6 +33,10 @@ static val ToggleTypeProperty: StyledProperty<NativeMenuItemToggleType>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/NativeMenuItem.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="T_Avalonia_Controls_NativeMenuItemToggleType">NativeMenuItemToggleType</a>)
 

@@ -38,6 +38,10 @@ override OnKeyDown :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SplitButton/SplitButton.cs#L346" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  KeyEventArgs</dt><dd> </dd></dl>
 

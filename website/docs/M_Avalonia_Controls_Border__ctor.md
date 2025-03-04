@@ -33,6 +33,10 @@ new : unit -> Border
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Border.cs#L58" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

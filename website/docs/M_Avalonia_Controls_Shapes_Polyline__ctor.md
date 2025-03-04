@@ -33,6 +33,10 @@ new : unit -> Polyline
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Polyline.cs#L19" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

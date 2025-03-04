@@ -33,6 +33,10 @@ new : unit -> VirtualizingCarouselPanel
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/VirtualizingCarouselPanel.cs#L27" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

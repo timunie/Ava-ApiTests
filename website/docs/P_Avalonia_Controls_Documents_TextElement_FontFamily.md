@@ -35,6 +35,10 @@ member FontFamily : FontFamily with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Documents/TextElement.cs#L94" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 FontFamily
 

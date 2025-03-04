@@ -32,6 +32,10 @@ override GetEnumerator : unit -> IEnumerator<Object>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ItemsSourceView.cs#L205" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerator-1" target="_blank" rel="noopener noreferrer">IEnumerator</a>(<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)
 

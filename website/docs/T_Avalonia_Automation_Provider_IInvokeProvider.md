@@ -33,10 +33,14 @@ type IInvokeProvider = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Provider/IInvokeProvider.cs" title="View the source code">View Source</a>
+
+
+
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Automation_Provider_IInvokeProvider_Invoke">Invoke</a></td>
+<td><a href="M_Avalonia_Automation_Provider_IInvokeProvider_Invoke">Invoke()</a></td>
 <td>Sends a request to activate a control and initiate its single, unambiguous action.</td>
 </tr>
 </table>

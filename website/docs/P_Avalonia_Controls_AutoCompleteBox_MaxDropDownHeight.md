@@ -35,6 +35,10 @@ member MaxDropDownHeight : float with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.Properties.cs#L280" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>  
 The maximum height of the drop-down portion of the <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox</a> control. The default is <a href="https://learn.microsoft.com/dotnet/api/system.double.positiveinfinity" target="_blank" rel="noopener noreferrer">PositiveInfinity</a>.

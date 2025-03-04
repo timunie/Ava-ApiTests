@@ -33,6 +33,10 @@ type ExpandCollapseState
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/ExpandCollapseState.cs" title="View the source code">View Source</a>
+
+
+
 ## Members
 <table>
 <tr>

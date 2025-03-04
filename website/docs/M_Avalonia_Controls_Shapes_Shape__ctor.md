@@ -33,6 +33,10 @@ new : unit -> Shape
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Shape.cs#L63" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

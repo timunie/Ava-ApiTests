@@ -31,6 +31,10 @@ member OnChanged : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IScreenImpl.cs#L77" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

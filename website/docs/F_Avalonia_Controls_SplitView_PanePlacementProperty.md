@@ -33,6 +33,10 @@ static val PanePlacementProperty: StyledProperty<SplitViewPanePlacement>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SplitView/SplitView.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="T_Avalonia_Controls_SplitViewPanePlacement">SplitViewPanePlacement</a>)
 

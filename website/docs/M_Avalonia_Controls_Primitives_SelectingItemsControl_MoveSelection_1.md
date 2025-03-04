@@ -49,6 +49,10 @@ member MoveSelection :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/SelectingItemsControl.cs#L729" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  NavigationDirection</dt><dd>The direction to move.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>  (Optional)</dt><dd>Whether to wrap when the selection reaches the first or last item.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>  (Optional)</dt><dd>Whether the range modifier is enabled (i.e. shift key).</dd></dl>
 

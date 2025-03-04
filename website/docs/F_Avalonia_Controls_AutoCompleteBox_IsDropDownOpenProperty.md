@@ -33,6 +33,10 @@ static val IsDropDownOpenProperty: StyledProperty<bool>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>)  
 The identifier for the <a href="P_Avalonia_Controls_AutoCompleteBox_IsDropDownOpen">IsDropDownOpen</a> property.

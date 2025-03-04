@@ -33,6 +33,10 @@ new : unit -> MenuFlyout
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Flyouts/MenuFlyout.cs#L12" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

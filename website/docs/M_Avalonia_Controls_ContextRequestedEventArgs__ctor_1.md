@@ -38,6 +38,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ContextRequestedEventArgs.cs#L31" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_ContextRequestedEventArgs">ContextRequestedEventArgs</a></dt><dd> </dd></dl>
 

@@ -40,6 +40,10 @@ override OnDateValidationError :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/CalendarDatePicker/CalendarDatePicker.cs#L506" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_CalendarDatePickerDateValidationErrorEventArgs">CalendarDatePickerDateValidationErrorEventArgs</a></dt><dd>A <a href="T_Avalonia_Controls_CalendarDatePickerDateValidationErrorEventArgs">CalendarDatePickerDateValidationErrorEventArgs</a> that contains the event data.</dd></dl>
 

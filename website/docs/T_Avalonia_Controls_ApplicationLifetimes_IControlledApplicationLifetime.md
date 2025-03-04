@@ -33,6 +33,10 @@ type IControlledApplicationLifetime =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ApplicationLifetimes/IControlledApplicationLifetime.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_ApplicationLifetimes_IApplicationLifetime">IApplicationLifetime</a></td></tr>
 </table>
@@ -42,7 +46,7 @@ type IControlledApplicationLifetime =
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_ApplicationLifetimes_IControlledApplicationLifetime_Shutdown">Shutdown</a></td>
+<td><a href="M_Avalonia_Controls_ApplicationLifetimes_IControlledApplicationLifetime_Shutdown">Shutdown(Int32)</a></td>
 <td>Shuts down the application and sets the exit code that is returned to the operating system when the application exits.</td>
 </tr>
 </table>

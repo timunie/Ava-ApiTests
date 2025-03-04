@@ -40,8 +40,15 @@ override OnScrollChanged :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ScrollViewer.cs#L801" title="View the source code">View Source</a>
+
+
+
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_Controls_ScrollChangedEventArgs">ScrollChangedEventArgs</a></dt><dd>The event args.</dd></dl>If you override this method, call `base.OnScrollChanged(ScrollChangedEventArgs)` to ensure that this event is raised.
+<dl><dt>  <a href="T_Avalonia_Controls_ScrollChangedEventArgs">ScrollChangedEventArgs</a></dt><dd>The event args.</dd></dl>
+
+## 
+If you override this method, call `base.OnScrollChanged(ScrollChangedEventArgs)` to ensure that this event is raised.
 
 ## See Also
 

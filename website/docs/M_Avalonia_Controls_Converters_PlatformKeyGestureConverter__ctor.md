@@ -33,6 +33,10 @@ new : unit -> PlatformKeyGestureConverter
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Converters/PlatformKeyGestureConverter.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

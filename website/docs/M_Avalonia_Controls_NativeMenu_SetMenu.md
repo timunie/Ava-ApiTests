@@ -39,6 +39,10 @@ static member SetMenu :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/NativeMenu.Export.cs#L57" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  AvaloniaObject</dt><dd> </dd><dt>  <a href="T_Avalonia_Controls_NativeMenu">NativeMenu</a></dt><dd> </dd></dl>
 

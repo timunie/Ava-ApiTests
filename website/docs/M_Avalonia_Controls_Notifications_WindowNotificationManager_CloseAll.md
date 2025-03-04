@@ -34,6 +34,10 @@ override CloseAll : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Notifications/WindowNotificationManager.cs#L203" title="View the source code">View Source</a>
+
+
+
 #### Implements
 <a href="M_Avalonia_Controls_Notifications_INotificationManager_CloseAll">INotificationManager.CloseAll()</a>  
 

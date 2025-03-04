@@ -35,6 +35,10 @@ member Stretch : Stretch with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Shape.cs#L137" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Stretch
 

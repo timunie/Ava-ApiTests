@@ -33,6 +33,10 @@ new : unit -> MenuItem
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/MenuItem.cs#L27" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

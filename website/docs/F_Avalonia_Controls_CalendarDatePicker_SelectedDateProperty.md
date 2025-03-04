@@ -33,6 +33,10 @@ static val SelectedDateProperty: StyledProperty<Nullable<DateTime>>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/CalendarDatePicker/CalendarDatePicker.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="https://learn.microsoft.com/dotnet/api/system.datetime" target="_blank" rel="noopener noreferrer">DateTime</a>))
 

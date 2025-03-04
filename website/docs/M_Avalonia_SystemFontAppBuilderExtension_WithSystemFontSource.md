@@ -41,6 +41,10 @@ static member WithSystemFontSource :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SystemFontAppBuilderExtension.cs#L9" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_AppBuilder">AppBuilder</a></dt><dd> </dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.uri" target="_blank" rel="noopener noreferrer">Uri</a></dt><dd> </dd></dl>
 

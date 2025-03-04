@@ -33,6 +33,10 @@ type SplitViewPanePlacement
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SplitView/SplitViewPanePlacement.cs" title="View the source code">View Source</a>
+
+
+
 ## Members
 <table>
 <tr>

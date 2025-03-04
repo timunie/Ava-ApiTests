@@ -33,8 +33,15 @@ static val TextProperty: StyledProperty<string>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Documents/Run.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
-StyledProperty(<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>)Note that when a TextRange that intersects with this Run gets modified (e.g. by editing a selection in RichTextBox), we will get two changes to this property since we delete and then insert when setting the content of a TextRange.
+StyledProperty(<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>)
+
+## 
+Note that when a TextRange that intersects with this Run gets modified (e.g. by editing a selection in RichTextBox), we will get two changes to this property since we delete and then insert when setting the content of a TextRange.
 
 ## See Also
 

@@ -33,6 +33,10 @@ new : unit -> TextBlock
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBlock.cs#L165" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

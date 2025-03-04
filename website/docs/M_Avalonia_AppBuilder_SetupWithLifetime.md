@@ -38,6 +38,10 @@ member SetupWithLifetime :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AppBuilder.cs#L204" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_ApplicationLifetimes_IApplicationLifetime">IApplicationLifetime</a></dt><dd /></dl>
 

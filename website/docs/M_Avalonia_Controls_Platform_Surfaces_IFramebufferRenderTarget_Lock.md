@@ -34,7 +34,10 @@ abstract Lock : unit -> ILockedFramebuffer
 
 
 #### Return Value
-ILockedFramebufferContents should be drawn on actual window after disposing
+ILockedFramebuffer
+
+## 
+Contents should be drawn on actual window after disposing
 
 ## See Also
 

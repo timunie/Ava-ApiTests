@@ -41,6 +41,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/CalendarDatePicker/CalendarDatePickerDateValidationErrorEventArgs.cs#L34" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.exception" target="_blank" rel="noopener noreferrer">Exception</a></dt><dd>The initial exception from the <a href="E_Avalonia_Controls_CalendarDatePicker_DateValidationError">DateValidationError</a> event.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a></dt><dd>The text that caused the <a href="E_Avalonia_Controls_CalendarDatePicker_DateValidationError">DateValidationError</a> event.</dd></dl>
 

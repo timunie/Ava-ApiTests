@@ -31,6 +31,10 @@ static val Instance: MenuScrollingVisibilityConverter
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Converters/MenuScrollingVisibilityConverter.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 <a href="T_Avalonia_Controls_Converters_MenuScrollingVisibilityConverter">MenuScrollingVisibilityConverter</a>
 

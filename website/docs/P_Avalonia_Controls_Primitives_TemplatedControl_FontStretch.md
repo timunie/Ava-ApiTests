@@ -35,6 +35,10 @@ member FontStretch : FontStretch with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/TemplatedControl.cs#L232" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 FontStretch
 

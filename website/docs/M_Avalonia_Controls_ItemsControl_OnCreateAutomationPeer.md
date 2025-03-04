@@ -34,6 +34,10 @@ override OnCreateAutomationPeer : unit -> AutomationPeer
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ItemsControl.cs#L601" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a>  
 The type-specific <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a> implementation.

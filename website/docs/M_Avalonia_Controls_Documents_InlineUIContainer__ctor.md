@@ -31,6 +31,13 @@ new : unit -> InlineUIContainer
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Documents/InlineUIContainer.cs#L34" title="View the source code">View Source</a>
+
+
+
+## 
 The purpose of this element is to be a wrapper for UIElements when they are embedded into text flow - as items of InlineCollections.
 
 ## See Also

@@ -33,6 +33,10 @@ new : unit -> Control
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Control.cs#L106" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

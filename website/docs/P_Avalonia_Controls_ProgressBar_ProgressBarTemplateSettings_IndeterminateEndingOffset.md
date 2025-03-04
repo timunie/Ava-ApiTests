@@ -35,6 +35,10 @@ member IndeterminateEndingOffset : float with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ProgressBar.cs#L183" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>
 

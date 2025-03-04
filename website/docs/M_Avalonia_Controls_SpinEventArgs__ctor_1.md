@@ -38,6 +38,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Spinner.cs#L64" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_SpinDirection">SpinDirection</a></dt><dd>Spin direction.</dd></dl>
 

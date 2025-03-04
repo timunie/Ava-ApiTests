@@ -41,6 +41,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Spinner.cs#L70" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  RoutedEvent</dt><dd> </dd><dt>  <a href="T_Avalonia_Controls_SpinDirection">SpinDirection</a></dt><dd> </dd></dl>
 

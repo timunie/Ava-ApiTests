@@ -31,6 +31,10 @@ type IPlatformLifetimeEventsImpl = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IPlatformLifetimeEventsImpl.cs" title="View the source code">View Source</a>
+
+
+
 ## Events
 <table>
 <tr>

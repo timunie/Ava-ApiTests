@@ -35,6 +35,10 @@ member IsTodayHighlighted : bool with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/CalendarDatePicker/CalendarDatePicker.Properties.cs#L191" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>  
 True if the current date is highlighted; otherwise, false. The default is true.

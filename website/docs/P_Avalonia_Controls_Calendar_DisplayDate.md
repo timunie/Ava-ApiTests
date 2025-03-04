@@ -35,9 +35,16 @@ member DisplayDate : DateTime with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Calendar/Calendar.cs#L752" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.datetime" target="_blank" rel="noopener noreferrer">DateTime</a>  
 The date to display.
+
+## 
+
 This property allows the developer to specify a date to display. If this property is a null reference (Nothing in Visual Basic), SelectedDate is displayed. If SelectedDate is also a null reference (Nothing in Visual Basic), Today is displayed. The default is Today.
 
 To set this property in XAML, use a date specified in the format yyyy/mm/dd. The mm and dd components must always consist of two characters, with a leading zero if necessary. For instance, the month of May should be specified as 05.

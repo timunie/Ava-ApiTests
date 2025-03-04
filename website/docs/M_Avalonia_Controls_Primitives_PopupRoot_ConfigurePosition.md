@@ -61,6 +61,10 @@ member ConfigurePosition :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/PopupRoot.cs#L145" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Visual</dt><dd> </dd><dt>  <a href="T_Avalonia_Controls_PlacementMode">PlacementMode</a></dt><dd> </dd><dt>  Point</dt><dd> </dd><dt>  <a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupAnchor">PopupAnchor</a>  (Optional)</dt><dd> </dd><dt>  <a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupGravity">PopupGravity</a>  (Optional)</dt><dd> </dd><dt>  <a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupPositionerConstraintAdjustment">PopupPositionerConstraintAdjustment</a>  (Optional)</dt><dd> </dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(Rect)  (Optional)</dt><dd> </dd></dl>
 

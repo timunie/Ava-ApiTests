@@ -33,6 +33,10 @@ static val SelectedItemsProperty: DirectProperty<TreeView, IList>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TreeView.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 DirectProperty(<a href="T_Avalonia_Controls_TreeView">TreeView</a>, <a href="https://learn.microsoft.com/dotnet/api/system.collections.ilist" target="_blank" rel="noopener noreferrer">IList</a>)
 

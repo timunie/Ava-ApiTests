@@ -35,6 +35,10 @@ member IsDropDownOpen : bool with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/CalendarDatePicker/CalendarDatePicker.Properties.cs#L177" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>  
 True if the <a href="T_Avalonia_Controls_Calendar">Calendar</a> is open; otherwise, false. The default is false.

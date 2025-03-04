@@ -36,6 +36,10 @@ abstract ScreenFromRect :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IScreenImpl.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  PixelRect</dt><dd> </dd></dl>
 

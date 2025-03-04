@@ -35,6 +35,10 @@ override Extent : Size with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ScrollViewer.cs#L215" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Size
 

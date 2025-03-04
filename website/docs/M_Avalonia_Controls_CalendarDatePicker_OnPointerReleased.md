@@ -38,6 +38,10 @@ override OnPointerReleased :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/CalendarDatePicker/CalendarDatePicker.cs#L357" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  PointerReleasedEventArgs</dt><dd> </dd></dl>
 

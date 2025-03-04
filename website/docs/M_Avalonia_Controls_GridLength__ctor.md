@@ -41,6 +41,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/GridLength.cs#L59" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a></dt><dd>The size of the GridLength.</dd><dt>  <a href="T_Avalonia_Controls_GridUnitType">GridUnitType</a></dt><dd>The unit of the GridLength.</dd></dl>
 

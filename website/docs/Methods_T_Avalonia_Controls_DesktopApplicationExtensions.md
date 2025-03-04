@@ -22,7 +22,7 @@ import Tag from '@site/src/components/Tag';
 <td>On desktop-style platforms runs the application's main loop with custom CancellationToken without setting a lifetime.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_DesktopApplicationExtensions_RunWithMainWindow__1">RunWithMainWindow(TWindow)</a></td>
+<td><a href="M_Avalonia_Controls_DesktopApplicationExtensions_RunWithMainWindow__1">RunWithMainWindow(TWindow)(Application)</a></td>
 <td> </td>
 </tr>
 </table>

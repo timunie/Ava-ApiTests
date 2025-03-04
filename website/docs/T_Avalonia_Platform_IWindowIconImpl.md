@@ -31,10 +31,14 @@ type IWindowIconImpl = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IWindowIconImpl.cs" title="View the source code">View Source</a>
+
+
+
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Platform_IWindowIconImpl_Save">Save</a></td>
+<td><a href="M_Avalonia_Platform_IWindowIconImpl_Save">Save(Stream)</a></td>
 <td> </td>
 </tr>
 </table>

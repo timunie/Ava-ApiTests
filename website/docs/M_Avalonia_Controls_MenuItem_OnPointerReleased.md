@@ -38,6 +38,10 @@ override OnPointerReleased :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/MenuItem.cs#L403" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  PointerReleasedEventArgs</dt><dd> </dd></dl>
 

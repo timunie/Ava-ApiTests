@@ -35,6 +35,10 @@ member BackgroundSizing : BackgroundSizing with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/TemplatedControl.cs#L151" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 BackgroundSizing
 

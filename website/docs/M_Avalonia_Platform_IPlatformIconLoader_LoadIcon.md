@@ -36,6 +36,10 @@ abstract LoadIcon :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IPlatformIconLoader.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  IBitmapImpl</dt><dd> </dd></dl>
 

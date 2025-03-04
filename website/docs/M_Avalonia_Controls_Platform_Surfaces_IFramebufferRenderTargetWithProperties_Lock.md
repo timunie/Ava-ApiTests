@@ -42,7 +42,10 @@ abstract Lock :
 <dl><dt>  <a href="T_Avalonia_Controls_Platform_Surfaces_FramebufferLockProperties">FramebufferLockProperties</a></dt><dd> </dd></dl>
 
 #### Return Value
-ILockedFramebufferContents should be drawn on actual window after disposing
+ILockedFramebuffer
+
+## 
+Contents should be drawn on actual window after disposing
 
 ## See Also
 

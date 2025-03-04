@@ -10,15 +10,15 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_ILogicalScrollable_BringIntoView">BringIntoView</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_ILogicalScrollable_BringIntoView">BringIntoView(Control, Rect)</a></td>
 <td>Attempts to bring a portion of the target visual into view by scrolling the content.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_ILogicalScrollable_GetControlInDirection">GetControlInDirection</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_ILogicalScrollable_GetControlInDirection">GetControlInDirection(NavigationDirection, Control)</a></td>
 <td>Gets the next control in the specified direction.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_ILogicalScrollable_RaiseScrollInvalidated">RaiseScrollInvalidated</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_ILogicalScrollable_RaiseScrollInvalidated">RaiseScrollInvalidated(EventArgs)</a></td>
 <td>Raises the <a href="E_Avalonia_Controls_Primitives_ILogicalScrollable_ScrollInvalidated">ScrollInvalidated</a> event.</td>
 </tr>
 </table>

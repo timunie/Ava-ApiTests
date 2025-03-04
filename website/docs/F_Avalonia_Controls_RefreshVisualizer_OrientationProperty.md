@@ -33,6 +33,10 @@ static val OrientationProperty: DirectProperty<RefreshVisualizer, RefreshVisuali
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/PullToRefresh/RefreshVisualizer.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 DirectProperty(<a href="T_Avalonia_Controls_RefreshVisualizer">RefreshVisualizer</a>, <a href="T_Avalonia_Controls_RefreshVisualizerOrientation">RefreshVisualizerOrientation</a>)
 

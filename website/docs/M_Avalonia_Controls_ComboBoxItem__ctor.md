@@ -33,6 +33,10 @@ new : unit -> ComboBoxItem
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ComboBoxItem.cs#L12" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

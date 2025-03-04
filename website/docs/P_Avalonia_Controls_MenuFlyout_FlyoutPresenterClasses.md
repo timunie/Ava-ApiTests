@@ -32,6 +32,10 @@ member FlyoutPresenterClasses : Classes with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Flyouts/MenuFlyout.cs#L42" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Classes
 

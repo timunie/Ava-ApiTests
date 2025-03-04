@@ -33,6 +33,10 @@ static val SizeChangedEvent: RoutedEvent<SizeChangedEventArgs>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Control.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 RoutedEvent(<a href="T_Avalonia_Controls_SizeChangedEventArgs">SizeChangedEventArgs</a>)
 

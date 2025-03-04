@@ -38,8 +38,15 @@ member Offset : Point with
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/PopupPositioning/IPopupPositioner.cs#L164" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-PointFor example if the anchor of the anchor rectangle is at (x, y), the popup has the gravity bottom|right, and the offset is (ox, oy), the calculated surface position will be (x + ox, y + oy). The offset position of the surface is the one used for constraint testing. See set_constraint_adjustment. An example use case is placing a popup menu on top of a user interface element, while aligning the user interface element of the parent surface with some user interface element placed somewhere in the popup.
+Point
+
+## 
+For example if the anchor of the anchor rectangle is at (x, y), the popup has the gravity bottom|right, and the offset is (ox, oy), the calculated surface position will be (x + ox, y + oy). The offset position of the surface is the one used for constraint testing. See set_constraint_adjustment. An example use case is placing a popup menu on top of a user interface element, while aligning the user interface element of the parent surface with some user interface element placed somewhere in the popup.
 
 ## See Also
 

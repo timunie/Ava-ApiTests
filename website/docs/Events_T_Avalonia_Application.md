@@ -23,7 +23,7 @@ import Tag from '@site/src/components/Tag';
 </tr>
 <tr>
 <td><a href="E_Avalonia_Application_UrlsOpened">UrlsOpened</a></td>
-<td><strong>Obsolete.</strong></td>
+<td><Tag>Obsolete.</Tag></td>
 </tr>
 </table>
 

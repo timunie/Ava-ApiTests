@@ -44,6 +44,10 @@ override Build :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/FuncDataTemplate.cs#L124" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a></dt><dd>The data to display.</dd><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>An optional control to recycle.</dd></dl>
 
@@ -53,6 +57,9 @@ The *existing* control if supplied and applicable to *data*, otherwise a new con
 
 #### Implements
 <a href="M_Avalonia_Controls_Templates_IRecyclingDataTemplate_Build">IRecyclingDataTemplate.Build(Object, Control)</a>  
+
+
+## 
 The caller should ensure that any control passed to *existing* originated from the same data template.
 
 ## See Also

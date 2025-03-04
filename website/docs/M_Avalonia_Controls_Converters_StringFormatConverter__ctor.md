@@ -33,6 +33,10 @@ new : unit -> StringFormatConverter
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Converters/StringFormatConverter.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

@@ -34,6 +34,10 @@ override ClientSize : Size with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Embedding/Offscreen/OffscreenTopLevelImpl.cs#L38" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Size
 

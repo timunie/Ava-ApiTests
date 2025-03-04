@@ -34,6 +34,10 @@ member Presenter : ItemsPresenter with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ItemsControl.cs#L195" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Presenters_ItemsPresenter">ItemsPresenter</a>
 

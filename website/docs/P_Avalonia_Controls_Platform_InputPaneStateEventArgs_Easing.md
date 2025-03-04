@@ -34,6 +34,10 @@ member Easing : IEasing with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IInputPane.cs#L88" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 IEasing
 

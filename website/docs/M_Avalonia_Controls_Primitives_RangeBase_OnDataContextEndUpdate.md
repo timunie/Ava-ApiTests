@@ -32,6 +32,10 @@ override OnDataContextEndUpdate : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/RangeBase.cs#L186" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

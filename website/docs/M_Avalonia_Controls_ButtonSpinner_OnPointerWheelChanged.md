@@ -38,6 +38,10 @@ override OnPointerWheelChanged :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ButtonSpinner.cs#L201" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  PointerWheelEventArgs</dt><dd> </dd></dl>
 

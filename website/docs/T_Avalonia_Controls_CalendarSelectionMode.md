@@ -31,6 +31,9 @@ type CalendarSelectionMode
 </TabItem>
 </Tabs>
 
+
+
+## 
 This enumeration provides the values that are used by the SelectionMode property.
 
 ## Members

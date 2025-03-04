@@ -36,6 +36,10 @@ member Add :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/NativeMenu.cs#L97" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_NativeMenuItemBase">NativeMenuItemBase</a></dt><dd> </dd></dl>
 

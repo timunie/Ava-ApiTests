@@ -33,6 +33,10 @@ type AutomationLiveSetting
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/AutomationLiveSetting.cs" title="View the source code">View Source</a>
+
+
+
 ## Members
 <table>
 <tr>

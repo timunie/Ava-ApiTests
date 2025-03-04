@@ -33,6 +33,10 @@ override PlatformImpl : ITopLevelImpl with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/WindowBaseAutomationPeer.cs#L22" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Platform_ITopLevelImpl">ITopLevelImpl</a>
 

@@ -33,6 +33,10 @@ override FocusManager : IFocusManager with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TopLevel.cs#L568" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 IFocusManager
 

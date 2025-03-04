@@ -33,6 +33,10 @@ static val ChildProperty: StyledProperty<Control>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Decorator.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="T_Avalonia_Controls_Control">Control</a>)
 

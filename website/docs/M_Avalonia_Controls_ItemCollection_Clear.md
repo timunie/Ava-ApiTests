@@ -33,6 +33,10 @@ member Clear : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ItemCollection.cs#L56" title="View the source code">View Source</a>
+
+
+
 ## Exceptions
 <table>
 <tr>

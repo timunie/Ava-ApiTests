@@ -10,7 +10,7 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Automation_Provider_IRangeValueProvider_SetValue">SetValue</a></td>
+<td><a href="M_Avalonia_Automation_Provider_IRangeValueProvider_SetValue">SetValue(Double)</a></td>
 <td>Sets the value of the control.</td>
 </tr>
 </table>

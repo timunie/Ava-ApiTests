@@ -33,6 +33,10 @@ member InvalidateChildren : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/ControlAutomationPeer.cs#L147" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

@@ -35,10 +35,17 @@ type IManagedNotificationManager =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Notifications/IManagedNotificationManager.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_Notifications_INotificationManager">INotificationManager</a></td></tr>
 </table>
 
+
+
+## 
 Because notification managers of this type are implemented purely in managed code, they can display arbitrary content, as opposed to notification managers which display notifications using the host operating system's notification mechanism.
 
 ## Methods
@@ -52,7 +59,7 @@ Because notification managers of this type are implemented purely in managed cod
 <td>Closes a notification.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Notifications_INotificationManager_CloseAll">CloseAll</a></td>
+<td><a href="M_Avalonia_Controls_Notifications_INotificationManager_CloseAll">CloseAll()</a></td>
 <td>Closes all notifications.<br />(Inherited from <a href="T_Avalonia_Controls_Notifications_INotificationManager">INotificationManager</a>)</td>
 </tr>
 <tr>

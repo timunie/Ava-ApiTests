@@ -31,6 +31,10 @@ type SizingMode
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Remote/RemoteWidget.cs" title="View the source code">View Source</a>
+
+
+
 ## Members
 <table>
 <tr>

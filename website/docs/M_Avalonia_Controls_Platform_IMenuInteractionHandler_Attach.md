@@ -38,6 +38,10 @@ abstract Attach :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IMenuInteractionHandler.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_MenuBase">MenuBase</a></dt><dd>The menu.</dd></dl>
 

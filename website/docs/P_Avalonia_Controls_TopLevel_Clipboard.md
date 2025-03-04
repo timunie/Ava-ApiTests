@@ -34,6 +34,10 @@ member Clipboard : IClipboard with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TopLevel.cs#L565" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 IClipboard
 

@@ -18,19 +18,19 @@ import Tag from '@site/src/components/Tag';
 <td><br />(Inherited from Interactive)</td>
 </tr>
 <tr>
-<td>ApplyStyling</td>
+<td>ApplyStyling()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_ApplyTemplate">ApplyTemplate</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_ApplyTemplate">ApplyTemplate()</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl</a>)</td>
 </tr>
 <tr>
-<td>Arrange</td>
+<td>Arrange(Rect)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>BeginInit</td>
+<td>BeginInit()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ import Tag from '@site/src/components/Tag';
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>CheckAccess</td>
+<td>CheckAccess()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
@@ -86,31 +86,31 @@ import Tag from '@site/src/components/Tag';
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>CoerceValue</td>
+<td>CoerceValue(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>EndInit</td>
+<td>EndInit()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td>Equals</td>
+<td>Equals(Object)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>Focus</td>
+<td>Focus(NavigationMethod, KeyModifiers)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>GetBaseValue``1</td>
+<td>GetBaseValue``1(StyledProperty(UMP))</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>GetHashCode</td>
+<td>GetHashCode()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType()</a></td>
 <td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a> of the current instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
@@ -126,31 +126,31 @@ import Tag from '@site/src/components/Tag';
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>InvalidateArrange</td>
+<td>InvalidateArrange()</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>InvalidateMeasure</td>
+<td>InvalidateMeasure()</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>InvalidateVisual</td>
+<td>InvalidateVisual()</td>
 <td><br />(Inherited from Visual)</td>
 </tr>
 <tr>
-<td>IsAnimating</td>
+<td>IsAnimating(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>IsSet</td>
+<td>IsSet(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>Measure</td>
+<td>Measure(Size)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>RaiseEvent</td>
+<td>RaiseEvent(RoutedEventArgs)</td>
 <td><br />(Inherited from Interactive)</td>
 </tr>
 <tr>
@@ -162,7 +162,7 @@ import Tag from '@site/src/components/Tag';
 <td><br />(Inherited from Interactive)</td>
 </tr>
 <tr>
-<td>Render</td>
+<td>Render(DrawingContext)</td>
 <td><br />(Inherited from Visual)</td>
 </tr>
 <tr>
@@ -186,19 +186,19 @@ import Tag from '@site/src/components/Tag';
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString()</a></td>
 <td>Returns a string that represents the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td>TryGetResource</td>
+<td>TryGetResource(Object, ThemeVariant, Object)</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td>UpdateLayout</td>
+<td>UpdateLayout()</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>VerifyAccess</td>
+<td>VerifyAccess()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 </table>
@@ -206,27 +206,27 @@ import Tag from '@site/src/components/Tag';
 ## Extension Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_BringIntoView_1">BringIntoView</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_BringIntoView_1">BringIntoView()</a></td>
 <td>Tries to bring the control into view.<br />(Defined by <a href="T_Avalonia_Controls_ControlExtensions">ControlExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_BringIntoView">BringIntoView</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_BringIntoView">BringIntoView(Rect)</a></td>
 <td>Tries to bring the control into view.<br />(Defined by <a href="T_Avalonia_Controls_ControlExtensions">ControlExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_FindControl__1">FindControl(T)</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_FindControl__1">FindControl(T)(String)</a></td>
 <td>Finds the named control in the scope of the specified control.<br />(Defined by <a href="T_Avalonia_Controls_ControlExtensions">ControlExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Templates_DataTemplateExtensions_FindDataTemplate">FindDataTemplate</a></td>
+<td><a href="M_Avalonia_Controls_Templates_DataTemplateExtensions_FindDataTemplate">FindDataTemplate(Object, IDataTemplate)</a></td>
 <td>Find a data template that matches a piece of data.<br />(Defined by <a href="T_Avalonia_Controls_Templates_DataTemplateExtensions">DataTemplateExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_GetControl__1">GetControl(T)</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_GetControl__1">GetControl(T)(String)</a></td>
 <td>Finds the named control in the scope of the specified control and throws if not found.<br />(Defined by <a href="T_Avalonia_Controls_ControlExtensions">ControlExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Templates_TemplateExtensions_GetTemplateChildren">GetTemplateChildren</a></td>
+<td><a href="M_Avalonia_Controls_Templates_TemplateExtensions_GetTemplateChildren">GetTemplateChildren()</a></td>
 <td><br />(Defined by <a href="T_Avalonia_Controls_Templates_TemplateExtensions">TemplateExtensions</a>)</td>
 </tr>
 </table>

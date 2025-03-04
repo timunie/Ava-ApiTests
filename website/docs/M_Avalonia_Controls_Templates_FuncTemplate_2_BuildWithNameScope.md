@@ -36,6 +36,10 @@ member BuildWithNameScope :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/FuncTemplate%602.cs#L37" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Templates_FuncTemplate_2">TParam</a></dt><dd> </dd></dl>
 

@@ -33,6 +33,10 @@ type IScrollSnapPointsInfo = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/IScrollSnapPointsInfo.cs" title="View the source code">View Source</a>
+
+
+
 ## Properties
 <table>
 <tr>
@@ -48,11 +52,11 @@ type IScrollSnapPointsInfo = interface end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_IScrollSnapPointsInfo_GetIrregularSnapPoints">GetIrregularSnapPoints</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_IScrollSnapPointsInfo_GetIrregularSnapPoints">GetIrregularSnapPoints(Orientation, SnapPointsAlignment)</a></td>
 <td>Returns the set of distances between irregular snap points for a specified orientation and alignment.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_IScrollSnapPointsInfo_GetRegularSnapPoints">GetRegularSnapPoints</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_IScrollSnapPointsInfo_GetRegularSnapPoints">GetRegularSnapPoints(Orientation, SnapPointsAlignment, Double)</a></td>
 <td>Gets the distance between regular snap points for a specified orientation and alignment.</td>
 </tr>
 </table>

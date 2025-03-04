@@ -40,6 +40,10 @@ override OnPointerPressed :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Label.cs#L57" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  PointerPressedEventArgs</dt><dd>Event Arguments</dd></dl>
 

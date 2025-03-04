@@ -38,6 +38,10 @@ override OnTextInput :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBox.cs#L1067" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  TextInputEventArgs</dt><dd> </dd></dl>
 

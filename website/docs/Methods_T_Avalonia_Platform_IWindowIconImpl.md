@@ -10,7 +10,7 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Platform_IWindowIconImpl_Save">Save</a></td>
+<td><a href="M_Avalonia_Platform_IWindowIconImpl_Save">Save(Stream)</a></td>
 <td> </td>
 </tr>
 </table>

@@ -40,6 +40,10 @@ override OnTemplateChanged :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/TemplatedControl.cs#L402" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  AvaloniaPropertyChangedEventArgs</dt><dd>The event args.</dd></dl>
 

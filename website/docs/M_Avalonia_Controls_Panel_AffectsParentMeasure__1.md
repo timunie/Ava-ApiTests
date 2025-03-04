@@ -40,6 +40,10 @@ static member AffectsParentMeasure :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Panel.cs#L120" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  AvaloniaProperty[]</dt><dd>The properties.</dd></dl>
 

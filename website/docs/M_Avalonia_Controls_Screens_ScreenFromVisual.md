@@ -38,6 +38,10 @@ member ScreenFromVisual :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Screens.cs#L149" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Visual</dt><dd>A Visual for which to retrieve a Screen.</dd></dl>
 

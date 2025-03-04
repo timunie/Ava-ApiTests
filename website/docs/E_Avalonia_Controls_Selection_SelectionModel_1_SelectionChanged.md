@@ -32,6 +32,10 @@ member SelectionChanged : IEvent<EventHandler<SelectionModelSelectionChangedEven
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Selection/SelectionModel.cs" title="View the source code">View Source</a>
+
+
+
 #### Value
 <a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Controls_Selection_SelectionModelSelectionChangedEventArgs_1">SelectionModelSelectionChangedEventArgs</a>(<a href="T_Avalonia_Controls_Selection_SelectionModel_1">T</a>))
 

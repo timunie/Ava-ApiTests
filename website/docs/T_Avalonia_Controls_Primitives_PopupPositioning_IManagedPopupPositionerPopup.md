@@ -50,7 +50,7 @@ type IManagedPopupPositionerPopup = interface end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_PopupPositioning_IManagedPopupPositionerPopup_MoveAndResize">MoveAndResize</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_PopupPositioning_IManagedPopupPositionerPopup_MoveAndResize">MoveAndResize(Point, Size)</a></td>
 <td> </td>
 </tr>
 </table>

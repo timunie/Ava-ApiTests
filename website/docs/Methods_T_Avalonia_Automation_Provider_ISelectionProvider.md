@@ -10,7 +10,7 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Automation_Provider_ISelectionProvider_GetSelection">GetSelection</a></td>
+<td><a href="M_Avalonia_Automation_Provider_ISelectionProvider_GetSelection">GetSelection()</a></td>
 <td>Retrieves a provider for each child element that is selected.</td>
 </tr>
 </table>

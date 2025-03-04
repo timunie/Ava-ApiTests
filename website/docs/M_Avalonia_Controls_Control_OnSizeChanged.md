@@ -40,6 +40,10 @@ override OnSizeChanged :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Control.cs#L365" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_SizeChangedEventArgs">SizeChangedEventArgs</a></dt><dd>The event args.</dd></dl>
 

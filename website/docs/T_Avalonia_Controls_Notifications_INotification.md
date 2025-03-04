@@ -33,6 +33,10 @@ type INotification = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Notifications/INotification.cs" title="View the source code">View Source</a>
+
+
+
 ## Properties
 <table>
 <tr>

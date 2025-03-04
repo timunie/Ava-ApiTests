@@ -33,6 +33,10 @@ static val TemplateProperty: StyledProperty<IControlTemplate>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/TemplatedControl.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="T_Avalonia_Controls_Templates_IControlTemplate">IControlTemplate</a>)
 

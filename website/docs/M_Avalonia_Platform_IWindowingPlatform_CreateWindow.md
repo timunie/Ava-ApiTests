@@ -31,6 +31,10 @@ abstract CreateWindow : unit -> IWindowImpl
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IWindowingPlatform.cs" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="T_Avalonia_Platform_IWindowImpl">IWindowImpl</a>
 

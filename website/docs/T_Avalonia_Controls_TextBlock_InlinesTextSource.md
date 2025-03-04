@@ -35,6 +35,10 @@ type InlinesTextSource =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBlock.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="https://learn.microsoft.com/dotnet/api/system.valuetype" target="_blank" rel="noopener noreferrer">ValueType</a>  →  TextBlock.InlinesTextSource</td></tr>
 <tr><td><strong>Implements</strong></td><td>ITextSource</td></tr>
@@ -45,7 +49,7 @@ type InlinesTextSource =
 ## Constructors
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_TextBlock_InlinesTextSource__ctor">TextBlock.InlinesTextSource</a></td>
+<td><a href="M_Avalonia_Controls_TextBlock_InlinesTextSource__ctor">TextBlock.InlinesTextSource(IReadOnlyList(TextRun), IReadOnlyList(ValueSpan(TextRunProperties)))</a></td>
 <td>Initializes a new instance of the TextBlock.InlinesTextSource class</td>
 </tr>
 </table>
@@ -61,23 +65,23 @@ type InlinesTextSource =
 ## Methods
 <table>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.valuetype.equals" target="_blank" rel="noopener noreferrer">Equals</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.valuetype.equals" target="_blank" rel="noopener noreferrer">Equals(Object)</a></td>
 <td>Indicates whether this instance and a specified object are equal.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.valuetype" target="_blank" rel="noopener noreferrer">ValueType</a>)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.valuetype.gethashcode" target="_blank" rel="noopener noreferrer">GetHashCode</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.valuetype.gethashcode" target="_blank" rel="noopener noreferrer">GetHashCode()</a></td>
 <td>Returns the hash code for this instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.valuetype" target="_blank" rel="noopener noreferrer">ValueType</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_TextBlock_InlinesTextSource_GetTextRun">GetTextRun</a></td>
+<td><a href="M_Avalonia_Controls_TextBlock_InlinesTextSource_GetTextRun">GetTextRun(Int32)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType()</a></td>
 <td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a> of the current instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.valuetype.tostring" target="_blank" rel="noopener noreferrer">ToString</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.valuetype.tostring" target="_blank" rel="noopener noreferrer">ToString()</a></td>
 <td>Returns the fully qualified type name of this instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.valuetype" target="_blank" rel="noopener noreferrer">ValueType</a>)</td>
 </tr>
 </table>

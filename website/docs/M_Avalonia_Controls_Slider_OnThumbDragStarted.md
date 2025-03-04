@@ -40,6 +40,10 @@ override OnThumbDragStarted :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Slider.cs#L429" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  VectorEventArgs</dt><dd /></dl>
 

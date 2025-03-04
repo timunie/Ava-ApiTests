@@ -33,6 +33,10 @@ static val AlignBottomWithPanelProperty: AttachedProperty<bool>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/RelativePanel.AttachedProperties.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 AttachedProperty(<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>)
 

@@ -34,6 +34,10 @@ member BlackoutDates : CalendarBlackoutDatesCollection with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/CalendarDatePicker/CalendarDatePicker.Properties.cs#L114" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Primitives_CalendarBlackoutDatesCollection">CalendarBlackoutDatesCollection</a>  
 A collection of dates that cannot be selected. The default value is an empty collection.

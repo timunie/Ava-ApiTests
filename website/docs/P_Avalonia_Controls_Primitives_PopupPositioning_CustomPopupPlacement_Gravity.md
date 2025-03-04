@@ -33,6 +33,10 @@ member Gravity : PopupGravity with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/PopupPositioning/CustomPopupPlacement.cs#L44" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupGravity">PopupGravity</a>
 

@@ -41,6 +41,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextChangedEventArgs.cs#L25" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  RoutedEvent</dt><dd>The routed event associated with these event args.</dd><dt>  Interactive</dt><dd>The source object that raised the routed event.</dd></dl>
 

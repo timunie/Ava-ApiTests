@@ -34,6 +34,10 @@ override EndInit : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/SelectingItemsControl.cs#L409" title="View the source code">View Source</a>
+
+
+
 #### Implements
 <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.isupportinitialize.endinit" target="_blank" rel="noopener noreferrer">ISupportInitialize.EndInit()</a>  
 

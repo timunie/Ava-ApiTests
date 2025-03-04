@@ -35,9 +35,16 @@ member SelectionAdapter : ISelectionAdapter with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L564" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Utils_ISelectionAdapter">ISelectionAdapter</a>  
-The selection adapter used to populate the drop-down with a list of selectable items.You can use this property when you create an automation peer to use with AutoCompleteBox or deriving from AutoCompleteBox to create a custom control.
+The selection adapter used to populate the drop-down with a list of selectable items.
+
+## 
+You can use this property when you create an automation peer to use with AutoCompleteBox or deriving from AutoCompleteBox to create a custom control.
 
 ## See Also
 

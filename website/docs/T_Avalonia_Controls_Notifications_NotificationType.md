@@ -33,6 +33,10 @@ type NotificationType
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Notifications/NotificationType.cs" title="View the source code">View Source</a>
+
+
+
 ## Members
 <table>
 <tr>

@@ -32,6 +32,10 @@ override ApplyTemplate : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Presenters/ItemsPresenter.cs#L89" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

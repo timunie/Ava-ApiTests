@@ -18,15 +18,15 @@ import Tag from '@site/src/components/Tag';
 <td>Tries to bring the control into view.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_FindControl__1">FindControl(T)</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_FindControl__1">FindControl(T)(Control, String)</a></td>
 <td>Finds the named control in the scope of the specified control.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_GetControl__1">GetControl(T)</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_GetControl__1">GetControl(T)(Control, String)</a></td>
 <td>Finds the named control in the scope of the specified control and throws if not found.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_Set">Set</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_Set">Set(IPseudoClasses, String, IObservable(Boolean))</a></td>
 <td>Sets a pseudoclass depending on an observable trigger.</td>
 </tr>
 </table>

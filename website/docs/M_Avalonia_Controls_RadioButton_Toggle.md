@@ -32,6 +32,10 @@ override Toggle : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/RadioButton.cs#L45" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

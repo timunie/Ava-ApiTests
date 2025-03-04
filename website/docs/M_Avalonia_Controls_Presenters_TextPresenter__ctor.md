@@ -33,6 +33,10 @@ new : unit -> TextPresenter
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Presenters/TextPresenter.cs#L114" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

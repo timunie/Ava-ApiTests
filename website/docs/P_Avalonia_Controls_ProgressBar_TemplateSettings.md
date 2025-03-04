@@ -34,6 +34,10 @@ member TemplateSettings : ProgressBar.ProgressBarTemplateSettings with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ProgressBar.cs#L253" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_ProgressBar_ProgressBarTemplateSettings">ProgressBar.ProgressBarTemplateSettings</a>
 

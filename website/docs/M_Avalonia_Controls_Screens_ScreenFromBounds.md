@@ -38,12 +38,19 @@ member ScreenFromBounds :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Screens.cs#L75" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  PixelRect</dt><dd>Bounds that specifies the area for which to retrieve the display.</dd></dl>
 
 #### Return Value
 <a href="T_Avalonia_Platform_Screen">Screen</a>  
-The <a href="T_Avalonia_Platform_Screen">Screen</a>.On mobile, this method always returns null.
+The <a href="T_Avalonia_Platform_Screen">Screen</a>.
+
+## 
+On mobile, this method always returns null.
 
 ## See Also
 

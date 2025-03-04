@@ -33,6 +33,10 @@ type IToggleProvider = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Provider/IToggleProvider.cs" title="View the source code">View Source</a>
+
+
+
 ## Properties
 <table>
 <tr>
@@ -44,7 +48,7 @@ type IToggleProvider = interface end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Automation_Provider_IToggleProvider_Toggle">Toggle</a></td>
+<td><a href="M_Avalonia_Automation_Provider_IToggleProvider_Toggle">Toggle()</a></td>
 <td>Cycles through the toggle states of a control.</td>
 </tr>
 </table>

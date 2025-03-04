@@ -35,6 +35,10 @@ member MinimumPopulateDelay : TimeSpan with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.Properties.cs#L266" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.timespan" target="_blank" rel="noopener noreferrer">TimeSpan</a>  
 The minimum delay, after text is typed in the text box, but before the <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox</a> populates the list of possible matches in the drop-down. The default is 0.

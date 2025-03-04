@@ -33,6 +33,10 @@ member Mode : RemoteWidget.SizingMode with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Remote/RemoteWidget.cs#L40" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Remote_RemoteWidget_SizingMode">RemoteWidget.SizingMode</a>
 

@@ -38,6 +38,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L2090" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  IBinding</dt><dd>The initial string value binding.</dd></dl>
 

@@ -10,19 +10,19 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Platform_IWindowingPlatform_CreateEmbeddableTopLevel">CreateEmbeddableTopLevel</a></td>
+<td><a href="M_Avalonia_Platform_IWindowingPlatform_CreateEmbeddableTopLevel">CreateEmbeddableTopLevel()</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Platform_IWindowingPlatform_CreateEmbeddableWindow">CreateEmbeddableWindow</a></td>
+<td><a href="M_Avalonia_Platform_IWindowingPlatform_CreateEmbeddableWindow">CreateEmbeddableWindow()</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Platform_IWindowingPlatform_CreateTrayIcon">CreateTrayIcon</a></td>
+<td><a href="M_Avalonia_Platform_IWindowingPlatform_CreateTrayIcon">CreateTrayIcon()</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Platform_IWindowingPlatform_CreateWindow">CreateWindow</a></td>
+<td><a href="M_Avalonia_Platform_IWindowingPlatform_CreateWindow">CreateWindow()</a></td>
 <td> </td>
 </tr>
 </table>

@@ -33,6 +33,10 @@ new : unit -> Canvas
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Canvas.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

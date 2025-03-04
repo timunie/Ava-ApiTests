@@ -33,6 +33,10 @@ static val FontStretchProperty: StyledProperty<FontStretch>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/TemplatedControl.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(FontStretch)
 

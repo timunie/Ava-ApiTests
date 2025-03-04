@@ -33,6 +33,10 @@ new : unit -> NumericUpDown
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/NumericUpDown/NumericUpDown.cs#L333" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

@@ -33,6 +33,10 @@ new : unit -> SelectableTextBlock
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SelectableTextBlock.cs#L47" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

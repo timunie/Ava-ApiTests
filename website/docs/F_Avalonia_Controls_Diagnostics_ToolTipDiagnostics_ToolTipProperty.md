@@ -33,6 +33,10 @@ static val ToolTipProperty: AvaloniaProperty<ToolTip>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Diagnostics/ToolTipDiagnostics.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 AvaloniaProperty(<a href="T_Avalonia_Controls_ToolTip">ToolTip</a>)
 

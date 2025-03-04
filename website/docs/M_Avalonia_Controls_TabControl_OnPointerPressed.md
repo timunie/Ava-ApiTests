@@ -38,6 +38,10 @@ override OnPointerPressed :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TabControl.cs#L278" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  PointerPressedEventArgs</dt><dd> </dd></dl>
 

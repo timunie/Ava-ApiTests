@@ -38,6 +38,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/MenuBase.cs#L53" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Platform_IMenuInteractionHandler">IMenuInteractionHandler</a></dt><dd>The menu interaction handler.</dd></dl>
 

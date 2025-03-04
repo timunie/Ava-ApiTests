@@ -33,6 +33,10 @@ static val Access: FuncDataTemplate
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/FuncDataTemplate.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 <a href="T_Avalonia_Controls_Templates_FuncDataTemplate">FuncDataTemplate</a>
 

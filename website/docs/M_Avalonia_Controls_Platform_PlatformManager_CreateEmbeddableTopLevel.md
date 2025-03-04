@@ -31,6 +31,10 @@ static member CreateEmbeddableTopLevel : unit -> ITopLevelImpl
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/PlatformManager.cs#L41" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="T_Avalonia_Platform_ITopLevelImpl">ITopLevelImpl</a>
 

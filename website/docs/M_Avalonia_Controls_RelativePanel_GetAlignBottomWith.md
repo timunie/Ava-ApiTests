@@ -38,6 +38,10 @@ static member GetAlignBottomWith :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/RelativePanel.AttachedProperties.cs#L107" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  AvaloniaObject</dt><dd>The object from which the property value is read.</dd></dl>
 

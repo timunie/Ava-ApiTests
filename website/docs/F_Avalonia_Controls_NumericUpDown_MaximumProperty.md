@@ -33,6 +33,10 @@ static val MaximumProperty: StyledProperty<decimal>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/NumericUpDown/NumericUpDown.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="https://learn.microsoft.com/dotnet/api/system.decimal" target="_blank" rel="noopener noreferrer">Decimal</a>)
 

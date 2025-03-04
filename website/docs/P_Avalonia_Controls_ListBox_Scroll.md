@@ -34,6 +34,10 @@ member Scroll : IScrollable with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ListBox.cs#L76" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Primitives_IScrollable">IScrollable</a>
 

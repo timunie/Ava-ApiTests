@@ -34,6 +34,10 @@ override CreateDefiningGeometry : unit -> Geometry
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Sector.cs#L55" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 Geometry  
 Defining Geometry of the shape.

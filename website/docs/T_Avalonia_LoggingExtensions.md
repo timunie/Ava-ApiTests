@@ -33,6 +33,10 @@ type LoggingExtensions = class end
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/LoggingExtensions.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  LoggingExtensions</td></tr>
 </table>
@@ -42,7 +46,7 @@ type LoggingExtensions = class end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_LoggingExtensions_LogToTrace">LogToTrace</a></td>
+<td><a href="M_Avalonia_LoggingExtensions_LogToTrace">LogToTrace(AppBuilder, LogEventLevel, String[])</a></td>
 <td>Logs Avalonia events to the <a href="https://learn.microsoft.com/dotnet/api/system.diagnostics.trace" target="_blank" rel="noopener noreferrer">Trace</a> sink.</td>
 </tr>
 </table>

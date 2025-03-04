@@ -32,6 +32,10 @@ member Items : IList<NativeMenuItemBase> with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/NativeMenu.cs#L20" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1" target="_blank" rel="noopener noreferrer">IList</a>(<a href="T_Avalonia_Controls_NativeMenuItemBase">NativeMenuItemBase</a>)
 

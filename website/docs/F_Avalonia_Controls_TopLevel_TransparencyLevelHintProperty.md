@@ -33,6 +33,10 @@ static val TransparencyLevelHintProperty: StyledProperty<IReadOnlyList<WindowTra
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TopLevel.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ireadonlylist-1" target="_blank" rel="noopener noreferrer">IReadOnlyList</a>(<a href="T_Avalonia_Controls_WindowTransparencyLevel">WindowTransparencyLevel</a>))
 

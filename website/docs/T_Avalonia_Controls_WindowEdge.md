@@ -31,6 +31,10 @@ type WindowEdge
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/WindowEdge.cs" title="View the source code">View Source</a>
+
+
+
 ## Members
 <table>
 <tr>

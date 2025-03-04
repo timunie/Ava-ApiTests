@@ -33,6 +33,10 @@ type FuncTemplateNameScopeExtensions = class end
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/FuncTemplateNameScopeExtensions.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  FuncTemplateNameScopeExtensions</td></tr>
 </table>
@@ -42,7 +46,7 @@ type FuncTemplateNameScopeExtensions = class end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Templates_FuncTemplateNameScopeExtensions_RegisterInNameScope__1">RegisterInNameScope(T)</a></td>
+<td><a href="M_Avalonia_Controls_Templates_FuncTemplateNameScopeExtensions_RegisterInNameScope__1">RegisterInNameScope(T)(T, INameScope)</a></td>
 <td> </td>
 </tr>
 </table>

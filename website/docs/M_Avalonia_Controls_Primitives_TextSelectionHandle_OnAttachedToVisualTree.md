@@ -38,6 +38,10 @@ override OnAttachedToVisualTree :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/TextSelectionHandle.cs#L33" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  VisualTreeAttachmentEventArgs</dt><dd> </dd></dl>
 

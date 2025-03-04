@@ -31,6 +31,10 @@ static val CopyingToClipboardEvent: RoutedEvent<RoutedEventArgs>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SelectableTextBlock.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 RoutedEvent(RoutedEventArgs)
 

@@ -33,6 +33,10 @@ new : unit -> Carousel
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Carousel.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

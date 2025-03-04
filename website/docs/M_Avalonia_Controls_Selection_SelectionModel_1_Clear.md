@@ -32,6 +32,10 @@ override Clear : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Selection/SelectionModel.cs#L282" title="View the source code">View Source</a>
+
+
+
 #### Implements
 <a href="M_Avalonia_Controls_Selection_ISelectionModel_Clear">ISelectionModel.Clear()</a>  
 

@@ -35,9 +35,16 @@ member BringIntoViewOnFocusChange : bool with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ScrollViewer.cs#L206" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>  
-true to use a behavior that brings focused items into view. false to use a behavior that focused items do not automatically scroll into view. The default is true.BringIntoViewOnFocusChange can either be set explicitly on a <a href="T_Avalonia_Controls_ScrollViewer">ScrollViewer</a>, or a the attached 
+true to use a behavior that brings focused items into view. false to use a behavior that focused items do not automatically scroll into view. The default is true.
+
+## 
+BringIntoViewOnFocusChange can either be set explicitly on a <a href="T_Avalonia_Controls_ScrollViewer">ScrollViewer</a>, or a the attached 
 
 **C#**  
 ``` C#

@@ -10,7 +10,7 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_IStorageProviderFactory_CreateProvider">CreateProvider</a></td>
+<td><a href="M_Avalonia_Controls_Platform_IStorageProviderFactory_CreateProvider">CreateProvider(TopLevel)</a></td>
 <td> </td>
 </tr>
 </table>

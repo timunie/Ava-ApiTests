@@ -35,6 +35,10 @@ member ItemsView : ItemsSourceView<'T> with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Selection/SelectionNodeBase.cs#L55" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_ItemsSourceView_1">ItemsSourceView</a>(<a href="T_Avalonia_Controls_Selection_SelectionNodeBase_1">T</a>)
 

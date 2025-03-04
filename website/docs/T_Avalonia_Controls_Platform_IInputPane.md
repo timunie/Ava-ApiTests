@@ -33,6 +33,10 @@ type IInputPane = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IInputPane.cs" title="View the source code">View Source</a>
+
+
+
 ## Properties
 <table>
 <tr>

@@ -34,6 +34,10 @@ override OnClick : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/HyperlinkButton.cs#L78" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

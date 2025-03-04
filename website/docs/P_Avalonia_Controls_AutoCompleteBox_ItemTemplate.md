@@ -35,9 +35,16 @@ member ItemTemplate : IDataTemplate with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.Properties.cs#L250" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Templates_IDataTemplate">IDataTemplate</a>  
-The DataTemplate used to display each item in the drop-down. The default is null.You use the ItemTemplate property to specify the visualization of the data objects in the drop-down portion of the AutoCompleteBox control. If your AutoCompleteBox is bound to a collection and you do not provide specific display instructions by using a DataTemplate, the resulting UI of each item is a string representation of each object in the underlying collection.
+The DataTemplate used to display each item in the drop-down. The default is null.
+
+## 
+You use the ItemTemplate property to specify the visualization of the data objects in the drop-down portion of the AutoCompleteBox control. If your AutoCompleteBox is bound to a collection and you do not provide specific display instructions by using a DataTemplate, the resulting UI of each item is a string representation of each object in the underlying collection.
 
 ## See Also
 

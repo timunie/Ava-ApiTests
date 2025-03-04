@@ -34,7 +34,7 @@ type INativeMenuExporter = interface end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_INativeMenuExporter_SetNativeMenu">SetNativeMenu</a></td>
+<td><a href="M_Avalonia_Controls_Platform_INativeMenuExporter_SetNativeMenu">SetNativeMenu(NativeMenu)</a></td>
 <td> </td>
 </tr>
 </table>

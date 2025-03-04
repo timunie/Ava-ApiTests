@@ -44,6 +44,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/PopupRoot.cs#L60" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_TopLevel">TopLevel</a></dt><dd>The popup parent.</dd><dt>  <a href="T_Avalonia_Platform_IPopupImpl">IPopupImpl</a></dt><dd>The popup implementation.</dd><dt>  IAvaloniaDependencyResolver</dt><dd>The dependency resolver to use. If null the default dependency resolver will be used.</dd></dl>
 

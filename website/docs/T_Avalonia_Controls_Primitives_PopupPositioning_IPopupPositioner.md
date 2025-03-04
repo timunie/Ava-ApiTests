@@ -31,12 +31,19 @@ type IPopupPositioner = interface end
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/PopupPositioning/IPopupPositioner.cs" title="View the source code">View Source</a>
+
+
+
+## 
 IPopupPositioner is an abstraction of the wayland xdg_positioner spec. The popup positioner implementation is determined by the platform implementation. A default managed implementation is provided in <a href="T_Avalonia_Controls_Primitives_PopupPositioning_ManagedPopupPositioner">ManagedPopupPositioner</a> for platforms on which popups can be arbitrarily positioned.
 
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_PopupPositioning_IPopupPositioner_Update">Update</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_PopupPositioning_IPopupPositioner_Update">Update(PopupPositionerParameters)</a></td>
 <td>Updates the position of the associated <a href="T_Avalonia_Controls_Primitives_IPopupHost">IPopupHost</a> according to the specified parameters.</td>
 </tr>
 </table>

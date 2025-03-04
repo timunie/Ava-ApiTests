@@ -10,7 +10,7 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Platform_IApplicationPlatformEvents_RaiseUrlsOpened">RaiseUrlsOpened</a></td>
+<td><a href="M_Avalonia_Platform_IApplicationPlatformEvents_RaiseUrlsOpened">RaiseUrlsOpened(String[])</a></td>
 <td> </td>
 </tr>
 </table>

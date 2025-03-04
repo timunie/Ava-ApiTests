@@ -45,6 +45,10 @@ type IActivatableApplicationLifetime =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ApplicationLifetimes/IActivatableApplicationLifetime.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_ApplicationLifetimes_IActivatableLifetime">IActivatableLifetime</a></td></tr>
 </table>
@@ -54,11 +58,11 @@ type IActivatableApplicationLifetime =
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_ApplicationLifetimes_IActivatableLifetime_TryEnterBackground">TryEnterBackground</a></td>
+<td><a href="M_Avalonia_Controls_ApplicationLifetimes_IActivatableLifetime_TryEnterBackground">TryEnterBackground()</a></td>
 <td>Tells the application that it should attempt to enter its background state. For example on OSX this would be [NSApp hide]<br />(Inherited from <a href="T_Avalonia_Controls_ApplicationLifetimes_IActivatableLifetime">IActivatableLifetime</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ApplicationLifetimes_IActivatableLifetime_TryLeaveBackground">TryLeaveBackground</a></td>
+<td><a href="M_Avalonia_Controls_ApplicationLifetimes_IActivatableLifetime_TryLeaveBackground">TryLeaveBackground()</a></td>
 <td>Tells the application that it should attempt to leave its background state. For example on OSX this would be [NSApp unhide]<br />(Inherited from <a href="T_Avalonia_Controls_ApplicationLifetimes_IActivatableLifetime">IActivatableLifetime</a>)</td>
 </tr>
 </table>

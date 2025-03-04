@@ -33,6 +33,10 @@ static val ItemFilterProperty: StyledProperty<AutoCompleteFilterPredicate<Object
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="T_Avalonia_Controls_AutoCompleteFilterPredicate_1">AutoCompleteFilterPredicate</a>(<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>))  
 The identifier for the <a href="P_Avalonia_Controls_AutoCompleteBox_ItemFilter">ItemFilter</a> property.

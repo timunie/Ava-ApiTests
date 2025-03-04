@@ -35,6 +35,10 @@ abstract ItemsSource : IEnumerable with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Utils/ISelectionAdapter.cs" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.collections.ienumerable" target="_blank" rel="noopener noreferrer">IEnumerable</a>  
 The collection that is used to generate content for the selection adapter.

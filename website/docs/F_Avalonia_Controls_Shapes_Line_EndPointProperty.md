@@ -31,6 +31,10 @@ static val EndPointProperty: StyledProperty<Point>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Line.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(Point)
 

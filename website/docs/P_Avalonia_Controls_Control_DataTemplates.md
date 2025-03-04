@@ -35,11 +35,18 @@ override DataTemplates : DataTemplates with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Control.cs#L127" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Templates_DataTemplates">DataTemplates</a>
 
 #### Implements
 <a href="P_Avalonia_Controls_Templates_IDataTemplateHost_DataTemplates">IDataTemplateHost.DataTemplates</a>  
+
+
+## 
 Each control may define data templates which are applied to the control itself and its children.
 
 ## See Also

@@ -34,8 +34,15 @@ member Percentage : float with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ProgressBar.cs#L233" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>This read-only property is automatically calculated using the current <a href="P_Avalonia_Controls_Primitives_RangeBase_Value">Value</a> and the effective range (<a href="P_Avalonia_Controls_Primitives_RangeBase_Maximum">Maximum</a> - <a href="P_Avalonia_Controls_Primitives_RangeBase_Minimum">Minimum</a>).
+<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>
+
+## 
+This read-only property is automatically calculated using the current <a href="P_Avalonia_Controls_Primitives_RangeBase_Value">Value</a> and the effective range (<a href="P_Avalonia_Controls_Primitives_RangeBase_Maximum">Maximum</a> - <a href="P_Avalonia_Controls_Primitives_RangeBase_Minimum">Minimum</a>).
 
 ## See Also
 

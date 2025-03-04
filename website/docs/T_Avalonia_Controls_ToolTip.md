@@ -37,17 +37,24 @@ type ToolTip =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ToolTip.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  AvaloniaObject  →  Animatable  →  StyledElement  →  Visual  →  Layoutable  →  Interactive  →  InputElement  →  <a href="T_Avalonia_Controls_Control">Control</a>  →  <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl</a>  →  <a href="T_Avalonia_Controls_ContentControl">ContentControl</a>  →  ToolTip</td></tr>
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_Diagnostics_IPopupHostProvider">IPopupHostProvider</a></td></tr>
 </table>
 
+
+
+## 
 You will probably not want to create a ToolTip control directly: if added to the tree it will act as a simple <a href="T_Avalonia_Controls_ContentControl">ContentControl</a> styled to look like a tooltip. To add a tooltip to a control, use the <a href="F_Avalonia_Controls_ToolTip_TipProperty">TipProperty</a> attached property, assigning the content that you want displayed.
 
 ## Constructors
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip__ctor">ToolTip</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip__ctor">ToolTip()</a></td>
 <td>Initializes a new instance of the ToolTip class</td>
 </tr>
 </table>
@@ -407,35 +414,35 @@ You will probably not want to create a ToolTip control directly: if added to the
 <td><br />(Inherited from Interactive)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_AddToolTipClosingHandler">AddToolTipClosingHandler</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_AddToolTipClosingHandler">AddToolTipClosingHandler(Control, EventHandler(RoutedEventArgs))</a></td>
 <td>Adds a handler for the <a href="F_Avalonia_Controls_ToolTip_ToolTipClosingEvent">ToolTipClosingEvent</a> attached event.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_AddToolTipOpeningHandler">AddToolTipOpeningHandler</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_AddToolTipOpeningHandler">AddToolTipOpeningHandler(Control, EventHandler(CancelRoutedEventArgs))</a></td>
 <td>Adds a handler for the <a href="F_Avalonia_Controls_ToolTip_ToolTipOpeningEvent">ToolTipOpeningEvent</a> attached event.</td>
 </tr>
 <tr>
-<td>ApplyStyling</td>
+<td>ApplyStyling()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_ApplyTemplate">ApplyTemplate</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_ApplyTemplate">ApplyTemplate()</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl</a>)</td>
 </tr>
 <tr>
-<td>Arrange</td>
+<td>Arrange(Rect)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>ArrangeCore</td>
+<td>ArrangeCore(Rect)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>ArrangeOverride</td>
+<td>ArrangeOverride(Size)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>BeginInit</td>
+<td>BeginInit()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
@@ -471,11 +478,11 @@ You will probably not want to create a ToolTip control directly: if added to the
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>BuildEventRoute</td>
+<td>BuildEventRoute(RoutedEvent)</td>
 <td><br />(Inherited from Interactive)</td>
 </tr>
 <tr>
-<td>CheckAccess</td>
+<td>CheckAccess()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
@@ -495,75 +502,75 @@ You will probably not want to create a ToolTip control directly: if added to the
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>CoerceValue</td>
+<td>CoerceValue(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>EndInit</td>
+<td>EndInit()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td>Equals</td>
+<td>Equals(Object)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.finalize" target="_blank" rel="noopener noreferrer">Finalize</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.finalize" target="_blank" rel="noopener noreferrer">Finalize()</a></td>
 <td>Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td>Focus</td>
+<td>Focus(NavigationMethod, KeyModifiers)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>GetBaseValue``1</td>
+<td>GetBaseValue``1(StyledProperty(UMP))</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_GetBetweenShowDelay">GetBetweenShowDelay</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_GetBetweenShowDelay">GetBetweenShowDelay(Control)</a></td>
 <td>Gets the number of milliseconds since the last tooltip closed during which the tooltip of <em>element</em> will open immediately, or a negative value indicating that the tooltip will always wait for <a href="F_Avalonia_Controls_ToolTip_ShowDelayProperty">ShowDelayProperty</a> before opening.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_GetCustomPopupPlacementCallback">GetCustomPopupPlacementCallback</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_GetCustomPopupPlacementCallback">GetCustomPopupPlacementCallback(Control)</a></td>
 <td>Gets the value of the ToolTip.CustomPopupPlacementCallback attached property.</td>
 </tr>
 <tr>
-<td>GetHashCode</td>
+<td>GetHashCode()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_GetHorizontalOffset">GetHorizontalOffset</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_GetHorizontalOffset">GetHorizontalOffset(Control)</a></td>
 <td>Gets the value of the ToolTip.HorizontalOffset attached property.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_GetIsOpen">GetIsOpen</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_GetIsOpen">GetIsOpen(Control)</a></td>
 <td>Gets the value of the ToolTip.IsOpen attached property.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_GetPlacement">GetPlacement</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_GetPlacement">GetPlacement(Control)</a></td>
 <td>Gets the value of the ToolTip.Placement attached property.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_GetServiceEnabled">GetServiceEnabled</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_GetServiceEnabled">GetServiceEnabled(Control)</a></td>
 <td>Gets whether showing and hiding of a control's tooltip will be automatically controlled by Avalonia.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_GetShowDelay">GetShowDelay</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_GetShowDelay">GetShowDelay(Control)</a></td>
 <td>Gets the value of the ToolTip.ShowDelay attached property.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_GetShowOnDisabled">GetShowOnDisabled</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_GetShowOnDisabled">GetShowOnDisabled(Control)</a></td>
 <td>Gets whether a control will display a tooltip even if it disabled.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_GetTemplateFocusTarget">GetTemplateFocusTarget</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_GetTemplateFocusTarget">GetTemplateFocusTarget()</a></td>
 <td>Gets the element that receives the focus adorner.<br />(Inherited from <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_GetTip">GetTip</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_GetTip">GetTip(Control)</a></td>
 <td>Gets the value of the ToolTip.Tip attached property.</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType()</a></td>
 <td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a> of the current instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
@@ -579,195 +586,195 @@ You will probably not want to create a ToolTip control directly: if added to the
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_GetVerticalOffset">GetVerticalOffset</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_GetVerticalOffset">GetVerticalOffset(Control)</a></td>
 <td>Gets the value of the ToolTip.VerticalOffset attached property.</td>
 </tr>
 <tr>
-<td>InitializeIfNeeded</td>
+<td>InitializeIfNeeded()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td>InvalidateArrange</td>
+<td>InvalidateArrange()</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>InvalidateMeasure</td>
+<td>InvalidateMeasure()</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>InvalidateMirrorTransform</td>
+<td>InvalidateMirrorTransform()</td>
 <td><br />(Inherited from Visual)</td>
 </tr>
 <tr>
-<td>InvalidateVisual</td>
+<td>InvalidateVisual()</td>
 <td><br />(Inherited from Visual)</td>
 </tr>
 <tr>
-<td>IsAnimating</td>
+<td>IsAnimating(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>IsSet</td>
+<td>IsSet(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>LogicalChildrenCollectionChanged</td>
+<td>LogicalChildrenCollectionChanged(Object, NotifyCollectionChangedEventArgs)</td>
 <td><br />(Inherited from Visual)</td>
 </tr>
 <tr>
-<td>Measure</td>
+<td>Measure(Size)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>MeasureCore</td>
+<td>MeasureCore(Size)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>MeasureOverride</td>
+<td>MeasureOverride(Size)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone" target="_blank" rel="noopener noreferrer">MemberwiseClone</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone" target="_blank" rel="noopener noreferrer">MemberwiseClone()</a></td>
 <td>Creates a shallow copy of the current <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_OnApplyTemplate">OnApplyTemplate</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_OnApplyTemplate">OnApplyTemplate(TemplateAppliedEventArgs)</a></td>
 <td>Called when the control's template is applied. In simple terms, this means the method is called just before the control is displayed.<br />(Inherited from <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_OnAttachedToLogicalTree">OnAttachedToLogicalTree</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_OnAttachedToLogicalTree">OnAttachedToLogicalTree(LogicalTreeAttachmentEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl</a>)</td>
 </tr>
 <tr>
-<td>OnAttachedToVisualTree</td>
+<td>OnAttachedToVisualTree(VisualTreeAttachmentEventArgs)</td>
 <td><br />(Inherited from Visual)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnAttachedToVisualTreeCore">OnAttachedToVisualTreeCore</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnAttachedToVisualTreeCore">OnAttachedToVisualTreeCore(VisualTreeAttachmentEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnCreateAutomationPeer">OnCreateAutomationPeer</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnCreateAutomationPeer">OnCreateAutomationPeer()</a></td>
 <td>Returns a new, type-specific <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a> implementation for the control.<br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td>OnDataContextBeginUpdate</td>
+<td>OnDataContextBeginUpdate()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td>OnDataContextChanged</td>
+<td>OnDataContextChanged(EventArgs)</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td>OnDataContextEndUpdate</td>
+<td>OnDataContextEndUpdate()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_OnDetachedFromLogicalTree">OnDetachedFromLogicalTree</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_OnDetachedFromLogicalTree">OnDetachedFromLogicalTree(LogicalTreeAttachmentEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl</a>)</td>
 </tr>
 <tr>
-<td>OnDetachedFromVisualTree</td>
+<td>OnDetachedFromVisualTree(VisualTreeAttachmentEventArgs)</td>
 <td><br />(Inherited from Visual)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnDetachedFromVisualTreeCore">OnDetachedFromVisualTreeCore</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnDetachedFromVisualTreeCore">OnDetachedFromVisualTreeCore(VisualTreeAttachmentEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnGotFocus">OnGotFocus</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnGotFocus">OnGotFocus(GotFocusEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td>OnInitialized</td>
+<td>OnInitialized()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td>OnKeyDown</td>
+<td>OnKeyDown(KeyEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnKeyUp">OnKeyUp</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnKeyUp">OnKeyUp(KeyEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnLoaded">OnLoaded</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnLoaded">OnLoaded(RoutedEventArgs)</a></td>
 <td>Invoked just before the <a href="E_Avalonia_Controls_Control_Loaded">Loaded</a> event.<br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnLostFocus">OnLostFocus</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnLostFocus">OnLostFocus(RoutedEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td>OnMeasureInvalidated</td>
+<td>OnMeasureInvalidated()</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>OnPointerCaptureLost</td>
+<td>OnPointerCaptureLost(PointerCaptureLostEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>OnPointerEntered</td>
+<td>OnPointerEntered(PointerEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>OnPointerExited</td>
+<td>OnPointerExited(PointerEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>OnPointerMoved</td>
+<td>OnPointerMoved(PointerEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>OnPointerPressed</td>
+<td>OnPointerPressed(PointerPressedEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnPointerReleased">OnPointerReleased</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnPointerReleased">OnPointerReleased(PointerReleasedEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td>OnPointerWheelChanged</td>
+<td>OnPointerWheelChanged(PointerWheelEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ContentControl_OnPropertyChanged">OnPropertyChanged</a></td>
+<td><a href="M_Avalonia_Controls_ContentControl_OnPropertyChanged">OnPropertyChanged(AvaloniaPropertyChangedEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_ContentControl">ContentControl</a>)</td>
 </tr>
 <tr>
-<td>OnPropertyChangedCore</td>
+<td>OnPropertyChangedCore(AvaloniaPropertyChangedEventArgs)</td>
 <td><br />(Inherited from Animatable)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnSizeChanged">OnSizeChanged</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnSizeChanged">OnSizeChanged(SizeChangedEventArgs)</a></td>
 <td>Invoked just before the <a href="E_Avalonia_Controls_Control_SizeChanged">SizeChanged</a> event.<br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_OnTemplateChanged">OnTemplateChanged</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_OnTemplateChanged">OnTemplateChanged(AvaloniaPropertyChangedEventArgs)</a></td>
 <td>Called when the <a href="P_Avalonia_Controls_Primitives_TemplatedControl_Template">Template</a> property changes.<br />(Inherited from <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl</a>)</td>
 </tr>
 <tr>
-<td>OnTextInput</td>
+<td>OnTextInput(TextInputEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnUnloaded">OnUnloaded</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnUnloaded">OnUnloaded(RoutedEventArgs)</a></td>
 <td>Invoked just before the <a href="E_Avalonia_Controls_Control_Unloaded">Unloaded</a> event.<br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td>OnVisualParentChanged</td>
+<td>OnVisualParentChanged(Visual, Visual)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>RaiseEvent</td>
+<td>RaiseEvent(RoutedEventArgs)</td>
 <td><br />(Inherited from Interactive)</td>
 </tr>
 <tr>
-<td>RaisePropertyChanged``1</td>
+<td>RaisePropertyChanged``1(DirectPropertyBase(UMP), UMP, UMP)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ContentControl_RegisterContentPresenter">RegisterContentPresenter</a></td>
+<td><a href="M_Avalonia_Controls_ContentControl_RegisterContentPresenter">RegisterContentPresenter(ContentPresenter)</a></td>
 <td>Called when an <a href="T_Avalonia_Controls_Presenters_ContentPresenter">ContentPresenter</a> is registered with the control.<br />(Inherited from <a href="T_Avalonia_Controls_ContentControl">ContentControl</a>)</td>
 </tr>
 <tr>
@@ -779,23 +786,23 @@ You will probably not want to create a ToolTip control directly: if added to the
 <td><br />(Inherited from Interactive)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_RemoveToolTipClosingHandler">RemoveToolTipClosingHandler</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_RemoveToolTipClosingHandler">RemoveToolTipClosingHandler(Control, EventHandler(RoutedEventArgs))</a></td>
 <td>Removes a handler for the <a href="F_Avalonia_Controls_ToolTip_ToolTipClosingEvent">ToolTipClosingEvent</a> attached event.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_RemoveToolTipOpeningHandler">RemoveToolTipOpeningHandler</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_RemoveToolTipOpeningHandler">RemoveToolTipOpeningHandler(Control, EventHandler(CancelRoutedEventArgs))</a></td>
 <td>Removes a handler for the <a href="F_Avalonia_Controls_ToolTip_ToolTipOpeningEvent">ToolTipOpeningEvent</a> attached event.</td>
 </tr>
 <tr>
-<td>Render</td>
+<td>Render(DrawingContext)</td>
 <td><br />(Inherited from Visual)</td>
 </tr>
 <tr>
-<td>SetAndRaise``1</td>
+<td>SetAndRaise``1(DirectPropertyBase(UMP), UMP, UMP)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_SetBetweenShowDelay">SetBetweenShowDelay</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_SetBetweenShowDelay">SetBetweenShowDelay(Control, Int32)</a></td>
 <td>Sets the number of milliseconds since the last tooltip closed during which the tooltip of <em>element</em> will open immediately.</td>
 </tr>
 <tr>
@@ -807,35 +814,35 @@ You will probably not want to create a ToolTip control directly: if added to the
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_SetCustomPopupPlacementCallback">SetCustomPopupPlacementCallback</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_SetCustomPopupPlacementCallback">SetCustomPopupPlacementCallback(Control, CustomPopupPlacementCallback)</a></td>
 <td>Sets the value of the ToolTip.CustomPopupPlacementCallback attached property.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_SetHorizontalOffset">SetHorizontalOffset</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_SetHorizontalOffset">SetHorizontalOffset(Control, Double)</a></td>
 <td>Sets the value of the ToolTip.HorizontalOffset attached property.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_SetIsOpen">SetIsOpen</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_SetIsOpen">SetIsOpen(Control, Boolean)</a></td>
 <td>Sets the value of the ToolTip.IsOpen attached property.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_SetPlacement">SetPlacement</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_SetPlacement">SetPlacement(Control, PlacementMode)</a></td>
 <td>Sets the value of the ToolTip.Placement attached property.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_SetServiceEnabled">SetServiceEnabled</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_SetServiceEnabled">SetServiceEnabled(Control, Boolean)</a></td>
 <td>Sets whether showing and hiding of a control's tooltip will be automatically controlled by Avalonia.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_SetShowDelay">SetShowDelay</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_SetShowDelay">SetShowDelay(Control, Int32)</a></td>
 <td>Sets the value of the ToolTip.ShowDelay attached property.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_SetShowOnDisabled">SetShowOnDisabled</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_SetShowOnDisabled">SetShowOnDisabled(Control, Boolean)</a></td>
 <td>Sets whether a control will display a tooltip even if it disabled.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_SetTip">SetTip</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_SetTip">SetTip(Control, Object)</a></td>
 <td>Sets the value of the ToolTip.Tip attached property.</td>
 </tr>
 <tr>
@@ -851,31 +858,31 @@ You will probably not want to create a ToolTip control directly: if added to the
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ToolTip_SetVerticalOffset">SetVerticalOffset</a></td>
+<td><a href="M_Avalonia_Controls_ToolTip_SetVerticalOffset">SetVerticalOffset(Control, Double)</a></td>
 <td>Sets the value of the ToolTip.VerticalOffset attached property.</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString()</a></td>
 <td>Returns a string that represents the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td>TryGetResource</td>
+<td>TryGetResource(Object, ThemeVariant, Object)</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td>UpdateDataValidation</td>
+<td>UpdateDataValidation(AvaloniaProperty, BindingValueType, Exception)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>UpdateIsEffectivelyEnabled</td>
+<td>UpdateIsEffectivelyEnabled()</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>UpdateLayout</td>
+<td>UpdateLayout()</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>VerifyAccess</td>
+<td>VerifyAccess()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 </table>
@@ -1067,27 +1074,27 @@ You will probably not want to create a ToolTip control directly: if added to the
 ## Extension Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_BringIntoView_1">BringIntoView</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_BringIntoView_1">BringIntoView()</a></td>
 <td>Tries to bring the control into view.<br />(Defined by <a href="T_Avalonia_Controls_ControlExtensions">ControlExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_BringIntoView">BringIntoView</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_BringIntoView">BringIntoView(Rect)</a></td>
 <td>Tries to bring the control into view.<br />(Defined by <a href="T_Avalonia_Controls_ControlExtensions">ControlExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_FindControl__1">FindControl(T)</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_FindControl__1">FindControl(T)(String)</a></td>
 <td>Finds the named control in the scope of the specified control.<br />(Defined by <a href="T_Avalonia_Controls_ControlExtensions">ControlExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Templates_DataTemplateExtensions_FindDataTemplate">FindDataTemplate</a></td>
+<td><a href="M_Avalonia_Controls_Templates_DataTemplateExtensions_FindDataTemplate">FindDataTemplate(Object, IDataTemplate)</a></td>
 <td>Find a data template that matches a piece of data.<br />(Defined by <a href="T_Avalonia_Controls_Templates_DataTemplateExtensions">DataTemplateExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_GetControl__1">GetControl(T)</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_GetControl__1">GetControl(T)(String)</a></td>
 <td>Finds the named control in the scope of the specified control and throws if not found.<br />(Defined by <a href="T_Avalonia_Controls_ControlExtensions">ControlExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Templates_TemplateExtensions_GetTemplateChildren">GetTemplateChildren</a></td>
+<td><a href="M_Avalonia_Controls_Templates_TemplateExtensions_GetTemplateChildren">GetTemplateChildren()</a></td>
 <td><br />(Defined by <a href="T_Avalonia_Controls_Templates_TemplateExtensions">TemplateExtensions</a>)</td>
 </tr>
 </table>

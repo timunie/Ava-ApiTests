@@ -31,6 +31,10 @@ type IScreenImpl = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IScreenImpl.cs" title="View the source code">View Source</a>
+
+
+
 ## Properties
 <table>
 <tr>
@@ -50,23 +54,23 @@ type IScreenImpl = interface end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Platform_IScreenImpl_RequestScreenDetails">RequestScreenDetails</a></td>
+<td><a href="M_Avalonia_Platform_IScreenImpl_RequestScreenDetails">RequestScreenDetails()</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Platform_IScreenImpl_ScreenFromPoint">ScreenFromPoint</a></td>
+<td><a href="M_Avalonia_Platform_IScreenImpl_ScreenFromPoint">ScreenFromPoint(PixelPoint)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Platform_IScreenImpl_ScreenFromRect">ScreenFromRect</a></td>
+<td><a href="M_Avalonia_Platform_IScreenImpl_ScreenFromRect">ScreenFromRect(PixelRect)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Platform_IScreenImpl_ScreenFromTopLevel">ScreenFromTopLevel</a></td>
+<td><a href="M_Avalonia_Platform_IScreenImpl_ScreenFromTopLevel">ScreenFromTopLevel(ITopLevelImpl)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Platform_IScreenImpl_ScreenFromWindow">ScreenFromWindow</a></td>
+<td><a href="M_Avalonia_Platform_IScreenImpl_ScreenFromWindow">ScreenFromWindow(IWindowBaseImpl)</a></td>
 <td> </td>
 </tr>
 </table>

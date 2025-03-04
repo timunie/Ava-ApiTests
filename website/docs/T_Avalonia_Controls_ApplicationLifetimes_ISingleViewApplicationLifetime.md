@@ -33,6 +33,10 @@ type ISingleViewApplicationLifetime =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ApplicationLifetimes/ISingleViewApplicationLifetime.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_ApplicationLifetimes_IApplicationLifetime">IApplicationLifetime</a></td></tr>
 </table>

@@ -33,6 +33,10 @@ static val BorderThicknessProperty: StyledProperty<Thickness>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Border.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(Thickness)
 

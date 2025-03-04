@@ -35,6 +35,10 @@ member HorizontalSnapPointsAlignment : SnapPointsAlignment with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ScrollViewer.cs#L339" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Primitives_SnapPointsAlignment">SnapPointsAlignment</a>
 

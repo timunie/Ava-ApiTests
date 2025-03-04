@@ -47,6 +47,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ScrollChangedEventArgs.cs#L23" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  RoutedEvent</dt><dd> </dd><dt>  Vector</dt><dd> </dd><dt>  Vector</dt><dd> </dd><dt>  Vector</dt><dd> </dd></dl>
 

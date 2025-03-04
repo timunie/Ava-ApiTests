@@ -38,6 +38,10 @@ static member ToPlatformString :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Converters/PlatformKeyGestureConverter.cs#L44" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  KeyGesture</dt><dd>The gesture.</dd></dl>
 

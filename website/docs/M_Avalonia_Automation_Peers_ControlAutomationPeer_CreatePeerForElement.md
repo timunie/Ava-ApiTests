@@ -38,12 +38,19 @@ static member CreatePeerForElement :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/ControlAutomationPeer.cs#L46" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The control.</dd></dl>
 
 #### Return Value
 <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a>  
-The automation peer.Despite the name (which comes from the analogous WPF API), this method does not create a new peer if one already exists: instead it returns the existing peer.
+The automation peer.
+
+## 
+Despite the name (which comes from the analogous WPF API), this method does not create a new peer if one already exists: instead it returns the existing peer.
 
 ## See Also
 

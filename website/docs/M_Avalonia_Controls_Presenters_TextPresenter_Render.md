@@ -38,6 +38,10 @@ override Render :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Presenters/TextPresenter.cs#L396" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  DrawingContext</dt><dd> </dd></dl>
 

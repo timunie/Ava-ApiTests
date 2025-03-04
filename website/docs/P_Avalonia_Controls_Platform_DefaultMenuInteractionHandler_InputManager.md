@@ -32,6 +32,10 @@ member InputManager : IInputManager with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/DefaultMenuInteractionHandler.cs#L49" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 IInputManager
 

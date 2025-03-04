@@ -36,6 +36,10 @@ override ClientSize : Size with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TopLevel.cs#L338" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Size
 

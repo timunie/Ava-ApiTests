@@ -33,6 +33,10 @@ type ShutdownMode
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ShutdownMode.cs" title="View the source code">View Source</a>
+
+
+
 ## Members
 <table>
 <tr>

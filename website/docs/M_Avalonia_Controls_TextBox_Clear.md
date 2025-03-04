@@ -33,6 +33,10 @@ member Clear : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBox.cs#L1938" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

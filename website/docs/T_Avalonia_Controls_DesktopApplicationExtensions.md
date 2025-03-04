@@ -33,6 +33,10 @@ type DesktopApplicationExtensions = class end
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/DesktopApplicationExtensions.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  DesktopApplicationExtensions</td></tr>
 </table>
@@ -54,7 +58,7 @@ type DesktopApplicationExtensions = class end
 <td>On desktop-style platforms runs the application's main loop with custom CancellationToken without setting a lifetime.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_DesktopApplicationExtensions_RunWithMainWindow__1">RunWithMainWindow(TWindow)</a></td>
+<td><a href="M_Avalonia_Controls_DesktopApplicationExtensions_RunWithMainWindow__1">RunWithMainWindow(TWindow)(Application)</a></td>
 <td> </td>
 </tr>
 </table>

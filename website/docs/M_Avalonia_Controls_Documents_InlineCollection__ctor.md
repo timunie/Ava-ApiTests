@@ -33,6 +33,10 @@ new : unit -> InlineCollection
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Documents/InlineCollection.cs#L22" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

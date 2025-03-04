@@ -33,6 +33,10 @@ type SplitViewDisplayMode
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SplitView/SplitViewDisplayMode.cs" title="View the source code">View Source</a>
+
+
+
 ## Members
 <table>
 <tr>

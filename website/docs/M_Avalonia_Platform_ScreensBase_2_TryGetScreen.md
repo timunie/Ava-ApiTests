@@ -39,6 +39,10 @@ member TryGetScreen :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IScreenImpl.cs#L104" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Platform_ScreensBase_2">TKey</a></dt><dd> </dd><dt>  <a href="T_Avalonia_Platform_ScreensBase_2">TScreen</a></dt><dd> </dd></dl>
 

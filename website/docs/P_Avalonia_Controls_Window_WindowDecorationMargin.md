@@ -34,6 +34,10 @@ member WindowDecorationMargin : Thickness with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Window.cs#L336" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Thickness
 

@@ -33,6 +33,10 @@ type ISelectionProvider = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Provider/ISelectionProvider.cs" title="View the source code">View Source</a>
+
+
+
 ## Properties
 <table>
 <tr>
@@ -48,7 +52,7 @@ type ISelectionProvider = interface end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Automation_Provider_ISelectionProvider_GetSelection">GetSelection</a></td>
+<td><a href="M_Avalonia_Automation_Provider_ISelectionProvider_GetSelection">GetSelection()</a></td>
 <td>Retrieves a provider for each child element that is selected.</td>
 </tr>
 </table>

@@ -38,6 +38,10 @@ override OnPropertyChanged :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Documents/TextElement.cs#L309" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  AvaloniaPropertyChangedEventArgs</dt><dd> </dd></dl>
 

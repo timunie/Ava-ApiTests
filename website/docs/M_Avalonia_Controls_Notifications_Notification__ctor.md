@@ -33,6 +33,10 @@ new : unit -> Notification
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Notifications/Notification.cs#L47" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

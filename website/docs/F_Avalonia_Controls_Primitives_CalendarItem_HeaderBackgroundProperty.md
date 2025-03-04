@@ -31,6 +31,10 @@ static val HeaderBackgroundProperty: StyledProperty<IBrush>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Calendar/CalendarItem.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(IBrush)
 

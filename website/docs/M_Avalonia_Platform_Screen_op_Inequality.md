@@ -39,6 +39,10 @@ static let inline (<>)
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/Screen.cs#L146" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Platform_Screen">Screen</a></dt><dd> </dd><dt>  <a href="T_Avalonia_Platform_Screen">Screen</a></dt><dd> </dd></dl>
 

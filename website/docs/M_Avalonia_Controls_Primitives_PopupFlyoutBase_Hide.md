@@ -34,6 +34,10 @@ override Hide : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Flyouts/PopupFlyoutBase.cs#L202" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

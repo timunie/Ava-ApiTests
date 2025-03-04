@@ -31,6 +31,10 @@ static val NetWmWindowTypeProperty: AttachedProperty<X11NetWmWindowType>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/X11Properties.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 AttachedProperty(<a href="T_Avalonia_Controls_Platform_X11NetWmWindowType">X11NetWmWindowType</a>)
 

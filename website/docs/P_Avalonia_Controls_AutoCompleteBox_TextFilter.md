@@ -35,9 +35,16 @@ member TextFilter : AutoCompleteFilterPredicate<string> with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.Properties.cs#L436" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_AutoCompleteFilterPredicate_1">AutoCompleteFilterPredicate</a>(<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>)  
-The custom method that uses the user-entered text to filter items specified by the <a href="P_Avalonia_Controls_AutoCompleteBox_ItemsSource">ItemsSource</a> property in a text-based way for display in the drop-down.The search mode is automatically set to Custom if you set the TextFilter property.
+The custom method that uses the user-entered text to filter items specified by the <a href="P_Avalonia_Controls_AutoCompleteBox_ItemsSource">ItemsSource</a> property in a text-based way for display in the drop-down.
+
+## 
+The search mode is automatically set to Custom if you set the TextFilter property.
 
 ## See Also
 

@@ -34,8 +34,15 @@ member Loaded : IEvent<EventHandler<RoutedEventArgs>,
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Control.cs" title="View the source code">View Source</a>
+
+
+
 #### Value
-<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(RoutedEventArgs)This event is guaranteed to occur after the control template is applied and references to objects created after the template is applied are available. This makes it different from OnAttachedToVisualTree which doesn't have these references. This event occurs at the latest possible time in the control creation life-cycle.
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(RoutedEventArgs)
+
+## 
+This event is guaranteed to occur after the control template is applied and references to objects created after the template is applied are available. This makes it different from OnAttachedToVisualTree which doesn't have these references. This event occurs at the latest possible time in the control creation life-cycle.
 
 ## See Also
 

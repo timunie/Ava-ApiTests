@@ -44,6 +44,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SelectionChangedEventArgs.cs#L19" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  RoutedEvent</dt><dd>The event being raised.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.collections.ilist" target="_blank" rel="noopener noreferrer">IList</a></dt><dd>The items removed from the selection.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.collections.ilist" target="_blank" rel="noopener noreferrer">IList</a></dt><dd>The items added to the selection.</dd></dl>
 

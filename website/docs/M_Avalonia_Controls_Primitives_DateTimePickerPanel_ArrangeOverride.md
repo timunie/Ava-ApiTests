@@ -38,6 +38,10 @@ override ArrangeOverride :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/DateTimePickers/DateTimePickerPanel.cs#L316" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Size</dt><dd> </dd></dl>
 

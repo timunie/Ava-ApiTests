@@ -33,6 +33,10 @@ new : unit -> ChromeOverlayLayer
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/ChromeOverlayLayer.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

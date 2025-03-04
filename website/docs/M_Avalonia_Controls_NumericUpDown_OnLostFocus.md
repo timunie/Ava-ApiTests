@@ -38,6 +38,10 @@ override OnLostFocus :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/NumericUpDown/NumericUpDown.cs#L393" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  RoutedEventArgs</dt><dd> </dd></dl>
 

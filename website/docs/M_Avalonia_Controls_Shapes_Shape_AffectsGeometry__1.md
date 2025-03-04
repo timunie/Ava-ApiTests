@@ -40,11 +40,18 @@ static member AffectsGeometry :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Shape.cs#L217" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  AvaloniaProperty[]</dt><dd>The properties.</dd></dl>
 
 #### Type Parameters
-<dl><dt /><dd /></dl>After a call to this method in a control's static constructor, any change to the property will cause <a href="M_Avalonia_Controls_Shapes_Shape_InvalidateGeometry">InvalidateGeometry()</a> to be called on the element.
+<dl><dt /><dd /></dl>
+
+## 
+After a call to this method in a control's static constructor, any change to the property will cause <a href="M_Avalonia_Controls_Shapes_Shape_InvalidateGeometry">InvalidateGeometry()</a> to be called on the element.
 
 ## See Also
 

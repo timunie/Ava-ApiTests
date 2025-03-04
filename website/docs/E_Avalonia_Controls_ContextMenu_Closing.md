@@ -34,6 +34,10 @@ member Closing : IEvent<CancelEventHandler,
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ContextMenu.cs" title="View the source code">View Source</a>
+
+
+
 #### Value
 <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.canceleventhandler" target="_blank" rel="noopener noreferrer">CancelEventHandler</a>
 

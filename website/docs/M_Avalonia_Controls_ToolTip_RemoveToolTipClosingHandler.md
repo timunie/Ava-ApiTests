@@ -41,6 +41,10 @@ static member RemoveToolTipClosingHandler :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ToolTip.cs#L333" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd><a href="T_Avalonia_Controls_Control">Control</a> that listens to this event.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(RoutedEventArgs)</dt><dd>Event Handler to be removed.</dd></dl>
 

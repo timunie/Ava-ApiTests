@@ -39,6 +39,10 @@ type CustomPopupPlacementCallback =
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/PopupPositioning/CustomPopupPlacementCallback.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Primitives_PopupPositioning_CustomPopupPlacement">CustomPopupPlacement</a></dt><dd> </dd></dl>
 

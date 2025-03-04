@@ -38,6 +38,10 @@ static member GetText :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/TextSearch.cs#L33" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The control</dd></dl>
 

@@ -35,6 +35,10 @@ member ReservedSpace : Rect with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TickBar.cs#L195" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Rect
 

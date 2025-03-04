@@ -38,6 +38,10 @@ static member GetVerticalOffset :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ToolTip.cs#L219" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The control to get the property from.</dd></dl>
 

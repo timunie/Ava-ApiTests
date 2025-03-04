@@ -38,6 +38,10 @@ member BeginMoveDrag :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Window.cs#L437" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  PointerPressedEventArgs</dt><dd> </dd></dl>
 

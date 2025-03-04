@@ -38,6 +38,10 @@ static member Create :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Utils/AncestorFinder.cs#L52" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  StyledElement</dt><dd> </dd></dl>
 

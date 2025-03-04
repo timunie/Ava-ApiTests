@@ -33,6 +33,10 @@ member Open : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/Popup.cs#L402" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

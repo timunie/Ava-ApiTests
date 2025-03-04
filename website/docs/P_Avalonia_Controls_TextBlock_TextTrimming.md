@@ -35,6 +35,10 @@ member TextTrimming : TextTrimming with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBlock.cs#L324" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 TextTrimming
 

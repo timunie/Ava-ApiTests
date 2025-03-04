@@ -33,6 +33,10 @@ static val TextSelectorProperty: StyledProperty<AutoCompleteSelector<string>>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="T_Avalonia_Controls_AutoCompleteSelector_1">AutoCompleteSelector</a>(<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>))  
 The identifier for the <a href="P_Avalonia_Controls_AutoCompleteBox_TextSelector">TextSelector</a> property.

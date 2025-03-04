@@ -35,12 +35,19 @@ override Styles : Styles with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Application.cs#L159" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Styles  
 The application's global styles.
 
 #### Implements
 IStyleHost.Styles  
+
+
+## 
 Global styles apply to all windows in the application.
 
 ## See Also

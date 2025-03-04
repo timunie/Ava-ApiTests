@@ -40,6 +40,10 @@ override OnSubmenuOpened :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/MenuItem.cs#L512" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  RoutedEventArgs</dt><dd>The event args.</dd></dl>
 

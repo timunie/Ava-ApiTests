@@ -35,8 +35,15 @@ member Gravity : PopupGravity with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/PopupPositioning/IPopupPositioner.cs#L122" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-<a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupGravity">PopupGravity</a>If a corner gravity is specified (e.g. 'BottomRight' or 'TopLeft'), then the popup will be placed towards the specified gravity; otherwise, the popup will be centered over the anchor point on any axis that had no gravity specified.
+<a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupGravity">PopupGravity</a>
+
+## 
+If a corner gravity is specified (e.g. 'BottomRight' or 'TopLeft'), then the popup will be placed towards the specified gravity; otherwise, the popup will be centered over the anchor point on any axis that had no gravity specified.
 
 ## See Also
 

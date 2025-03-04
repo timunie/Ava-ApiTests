@@ -39,6 +39,10 @@ static member SetAdorner :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/AdornerLayer.cs#L90" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Visual</dt><dd> </dd><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd> </dd></dl>
 

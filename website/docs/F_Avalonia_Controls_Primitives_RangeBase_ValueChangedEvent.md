@@ -33,6 +33,10 @@ static val ValueChangedEvent: RoutedEvent<RangeBaseValueChangedEventArgs>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/RangeBase.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 RoutedEvent(<a href="T_Avalonia_Controls_Primitives_RangeBaseValueChangedEventArgs">RangeBaseValueChangedEventArgs</a>)
 

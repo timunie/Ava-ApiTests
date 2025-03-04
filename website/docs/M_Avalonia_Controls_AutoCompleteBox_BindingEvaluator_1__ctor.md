@@ -33,6 +33,10 @@ new : unit -> BindingEvaluator
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L2081" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

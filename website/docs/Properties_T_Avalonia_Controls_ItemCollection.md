@@ -18,7 +18,7 @@ import Tag from '@site/src/components/Tag';
 <td> </td>
 </tr>
 <tr>
-<td><a href="P_Avalonia_Controls_ItemCollection_Item">Item</a></td>
+<td><a href="P_Avalonia_Controls_ItemCollection_Item">Item(Int32)</a></td>
 <td> </td>
 </tr>
 <tr>

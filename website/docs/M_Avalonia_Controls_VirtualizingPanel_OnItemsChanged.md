@@ -44,8 +44,15 @@ override OnItemsChanged :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/VirtualizingPanel.cs#L133" title="View the source code">View Source</a>
+
+
+
 #### Parameters
-<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ireadonlylist-1" target="_blank" rel="noopener noreferrer">IReadOnlyList</a>(<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</dt><dd>The items.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.collections.specialized.notifycollectionchangedeventargs" target="_blank" rel="noopener noreferrer">NotifyCollectionChangedEventArgs</a></dt><dd>The event args.</dd></dl>This method is called a <a href="https://learn.microsoft.com/dotnet/api/system.collections.specialized.inotifycollectionchanged" target="_blank" rel="noopener noreferrer">INotifyCollectionChanged</a> event is raised by the items, or when the <a href="P_Avalonia_Controls_ItemsControl_Items">Items</a> property is assigned a new collection, in which case the <a href="https://learn.microsoft.com/dotnet/api/system.collections.specialized.notifycollectionchangedaction" target="_blank" rel="noopener noreferrer">NotifyCollectionChangedAction</a> will be <a href="https://learn.microsoft.com/dotnet/api/system.collections.specialized.notifycollectionchangedaction#system-collections-specialized-notifycollectionchangedaction-reset" target="_blank" rel="noopener noreferrer">Reset</a>.
+<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ireadonlylist-1" target="_blank" rel="noopener noreferrer">IReadOnlyList</a>(<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</dt><dd>The items.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.collections.specialized.notifycollectionchangedeventargs" target="_blank" rel="noopener noreferrer">NotifyCollectionChangedEventArgs</a></dt><dd>The event args.</dd></dl>
+
+## 
+This method is called a <a href="https://learn.microsoft.com/dotnet/api/system.collections.specialized.inotifycollectionchanged" target="_blank" rel="noopener noreferrer">INotifyCollectionChanged</a> event is raised by the items, or when the <a href="P_Avalonia_Controls_ItemsControl_Items">Items</a> property is assigned a new collection, in which case the <a href="https://learn.microsoft.com/dotnet/api/system.collections.specialized.notifycollectionchangedaction" target="_blank" rel="noopener noreferrer">NotifyCollectionChangedAction</a> will be <a href="https://learn.microsoft.com/dotnet/api/system.collections.specialized.notifycollectionchangedaction#system-collections-specialized-notifycollectionchangedaction-reset" target="_blank" rel="noopener noreferrer">Reset</a>.
 
 ## See Also
 

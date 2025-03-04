@@ -32,6 +32,10 @@ abstract IndexesChanged : IEvent<EventHandler<SelectionModelIndexesChangedEventA
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Selection/ISelectionModel.cs" title="View the source code">View Source</a>
+
+
+
 #### Value
 <a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Controls_Selection_SelectionModelIndexesChangedEventArgs">SelectionModelIndexesChangedEventArgs</a>)
 

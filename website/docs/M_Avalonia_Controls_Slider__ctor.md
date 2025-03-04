@@ -33,6 +33,10 @@ new : unit -> Slider
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Slider.cs#L121" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

@@ -31,6 +31,10 @@ member HideCaret : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Presenters/TextPresenter.cs#L484" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

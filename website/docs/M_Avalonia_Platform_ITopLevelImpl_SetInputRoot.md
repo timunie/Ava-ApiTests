@@ -38,6 +38,10 @@ abstract SetInputRoot :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/ITopLevelImpl.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  IInputRoot</dt><dd> </dd></dl>
 

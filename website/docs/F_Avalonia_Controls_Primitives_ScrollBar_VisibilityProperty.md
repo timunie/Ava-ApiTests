@@ -33,6 +33,10 @@ static val VisibilityProperty: StyledProperty<ScrollBarVisibility>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/ScrollBar.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="T_Avalonia_Controls_Primitives_ScrollBarVisibility">ScrollBarVisibility</a>)
 

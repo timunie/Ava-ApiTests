@@ -33,6 +33,10 @@ new : unit -> CornerRadiusToDoubleConverter
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Converters/CornerRadiusToDoubleConverter.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

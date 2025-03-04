@@ -35,6 +35,10 @@ member ExpandDirection : ExpandDirection with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Expander.cs#L125" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_ExpandDirection">ExpandDirection</a>
 

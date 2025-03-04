@@ -33,6 +33,10 @@ static val StrokeLineCapProperty: StyledProperty<PenLineCap>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Shape.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(PenLineCap)
 

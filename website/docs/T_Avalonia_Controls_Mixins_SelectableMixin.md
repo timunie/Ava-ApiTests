@@ -33,10 +33,17 @@ type SelectableMixin = class end
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Mixins/SelectableMixin.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  SelectableMixin</td></tr>
 </table>
 
+
+
+## 
 
 The SelectableMixin adds behavior to a control which can be selected. It adds the following behavior:
 <ul><li>Raises an <a href="F_Avalonia_Controls_Primitives_SelectingItemsControl_IsSelectedChangedEvent">IsSelectedChangedEvent</a> when the value if the IsSelected property changes.</li><li>Adds a 'selected' class to selected controls.</li><li>Requests that the control is scrolled into view when focused.</li></ul>
@@ -48,7 +55,7 @@ Mixins apply themselves to classes and not instances, and as such should be crea
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Mixins_SelectableMixin_Attach__1">Attach(TControl)</a></td>
+<td><a href="M_Avalonia_Controls_Mixins_SelectableMixin_Attach__1">Attach(TControl)(AvaloniaProperty(Boolean))</a></td>
 <td>Initializes a new instance of the SelectableMixin class.</td>
 </tr>
 </table>

@@ -40,6 +40,10 @@ override OnResized :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/WindowBase.cs#L232" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_WindowResizedEventArgs">WindowResizedEventArgs</a></dt><dd>An <a href="https://learn.microsoft.com/dotnet/api/system.eventargs" target="_blank" rel="noopener noreferrer">EventArgs</a> that contains the event data.</dd></dl>
 

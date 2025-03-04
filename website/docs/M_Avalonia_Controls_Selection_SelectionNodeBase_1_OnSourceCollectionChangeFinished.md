@@ -32,6 +32,13 @@ override OnSourceCollectionChangeFinished : unit -> unit
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Selection/SelectionNodeBase.cs#L173" title="View the source code">View Source</a>
+
+
+
+## 
 Override this method to respond to the end of a collection change instead of acting at the end of <a href="M_Avalonia_Controls_Selection_SelectionNodeBase_1_OnSourceCollectionChanged">OnSourceCollectionChanged(NotifyCollectionChangedEventArgs)</a> in order to ensure that all UI subscribers to the source collection change event have had chance to run.
 
 ## See Also

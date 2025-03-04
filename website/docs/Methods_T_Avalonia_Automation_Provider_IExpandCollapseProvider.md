@@ -10,11 +10,11 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Automation_Provider_IExpandCollapseProvider_Collapse">Collapse</a></td>
+<td><a href="M_Avalonia_Automation_Provider_IExpandCollapseProvider_Collapse">Collapse()</a></td>
 <td>Hides all nodes, controls, or content that are descendants of the control.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Automation_Provider_IExpandCollapseProvider_Expand">Expand</a></td>
+<td><a href="M_Avalonia_Automation_Provider_IExpandCollapseProvider_Expand">Expand()</a></td>
 <td>Displays all child nodes, controls, or content of the control.</td>
 </tr>
 </table>

@@ -36,6 +36,10 @@ abstract CreateProvider :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/Dialogs/IStorageProviderFactory.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_TopLevel">TopLevel</a></dt><dd> </dd></dl>
 

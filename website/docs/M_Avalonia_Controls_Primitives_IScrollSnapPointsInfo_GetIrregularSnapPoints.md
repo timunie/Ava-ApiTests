@@ -41,6 +41,10 @@ abstract GetIrregularSnapPoints :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/IScrollSnapPointsInfo.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Orientation</dt><dd>The orientation for the desired snap point set.</dd><dt>  <a href="T_Avalonia_Controls_Primitives_SnapPointsAlignment">SnapPointsAlignment</a></dt><dd>The alignment to use when applying the snap points.</dd></dl>
 

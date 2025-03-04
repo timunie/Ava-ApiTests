@@ -35,6 +35,10 @@ member DisplayMemberBinding : IBinding with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ItemsControl.cs#L80" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 IBinding
 

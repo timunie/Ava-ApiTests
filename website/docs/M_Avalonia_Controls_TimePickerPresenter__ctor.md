@@ -33,6 +33,10 @@ new : unit -> TimePickerPresenter
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/DateTimePickers/TimePickerPresenter.cs#L65" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

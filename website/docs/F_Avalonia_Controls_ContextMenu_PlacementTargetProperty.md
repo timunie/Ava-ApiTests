@@ -33,6 +33,10 @@ static val PlacementTargetProperty: StyledProperty<Control>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ContextMenu.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="T_Avalonia_Controls_Control">Control</a>)
 

@@ -33,6 +33,10 @@ member EndPoint : Point with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Line.cs#L27" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Point
 

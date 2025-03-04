@@ -10,11 +10,11 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_IX11OptionsToplevelImplFeature_SetNetWmWindowType">SetNetWmWindowType</a></td>
+<td><a href="M_Avalonia_Controls_Platform_IX11OptionsToplevelImplFeature_SetNetWmWindowType">SetNetWmWindowType(X11NetWmWindowType)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_IX11OptionsToplevelImplFeature_SetWmClass">SetWmClass</a></td>
+<td><a href="M_Avalonia_Controls_Platform_IX11OptionsToplevelImplFeature_SetWmClass">SetWmClass(String)</a></td>
 <td> </td>
 </tr>
 </table>

@@ -35,6 +35,10 @@ member DisplayDate : DateTime with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/CalendarDatePicker/CalendarDatePicker.Properties.cs#L130" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.datetime" target="_blank" rel="noopener noreferrer">DateTime</a>  
 The date to display. The default is <a href="https://learn.microsoft.com/dotnet/api/system.datetime.today" target="_blank" rel="noopener noreferrer">Today</a>.

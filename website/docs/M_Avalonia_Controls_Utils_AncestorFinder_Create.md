@@ -39,6 +39,10 @@ static member Create :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Utils/AncestorFinder.cs#L57" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  StyledElement</dt><dd> </dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a></dt><dd> </dd></dl>
 

@@ -10,7 +10,7 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Automation_Provider_IInvokeProvider_Invoke">Invoke</a></td>
+<td><a href="M_Avalonia_Automation_Provider_IInvokeProvider_Invoke">Invoke()</a></td>
 <td>Sends a request to activate a control and initiate its single, unambiguous action.</td>
 </tr>
 </table>

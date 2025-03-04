@@ -38,6 +38,10 @@ static member GetLeft :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Canvas.cs#L55" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  AvaloniaObject</dt><dd>The control.</dd></dl>
 

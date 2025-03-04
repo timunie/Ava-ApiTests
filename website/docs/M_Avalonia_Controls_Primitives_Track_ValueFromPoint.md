@@ -40,6 +40,10 @@ override ValueFromPoint :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/Track.cs#L151" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Point</dt><dd>The specified point.</dd></dl>
 

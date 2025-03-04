@@ -38,6 +38,10 @@ abstract IndexFromContainer :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/VirtualizingPanel.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The generated container to retrieve the item index for.</dd></dl>
 

@@ -33,6 +33,10 @@ member ClearDataContext : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L2100" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

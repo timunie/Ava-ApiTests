@@ -31,6 +31,10 @@ static member CreateWindow : unit -> IWindowImpl
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/PlatformManager.cs#L28" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="T_Avalonia_Platform_IWindowImpl">IWindowImpl</a>
 

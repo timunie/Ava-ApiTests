@@ -31,6 +31,10 @@ type IApplicationLifetime = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ApplicationLifetimes/IApplicationLifetime.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

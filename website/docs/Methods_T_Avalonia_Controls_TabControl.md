@@ -18,27 +18,27 @@ import Tag from '@site/src/components/Tag';
 <td><br />(Inherited from Interactive)</td>
 </tr>
 <tr>
-<td>ApplyStyling</td>
+<td>ApplyStyling()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_ApplyTemplate">ApplyTemplate</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_ApplyTemplate">ApplyTemplate()</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl</a>)</td>
 </tr>
 <tr>
-<td>Arrange</td>
+<td>Arrange(Rect)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>ArrangeCore</td>
+<td>ArrangeCore(Rect)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>ArrangeOverride</td>
+<td>ArrangeOverride(Size)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_BeginInit">BeginInit</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_BeginInit">BeginInit()</a></td>
 <td>Signals the object that initialization is starting.<br />(Inherited from <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl</a>)</td>
 </tr>
 <tr>
@@ -74,15 +74,15 @@ import Tag from '@site/src/components/Tag';
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>BuildEventRoute</td>
+<td>BuildEventRoute(RoutedEvent)</td>
 <td><br />(Inherited from Interactive)</td>
 </tr>
 <tr>
-<td>CheckAccess</td>
+<td>CheckAccess()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_TabControl_ClearContainerForItemOverride">ClearContainerForItemOverride</a></td>
+<td><a href="M_Avalonia_Controls_TabControl_ClearContainerForItemOverride">ClearContainerForItemOverride(Control)</a></td>
 <td><br />(Overrides <a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_ClearContainerForItemOverride">SelectingItemsControl.ClearContainerForItemOverride(Control)</a>)</td>
 </tr>
 <tr>
@@ -102,67 +102,67 @@ import Tag from '@site/src/components/Tag';
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>CoerceValue</td>
+<td>CoerceValue(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_ContainerForItemPreparedOverride">ContainerForItemPreparedOverride</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_ContainerForItemPreparedOverride">ContainerForItemPreparedOverride(Control, Object, Int32)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ItemsControl_ContainerFromIndex">ContainerFromIndex</a></td>
+<td><a href="M_Avalonia_Controls_ItemsControl_ContainerFromIndex">ContainerFromIndex(Int32)</a></td>
 <td>Returns the container for the item at the specified index.<br />(Inherited from <a href="T_Avalonia_Controls_ItemsControl">ItemsControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ItemsControl_ContainerFromItem">ContainerFromItem</a></td>
+<td><a href="M_Avalonia_Controls_ItemsControl_ContainerFromItem">ContainerFromItem(Object)</a></td>
 <td>Returns the container corresponding to the specified item.<br />(Inherited from <a href="T_Avalonia_Controls_ItemsControl">ItemsControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_TabControl_ContainerIndexChangedOverride">ContainerIndexChangedOverride</a></td>
+<td><a href="M_Avalonia_Controls_TabControl_ContainerIndexChangedOverride">ContainerIndexChangedOverride(Control, Int32, Int32)</a></td>
 <td><br />(Overrides <a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_ContainerIndexChangedOverride">SelectingItemsControl.ContainerIndexChangedOverride(Control, Int32, Int32)</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_TabControl_CreateContainerForItemOverride">CreateContainerForItemOverride</a></td>
+<td><a href="M_Avalonia_Controls_TabControl_CreateContainerForItemOverride">CreateContainerForItemOverride(Object, Int32, Object)</a></td>
 <td><br />(Overrides <a href="M_Avalonia_Controls_ItemsControl_CreateContainerForItemOverride">ItemsControl.CreateContainerForItemOverride(Object, Int32, Object)</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_EndInit">EndInit</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_EndInit">EndInit()</a></td>
 <td>Signals the object that initialization is complete.<br />(Inherited from <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl</a>)</td>
 </tr>
 <tr>
-<td>Equals</td>
+<td>Equals(Object)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.finalize" target="_blank" rel="noopener noreferrer">Finalize</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.finalize" target="_blank" rel="noopener noreferrer">Finalize()</a></td>
 <td>Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td>Focus</td>
+<td>Focus(NavigationMethod, KeyModifiers)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>GetBaseValue``1</td>
+<td>GetBaseValue``1(StyledProperty(UMP))</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_GetContainerFromEventSource">GetContainerFromEventSource</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_GetContainerFromEventSource">GetContainerFromEventSource(Object)</a></td>
 <td>Tries to get the container that was the source of an event.<br />(Inherited from <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl</a>)</td>
 </tr>
 <tr>
-<td>GetHashCode</td>
+<td>GetHashCode()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ItemsControl_GetRealizedContainers">GetRealizedContainers</a></td>
+<td><a href="M_Avalonia_Controls_ItemsControl_GetRealizedContainers">GetRealizedContainers()</a></td>
 <td>Gets the currently realized containers.<br />(Inherited from <a href="T_Avalonia_Controls_ItemsControl">ItemsControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_GetTemplateFocusTarget">GetTemplateFocusTarget</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_GetTemplateFocusTarget">GetTemplateFocusTarget()</a></td>
 <td>Gets the element that receives the focus adorner.<br />(Inherited from <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl</a>)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType()</a></td>
 <td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a> of the current instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
@@ -178,59 +178,59 @@ import Tag from '@site/src/components/Tag';
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ItemsControl_IndexFromContainer">IndexFromContainer</a></td>
+<td><a href="M_Avalonia_Controls_ItemsControl_IndexFromContainer">IndexFromContainer(Control)</a></td>
 <td>Returns the index to the item that has the specified, generated container.<br />(Inherited from <a href="T_Avalonia_Controls_ItemsControl">ItemsControl</a>)</td>
 </tr>
 <tr>
-<td>InitializeIfNeeded</td>
+<td>InitializeIfNeeded()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td>InvalidateArrange</td>
+<td>InvalidateArrange()</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>InvalidateMeasure</td>
+<td>InvalidateMeasure()</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>InvalidateMirrorTransform</td>
+<td>InvalidateMirrorTransform()</td>
 <td><br />(Inherited from Visual)</td>
 </tr>
 <tr>
-<td>InvalidateVisual</td>
+<td>InvalidateVisual()</td>
 <td><br />(Inherited from Visual)</td>
 </tr>
 <tr>
-<td>IsAnimating</td>
+<td>IsAnimating(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>IsSet</td>
+<td>IsSet(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ItemsControl_ItemFromContainer">ItemFromContainer</a></td>
+<td><a href="M_Avalonia_Controls_ItemsControl_ItemFromContainer">ItemFromContainer(Control)</a></td>
 <td>Returns the item that corresponds to the specified, generated container.<br />(Inherited from <a href="T_Avalonia_Controls_ItemsControl">ItemsControl</a>)</td>
 </tr>
 <tr>
-<td>LogicalChildrenCollectionChanged</td>
+<td>LogicalChildrenCollectionChanged(Object, NotifyCollectionChangedEventArgs)</td>
 <td><br />(Inherited from Visual)</td>
 </tr>
 <tr>
-<td>Measure</td>
+<td>Measure(Size)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>MeasureCore</td>
+<td>MeasureCore(Size)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>MeasureOverride</td>
+<td>MeasureOverride(Size)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone" target="_blank" rel="noopener noreferrer">MemberwiseClone</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone" target="_blank" rel="noopener noreferrer">MemberwiseClone()</a></td>
 <td>Creates a shallow copy of the current <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
@@ -242,159 +242,159 @@ import Tag from '@site/src/components/Tag';
 <td>Moves the selection in the specified direction relative to the specified container.<br />(Inherited from <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ItemsControl_NeedsContainer__1">NeedsContainer(T)</a></td>
+<td><a href="M_Avalonia_Controls_ItemsControl_NeedsContainer__1">NeedsContainer(T)(Object, Object)</a></td>
 <td>A default implementation of <a href="M_Avalonia_Controls_ItemsControl_NeedsContainerOverride">NeedsContainerOverride(Object, Int32, Object)</a> that returns true and sets the recycle key to <a href="P_Avalonia_Controls_ItemsControl_DefaultRecycleKey">DefaultRecycleKey</a> if the item is not a <em>T</em> .<br />(Inherited from <a href="T_Avalonia_Controls_ItemsControl">ItemsControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_TabControl_NeedsContainerOverride">NeedsContainerOverride</a></td>
+<td><a href="M_Avalonia_Controls_TabControl_NeedsContainerOverride">NeedsContainerOverride(Object, Int32, Object)</a></td>
 <td><br />(Overrides <a href="M_Avalonia_Controls_ItemsControl_NeedsContainerOverride">ItemsControl.NeedsContainerOverride(Object, Int32, Object)</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_TabControl_OnApplyTemplate">OnApplyTemplate</a></td>
+<td><a href="M_Avalonia_Controls_TabControl_OnApplyTemplate">OnApplyTemplate(TemplateAppliedEventArgs)</a></td>
 <td><br />(Overrides <a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_OnApplyTemplate">SelectingItemsControl.OnApplyTemplate(TemplateAppliedEventArgs)</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_OnAttachedToLogicalTree">OnAttachedToLogicalTree</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_OnAttachedToLogicalTree">OnAttachedToLogicalTree(LogicalTreeAttachmentEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_OnAttachedToVisualTree">OnAttachedToVisualTree</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_OnAttachedToVisualTree">OnAttachedToVisualTree(VisualTreeAttachmentEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnAttachedToVisualTreeCore">OnAttachedToVisualTreeCore</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnAttachedToVisualTreeCore">OnAttachedToVisualTreeCore(VisualTreeAttachmentEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ItemsControl_OnCreateAutomationPeer">OnCreateAutomationPeer</a></td>
+<td><a href="M_Avalonia_Controls_ItemsControl_OnCreateAutomationPeer">OnCreateAutomationPeer()</a></td>
 <td>Returns a new, type-specific <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a> implementation for the control.<br />(Inherited from <a href="T_Avalonia_Controls_ItemsControl">ItemsControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_OnDataContextBeginUpdate">OnDataContextBeginUpdate</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_OnDataContextBeginUpdate">OnDataContextBeginUpdate()</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl</a>)</td>
 </tr>
 <tr>
-<td>OnDataContextChanged</td>
+<td>OnDataContextChanged(EventArgs)</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_OnDataContextEndUpdate">OnDataContextEndUpdate</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_OnDataContextEndUpdate">OnDataContextEndUpdate()</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_OnDetachedFromLogicalTree">OnDetachedFromLogicalTree</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_OnDetachedFromLogicalTree">OnDetachedFromLogicalTree(LogicalTreeAttachmentEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl</a>)</td>
 </tr>
 <tr>
-<td>OnDetachedFromVisualTree</td>
+<td>OnDetachedFromVisualTree(VisualTreeAttachmentEventArgs)</td>
 <td><br />(Inherited from Visual)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnDetachedFromVisualTreeCore">OnDetachedFromVisualTreeCore</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnDetachedFromVisualTreeCore">OnDetachedFromVisualTreeCore(VisualTreeAttachmentEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_TabControl_OnGotFocus">OnGotFocus</a></td>
+<td><a href="M_Avalonia_Controls_TabControl_OnGotFocus">OnGotFocus(GotFocusEventArgs)</a></td>
 <td><br />(Overrides <a href="M_Avalonia_Controls_ItemsControl_OnGotFocus">ItemsControl.OnGotFocus(GotFocusEventArgs)</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_OnInitialized">OnInitialized</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_OnInitialized">OnInitialized()</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ItemsControl_OnKeyDown">OnKeyDown</a></td>
+<td><a href="M_Avalonia_Controls_ItemsControl_OnKeyDown">OnKeyDown(KeyEventArgs)</a></td>
 <td>Handles directional navigation within the <a href="T_Avalonia_Controls_ItemsControl">ItemsControl</a>.<br />(Inherited from <a href="T_Avalonia_Controls_ItemsControl">ItemsControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnKeyUp">OnKeyUp</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnKeyUp">OnKeyUp(KeyEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnLoaded">OnLoaded</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnLoaded">OnLoaded(RoutedEventArgs)</a></td>
 <td>Invoked just before the <a href="E_Avalonia_Controls_Control_Loaded">Loaded</a> event.<br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnLostFocus">OnLostFocus</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnLostFocus">OnLostFocus(RoutedEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td>OnMeasureInvalidated</td>
+<td>OnMeasureInvalidated()</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>OnPointerCaptureLost</td>
+<td>OnPointerCaptureLost(PointerCaptureLostEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>OnPointerEntered</td>
+<td>OnPointerEntered(PointerEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>OnPointerExited</td>
+<td>OnPointerExited(PointerEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>OnPointerMoved</td>
+<td>OnPointerMoved(PointerEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_TabControl_OnPointerPressed">OnPointerPressed</a></td>
+<td><a href="M_Avalonia_Controls_TabControl_OnPointerPressed">OnPointerPressed(PointerPressedEventArgs)</a></td>
 <td><br />(Overrides InputElement.OnPointerPressed(PointerPressedEventArgs))</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_TabControl_OnPointerReleased">OnPointerReleased</a></td>
+<td><a href="M_Avalonia_Controls_TabControl_OnPointerReleased">OnPointerReleased(PointerReleasedEventArgs)</a></td>
 <td><br />(Overrides <a href="M_Avalonia_Controls_Control_OnPointerReleased">Control.OnPointerReleased(PointerReleasedEventArgs)</a>)</td>
 </tr>
 <tr>
-<td>OnPointerWheelChanged</td>
+<td>OnPointerWheelChanged(PointerWheelEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_TabControl_OnPropertyChanged">OnPropertyChanged</a></td>
+<td><a href="M_Avalonia_Controls_TabControl_OnPropertyChanged">OnPropertyChanged(AvaloniaPropertyChangedEventArgs)</a></td>
 <td><br />(Overrides <a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_OnPropertyChanged">SelectingItemsControl.OnPropertyChanged(AvaloniaPropertyChangedEventArgs)</a>)</td>
 </tr>
 <tr>
-<td>OnPropertyChangedCore</td>
+<td>OnPropertyChangedCore(AvaloniaPropertyChangedEventArgs)</td>
 <td><br />(Inherited from Animatable)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnSizeChanged">OnSizeChanged</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnSizeChanged">OnSizeChanged(SizeChangedEventArgs)</a></td>
 <td>Invoked just before the <a href="E_Avalonia_Controls_Control_SizeChanged">SizeChanged</a> event.<br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_OnTemplateChanged">OnTemplateChanged</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_TemplatedControl_OnTemplateChanged">OnTemplateChanged(AvaloniaPropertyChangedEventArgs)</a></td>
 <td>Called when the <a href="P_Avalonia_Controls_Primitives_TemplatedControl_Template">Template</a> property changes.<br />(Inherited from <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_OnTextInput">OnTextInput</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_OnTextInput">OnTextInput(TextInputEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnUnloaded">OnUnloaded</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnUnloaded">OnUnloaded(RoutedEventArgs)</a></td>
 <td>Invoked just before the <a href="E_Avalonia_Controls_Control_Unloaded">Unloaded</a> event.<br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td>OnVisualParentChanged</td>
+<td>OnVisualParentChanged(Visual, Visual)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_TabControl_PrepareContainerForItemOverride">PrepareContainerForItemOverride</a></td>
+<td><a href="M_Avalonia_Controls_TabControl_PrepareContainerForItemOverride">PrepareContainerForItemOverride(Control, Object, Int32)</a></td>
 <td><br />(Overrides <a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_PrepareContainerForItemOverride">SelectingItemsControl.PrepareContainerForItemOverride(Control, Object, Int32)</a>)</td>
 </tr>
 <tr>
-<td>RaiseEvent</td>
+<td>RaiseEvent(RoutedEventArgs)</td>
 <td><br />(Inherited from Interactive)</td>
 </tr>
 <tr>
-<td>RaisePropertyChanged``1</td>
+<td>RaisePropertyChanged``1(DirectPropertyBase(UMP), UMP, UMP)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ItemsControl_RefreshContainers">RefreshContainers</a></td>
+<td><a href="M_Avalonia_Controls_ItemsControl_RefreshContainers">RefreshContainers()</a></td>
 <td>Refreshes the containers displayed by the control.<br />(Inherited from <a href="T_Avalonia_Controls_ItemsControl">ItemsControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_TabControl_RegisterContentPresenter">RegisterContentPresenter</a></td>
+<td><a href="M_Avalonia_Controls_TabControl_RegisterContentPresenter">RegisterContentPresenter(ContentPresenter)</a></td>
 <td>Called when an <a href="T_Avalonia_Controls_Presenters_ContentPresenter">ContentPresenter</a> is registered with the control.</td>
 </tr>
 <tr>
@@ -406,7 +406,7 @@ import Tag from '@site/src/components/Tag';
 <td><br />(Inherited from Interactive)</td>
 </tr>
 <tr>
-<td>Render</td>
+<td>Render(DrawingContext)</td>
 <td><br />(Inherited from Visual)</td>
 </tr>
 <tr>
@@ -418,7 +418,7 @@ import Tag from '@site/src/components/Tag';
 <td>Scrolls the specified item into view.<br />(Inherited from <a href="T_Avalonia_Controls_ItemsControl">ItemsControl</a>)</td>
 </tr>
 <tr>
-<td>SetAndRaise``1</td>
+<td>SetAndRaise``1(DirectPropertyBase(UMP), UMP, UMP)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
@@ -442,23 +442,23 @@ import Tag from '@site/src/components/Tag';
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString()</a></td>
 <td>Returns a string that represents the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td>TryGetResource</td>
+<td>TryGetResource(Object, ThemeVariant, Object)</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_UpdateDataValidation">UpdateDataValidation</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_UpdateDataValidation">UpdateDataValidation(AvaloniaProperty, BindingValueType, Exception)</a></td>
 <td>Called to update the validation state for properties for which data validation is enabled.<br />(Inherited from <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl</a>)</td>
 </tr>
 <tr>
-<td>UpdateIsEffectivelyEnabled</td>
+<td>UpdateIsEffectivelyEnabled()</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>UpdateLayout</td>
+<td>UpdateLayout()</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
@@ -470,11 +470,11 @@ import Tag from '@site/src/components/Tag';
 <td>Updates the selection for an item based on user interaction.<br />(Inherited from <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_UpdateSelectionFromEventSource">UpdateSelectionFromEventSource</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_SelectingItemsControl_UpdateSelectionFromEventSource">UpdateSelectionFromEventSource(Object, Boolean, Boolean, Boolean, Boolean, Boolean)</a></td>
 <td>Updates the selection based on an event that may have originated in a container that belongs to the control.<br />(Inherited from <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl</a>)</td>
 </tr>
 <tr>
-<td>VerifyAccess</td>
+<td>VerifyAccess()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 </table>
@@ -482,27 +482,27 @@ import Tag from '@site/src/components/Tag';
 ## Extension Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_BringIntoView_1">BringIntoView</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_BringIntoView_1">BringIntoView()</a></td>
 <td>Tries to bring the control into view.<br />(Defined by <a href="T_Avalonia_Controls_ControlExtensions">ControlExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_BringIntoView">BringIntoView</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_BringIntoView">BringIntoView(Rect)</a></td>
 <td>Tries to bring the control into view.<br />(Defined by <a href="T_Avalonia_Controls_ControlExtensions">ControlExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_FindControl__1">FindControl(T)</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_FindControl__1">FindControl(T)(String)</a></td>
 <td>Finds the named control in the scope of the specified control.<br />(Defined by <a href="T_Avalonia_Controls_ControlExtensions">ControlExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Templates_DataTemplateExtensions_FindDataTemplate">FindDataTemplate</a></td>
+<td><a href="M_Avalonia_Controls_Templates_DataTemplateExtensions_FindDataTemplate">FindDataTemplate(Object, IDataTemplate)</a></td>
 <td>Find a data template that matches a piece of data.<br />(Defined by <a href="T_Avalonia_Controls_Templates_DataTemplateExtensions">DataTemplateExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_GetControl__1">GetControl(T)</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_GetControl__1">GetControl(T)(String)</a></td>
 <td>Finds the named control in the scope of the specified control and throws if not found.<br />(Defined by <a href="T_Avalonia_Controls_ControlExtensions">ControlExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Templates_TemplateExtensions_GetTemplateChildren">GetTemplateChildren</a></td>
+<td><a href="M_Avalonia_Controls_Templates_TemplateExtensions_GetTemplateChildren">GetTemplateChildren()</a></td>
 <td><br />(Defined by <a href="T_Avalonia_Controls_Templates_TemplateExtensions">TemplateExtensions</a>)</td>
 </tr>
 </table>

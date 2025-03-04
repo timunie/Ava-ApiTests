@@ -33,6 +33,10 @@ new : unit -> LineBreak
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Documents/LineBreak.cs#L18" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

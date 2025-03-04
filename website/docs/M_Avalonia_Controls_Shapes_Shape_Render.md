@@ -38,6 +38,10 @@ override Render :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Shape.cs#L198" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  DrawingContext</dt><dd> </dd></dl>
 

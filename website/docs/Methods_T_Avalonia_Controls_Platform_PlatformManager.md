@@ -10,27 +10,27 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_PlatformManager_CreateEmbeddableTopLevel">CreateEmbeddableTopLevel</a></td>
+<td><a href="M_Avalonia_Controls_Platform_PlatformManager_CreateEmbeddableTopLevel">CreateEmbeddableTopLevel()</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_PlatformManager_CreateEmbeddableWindow">CreateEmbeddableWindow</a></td>
+<td><a href="M_Avalonia_Controls_Platform_PlatformManager_CreateEmbeddableWindow">CreateEmbeddableWindow()</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_PlatformManager_CreateTrayIcon">CreateTrayIcon</a></td>
+<td><a href="M_Avalonia_Controls_Platform_PlatformManager_CreateTrayIcon">CreateTrayIcon()</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_PlatformManager_CreateWindow">CreateWindow</a></td>
+<td><a href="M_Avalonia_Controls_Platform_PlatformManager_CreateWindow">CreateWindow()</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_PlatformManager_DesignerMode">DesignerMode</a></td>
+<td><a href="M_Avalonia_Controls_Platform_PlatformManager_DesignerMode">DesignerMode()</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_PlatformManager_SetDesignerScalingFactor">SetDesignerScalingFactor</a></td>
+<td><a href="M_Avalonia_Controls_Platform_PlatformManager_SetDesignerScalingFactor">SetDesignerScalingFactor(Double)</a></td>
 <td> </td>
 </tr>
 </table>

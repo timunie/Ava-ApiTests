@@ -40,8 +40,15 @@ override OnClosing :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Window.cs#L1104" title="View the source code">View Source</a>
+
+
+
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_Controls_WindowClosingEventArgs">WindowClosingEventArgs</a></dt><dd>The event args.</dd></dl>A type that derives from <a href="T_Avalonia_Controls_Window">Window</a> may override OnClosing(WindowClosingEventArgs). The overridden method must call OnClosing(WindowClosingEventArgs) on the base class if the <a href="E_Avalonia_Controls_Window_Closing">Closing</a> event needs to be raised.
+<dl><dt>  <a href="T_Avalonia_Controls_WindowClosingEventArgs">WindowClosingEventArgs</a></dt><dd>The event args.</dd></dl>
+
+## 
+A type that derives from <a href="T_Avalonia_Controls_Window">Window</a> may override OnClosing(WindowClosingEventArgs). The overridden method must call OnClosing(WindowClosingEventArgs) on the base class if the <a href="E_Avalonia_Controls_Window_Closing">Closing</a> event needs to be raised.
 
 ## See Also
 

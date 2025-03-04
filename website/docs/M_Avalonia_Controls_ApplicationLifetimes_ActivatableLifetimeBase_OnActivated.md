@@ -36,6 +36,10 @@ member OnActivated :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ApplicationLifetimes/ActivatableLifetimeBase.cs#L22" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_ApplicationLifetimes_ActivatedEventArgs">ActivatedEventArgs</a></dt><dd> </dd></dl>
 

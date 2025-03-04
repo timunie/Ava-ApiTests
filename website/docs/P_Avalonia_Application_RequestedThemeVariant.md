@@ -35,8 +35,15 @@ member RequestedThemeVariant : ThemeVariant with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Application.cs#L95" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-ThemeVariantSetting RequestedThemeVariant to Default will apply parent's actual theme variant on the current scope.
+ThemeVariant
+
+## 
+Setting RequestedThemeVariant to Default will apply parent's actual theme variant on the current scope.
 
 ## See Also
 

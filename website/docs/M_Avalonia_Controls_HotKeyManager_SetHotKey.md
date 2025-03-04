@@ -39,6 +39,10 @@ static member SetHotKey :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/HotkeyManager.cs#L162" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  AvaloniaObject</dt><dd> </dd><dt>  KeyGesture</dt><dd> </dd></dl>
 

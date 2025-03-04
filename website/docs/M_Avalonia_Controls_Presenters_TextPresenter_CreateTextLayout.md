@@ -34,6 +34,10 @@ override CreateTextLayout : unit -> TextLayout
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Presenters/TextPresenter.cs#L537" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 TextLayout  
 A <a href="P_Avalonia_Controls_Presenters_TextPresenter_TextLayout">TextLayout</a> object.

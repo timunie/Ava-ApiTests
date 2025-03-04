@@ -34,6 +34,10 @@ member OffsetDelta : Vector with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ScrollChangedEventArgs.cs#L38" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Vector
 

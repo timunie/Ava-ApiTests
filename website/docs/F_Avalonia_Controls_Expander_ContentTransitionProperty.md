@@ -33,6 +33,10 @@ static val ContentTransitionProperty: StyledProperty<IPageTransition>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Expander.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(IPageTransition)
 

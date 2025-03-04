@@ -32,6 +32,10 @@ member Parent : NativeMenuItem with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/NativeMenu.cs#L93" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_NativeMenuItem">NativeMenuItem</a>
 

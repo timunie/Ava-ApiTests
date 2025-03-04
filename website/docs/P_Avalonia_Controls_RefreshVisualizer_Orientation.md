@@ -35,6 +35,10 @@ member Orientation : RefreshVisualizerOrientation with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/PullToRefresh/RefreshVisualizer.cs#L89" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_RefreshVisualizerOrientation">RefreshVisualizerOrientation</a>
 

@@ -34,6 +34,10 @@ member NameScope : INameScope with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/TemplateAppliedEventArgs.cs#L23" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 INameScope
 

@@ -35,6 +35,10 @@ member ValueBinding : IBinding with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L2069" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 IBinding
 

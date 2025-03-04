@@ -42,6 +42,10 @@ override MoveAndResize :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/PopupPositioning/ManagedPopupPositionerPopupImplHelper.cs#L56" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Point</dt><dd> </dd><dt>  Size</dt><dd> </dd></dl>
 

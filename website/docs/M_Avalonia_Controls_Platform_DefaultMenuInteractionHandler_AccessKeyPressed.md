@@ -42,6 +42,10 @@ override AccessKeyPressed :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/DefaultMenuInteractionHandler.cs#L81" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a></dt><dd> </dd><dt>  RoutedEventArgs</dt><dd> </dd></dl>
 

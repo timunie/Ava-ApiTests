@@ -34,6 +34,10 @@ static member HorizontalViewSizeProperty : AutomationProperty with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/ScrollPatternIdentifiers.cs#L28" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Automation_AutomationProperty">AutomationProperty</a>
 

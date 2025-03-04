@@ -33,6 +33,10 @@ new : unit -> TextBox
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBox.cs#L333" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

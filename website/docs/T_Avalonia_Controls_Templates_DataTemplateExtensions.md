@@ -35,6 +35,10 @@ type DataTemplateExtensions = class end
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/DataTemplateExtensions.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  DataTemplateExtensions</td></tr>
 </table>
@@ -44,7 +48,7 @@ type DataTemplateExtensions = class end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Templates_DataTemplateExtensions_FindDataTemplate">FindDataTemplate</a></td>
+<td><a href="M_Avalonia_Controls_Templates_DataTemplateExtensions_FindDataTemplate">FindDataTemplate(Control, Object, IDataTemplate)</a></td>
 <td>Find a data template that matches a piece of data.</td>
 </tr>
 </table>

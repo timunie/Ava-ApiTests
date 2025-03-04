@@ -32,6 +32,10 @@ override GetUntypedDeselectedItems : unit -> IReadOnlyList<Object>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Selection/SelectionModelSelectionChangedEventArgs.cs#L72" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ireadonlylist-1" target="_blank" rel="noopener noreferrer">IReadOnlyList</a>(<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)
 

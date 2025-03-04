@@ -31,6 +31,10 @@ static val ThumbProperty: StyledProperty<Thumb>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/Track.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="T_Avalonia_Controls_Primitives_Thumb">Thumb</a>)
 

@@ -33,6 +33,10 @@ type CalendarDatePickerFormat
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/CalendarDatePicker/CalendarDatePickerFormat.cs" title="View the source code">View Source</a>
+
+
+
 ## Members
 <table>
 <tr>

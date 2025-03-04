@@ -37,6 +37,10 @@ type AcrylicPlatformCompensationLevels =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AcrylicPlatformCompensationLevels.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="https://learn.microsoft.com/dotnet/api/system.valuetype" target="_blank" rel="noopener noreferrer">ValueType</a>  →  AcrylicPlatformCompensationLevels</td></tr>
 <tr><td><strong>Implements</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.iequatable-1" target="_blank" rel="noopener noreferrer">IEquatable</a>(AcrylicPlatformCompensationLevels)</td></tr>
@@ -47,7 +51,7 @@ type AcrylicPlatformCompensationLevels =
 ## Constructors
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_AcrylicPlatformCompensationLevels__ctor">AcrylicPlatformCompensationLevels</a></td>
+<td><a href="M_Avalonia_Controls_AcrylicPlatformCompensationLevels__ctor">AcrylicPlatformCompensationLevels(Double, Double, Double)</a></td>
 <td>Initializes a new instance of the AcrylicPlatformCompensationLevels class</td>
 </tr>
 </table>
@@ -71,7 +75,7 @@ type AcrylicPlatformCompensationLevels =
 ## Methods
 <table>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType()</a></td>
 <td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a> of the current instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 </table>

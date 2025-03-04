@@ -31,6 +31,10 @@ member CreateTextRunProperties : unit -> TextRunProperties
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Documents/Inline.cs#L74" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 TextRunProperties
 

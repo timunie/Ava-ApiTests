@@ -33,6 +33,10 @@ static val mutable NoScroll: float
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/ScrollPatternIdentifiers.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>
 

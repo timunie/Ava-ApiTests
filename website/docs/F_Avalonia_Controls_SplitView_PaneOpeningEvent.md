@@ -33,6 +33,10 @@ static val PaneOpeningEvent: RoutedEvent<CancelRoutedEventArgs>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SplitView/SplitView.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 RoutedEvent(CancelRoutedEventArgs)
 

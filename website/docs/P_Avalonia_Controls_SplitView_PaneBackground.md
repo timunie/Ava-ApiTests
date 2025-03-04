@@ -35,6 +35,10 @@ member PaneBackground : IBrush with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SplitView/SplitView.cs#L185" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 IBrush
 

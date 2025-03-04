@@ -38,6 +38,10 @@ override ArrangeOverride :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TransitioningContentControl.cs#L76" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Size</dt><dd> </dd></dl>
 

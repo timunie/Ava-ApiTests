@@ -33,6 +33,10 @@ override Extent : Size with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/DateTimePickers/DateTimePickerPanel.cs#L278" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Size
 

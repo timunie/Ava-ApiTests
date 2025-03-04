@@ -43,6 +43,10 @@ static member RegisterInNameScope :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/FuncTemplateNameScopeExtensions.cs#L9" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  T</dt><dd> </dd><dt>  INameScope</dt><dd> </dd></dl>
 

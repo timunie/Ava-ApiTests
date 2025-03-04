@@ -41,6 +41,10 @@ abstract Scroll :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Provider/IScrollProvider.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Automation_Provider_ScrollAmount">ScrollAmount</a></dt><dd>The horizontal increment specific to the control.</dd><dt>  <a href="T_Avalonia_Automation_Provider_ScrollAmount">ScrollAmount</a></dt><dd>The vertical increment specific to the control.</dd></dl>
 

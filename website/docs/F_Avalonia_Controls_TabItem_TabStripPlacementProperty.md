@@ -33,6 +33,10 @@ static val TabStripPlacementProperty: DirectProperty<TabItem, Nullable<Dock>>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TabItem.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 DirectProperty(<a href="T_Avalonia_Controls_TabItem">TabItem</a>, <a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="T_Avalonia_Controls_Dock">Dock</a>))
 

@@ -35,8 +35,15 @@ member Bounds : PixelRect with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/Screen.cs#L79" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-PixelRectThis generally is the raw pixel counts in both the X and Y direction.
+PixelRect
+
+## 
+This generally is the raw pixel counts in both the X and Y direction.
 
 ## See Also
 

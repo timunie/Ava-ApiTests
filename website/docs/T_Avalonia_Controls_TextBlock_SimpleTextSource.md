@@ -37,6 +37,10 @@ type SimpleTextSource =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBlock.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="https://learn.microsoft.com/dotnet/api/system.valuetype" target="_blank" rel="noopener noreferrer">ValueType</a>  →  TextBlock.SimpleTextSource</td></tr>
 <tr><td><strong>Implements</strong></td><td>ITextSource, <a href="https://learn.microsoft.com/dotnet/api/system.iequatable-1" target="_blank" rel="noopener noreferrer">IEquatable</a>(TextBlock.SimpleTextSource)</td></tr>
@@ -47,7 +51,7 @@ type SimpleTextSource =
 ## Constructors
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_TextBlock_SimpleTextSource__ctor">TextBlock.SimpleTextSource</a></td>
+<td><a href="M_Avalonia_Controls_TextBlock_SimpleTextSource__ctor">TextBlock.SimpleTextSource(String, TextRunProperties)</a></td>
 <td>Initializes a new instance of the TextBlock.SimpleTextSource class</td>
 </tr>
 </table>
@@ -55,11 +59,11 @@ type SimpleTextSource =
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_TextBlock_SimpleTextSource_GetTextRun">GetTextRun</a></td>
+<td><a href="M_Avalonia_Controls_TextBlock_SimpleTextSource_GetTextRun">GetTextRun(Int32)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType()</a></td>
 <td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a> of the current instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 </table>

@@ -33,6 +33,10 @@ static val FrameSizeProperty: DirectProperty<TopLevel, Nullable<Size>>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TopLevel.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 DirectProperty(<a href="T_Avalonia_Controls_TopLevel">TopLevel</a>, <a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(Size))
 

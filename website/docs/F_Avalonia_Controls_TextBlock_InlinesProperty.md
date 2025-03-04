@@ -33,6 +33,10 @@ static val InlinesProperty: DirectProperty<TextBlock, InlineCollection>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBlock.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 DirectProperty(<a href="T_Avalonia_Controls_TextBlock">TextBlock</a>, <a href="T_Avalonia_Controls_Documents_InlineCollection">InlineCollection</a>)
 

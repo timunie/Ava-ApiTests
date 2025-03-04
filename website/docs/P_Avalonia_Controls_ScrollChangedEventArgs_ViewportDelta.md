@@ -34,6 +34,10 @@ member ViewportDelta : Vector with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ScrollChangedEventArgs.cs#L43" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Vector
 

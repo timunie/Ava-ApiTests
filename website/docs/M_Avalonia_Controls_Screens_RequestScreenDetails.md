@@ -33,9 +33,16 @@ member RequestScreenDetails : unit -> Task<bool>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Screens.cs#L184" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.threading.tasks.task-1" target="_blank" rel="noopener noreferrer">Task</a>(<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>)  
-True, if detailed screen information was provided. False, if denied by the platform or user.This method is async and might show a dialog to the user asking for a permission.
+True, if detailed screen information was provided. False, if denied by the platform or user.
+
+## 
+This method is async and might show a dialog to the user asking for a permission.
 
 ## See Also
 

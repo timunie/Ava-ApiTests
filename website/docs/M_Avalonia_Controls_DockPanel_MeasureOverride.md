@@ -40,12 +40,19 @@ override MeasureOverride :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/DockPanel.cs#L90" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Size</dt><dd>Constraint size is an "upper limit" that the return value should not exceed.</dd></dl>
 
 #### Return Value
 Size  
-The Panel's desired size.Children are measured based on their sizing properties and <a href="T_Avalonia_Controls_Dock">Dock</a>. Each child is allowed to consume all of the space on the side on which it is docked; Left/Right docked children are granted all vertical space for their entire width, and Top/Bottom docked children are granted all horizontal space for their entire height.
+The Panel's desired size.
+
+## 
+Children are measured based on their sizing properties and <a href="T_Avalonia_Controls_Dock">Dock</a>. Each child is allowed to consume all of the space on the side on which it is docked; Left/Right docked children are granted all vertical space for their entire width, and Top/Bottom docked children are granted all horizontal space for their entire height.
 
 ## See Also
 

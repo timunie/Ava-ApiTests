@@ -31,10 +31,14 @@ type INativeControlHostImpl = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/INativeControlHostImpl.cs" title="View the source code">View Source</a>
+
+
+
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_INativeControlHostImpl_CreateDefaultChild">CreateDefaultChild</a></td>
+<td><a href="M_Avalonia_Controls_Platform_INativeControlHostImpl_CreateDefaultChild">CreateDefaultChild(IPlatformHandle)</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -46,7 +50,7 @@ type INativeControlHostImpl = interface end
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_INativeControlHostImpl_IsCompatibleWith">IsCompatibleWith</a></td>
+<td><a href="M_Avalonia_Controls_Platform_INativeControlHostImpl_IsCompatibleWith">IsCompatibleWith(IPlatformHandle)</a></td>
 <td> </td>
 </tr>
 </table>

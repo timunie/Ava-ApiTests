@@ -35,6 +35,10 @@ member Background : IBrush with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Presenters/ContentPresenter.cs#L199" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 IBrush
 

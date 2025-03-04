@@ -34,6 +34,10 @@ override Build : unit -> 'TControl
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/FuncTemplate%601.cs#L30" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="T_Avalonia_Controls_Templates_FuncTemplate_1">TControl</a>  
 The created control.

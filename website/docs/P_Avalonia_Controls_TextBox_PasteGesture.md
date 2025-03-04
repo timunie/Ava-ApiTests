@@ -34,6 +34,10 @@ static member PasteGesture : KeyGesture with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBox.cs#L45" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 KeyGesture
 

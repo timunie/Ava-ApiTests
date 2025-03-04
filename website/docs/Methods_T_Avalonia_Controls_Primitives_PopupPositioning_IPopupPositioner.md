@@ -10,7 +10,7 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_PopupPositioning_IPopupPositioner_Update">Update</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_PopupPositioning_IPopupPositioner_Update">Update(PopupPositionerParameters)</a></td>
 <td>Updates the position of the associated <a href="T_Avalonia_Controls_Primitives_IPopupHost">IPopupHost</a> according to the specified parameters.</td>
 </tr>
 </table>

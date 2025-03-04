@@ -40,6 +40,10 @@ override OnSpin :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Spinner.cs#L147" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_SpinEventArgs">SpinEventArgs</a></dt><dd>Spin event args.</dd></dl>
 

@@ -33,6 +33,10 @@ static val AccessKeyProperty: AttachedProperty<string>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/AutomationProperties.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 AttachedProperty(<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>)
 

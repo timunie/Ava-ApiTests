@@ -38,6 +38,10 @@ override SetCursor :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Embedding/Offscreen/OffscreenTopLevelImpl.cs#L76" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  ICursorImpl</dt><dd> </dd></dl>
 

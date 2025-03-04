@@ -40,6 +40,10 @@ override RegisterContentPresenter :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/HeaderedSelectingItemsControl.cs#L90" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Presenters_ContentPresenter">ContentPresenter</a></dt><dd>The presenter.</dd></dl>
 

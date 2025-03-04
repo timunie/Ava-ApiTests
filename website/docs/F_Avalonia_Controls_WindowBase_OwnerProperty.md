@@ -33,6 +33,10 @@ static val OwnerProperty: DirectProperty<WindowBase, WindowBase>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/WindowBase.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 DirectProperty(<a href="T_Avalonia_Controls_WindowBase">WindowBase</a>, <a href="T_Avalonia_Controls_WindowBase">WindowBase</a>)
 

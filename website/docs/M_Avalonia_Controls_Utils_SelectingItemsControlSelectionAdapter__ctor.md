@@ -33,6 +33,10 @@ new : unit -> SelectingItemsControlSelectionAdapter
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Utils/SelectingItemsControlSelectionAdapter.cs#L87" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

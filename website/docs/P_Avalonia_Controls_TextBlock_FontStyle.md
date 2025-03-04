@@ -35,6 +35,10 @@ member FontStyle : FontStyle with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBlock.cs#L243" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 FontStyle
 

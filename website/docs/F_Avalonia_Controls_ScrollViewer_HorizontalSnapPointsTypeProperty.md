@@ -33,6 +33,10 @@ static val HorizontalSnapPointsTypeProperty: AttachedProperty<SnapPointsType>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ScrollViewer.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 AttachedProperty(<a href="T_Avalonia_Controls_Primitives_SnapPointsType">SnapPointsType</a>)
 

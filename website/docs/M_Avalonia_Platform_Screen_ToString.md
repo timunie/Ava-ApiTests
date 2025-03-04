@@ -34,6 +34,10 @@ override ToString : unit -> string
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/Screen.cs#L152" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>  
 A string that represents the current object.

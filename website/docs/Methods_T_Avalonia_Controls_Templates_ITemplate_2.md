@@ -10,7 +10,7 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Templates_ITemplate_2_Build">Build</a></td>
+<td><a href="M_Avalonia_Controls_Templates_ITemplate_2_Build">Build(TParam)</a></td>
 <td>Creates the control.</td>
 </tr>
 </table>

@@ -35,6 +35,10 @@ member HotKey : KeyGesture with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SplitButton/SplitButton.cs#L116" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 KeyGesture
 

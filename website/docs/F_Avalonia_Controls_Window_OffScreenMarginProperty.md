@@ -31,6 +31,10 @@ static val OffScreenMarginProperty: DirectProperty<Window, Thickness>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Window.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 DirectProperty(<a href="T_Avalonia_Controls_Window">Window</a>, Thickness)
 

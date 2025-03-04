@@ -32,6 +32,10 @@ member Offset : Point with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/PopupPositioning/PopupPositionRequest.cs#L29" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Point
 

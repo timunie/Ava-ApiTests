@@ -47,6 +47,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/Screen.cs#L67" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a></dt><dd>The scaling factor applied to the screen by the operating system.</dd><dt>  PixelRect</dt><dd>The overall pixel-size of the screen.</dd><dt>  PixelRect</dt><dd>The actual working-area pixel-size of the screen.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a></dt><dd>Whether the screen is the primary one.</dd></dl>
 

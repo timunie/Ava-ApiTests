@@ -35,10 +35,17 @@ type ILogicalScrollable =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/ILogicalScrollable.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_Primitives_IScrollable">IScrollable</a></td></tr>
 </table>
 
+
+
+## 
 Controls that implement this interface, when placed inside a <a href="T_Avalonia_Controls_ScrollViewer">ScrollViewer</a> can override the physical scrolling behavior of the scroll viewer with logical scrolling. Physical scrolling means that the scroll viewer is a simple viewport onto a larger canvas whereas logical scrolling means that the scrolling is handled by the child control itself and it can choose to do handle the scroll information as it sees fit.
 
 ## Properties
@@ -80,15 +87,15 @@ Controls that implement this interface, when placed inside a <a href="T_Avalonia
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_ILogicalScrollable_BringIntoView">BringIntoView</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_ILogicalScrollable_BringIntoView">BringIntoView(Control, Rect)</a></td>
 <td>Attempts to bring a portion of the target visual into view by scrolling the content.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_ILogicalScrollable_GetControlInDirection">GetControlInDirection</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_ILogicalScrollable_GetControlInDirection">GetControlInDirection(NavigationDirection, Control)</a></td>
 <td>Gets the next control in the specified direction.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_ILogicalScrollable_RaiseScrollInvalidated">RaiseScrollInvalidated</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_ILogicalScrollable_RaiseScrollInvalidated">RaiseScrollInvalidated(EventArgs)</a></td>
 <td>Raises the <a href="E_Avalonia_Controls_Primitives_ILogicalScrollable_ScrollInvalidated">ScrollInvalidated</a> event.</td>
 </tr>
 </table>

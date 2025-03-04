@@ -34,6 +34,10 @@ override GetTemplateFocusTarget : unit -> Control
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Control.cs#L258" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="T_Avalonia_Controls_Control">Control</a>  
 The control that receives the focus adorner.

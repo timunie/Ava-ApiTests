@@ -33,6 +33,10 @@ abstract GetFocus : unit -> AutomationPeer
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Provider/IEmbeddedRootProvider.cs" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a>
 

@@ -38,6 +38,10 @@ abstract SetExtendClientAreaTitleBarHeightHint :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IWindowImpl.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a></dt><dd>-1 for platform default, otherwise the height in DIPs.</dd></dl>
 

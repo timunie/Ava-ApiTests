@@ -41,6 +41,10 @@ static member SetTextWrapping :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBlock.cs#L456" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The element to which to write the attached property.</dd><dt>  TextWrapping</dt><dd>The property value to set</dd></dl>
 

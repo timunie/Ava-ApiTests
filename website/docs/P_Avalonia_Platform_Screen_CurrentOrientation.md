@@ -35,6 +35,10 @@ member CurrentOrientation : ScreenOrientation with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/Screen.cs#L58" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Platform_ScreenOrientation">ScreenOrientation</a>
 

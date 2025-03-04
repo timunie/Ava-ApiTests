@@ -50,6 +50,10 @@ static member FindDataTemplate :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/DataTemplateExtensions.cs#L24" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The control searching for the data template.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a></dt><dd>The data.</dd><dt>  <a href="T_Avalonia_Controls_Templates_IDataTemplate">IDataTemplate</a>  (Optional)</dt><dd>An optional primary template that can will be tried before the DataTemplates in the tree are searched.</dd></dl>
 

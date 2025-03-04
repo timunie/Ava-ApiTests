@@ -34,6 +34,10 @@ override Hide : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/OverlayPopupHost.cs#L115" title="View the source code">View Source</a>
+
+
+
 #### Implements
 <a href="M_Avalonia_Controls_Primitives_IPopupHost_Hide">IPopupHost.Hide()</a>  
 

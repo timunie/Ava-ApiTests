@@ -40,6 +40,10 @@ override OnPopulating :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L925" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_PopulatingEventArgs">PopulatingEventArgs</a></dt><dd>A <a href="T_Avalonia_Controls_PopulatingEventArgs">PopulatingEventArgs</a> that contains the event data.</dd></dl>
 

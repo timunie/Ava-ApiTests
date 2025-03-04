@@ -33,6 +33,10 @@ static val ValueProperty: StyledProperty<'T>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="T_Avalonia_Controls_AutoCompleteBox_BindingEvaluator_1">T</a>)
 

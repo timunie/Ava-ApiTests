@@ -33,6 +33,10 @@ static val ControlTypeOverrideProperty: AttachedProperty<Nullable<AutomationCont
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/AutomationProperties.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 AttachedProperty(<a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="T_Avalonia_Automation_Peers_AutomationControlType">AutomationControlType</a>))
 

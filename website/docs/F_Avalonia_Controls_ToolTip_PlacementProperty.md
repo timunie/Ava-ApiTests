@@ -33,6 +33,10 @@ static val PlacementProperty: AttachedProperty<PlacementMode>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ToolTip.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 AttachedProperty(<a href="T_Avalonia_Controls_PlacementMode">PlacementMode</a>)
 

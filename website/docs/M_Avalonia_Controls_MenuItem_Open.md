@@ -32,6 +32,13 @@ override Open : unit -> unit
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/MenuItem.cs#L372" title="View the source code">View Source</a>
+
+
+
+## 
 This has the same effect as setting <a href="P_Avalonia_Controls_MenuItem_IsSubMenuOpen">IsSubMenuOpen</a> to true.
 
 ## See Also

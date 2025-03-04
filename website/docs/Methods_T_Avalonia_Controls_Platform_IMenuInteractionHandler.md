@@ -10,11 +10,11 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_IMenuInteractionHandler_Attach">Attach</a></td>
+<td><a href="M_Avalonia_Controls_Platform_IMenuInteractionHandler_Attach">Attach(MenuBase)</a></td>
 <td>Attaches the interaction handler to a menu.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_IMenuInteractionHandler_Detach">Detach</a></td>
+<td><a href="M_Avalonia_Controls_Platform_IMenuInteractionHandler_Detach">Detach(MenuBase)</a></td>
 <td>Detaches the interaction handler from the attached menu.</td>
 </tr>
 </table>

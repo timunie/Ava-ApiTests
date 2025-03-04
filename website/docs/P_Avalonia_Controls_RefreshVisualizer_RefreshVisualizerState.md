@@ -34,6 +34,10 @@ member RefreshVisualizerState : RefreshVisualizerState with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/PullToRefresh/RefreshVisualizer.cs#L76" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_RefreshVisualizerState">RefreshVisualizerState</a>
 

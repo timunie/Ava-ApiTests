@@ -38,6 +38,10 @@ override ScreenFromTopLevel :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IScreenImpl.cs#L70" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Platform_ITopLevelImpl">ITopLevelImpl</a></dt><dd> </dd></dl>
 

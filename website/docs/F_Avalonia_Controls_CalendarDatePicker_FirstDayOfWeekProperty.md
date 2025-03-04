@@ -33,6 +33,10 @@ static val FirstDayOfWeekProperty: StyledProperty<DayOfWeek>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/CalendarDatePicker/CalendarDatePicker.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="https://learn.microsoft.com/dotnet/api/system.dayofweek" target="_blank" rel="noopener noreferrer">DayOfWeek</a>)
 

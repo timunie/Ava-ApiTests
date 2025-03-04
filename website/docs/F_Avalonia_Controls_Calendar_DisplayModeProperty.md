@@ -31,6 +31,10 @@ static val DisplayModeProperty: StyledProperty<CalendarMode>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Calendar/Calendar.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="T_Avalonia_Controls_CalendarMode">CalendarMode</a>)
 

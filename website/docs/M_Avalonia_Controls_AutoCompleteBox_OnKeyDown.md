@@ -40,6 +40,10 @@ override OnKeyDown :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L680" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  KeyEventArgs</dt><dd>A KeyEventArgs that contains the event data.</dd></dl>
 

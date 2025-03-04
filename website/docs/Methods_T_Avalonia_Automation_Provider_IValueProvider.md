@@ -10,7 +10,7 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Automation_Provider_IValueProvider_SetValue">SetValue</a></td>
+<td><a href="M_Avalonia_Automation_Provider_IValueProvider_SetValue">SetValue(String)</a></td>
 <td>Sets the value of a control.</td>
 </tr>
 </table>

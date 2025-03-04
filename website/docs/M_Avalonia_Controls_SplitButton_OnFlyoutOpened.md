@@ -34,6 +34,10 @@ override OnFlyoutOpened : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SplitButton/SplitButton.cs#L442" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

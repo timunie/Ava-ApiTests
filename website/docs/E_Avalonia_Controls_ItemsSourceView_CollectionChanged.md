@@ -36,6 +36,10 @@ override CollectionChanged : IEvent<NotifyCollectionChangedEventHandler,
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ItemsSourceView.cs" title="View the source code">View Source</a>
+
+
+
 #### Value
 <a href="https://learn.microsoft.com/dotnet/api/system.collections.specialized.notifycollectionchangedeventhandler" target="_blank" rel="noopener noreferrer">NotifyCollectionChangedEventHandler</a>
 

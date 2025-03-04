@@ -10,7 +10,7 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_SystemFontAppBuilderExtension_WithSystemFontSource">WithSystemFontSource</a></td>
+<td><a href="M_Avalonia_SystemFontAppBuilderExtension_WithSystemFontSource">WithSystemFontSource(AppBuilder, Uri)</a></td>
 <td> </td>
 </tr>
 </table>

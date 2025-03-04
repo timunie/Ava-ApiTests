@@ -33,8 +33,15 @@ member IsOffscreen : unit -> bool
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/AutomationPeer.cs#L170" title="View the source code">View Source</a>
+
+
+
 #### Return Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>This property does not indicate whether the element is visible. In some circumstances, an element is on the screen but is still not visible. For example, if the element is on the screen but obscured by other elements, it might not be visible. In this case, the method returns false.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## 
+This property does not indicate whether the element is visible. In some circumstances, an element is on the screen but is still not visible. For example, if the element is on the screen but obscured by other elements, it might not be visible. In this case, the method returns false.
 
 ## See Also
 

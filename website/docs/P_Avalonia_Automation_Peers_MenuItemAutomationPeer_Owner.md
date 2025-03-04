@@ -32,6 +32,10 @@ member Owner : MenuItem with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/MenuItemAutomationPeer.cs#L13" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_MenuItem">MenuItem</a>
 

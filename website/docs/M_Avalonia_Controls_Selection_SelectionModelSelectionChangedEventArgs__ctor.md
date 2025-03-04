@@ -33,6 +33,10 @@ new : unit -> SelectionModelSelectionChangedEventArgs
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Selection/SelectionModelSelectionChangedEventArgs.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

@@ -33,6 +33,10 @@ type TextSearch = class end
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/TextSearch.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  TextSearch</td></tr>
 </table>
@@ -42,11 +46,11 @@ type TextSearch = class end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_TextSearch_GetText">GetText</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_TextSearch_GetText">GetText(Control)</a></td>
 <td>Gets the <a href="F_Avalonia_Controls_Primitives_TextSearch_TextProperty">TextProperty</a> of a control.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Primitives_TextSearch_SetText">SetText</a></td>
+<td><a href="M_Avalonia_Controls_Primitives_TextSearch_SetText">SetText(Control, String)</a></td>
 <td>Sets the <a href="F_Avalonia_Controls_Primitives_TextSearch_TextProperty">TextProperty</a> for a control.</td>
 </tr>
 </table>

@@ -18,7 +18,7 @@ import Tag from '@site/src/components/Tag';
 <td>Creates or recycles a control to display the specified data.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Templates_IDataTemplate_Match">Match</a></td>
+<td><a href="M_Avalonia_Controls_Templates_IDataTemplate_Match">Match(Object)</a></td>
 <td>Checks to see if this data template matches the specified data.<br />(Inherited from <a href="T_Avalonia_Controls_Templates_IDataTemplate">IDataTemplate</a>)</td>
 </tr>
 </table>

@@ -33,6 +33,10 @@ member Next : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Carousel.cs#L49" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

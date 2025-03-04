@@ -38,8 +38,15 @@ member Close :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Window.cs#L472" title="View the source code">View Source</a>
+
+
+
 #### Parameters
-<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a></dt><dd>The dialog result.</dd></dl>When the window is shown with the <a href="M_Avalonia_Controls_Window_ShowDialog__1">ShowDialog(TResult)(Window)</a> or <a href="M_Avalonia_Controls_Window_ShowDialog__1">ShowDialog(TResult)(Window)</a> method, the resulting task will produce the _dialogResult value when the window is closed.
+<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a></dt><dd>The dialog result.</dd></dl>
+
+## 
+When the window is shown with the <a href="M_Avalonia_Controls_Window_ShowDialog__1">ShowDialog(TResult)(Window)</a> or <a href="M_Avalonia_Controls_Window_ShowDialog__1">ShowDialog(TResult)(Window)</a> method, the resulting task will produce the _dialogResult value when the window is closed.
 
 ## See Also
 

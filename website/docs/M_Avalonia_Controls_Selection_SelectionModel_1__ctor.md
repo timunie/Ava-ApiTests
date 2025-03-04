@@ -33,6 +33,10 @@ new : unit -> SelectionModel
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Selection/SelectionModel.cs#L13" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

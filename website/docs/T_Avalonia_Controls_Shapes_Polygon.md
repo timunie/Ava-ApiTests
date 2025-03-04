@@ -33,6 +33,10 @@ type Polygon =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Polygon.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  AvaloniaObject  →  Animatable  →  StyledElement  →  Visual  →  Layoutable  →  Interactive  →  InputElement  →  <a href="T_Avalonia_Controls_Control">Control</a>  →  <a href="T_Avalonia_Controls_Shapes_Shape">Shape</a>  →  Polygon</td></tr>
 </table>
@@ -42,7 +46,7 @@ type Polygon =
 ## Constructors
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Shapes_Polygon__ctor">Polygon</a></td>
+<td><a href="M_Avalonia_Controls_Shapes_Polygon__ctor">Polygon()</a></td>
 <td>Initializes a new instance of the Polygon class</td>
 </tr>
 </table>
@@ -370,27 +374,27 @@ type Polygon =
 <td><br />(Inherited from Interactive)</td>
 </tr>
 <tr>
-<td>ApplyStyling</td>
+<td>ApplyStyling()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td>ApplyTemplate</td>
+<td>ApplyTemplate()</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>Arrange</td>
+<td>Arrange(Rect)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>ArrangeCore</td>
+<td>ArrangeCore(Rect)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Shapes_Shape_ArrangeOverride">ArrangeOverride</a></td>
+<td><a href="M_Avalonia_Controls_Shapes_Shape_ArrangeOverride">ArrangeOverride(Size)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Shapes_Shape">Shape</a>)</td>
 </tr>
 <tr>
-<td>BeginInit</td>
+<td>BeginInit()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
@@ -426,11 +430,11 @@ type Polygon =
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>BuildEventRoute</td>
+<td>BuildEventRoute(RoutedEvent)</td>
 <td><br />(Inherited from Interactive)</td>
 </tr>
 <tr>
-<td>CheckAccess</td>
+<td>CheckAccess()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
@@ -450,43 +454,43 @@ type Polygon =
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>CoerceValue</td>
+<td>CoerceValue(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Shapes_Polygon_CreateDefiningGeometry">CreateDefiningGeometry</a></td>
+<td><a href="M_Avalonia_Controls_Shapes_Polygon_CreateDefiningGeometry">CreateDefiningGeometry()</a></td>
 <td><br />(Overrides <a href="M_Avalonia_Controls_Shapes_Shape_CreateDefiningGeometry">Shape.CreateDefiningGeometry()</a>)</td>
 </tr>
 <tr>
-<td>EndInit</td>
+<td>EndInit()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td>Equals</td>
+<td>Equals(Object)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.finalize" target="_blank" rel="noopener noreferrer">Finalize</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.finalize" target="_blank" rel="noopener noreferrer">Finalize()</a></td>
 <td>Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td>Focus</td>
+<td>Focus(NavigationMethod, KeyModifiers)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>GetBaseValue``1</td>
+<td>GetBaseValue``1(StyledProperty(UMP))</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>GetHashCode</td>
+<td>GetHashCode()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_GetTemplateFocusTarget">GetTemplateFocusTarget</a></td>
+<td><a href="M_Avalonia_Controls_Control_GetTemplateFocusTarget">GetTemplateFocusTarget()</a></td>
 <td>Gets the element that receives the focus adorner.<br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType()</a></td>
 <td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a> of the current instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
@@ -502,187 +506,187 @@ type Polygon =
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>InitializeIfNeeded</td>
+<td>InitializeIfNeeded()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td>InvalidateArrange</td>
+<td>InvalidateArrange()</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Shapes_Shape_InvalidateGeometry">InvalidateGeometry</a></td>
+<td><a href="M_Avalonia_Controls_Shapes_Shape_InvalidateGeometry">InvalidateGeometry()</a></td>
 <td>Invalidates the geometry of this shape.<br />(Inherited from <a href="T_Avalonia_Controls_Shapes_Shape">Shape</a>)</td>
 </tr>
 <tr>
-<td>InvalidateMeasure</td>
+<td>InvalidateMeasure()</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>InvalidateMirrorTransform</td>
+<td>InvalidateMirrorTransform()</td>
 <td><br />(Inherited from Visual)</td>
 </tr>
 <tr>
-<td>InvalidateVisual</td>
+<td>InvalidateVisual()</td>
 <td><br />(Inherited from Visual)</td>
 </tr>
 <tr>
-<td>IsAnimating</td>
+<td>IsAnimating(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>IsSet</td>
+<td>IsSet(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>LogicalChildrenCollectionChanged</td>
+<td>LogicalChildrenCollectionChanged(Object, NotifyCollectionChangedEventArgs)</td>
 <td><br />(Inherited from Visual)</td>
 </tr>
 <tr>
-<td>Measure</td>
+<td>Measure(Size)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>MeasureCore</td>
+<td>MeasureCore(Size)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Shapes_Shape_MeasureOverride">MeasureOverride</a></td>
+<td><a href="M_Avalonia_Controls_Shapes_Shape_MeasureOverride">MeasureOverride(Size)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Shapes_Shape">Shape</a>)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone" target="_blank" rel="noopener noreferrer">MemberwiseClone</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone" target="_blank" rel="noopener noreferrer">MemberwiseClone()</a></td>
 <td>Creates a shallow copy of the current <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td>OnAttachedToLogicalTree</td>
+<td>OnAttachedToLogicalTree(LogicalTreeAttachmentEventArgs)</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Shapes_Shape_OnAttachedToVisualTree">OnAttachedToVisualTree</a></td>
+<td><a href="M_Avalonia_Controls_Shapes_Shape_OnAttachedToVisualTree">OnAttachedToVisualTree(VisualTreeAttachmentEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Shapes_Shape">Shape</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnAttachedToVisualTreeCore">OnAttachedToVisualTreeCore</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnAttachedToVisualTreeCore">OnAttachedToVisualTreeCore(VisualTreeAttachmentEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnCreateAutomationPeer">OnCreateAutomationPeer</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnCreateAutomationPeer">OnCreateAutomationPeer()</a></td>
 <td>Returns a new, type-specific <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a> implementation for the control.<br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td>OnDataContextBeginUpdate</td>
+<td>OnDataContextBeginUpdate()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td>OnDataContextChanged</td>
+<td>OnDataContextChanged(EventArgs)</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td>OnDataContextEndUpdate</td>
+<td>OnDataContextEndUpdate()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td>OnDetachedFromLogicalTree</td>
+<td>OnDetachedFromLogicalTree(LogicalTreeAttachmentEventArgs)</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Shapes_Shape_OnDetachedFromVisualTree">OnDetachedFromVisualTree</a></td>
+<td><a href="M_Avalonia_Controls_Shapes_Shape_OnDetachedFromVisualTree">OnDetachedFromVisualTree(VisualTreeAttachmentEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Shapes_Shape">Shape</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnDetachedFromVisualTreeCore">OnDetachedFromVisualTreeCore</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnDetachedFromVisualTreeCore">OnDetachedFromVisualTreeCore(VisualTreeAttachmentEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Shapes_Shape_OnGeometryChanged">OnGeometryChanged</a></td>
+<td><a href="M_Avalonia_Controls_Shapes_Shape_OnGeometryChanged">OnGeometryChanged(Object, EventArgs)</a></td>
 <td>Called when the underlying Geometry changed<br />(Inherited from <a href="T_Avalonia_Controls_Shapes_Shape">Shape</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnGotFocus">OnGotFocus</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnGotFocus">OnGotFocus(GotFocusEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td>OnInitialized</td>
+<td>OnInitialized()</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td>OnKeyDown</td>
+<td>OnKeyDown(KeyEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnKeyUp">OnKeyUp</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnKeyUp">OnKeyUp(KeyEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnLoaded">OnLoaded</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnLoaded">OnLoaded(RoutedEventArgs)</a></td>
 <td>Invoked just before the <a href="E_Avalonia_Controls_Control_Loaded">Loaded</a> event.<br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnLostFocus">OnLostFocus</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnLostFocus">OnLostFocus(RoutedEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td>OnMeasureInvalidated</td>
+<td>OnMeasureInvalidated()</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>OnPointerCaptureLost</td>
+<td>OnPointerCaptureLost(PointerCaptureLostEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>OnPointerEntered</td>
+<td>OnPointerEntered(PointerEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>OnPointerExited</td>
+<td>OnPointerExited(PointerEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>OnPointerMoved</td>
+<td>OnPointerMoved(PointerEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>OnPointerPressed</td>
+<td>OnPointerPressed(PointerPressedEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnPointerReleased">OnPointerReleased</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnPointerReleased">OnPointerReleased(PointerReleasedEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td>OnPointerWheelChanged</td>
+<td>OnPointerWheelChanged(PointerWheelEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Shapes_Shape_OnPropertyChanged">OnPropertyChanged</a></td>
+<td><a href="M_Avalonia_Controls_Shapes_Shape_OnPropertyChanged">OnPropertyChanged(AvaloniaPropertyChangedEventArgs)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Shapes_Shape">Shape</a>)</td>
 </tr>
 <tr>
-<td>OnPropertyChangedCore</td>
+<td>OnPropertyChangedCore(AvaloniaPropertyChangedEventArgs)</td>
 <td><br />(Inherited from Animatable)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnSizeChanged">OnSizeChanged</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnSizeChanged">OnSizeChanged(SizeChangedEventArgs)</a></td>
 <td>Invoked just before the <a href="E_Avalonia_Controls_Control_SizeChanged">SizeChanged</a> event.<br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td>OnTextInput</td>
+<td>OnTextInput(TextInputEventArgs)</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Control_OnUnloaded">OnUnloaded</a></td>
+<td><a href="M_Avalonia_Controls_Control_OnUnloaded">OnUnloaded(RoutedEventArgs)</a></td>
 <td>Invoked just before the <a href="E_Avalonia_Controls_Control_Unloaded">Unloaded</a> event.<br />(Inherited from <a href="T_Avalonia_Controls_Control">Control</a>)</td>
 </tr>
 <tr>
-<td>OnVisualParentChanged</td>
+<td>OnVisualParentChanged(Visual, Visual)</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>RaiseEvent</td>
+<td>RaiseEvent(RoutedEventArgs)</td>
 <td><br />(Inherited from Interactive)</td>
 </tr>
 <tr>
-<td>RaisePropertyChanged``1</td>
+<td>RaisePropertyChanged``1(DirectPropertyBase(UMP), UMP, UMP)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
@@ -694,11 +698,11 @@ type Polygon =
 <td><br />(Inherited from Interactive)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Shapes_Shape_Render">Render</a></td>
+<td><a href="M_Avalonia_Controls_Shapes_Shape_Render">Render(DrawingContext)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Shapes_Shape">Shape</a>)</td>
 </tr>
 <tr>
-<td>SetAndRaise``1</td>
+<td>SetAndRaise``1(DirectPropertyBase(UMP), UMP, UMP)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
@@ -722,27 +726,27 @@ type Polygon =
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString()</a></td>
 <td>Returns a string that represents the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td>TryGetResource</td>
+<td>TryGetResource(Object, ThemeVariant, Object)</td>
 <td><br />(Inherited from StyledElement)</td>
 </tr>
 <tr>
-<td>UpdateDataValidation</td>
+<td>UpdateDataValidation(AvaloniaProperty, BindingValueType, Exception)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>UpdateIsEffectivelyEnabled</td>
+<td>UpdateIsEffectivelyEnabled()</td>
 <td><br />(Inherited from InputElement)</td>
 </tr>
 <tr>
-<td>UpdateLayout</td>
+<td>UpdateLayout()</td>
 <td><br />(Inherited from Layoutable)</td>
 </tr>
 <tr>
-<td>VerifyAccess</td>
+<td>VerifyAccess()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 </table>
@@ -886,23 +890,23 @@ type Polygon =
 ## Extension Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_BringIntoView_1">BringIntoView</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_BringIntoView_1">BringIntoView()</a></td>
 <td>Tries to bring the control into view.<br />(Defined by <a href="T_Avalonia_Controls_ControlExtensions">ControlExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_BringIntoView">BringIntoView</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_BringIntoView">BringIntoView(Rect)</a></td>
 <td>Tries to bring the control into view.<br />(Defined by <a href="T_Avalonia_Controls_ControlExtensions">ControlExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_FindControl__1">FindControl(T)</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_FindControl__1">FindControl(T)(String)</a></td>
 <td>Finds the named control in the scope of the specified control.<br />(Defined by <a href="T_Avalonia_Controls_ControlExtensions">ControlExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Templates_DataTemplateExtensions_FindDataTemplate">FindDataTemplate</a></td>
+<td><a href="M_Avalonia_Controls_Templates_DataTemplateExtensions_FindDataTemplate">FindDataTemplate(Object, IDataTemplate)</a></td>
 <td>Find a data template that matches a piece of data.<br />(Defined by <a href="T_Avalonia_Controls_Templates_DataTemplateExtensions">DataTemplateExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ControlExtensions_GetControl__1">GetControl(T)</a></td>
+<td><a href="M_Avalonia_Controls_ControlExtensions_GetControl__1">GetControl(T)(String)</a></td>
 <td>Finds the named control in the scope of the specified control and throws if not found.<br />(Defined by <a href="T_Avalonia_Controls_ControlExtensions">ControlExtensions</a>)</td>
 </tr>
 </table>

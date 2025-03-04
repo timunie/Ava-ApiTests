@@ -33,6 +33,10 @@ new : unit -> RelativePanel
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/RelativePanel.cs#L16" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

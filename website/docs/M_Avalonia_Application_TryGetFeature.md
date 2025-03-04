@@ -40,6 +40,10 @@ override TryGetFeature :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Application.cs#L346" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a></dt><dd>Feature type.</dd></dl>
 
@@ -48,6 +52,9 @@ override TryGetFeature :
 
 #### Implements
 IOptionalFeatureProvider.TryGetFeature(Type)  
+
+
+## 
 Features currently supported by TryGetFeature(Type): <ul><li>IPlatformSettings</li><li>IActivatableApplicationLifetime</li></ul>
 
 

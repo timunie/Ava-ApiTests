@@ -34,13 +34,17 @@ type ITemplate<'TParam, 'TControl> = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/ITemplate%602.cs" title="View the source code">View Source</a>
+
+
+
 #### Type Parameters
 <dl><dt /><dd>The type of the parameter.</dd><dt /><dd>The type of control.</dd></dl>
 
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Templates_ITemplate_2_Build">Build</a></td>
+<td><a href="M_Avalonia_Controls_Templates_ITemplate_2_Build">Build(TParam)</a></td>
 <td>Creates the control.</td>
 </tr>
 </table>

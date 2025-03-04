@@ -34,6 +34,10 @@ abstract PopupHostChanged : IEvent<Action<IPopupHost>,
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Diagnostics/IPopupHostProvider.cs" title="View the source code">View Source</a>
+
+
+
 #### Value
 <a href="https://learn.microsoft.com/dotnet/api/system.action-1" target="_blank" rel="noopener noreferrer">Action</a>(<a href="T_Avalonia_Controls_Primitives_IPopupHost">IPopupHost</a>)
 

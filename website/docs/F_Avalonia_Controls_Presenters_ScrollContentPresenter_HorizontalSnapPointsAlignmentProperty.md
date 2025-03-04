@@ -33,6 +33,10 @@ static val HorizontalSnapPointsAlignmentProperty: StyledProperty<SnapPointsAlign
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Presenters/ScrollContentPresenter.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="T_Avalonia_Controls_Primitives_SnapPointsAlignment">SnapPointsAlignment</a>)
 

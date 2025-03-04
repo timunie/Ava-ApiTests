@@ -10,7 +10,7 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_INativeControlHostImpl_CreateDefaultChild">CreateDefaultChild</a></td>
+<td><a href="M_Avalonia_Controls_Platform_INativeControlHostImpl_CreateDefaultChild">CreateDefaultChild(IPlatformHandle)</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -22,7 +22,7 @@ import Tag from '@site/src/components/Tag';
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_INativeControlHostImpl_IsCompatibleWith">IsCompatibleWith</a></td>
+<td><a href="M_Avalonia_Controls_Platform_INativeControlHostImpl_IsCompatibleWith">IsCompatibleWith(IPlatformHandle)</a></td>
 <td> </td>
 </tr>
 </table>

@@ -35,8 +35,15 @@ member SelectionMode : SelectionMode with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/SelectingItemsControl.cs#L391" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-<a href="T_Avalonia_Controls_SelectionMode">SelectionMode</a>Note that the selection mode only applies to selections made via user interaction. Multiple selections can be made programmatically regardless of the value of this property.
+<a href="T_Avalonia_Controls_SelectionMode">SelectionMode</a>
+
+## 
+Note that the selection mode only applies to selections made via user interaction. Multiple selections can be made programmatically regardless of the value of this property.
 
 ## See Also
 

@@ -34,8 +34,15 @@ abstract Surfaces : IEnumerable<Object> with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/ITopLevelImpl.cs" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_blank" rel="noopener noreferrer">IEnumerable</a>(<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)Rendering platform will check that list and see if it can utilize one of them to output. It should be enough to expose a native window handle via IPlatformHandle and add support for framebuffer (even if it's emulated one) via IFramebufferPlatformSurface. If you have some rendering platform that's tied to your particular windowing platform, just expose some toolkit-specific object (e. g. Func&lt;Gdk.Drawable&gt; in case of GTK#+Cairo)
+<a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_blank" rel="noopener noreferrer">IEnumerable</a>(<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)
+
+## 
+Rendering platform will check that list and see if it can utilize one of them to output. It should be enough to expose a native window handle via IPlatformHandle and add support for framebuffer (even if it's emulated one) via IFramebufferPlatformSurface. If you have some rendering platform that's tied to your particular windowing platform, just expose some toolkit-specific object (e. g. Func&lt;Gdk.Drawable&gt; in case of GTK#+Cairo)
 
 ## See Also
 

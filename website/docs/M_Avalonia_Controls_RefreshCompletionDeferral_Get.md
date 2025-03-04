@@ -31,6 +31,10 @@ member Get : unit -> RefreshCompletionDeferral
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/PullToRefresh/RefreshCompletionDeferral.cs#L30" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="T_Avalonia_Controls_RefreshCompletionDeferral">RefreshCompletionDeferral</a>
 

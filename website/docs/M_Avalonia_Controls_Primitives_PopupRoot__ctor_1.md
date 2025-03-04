@@ -41,6 +41,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/PopupRoot.cs#L47" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_TopLevel">TopLevel</a></dt><dd> </dd><dt>  <a href="T_Avalonia_Platform_IPopupImpl">IPopupImpl</a></dt><dd> </dd></dl>
 

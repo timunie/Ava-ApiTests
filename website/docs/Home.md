@@ -2,22 +2,29 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem'; 
 import Tag from '@site/src/components/Tag'; 
 
-# Welcome to the [TODO: Add project name]
-
-This is a sample conceptual topic. You can use this as a starting point for adding more conceptual content to your help project.
+# 📂 Avalonia Namespaces
 
 
-## Getting Started
-
-To get started, add a documentation source to the project (a Visual Studio solution, project, or assembly and XML comments file). See the **Getting Started** topics in the Sandcastle Help File Builder's help file for more information. The following default items are included in this project:
-<ul><li><p><em>ContentLayout.content</em> - Use the content layout file to manage the conceptual content in the project and define its layout in the table of contents.</p></li><li><p>The <em>.\media</em> folder - Place images in this folder that you will reference from conceptual content using <code>medialLink</code> or <code>mediaLinkInline</code> elements. If you will not have any images in the file, you may remove this folder.</p></li><li><p>The <em>.\icons</em> folder - This contains a default logo for the help file. You may replace it or remove it and the folder if not wanted. If removed or if you change the file name, update the <strong>Transform Args</strong> project properties page by removing or changing the filename in the <code>logoFile</code> transform argument. Note that unlike images referenced from conceptual topics, the logo file should have its <strong>BuildAction</strong> property set to <code>Content</code>.</p></li><li><p>The <em>.\Content</em> folder - Use this to store your conceptual topics. You may name the files and organize them however you like. One suggestion is to lay the files out on disk as you have them in the content layout file as shown in this project but the choice is yours. Files can be added via the Solution Explorer or from within the content layout file editor. Files must appear in the content layout file in order to be compiled into the help file.</p></li></ul>
 
 
-See the **Conceptual Content** topics in the Sandcastle Help File Builder's help file for more information. See the **Sandcastle MAML Guide** for details on Microsoft Assistance Markup Language (MAML) which is used to create these topics.
 
 
-## See Also
-
-
-#### Other Resources
-<a href="97305581-2615-4391-985e-be574d1ecafc">Version History</a>  
+## Namespaces
+<table>
+<tr>
+<td><a href="N_Avalonia">Avalonia</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="G_Avalonia_Automation">Avalonia.Automation</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="G_Avalonia_Controls">Avalonia.Controls</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="N_Avalonia_Platform">Avalonia.Platform</a></td>
+<td></td>
+</tr>
+</table>

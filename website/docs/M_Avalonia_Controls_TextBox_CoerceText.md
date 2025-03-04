@@ -40,12 +40,19 @@ override CoerceText :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBox.cs#L613" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a></dt><dd>The initial text.</dd></dl>
 
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>  
-A coerced text.This method also manages the internal undo/redo state whenever the text changes: if overridden, ensure that the base is called or undo/redo won't work correctly.
+A coerced text.
+
+## 
+This method also manages the internal undo/redo state whenever the text changes: if overridden, ensure that the base is called or undo/redo won't work correctly.
 
 ## See Also
 

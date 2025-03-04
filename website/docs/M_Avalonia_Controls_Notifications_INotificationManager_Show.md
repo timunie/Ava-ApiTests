@@ -38,6 +38,10 @@ abstract Show :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Notifications/INotificationManager.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Notifications_INotification">INotification</a></dt><dd>The notification to be displayed.</dd></dl>
 

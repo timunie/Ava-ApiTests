@@ -34,6 +34,10 @@ member Data : IEnumerable with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/PopulatedEventArgs.cs#L25" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.collections.ienumerable" target="_blank" rel="noopener noreferrer">IEnumerable</a>  
 The list of possible matches added to the <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox</a>.

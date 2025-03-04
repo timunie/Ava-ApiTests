@@ -36,6 +36,10 @@ override Command : ICommand with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/MenuItem.cs#L226" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.windows.input.icommand" target="_blank" rel="noopener noreferrer">ICommand</a>
 

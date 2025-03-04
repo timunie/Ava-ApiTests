@@ -41,6 +41,10 @@ static member SetAccessibilityView :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/AutomationProperties.cs#L213" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  StyledElement</dt><dd> </dd><dt>  <a href="T_Avalonia_Automation_AccessibilityView">AccessibilityView</a></dt><dd> </dd></dl>
 

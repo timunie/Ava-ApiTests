@@ -33,6 +33,10 @@ new : unit -> Ellipse
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Ellipse.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

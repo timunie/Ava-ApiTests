@@ -32,6 +32,10 @@ override GetAutomationControlTypeCore : unit -> AutomationControlType
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/RadioButtonAutomationPeer.cs#L27" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="T_Avalonia_Automation_Peers_AutomationControlType">AutomationControlType</a>
 

@@ -38,6 +38,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/TemplateAppliedEventArgs.cs#L15" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  INameScope</dt><dd>The applied template's name scope.</dd></dl>
 

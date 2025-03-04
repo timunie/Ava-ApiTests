@@ -39,6 +39,10 @@ static member CreatePopupHost :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/OverlayPopupHost.cs#L197" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Visual</dt><dd> </dd><dt>  IAvaloniaDependencyResolver</dt><dd> </dd></dl>
 

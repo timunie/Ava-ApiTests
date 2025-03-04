@@ -35,8 +35,15 @@ member Gesture : KeyGesture with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/NativeMenuItem.cs#L106" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-KeyGestureSetting this property does not cause the input gesture to be handled by the menu item, it simply displays the gesture text in the menu.
+KeyGesture
+
+## 
+Setting this property does not cause the input gesture to be handled by the menu item, it simply displays the gesture text in the menu.
 
 ## See Also
 

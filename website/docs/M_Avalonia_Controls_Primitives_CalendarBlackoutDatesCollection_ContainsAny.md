@@ -38,6 +38,10 @@ member ContainsAny :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Calendar/CalendarBlackoutDatesCollection.cs#L113" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_CalendarDateRange">CalendarDateRange</a></dt><dd>The range of dates to search for.</dd></dl>
 

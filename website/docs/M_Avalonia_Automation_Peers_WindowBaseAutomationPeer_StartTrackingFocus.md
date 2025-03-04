@@ -31,6 +31,10 @@ member StartTrackingFocus : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/WindowBaseAutomationPeer.cs#L54" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

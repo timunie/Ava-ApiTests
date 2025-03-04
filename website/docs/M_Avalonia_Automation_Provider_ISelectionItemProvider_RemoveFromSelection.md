@@ -33,6 +33,10 @@ abstract RemoveFromSelection : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcWindows/Avalonia.Win32/Interop/Automation/ISelectionItemProvider.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

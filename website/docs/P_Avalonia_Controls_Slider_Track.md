@@ -34,6 +34,10 @@ member Track : Track with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Slider.cs#L193" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Primitives_Track">Track</a>
 

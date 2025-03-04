@@ -40,6 +40,10 @@ member GetNextCharacterHit :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Presenters/TextPresenter.cs#L782" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  LogicalDirection  (Optional)</dt><dd> </dd></dl>
 

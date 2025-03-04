@@ -40,6 +40,10 @@ override MeasureCore :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/Popup.cs#L591" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Size</dt><dd>The available size for the control.</dd></dl>
 

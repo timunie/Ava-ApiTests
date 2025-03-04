@@ -33,8 +33,15 @@ static val ColumnProperty: AttachedProperty<int>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Grid.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 AttachedProperty(<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_blank" rel="noopener noreferrer">Int32</a>)
+
+## 
+
 Columns are 0 - based. In order to appear in first column, element should have Column property set to `0`.
 
 Default value for the property is `0`.

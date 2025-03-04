@@ -33,6 +33,10 @@ type WindowState
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/WindowState.cs" title="View the source code">View Source</a>
+
+
+
 ## Members
 <table>
 <tr>

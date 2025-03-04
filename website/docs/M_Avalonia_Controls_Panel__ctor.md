@@ -33,6 +33,10 @@ new : unit -> Panel
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Panel.cs#L50" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

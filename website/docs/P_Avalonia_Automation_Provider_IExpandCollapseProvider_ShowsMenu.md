@@ -34,8 +34,15 @@ abstract ShowsMenu : bool with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Provider/IExpandCollapseProvider.cs" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>Used in OSX to enable the "Show Menu" action on the element.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## 
+Used in OSX to enable the "Show Menu" action on the element.
 
 ## See Also
 

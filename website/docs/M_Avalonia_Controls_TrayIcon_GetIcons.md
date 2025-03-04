@@ -36,6 +36,10 @@ static member GetIcons :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TrayIcon.cs#L122" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Application">Application</a></dt><dd> </dd></dl>
 

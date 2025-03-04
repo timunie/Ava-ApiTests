@@ -35,8 +35,15 @@ member Anchor : PopupAnchor with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/PopupPositioning/IPopupPositioner.cs#L103" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-<a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupAnchor">PopupAnchor</a>The specified anchor is used derive an anchor point that the popup will be positioned relative to. If a corner anchor is set (e.g. 'TopLeft' or 'BottomRight'), the anchor point will be at the specified corner; otherwise, the derived anchor point will be centered on the specified edge, or in the center of the anchor rectangle if no edge is specified.
+<a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupAnchor">PopupAnchor</a>
+
+## 
+The specified anchor is used derive an anchor point that the popup will be positioned relative to. If a corner anchor is set (e.g. 'TopLeft' or 'BottomRight'), the anchor point will be at the specified corner; otherwise, the derived anchor point will be centered on the specified edge, or in the center of the anchor rectangle if no edge is specified.
 
 ## See Also
 

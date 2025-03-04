@@ -35,6 +35,10 @@ member NotificationType : NotificationType with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Notifications/NotificationCard.cs#L66" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Notifications_NotificationType">NotificationType</a>
 

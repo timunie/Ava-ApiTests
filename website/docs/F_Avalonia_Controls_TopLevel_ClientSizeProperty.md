@@ -33,6 +33,10 @@ static val ClientSizeProperty: DirectProperty<TopLevel, Size>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TopLevel.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 DirectProperty(<a href="T_Avalonia_Controls_TopLevel">TopLevel</a>, Size)
 

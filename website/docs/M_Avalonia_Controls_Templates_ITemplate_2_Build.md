@@ -38,6 +38,10 @@ abstract Build :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/ITemplate%602.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Templates_ITemplate_2">TParam</a></dt><dd>The parameter.</dd></dl>
 

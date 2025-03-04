@@ -33,6 +33,10 @@ new : unit -> Track
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/Track.cs#L62" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

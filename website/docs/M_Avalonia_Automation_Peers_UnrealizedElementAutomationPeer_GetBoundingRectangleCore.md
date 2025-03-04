@@ -32,6 +32,10 @@ override GetBoundingRectangleCore : unit -> Rect
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/UnrealizedElementAutomationPeer.cs#L13" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 Rect
 

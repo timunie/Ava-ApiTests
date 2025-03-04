@@ -34,6 +34,10 @@ static member Current : Application with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Application.cs#L112" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Application">Application</a>  
 The current instance of the <a href="T_Avalonia_Application">Application</a> class.

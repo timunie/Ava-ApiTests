@@ -37,6 +37,10 @@ type ITemplate<'TControl when 'TControl : Control> =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/ITemplate%601.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Implements</strong></td><td>ITemplate</td></tr>
 </table>
@@ -49,7 +53,7 @@ type ITemplate<'TControl when 'TControl : Control> =
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_ITemplate_1_Build">Build</a></td>
+<td><a href="M_Avalonia_Controls_ITemplate_1_Build">Build()</a></td>
 <td>Creates the control.</td>
 </tr>
 </table>

@@ -36,11 +36,11 @@ type IActivatableLifetime = interface end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_ApplicationLifetimes_IActivatableLifetime_TryEnterBackground">TryEnterBackground</a></td>
+<td><a href="M_Avalonia_Controls_ApplicationLifetimes_IActivatableLifetime_TryEnterBackground">TryEnterBackground()</a></td>
 <td>Tells the application that it should attempt to enter its background state. For example on OSX this would be [NSApp hide]</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_ApplicationLifetimes_IActivatableLifetime_TryLeaveBackground">TryLeaveBackground</a></td>
+<td><a href="M_Avalonia_Controls_ApplicationLifetimes_IActivatableLifetime_TryLeaveBackground">TryLeaveBackground()</a></td>
 <td>Tells the application that it should attempt to leave its background state. For example on OSX this would be [NSApp unhide]</td>
 </tr>
 </table>

@@ -32,6 +32,10 @@ override GetOrCreateChildrenCore : unit -> IReadOnlyList<AutomationPeer>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/ControlAutomationPeer.cs#L63" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ireadonlylist-1" target="_blank" rel="noopener noreferrer">IReadOnlyList</a>(<a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a>)
 

@@ -33,6 +33,10 @@ new : unit -> DataValidationErrors
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/DataValidationErrors.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

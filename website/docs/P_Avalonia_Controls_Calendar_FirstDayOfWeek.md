@@ -35,6 +35,10 @@ member FirstDayOfWeek : DayOfWeek with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Calendar/Calendar.cs#L272" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.dayofweek" target="_blank" rel="noopener noreferrer">DayOfWeek</a>  
 A <a href="https://learn.microsoft.com/dotnet/api/system.dayofweek" target="_blank" rel="noopener noreferrer">DayOfWeek</a> representing the beginning of the week. The default is <a href="https://learn.microsoft.com/dotnet/api/system.dayofweek#system-dayofweek-sunday" target="_blank" rel="noopener noreferrer">Sunday</a>.

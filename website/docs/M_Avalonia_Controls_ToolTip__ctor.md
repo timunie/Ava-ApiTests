@@ -33,6 +33,10 @@ new : unit -> ToolTip
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ToolTip.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

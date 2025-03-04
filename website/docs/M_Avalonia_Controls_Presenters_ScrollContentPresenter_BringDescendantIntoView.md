@@ -41,6 +41,10 @@ member BringDescendantIntoView :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Presenters/ScrollContentPresenter.cs#L239" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Visual</dt><dd>The target visual.</dd><dt>  Rect</dt><dd>The portion of the target visual to bring into view.</dd></dl>
 

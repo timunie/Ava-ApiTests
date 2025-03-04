@@ -33,6 +33,10 @@ member Data : Geometry with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/PathIcon.cs#L17" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Geometry
 

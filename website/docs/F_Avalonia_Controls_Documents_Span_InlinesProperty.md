@@ -33,6 +33,10 @@ static val InlinesProperty: StyledProperty<InlineCollection>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Documents/Span.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="T_Avalonia_Controls_Documents_InlineCollection">InlineCollection</a>)
 

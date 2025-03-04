@@ -38,6 +38,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Calendar/SelectedDatesCollection.cs#L43" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Calendar">Calendar</a></dt><dd>The <a href="T_Avalonia_Controls_Calendar">Calendar</a> associated with this object.</dd></dl>
 

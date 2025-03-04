@@ -31,6 +31,13 @@ member RefreshContainers : unit -> unit
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ItemsControl.cs#L639" title="View the source code">View Source</a>
+
+
+
+## 
 Causes all containers to be unrealized and re-realized.
 
 ## See Also

@@ -38,6 +38,10 @@ override GetPeerFromPoint :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/WindowBaseAutomationPeer.cs#L34" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Point</dt><dd> </dd></dl>
 

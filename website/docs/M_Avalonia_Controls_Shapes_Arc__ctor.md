@@ -33,6 +33,10 @@ new : unit -> Arc
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Arc.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

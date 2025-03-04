@@ -40,6 +40,10 @@ static member Configure :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AppBuilder.cs#L114" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.func-1" target="_blank" rel="noopener noreferrer">Func</a>(TApp)</dt><dd>Factory function for <em>TApp</em>.</dd></dl>
 
@@ -48,7 +52,10 @@ static member Configure :
 
 #### Return Value
 <a href="T_Avalonia_AppBuilder">AppBuilder</a>  
-An <a href="T_Avalonia_AppBuilder">AppBuilder</a> instance.*appFactory* is useful for passing of dependencies to *TApp*.
+An <a href="T_Avalonia_AppBuilder">AppBuilder</a> instance.
+
+## 
+*appFactory* is useful for passing of dependencies to *TApp*.
 
 ## See Also
 

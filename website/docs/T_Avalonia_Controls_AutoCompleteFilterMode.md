@@ -33,6 +33,10 @@ type AutoCompleteFilterMode
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteFilterMode.cs" title="View the source code">View Source</a>
+
+
+
 ## Members
 <table>
 <tr>

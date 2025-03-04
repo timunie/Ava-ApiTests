@@ -41,6 +41,10 @@ abstract BeginResizeDrag :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IWindowImpl.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_WindowEdge">WindowEdge</a></dt><dd> </dd><dt>  PointerPressedEventArgs</dt><dd> </dd></dl>
 

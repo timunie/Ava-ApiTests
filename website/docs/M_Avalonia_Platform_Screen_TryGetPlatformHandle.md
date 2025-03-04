@@ -34,6 +34,10 @@ override TryGetPlatformHandle : unit -> IPlatformHandle
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/Screen.cs#L124" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 IPlatformHandle  
 An IPlatformHandle describing the screen handle, or null if the handle could not be retrieved.

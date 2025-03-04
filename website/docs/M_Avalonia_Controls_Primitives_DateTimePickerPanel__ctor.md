@@ -33,6 +33,10 @@ new : unit -> DateTimePickerPanel
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/DateTimePickers/DateTimePickerPanel.cs#L52" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

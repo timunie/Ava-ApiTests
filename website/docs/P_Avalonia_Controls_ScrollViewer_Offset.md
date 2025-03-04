@@ -36,6 +36,10 @@ override Offset : Vector with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ScrollViewer.cs#L231" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Vector
 

@@ -35,9 +35,16 @@ member SelectionMode : CalendarSelectionMode with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Calendar/Calendar.cs#L461" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_CalendarSelectionMode">CalendarSelectionMode</a>  
 A value that indicates the current selection mode. The default is <a href="https://learn.microsoft.com/dotnet/api/system.windows.controls.calendarselectionmode#system-windows-controls-calendarselectionmode-singledate" target="_blank" rel="noopener noreferrer">SingleDate</a>.
+
+## 
+
 This property determines whether the Calendar allows no selection, selection of a single date, or selection of multiple dates. The selection mode is specified with the CalendarSelectionMode enumeration.
 
 When this property is changed, all selected dates will be cleared.

@@ -40,12 +40,19 @@ override MeasureCore :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/WindowBase.cs#L281" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Size</dt><dd>The available size.</dd></dl>
 
 #### Return Value
 Size  
-The measured size.The layout logic for top-level windows is different than for other controls because they don't have a parent, meaning that many layout properties handled by the default MeasureCore (such as margins and alignment) make no sense.
+The measured size.
+
+## 
+The layout logic for top-level windows is different than for other controls because they don't have a parent, meaning that many layout properties handled by the default MeasureCore (such as margins and alignment) make no sense.
 
 ## See Also
 

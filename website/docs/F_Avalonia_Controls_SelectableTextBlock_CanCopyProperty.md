@@ -31,6 +31,10 @@ static val CanCopyProperty: DirectProperty<SelectableTextBlock, bool>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SelectableTextBlock.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 DirectProperty(<a href="T_Avalonia_Controls_SelectableTextBlock">SelectableTextBlock</a>, <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>)
 

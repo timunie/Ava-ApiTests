@@ -41,6 +41,10 @@ abstract BringIntoView :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/ILogicalScrollable.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The target visual.</dd><dt>  Rect</dt><dd>The portion of the target visual to bring into view.</dd></dl>
 

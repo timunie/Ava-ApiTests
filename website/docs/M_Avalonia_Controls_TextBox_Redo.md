@@ -33,6 +33,10 @@ member Redo : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBox.cs#L2330" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

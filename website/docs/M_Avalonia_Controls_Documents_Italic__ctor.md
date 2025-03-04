@@ -33,6 +33,10 @@ new : unit -> Italic
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Documents/Italic.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

@@ -32,6 +32,10 @@ override Signal : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/ManagedDispatcherImpl.cs#L33" title="View the source code">View Source</a>
+
+
+
 #### Implements
 IDispatcherImpl.Signal()  
 

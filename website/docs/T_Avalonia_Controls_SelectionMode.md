@@ -36,6 +36,10 @@ type SelectionMode
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SelectionMode.cs" title="View the source code">View Source</a>
+
+
+
 ## Members
 <table>
 <tr>

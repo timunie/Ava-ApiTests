@@ -41,6 +41,10 @@ static member AddWindowStylesCallback :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/Win32Properties.cs#L28" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_TopLevel">TopLevel</a></dt><dd>The window implementation</dd><dt>  <a href="T_Avalonia_Controls_Win32Properties_CustomWindowStylesCallback">Win32Properties.CustomWindowStylesCallback</a></dt><dd>The callback</dd></dl>
 

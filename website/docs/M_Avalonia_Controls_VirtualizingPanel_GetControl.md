@@ -44,6 +44,10 @@ abstract GetControl :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/VirtualizingPanel.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  NavigationDirection</dt><dd>The movement direction.</dd><dt>  IInputElement</dt><dd>The control from which movement begins.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a></dt><dd>Whether to wrap around when the first or last item is reached.</dd></dl>
 

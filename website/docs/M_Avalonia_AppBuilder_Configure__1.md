@@ -35,6 +35,10 @@ static member Configure : unit -> AppBuilder  when 'TApp : new() and Application
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AppBuilder.cs#L97" title="View the source code">View Source</a>
+
+
+
 #### Type Parameters
 <dl><dt /><dd>The subclass of <a href="T_Avalonia_Application">Application</a> to configure.</dd></dl>
 

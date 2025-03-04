@@ -35,8 +35,15 @@ member IsLightDismissEnabled : bool with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/Popup.cs#L224" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>Light dismiss is when the user taps on any area other than the popup.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## 
+Light dismiss is when the user taps on any area other than the popup.
 
 ## See Also
 

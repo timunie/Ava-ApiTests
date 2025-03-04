@@ -35,6 +35,10 @@ member Source : IImage with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Image.cs#L48" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 IImage
 

@@ -33,6 +33,10 @@ member Activate : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/WindowBase.cs#L142" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

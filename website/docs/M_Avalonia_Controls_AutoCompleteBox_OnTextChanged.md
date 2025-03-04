@@ -40,6 +40,10 @@ override OnTextChanged :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L1012" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_TextChangedEventArgs">TextChangedEventArgs</a></dt><dd>A <a href="T_Avalonia_Controls_TextChangedEventArgs">TextChangedEventArgs</a> that contains the event data.</dd></dl>
 

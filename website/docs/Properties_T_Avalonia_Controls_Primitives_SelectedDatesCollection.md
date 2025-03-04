@@ -14,7 +14,7 @@ import Tag from '@site/src/components/Tag';
 <td>Gets the number of elements actually contained in the <a href="https://learn.microsoft.com/dotnet/api/system.collections.objectmodel.collection-1" target="_blank" rel="noopener noreferrer">Collection(T)</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.collections.objectmodel.collection-1" target="_blank" rel="noopener noreferrer">Collection</a>(<a href="https://learn.microsoft.com/dotnet/api/system.datetime" target="_blank" rel="noopener noreferrer">DateTime</a>))</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.collections.objectmodel.collection-1.item" target="_blank" rel="noopener noreferrer">Item</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.collections.objectmodel.collection-1.item" target="_blank" rel="noopener noreferrer">Item(Int32)</a></td>
 <td>Gets or sets the element at the specified index.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.collections.objectmodel.collection-1" target="_blank" rel="noopener noreferrer">Collection</a>(<a href="https://learn.microsoft.com/dotnet/api/system.datetime" target="_blank" rel="noopener noreferrer">DateTime</a>))</td>
 </tr>
 </table>

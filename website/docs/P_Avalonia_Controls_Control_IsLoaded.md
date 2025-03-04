@@ -34,8 +34,15 @@ member IsLoaded : bool with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Control.cs#L154" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>This is set to true while raising the <a href="E_Avalonia_Controls_Control_Loaded">Loaded</a> event.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## 
+This is set to true while raising the <a href="E_Avalonia_Controls_Control_Loaded">Loaded</a> event.
 
 ## See Also
 

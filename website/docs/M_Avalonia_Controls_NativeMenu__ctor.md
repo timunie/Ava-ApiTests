@@ -33,6 +33,10 @@ new : unit -> NativeMenu
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/NativeMenu.cs#L15" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

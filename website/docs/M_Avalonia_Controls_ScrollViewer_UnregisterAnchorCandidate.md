@@ -40,6 +40,10 @@ override UnregisterAnchorCandidate :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ScrollViewer.cs#L667" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>A control within the subtree of the <a href="T_Avalonia_Controls_IScrollAnchorProvider">IScrollAnchorProvider</a>.</dd></dl>
 

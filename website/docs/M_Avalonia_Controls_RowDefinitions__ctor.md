@@ -33,6 +33,10 @@ new : unit -> RowDefinitions
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/RowDefinitions.cs#L13" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

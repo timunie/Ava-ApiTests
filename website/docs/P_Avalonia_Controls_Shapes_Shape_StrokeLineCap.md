@@ -35,6 +35,10 @@ member StrokeLineCap : PenLineCap with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Shape.cs#L182" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 PenLineCap
 

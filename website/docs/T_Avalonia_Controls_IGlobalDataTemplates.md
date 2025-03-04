@@ -35,6 +35,10 @@ type IGlobalDataTemplates =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/IGlobalDataTemplates.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_Templates_IDataTemplateHost">IDataTemplateHost</a></td></tr>
 </table>

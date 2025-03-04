@@ -35,6 +35,10 @@ member RemovedItems : List<'T> with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Selection/SelectionNodeBase.cs#L403" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1" target="_blank" rel="noopener noreferrer">List</a>(<a href="T_Avalonia_Controls_Selection_SelectionNodeBase_1">T</a>)
 

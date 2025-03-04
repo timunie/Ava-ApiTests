@@ -32,6 +32,10 @@ override CreatePresenter : unit -> Control
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Flyouts/Flyout.cs#L49" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="T_Avalonia_Controls_Control">Control</a>
 

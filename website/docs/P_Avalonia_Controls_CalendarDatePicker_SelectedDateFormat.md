@@ -35,6 +35,10 @@ member SelectedDateFormat : CalendarDatePickerFormat with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/CalendarDatePicker/CalendarDatePicker.Properties.cs#L228" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_CalendarDatePickerFormat">CalendarDatePickerFormat</a>  
 The format that is used to display the selected date. The default is <a href="T_Avalonia_Controls_CalendarDatePickerFormat">Short</a>.

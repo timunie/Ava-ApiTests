@@ -35,8 +35,15 @@ member NavigateUri : Uri with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/HyperlinkButton.cs#L61" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.uri" target="_blank" rel="noopener noreferrer">Uri</a>The URI may be any website or file location that can be launched using the ILauncher service.   
+<a href="https://learn.microsoft.com/dotnet/api/system.uri" target="_blank" rel="noopener noreferrer">Uri</a>
+
+## 
+The URI may be any website or file location that can be launched using the ILauncher service.   
   
  If a URI should not be automatically launched, leave this property unset and use the <a href="E_Avalonia_Controls_Button_Click">Click</a> and <a href="P_Avalonia_Controls_HyperlinkButton_IsVisited">IsVisited</a> members directly.
 

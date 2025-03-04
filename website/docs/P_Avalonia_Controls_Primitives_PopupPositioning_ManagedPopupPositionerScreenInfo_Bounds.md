@@ -32,6 +32,10 @@ member Bounds : Rect with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/PopupPositioning/ManagedPopupPositioner.cs#L21" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Rect
 

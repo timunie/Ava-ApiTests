@@ -35,6 +35,10 @@ member PreviewContent : ITemplate<Control> with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/GridSplitter.cs#L115" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_ITemplate_1">ITemplate</a>(<a href="T_Avalonia_Controls_Control">Control</a>)
 

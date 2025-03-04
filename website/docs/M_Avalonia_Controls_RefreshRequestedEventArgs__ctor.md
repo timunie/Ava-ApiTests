@@ -41,6 +41,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/PullToRefresh/RefreshRequestedEventArgs.cs#L27" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_RefreshCompletionDeferral">RefreshCompletionDeferral</a></dt><dd> </dd><dt>  RoutedEvent</dt><dd> </dd></dl>
 

@@ -35,6 +35,10 @@ member Orientation : Orientation with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/VirtualizingStackPanel.cs#L95" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Orientation  
 One of the enumeration values that specifies the axis along which items are laid out. The default is Vertical.

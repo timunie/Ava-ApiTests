@@ -35,6 +35,10 @@ member HorizontalSnapPointsType : SnapPointsType with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Presenters/ScrollContentPresenter.cs#L177" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Primitives_SnapPointsType">SnapPointsType</a>
 

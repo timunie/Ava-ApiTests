@@ -34,6 +34,10 @@ member RenderedGeometry : Geometry with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Shape.cs#L95" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Geometry
 

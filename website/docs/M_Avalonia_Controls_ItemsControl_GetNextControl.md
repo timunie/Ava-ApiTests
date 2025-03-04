@@ -45,6 +45,10 @@ static member GetNextControl :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ItemsControl.cs#L827" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  INavigableContainer</dt><dd> </dd><dt>  NavigationDirection</dt><dd> </dd><dt>  IInputElement</dt><dd> </dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a></dt><dd> </dd></dl>
 

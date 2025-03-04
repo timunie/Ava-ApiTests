@@ -32,6 +32,10 @@ override OnToggleFullScreen : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Chrome/CaptionButtons.cs#L90" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

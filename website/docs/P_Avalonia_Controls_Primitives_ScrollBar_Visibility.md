@@ -35,6 +35,10 @@ member Visibility : ScrollBarVisibility with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/ScrollBar.cs#L123" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Primitives_ScrollBarVisibility">ScrollBarVisibility</a>
 

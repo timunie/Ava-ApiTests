@@ -33,8 +33,15 @@ static val PositionInSetProperty: AttachedProperty<int>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/AutomationProperties.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
-AttachedProperty(<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_blank" rel="noopener noreferrer">Int32</a>)The PositionInSet property describes the ordinal location of the element within a set of elements which are considered to be siblings. PositionInSet works in coordination with the SizeOfSet property to describe the ordinal location in the set.
+AttachedProperty(<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_blank" rel="noopener noreferrer">Int32</a>)
+
+## 
+The PositionInSet property describes the ordinal location of the element within a set of elements which are considered to be siblings. PositionInSet works in coordination with the SizeOfSet property to describe the ordinal location in the set.
 
 ## See Also
 

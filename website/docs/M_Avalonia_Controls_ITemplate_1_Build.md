@@ -33,6 +33,10 @@ abstract Build : unit -> 'TControl
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/ITemplate%601.cs" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="T_Avalonia_Controls_ITemplate_1">TControl</a>  
 The created control.

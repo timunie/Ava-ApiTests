@@ -32,6 +32,10 @@ override Lock : unit -> ILockedFramebuffer
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/Surfaces/IFramebufferPlatformSurface.cs#L59" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 ILockedFramebuffer
 

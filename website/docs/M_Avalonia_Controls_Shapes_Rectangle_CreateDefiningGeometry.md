@@ -34,6 +34,10 @@ override CreateDefiningGeometry : unit -> Geometry
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Rectangle.cs#L47" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 Geometry  
 Defining Geometry of the shape.

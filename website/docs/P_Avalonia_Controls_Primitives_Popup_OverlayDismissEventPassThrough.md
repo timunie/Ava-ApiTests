@@ -35,8 +35,15 @@ member OverlayDismissEventPassThrough : bool with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/Popup.cs#L332" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>When <a href="P_Avalonia_Controls_Primitives_Popup_IsLightDismissEnabled">IsLightDismissEnabled</a> is set to true, clicks outside the popup cause the popup to close. When OverlayDismissEventPassThrough is set to false, these clicks will be handled by the popup and not be registered by the parent window. When set to true, the events will be passed through to the parent window.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## 
+When <a href="P_Avalonia_Controls_Primitives_Popup_IsLightDismissEnabled">IsLightDismissEnabled</a> is set to true, clicks outside the popup cause the popup to close. When OverlayDismissEventPassThrough is set to false, these clicks will be handled by the popup and not be registered by the parent window. When set to true, the events will be passed through to the parent window.
 
 ## See Also
 

@@ -35,6 +35,10 @@ abstract WndProcHookCallback : Win32Properties.CustomWndProcHookCallback with ge
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IWin32OptionsTopLevelImpl.cs" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Win32Properties_CustomWndProcHookCallback">Win32Properties.CustomWndProcHookCallback</a>
 

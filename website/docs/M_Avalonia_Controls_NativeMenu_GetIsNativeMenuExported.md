@@ -36,6 +36,10 @@ static member GetIsNativeMenuExported :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/NativeMenu.Export.cs#L13" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_TopLevel">TopLevel</a></dt><dd> </dd></dl>
 

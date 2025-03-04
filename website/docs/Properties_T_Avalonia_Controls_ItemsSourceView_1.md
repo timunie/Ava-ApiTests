@@ -18,7 +18,7 @@ import Tag from '@site/src/components/Tag';
 <td>Gets an empty <a href="T_Avalonia_Controls_ItemsSourceView">ItemsSourceView</a></td>
 </tr>
 <tr>
-<td><a href="P_Avalonia_Controls_ItemsSourceView_1_Item">Item</a></td>
+<td><a href="P_Avalonia_Controls_ItemsSourceView_1_Item">Item(Int32)</a></td>
 <td>Retrieves the item at the specified index.</td>
 </tr>
 <tr>

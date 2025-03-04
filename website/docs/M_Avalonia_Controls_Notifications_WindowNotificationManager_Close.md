@@ -40,6 +40,10 @@ override Close :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Notifications/WindowNotificationManager.cs#L181" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Notifications_INotification">INotification</a></dt><dd>The notification to be closed.</dd></dl>
 

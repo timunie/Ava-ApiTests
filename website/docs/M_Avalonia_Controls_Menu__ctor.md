@@ -33,6 +33,10 @@ new : unit -> Menu
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Menu.cs#L22" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

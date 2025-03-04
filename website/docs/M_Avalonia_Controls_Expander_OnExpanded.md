@@ -40,6 +40,10 @@ override OnExpanded :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Expander.cs#L203" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  RoutedEventArgs</dt><dd> </dd></dl>
 

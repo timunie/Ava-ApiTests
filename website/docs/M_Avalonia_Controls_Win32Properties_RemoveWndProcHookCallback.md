@@ -41,6 +41,10 @@ static member RemoveWndProcHookCallback :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/Win32Properties.cs#L67" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_TopLevel">TopLevel</a></dt><dd>The window</dd><dt>  <a href="T_Avalonia_Controls_Win32Properties_CustomWndProcHookCallback">Win32Properties.CustomWndProcHookCallback</a></dt><dd>The callback</dd></dl>
 

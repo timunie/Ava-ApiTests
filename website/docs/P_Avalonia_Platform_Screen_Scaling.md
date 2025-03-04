@@ -35,8 +35,15 @@ member Scaling : float with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/Screen.cs#L67" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>Multiply this value by 100 to get a percentage. Both X and Y scaling factors are assumed uniform.
+<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>
+
+## 
+Multiply this value by 100 to get a percentage. Both X and Y scaling factors are assumed uniform.
 
 ## See Also
 

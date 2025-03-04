@@ -38,6 +38,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Utils/SelectingItemsControlSelectionAdapter.cs#L103" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl</a></dt><dd>The <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl</a> control to wrap as a <a href="T_Avalonia_Controls_Utils_SelectingItemsControlSelectionAdapter">SelectingItemsControlSelectionAdapter</a>.</dd></dl>
 

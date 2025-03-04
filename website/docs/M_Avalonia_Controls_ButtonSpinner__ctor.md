@@ -33,6 +33,10 @@ new : unit -> ButtonSpinner
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ButtonSpinner.cs#L41" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

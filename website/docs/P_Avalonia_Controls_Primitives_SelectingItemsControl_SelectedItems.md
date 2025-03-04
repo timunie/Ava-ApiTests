@@ -35,8 +35,15 @@ member SelectedItems : IList with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/SelectingItemsControl.cs#L280" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.collections.ilist" target="_blank" rel="noopener noreferrer">IList</a>By default returns a collection that can be modified in order to manipulate the control selection, however this property will return null if <a href="P_Avalonia_Controls_Primitives_SelectingItemsControl_Selection">Selection</a> is re-assigned; you should only use _either_ Selection or SelectedItems.
+<a href="https://learn.microsoft.com/dotnet/api/system.collections.ilist" target="_blank" rel="noopener noreferrer">IList</a>
+
+## 
+By default returns a collection that can be modified in order to manipulate the control selection, however this property will return null if <a href="P_Avalonia_Controls_Primitives_SelectingItemsControl_Selection">Selection</a> is re-assigned; you should only use _either_ Selection or SelectedItems.
 
 ## See Also
 

@@ -38,6 +38,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Remote/RemoteWidget.cs#L24" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  IAvaloniaRemoteTransportConnection</dt><dd> </dd></dl>
 

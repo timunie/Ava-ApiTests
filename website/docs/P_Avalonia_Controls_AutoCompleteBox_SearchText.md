@@ -34,9 +34,16 @@ member SearchText : string with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.Properties.cs#L362" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>  
-The text that is used to filter items in the <a href="P_Avalonia_Controls_AutoCompleteBox_ItemsSource">ItemsSource</a> item collection.The SearchText value is typically the same as the Text property, but is set after the TextChanged event occurs and before the Populating event.
+The text that is used to filter items in the <a href="P_Avalonia_Controls_AutoCompleteBox_ItemsSource">ItemsSource</a> item collection.
+
+## 
+The SearchText value is typically the same as the Text property, but is set after the TextChanged event occurs and before the Populating event.
 
 ## See Also
 

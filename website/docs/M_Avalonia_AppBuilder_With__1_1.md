@@ -39,6 +39,10 @@ member With :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AppBuilder.cs#L264" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  T</dt><dd> </dd></dl>
 

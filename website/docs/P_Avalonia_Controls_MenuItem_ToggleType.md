@@ -36,6 +36,10 @@ override ToggleType : MenuItemToggleType with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/MenuItem.cs#L303" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_MenuItemToggleType">MenuItemToggleType</a>
 

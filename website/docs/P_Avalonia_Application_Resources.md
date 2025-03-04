@@ -35,6 +35,10 @@ member Resources : IResourceDictionary with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Application.cs#L140" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 IResourceDictionary
 

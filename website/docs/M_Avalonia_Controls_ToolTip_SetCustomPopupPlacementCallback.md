@@ -41,6 +41,10 @@ static member SetCustomPopupPlacementCallback :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ToolTip.cs#L347" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd> </dd><dt>  <a href="T_Avalonia_Controls_Primitives_PopupPositioning_CustomPopupPlacementCallback">CustomPopupPlacementCallback</a></dt><dd> </dd></dl>
 

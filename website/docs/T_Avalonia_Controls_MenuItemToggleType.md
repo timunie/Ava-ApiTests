@@ -33,6 +33,10 @@ type MenuItemToggleType
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/MenuItemToggleType.cs" title="View the source code">View Source</a>
+
+
+
 ## Members
 <table>
 <tr>

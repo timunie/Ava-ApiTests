@@ -41,6 +41,10 @@ static member SetAlignLeftWithPanel :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/RelativePanel.AttachedProperties.cs#L217" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  AvaloniaObject</dt><dd>The object to which the property value is written.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a></dt><dd>The value to set. (true to align this element's left edge with the panel's left edge; otherwise, false.)</dd></dl>
 

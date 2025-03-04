@@ -38,6 +38,10 @@ override OnDetachedFromVisualTree :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Notifications/WindowNotificationManager.cs#L225" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  VisualTreeAttachmentEventArgs</dt><dd> </dd></dl>
 

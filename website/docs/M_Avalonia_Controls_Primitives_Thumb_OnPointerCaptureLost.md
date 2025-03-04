@@ -38,6 +38,10 @@ override OnPointerCaptureLost :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/Thumb.cs#L70" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  PointerCaptureLostEventArgs</dt><dd> </dd></dl>
 

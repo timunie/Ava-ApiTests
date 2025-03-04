@@ -33,6 +33,10 @@ static val SearchTextProperty: DirectProperty<AutoCompleteBox, string>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 DirectProperty(<a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox</a>, <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>)  
 The identifier for the <a href="P_Avalonia_Controls_AutoCompleteBox_SearchText">SearchText</a> property.

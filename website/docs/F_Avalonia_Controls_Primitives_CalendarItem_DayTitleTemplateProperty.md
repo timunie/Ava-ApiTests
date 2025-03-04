@@ -31,6 +31,10 @@ static val DayTitleTemplateProperty: StyledProperty<ITemplate<Control>>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Calendar/CalendarItem.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="T_Avalonia_Controls_ITemplate_1">ITemplate</a>(<a href="T_Avalonia_Controls_Control">Control</a>))
 

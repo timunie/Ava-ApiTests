@@ -33,6 +33,10 @@ static val TextAlignmentProperty: AttachedProperty<TextAlignment>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBlock.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 AttachedProperty(TextAlignment)
 

@@ -33,6 +33,10 @@ new : unit -> WindowNotificationManager
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Notifications/WindowNotificationManager.cs#L21" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

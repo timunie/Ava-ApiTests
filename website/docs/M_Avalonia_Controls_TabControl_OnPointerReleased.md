@@ -38,6 +38,10 @@ override OnPointerReleased :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TabControl.cs#L288" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  PointerReleasedEventArgs</dt><dd> </dd></dl>
 

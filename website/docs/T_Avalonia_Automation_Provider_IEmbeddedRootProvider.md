@@ -31,16 +31,23 @@ type IEmbeddedRootProvider = interface end
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Provider/IEmbeddedRootProvider.cs" title="View the source code">View Source</a>
+
+
+
+## 
 This interface is implemented by the <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a> class, and can be used to embed an automation tree from a 3rd party UI framework that wishes to use Avalonia's automation support.
 
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Automation_Provider_IEmbeddedRootProvider_GetFocus">GetFocus</a></td>
+<td><a href="M_Avalonia_Automation_Provider_IEmbeddedRootProvider_GetFocus">GetFocus()</a></td>
 <td>Gets the currently focused element.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Automation_Provider_IEmbeddedRootProvider_GetPeerFromPoint">GetPeerFromPoint</a></td>
+<td><a href="M_Avalonia_Automation_Provider_IEmbeddedRootProvider_GetPeerFromPoint">GetPeerFromPoint(Point)</a></td>
 <td>Gets the element at the specified point, expressed in top-level coordinates.</td>
 </tr>
 </table>

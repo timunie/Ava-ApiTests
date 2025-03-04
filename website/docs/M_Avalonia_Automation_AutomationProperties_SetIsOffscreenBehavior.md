@@ -41,6 +41,10 @@ static member SetIsOffscreenBehavior :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/AutomationProperties.cs#L357" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  StyledElement</dt><dd> </dd><dt>  <a href="T_Avalonia_Automation_IsOffscreenBehavior">IsOffscreenBehavior</a></dt><dd> </dd></dl>
 

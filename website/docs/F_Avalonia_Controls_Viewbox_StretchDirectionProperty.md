@@ -33,6 +33,10 @@ static val StretchDirectionProperty: StyledProperty<StretchDirection>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Viewbox.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(StretchDirection)
 

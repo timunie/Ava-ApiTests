@@ -38,6 +38,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/PopulatingEventArgs.cs#L34" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a></dt><dd>The value of the <a href="P_Avalonia_Controls_AutoCompleteBox_SearchText">SearchText</a> property, which is used to filter items for the <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox</a> control.</dd></dl>
 

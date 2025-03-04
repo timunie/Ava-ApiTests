@@ -33,6 +33,10 @@ new : unit -> CalendarDayButton
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Calendar/CalendarDayButton.cs#L34" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

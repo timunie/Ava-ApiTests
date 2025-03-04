@@ -33,6 +33,10 @@ new : unit -> Polygon
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Polygon.cs#L17" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

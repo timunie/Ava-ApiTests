@@ -35,8 +35,15 @@ member WorkingArea : PixelRect with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/Screen.cs#L88" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-PixelRectThis area may be smaller than <a href="Bounds" target="_blank" rel="noopener noreferrer">Bounds</a> to account for notches and other block-out areas such as taskbars etc.
+PixelRect
+
+## 
+This area may be smaller than <a href="Bounds" target="_blank" rel="noopener noreferrer">Bounds</a> to account for notches and other block-out areas such as taskbars etc.
 
 ## See Also
 

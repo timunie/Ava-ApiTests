@@ -32,6 +32,10 @@ override InvalidateMirrorTransform : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TopLevel.cs#L927" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

@@ -37,6 +37,10 @@ type TrayIcon =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TrayIcon.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  AvaloniaObject  →  TrayIcon</td></tr>
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_Platform_INativeMenuExporterProvider">INativeMenuExporterProvider</a>, <a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_blank" rel="noopener noreferrer">IDisposable</a></td></tr>
@@ -47,7 +51,7 @@ type TrayIcon =
 ## Constructors
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_TrayIcon__ctor">TrayIcon</a></td>
+<td><a href="M_Avalonia_Controls_TrayIcon__ctor">TrayIcon()</a></td>
 <td>Initializes a new instance of the TrayIcon class</td>
 </tr>
 </table>
@@ -131,7 +135,7 @@ type TrayIcon =
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>CheckAccess</td>
+<td>CheckAccess()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
@@ -151,35 +155,35 @@ type TrayIcon =
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>CoerceValue</td>
+<td>CoerceValue(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_TrayIcon_Dispose">Dispose</a></td>
+<td><a href="M_Avalonia_Controls_TrayIcon_Dispose">Dispose()</a></td>
 <td>Disposes the tray icon (removing it from the tray area).</td>
 </tr>
 <tr>
-<td>Equals</td>
+<td>Equals(Object)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.finalize" target="_blank" rel="noopener noreferrer">Finalize</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.finalize" target="_blank" rel="noopener noreferrer">Finalize()</a></td>
 <td>Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td>GetBaseValue``1</td>
+<td>GetBaseValue``1(StyledProperty(UMP))</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>GetHashCode</td>
+<td>GetHashCode()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_TrayIcon_GetIcons">GetIcons</a></td>
+<td><a href="M_Avalonia_Controls_TrayIcon_GetIcons">GetIcons(Application)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType()</a></td>
 <td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a> of the current instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
@@ -195,31 +199,31 @@ type TrayIcon =
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>IsAnimating</td>
+<td>IsAnimating(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>IsSet</td>
+<td>IsSet(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone" target="_blank" rel="noopener noreferrer">MemberwiseClone</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone" target="_blank" rel="noopener noreferrer">MemberwiseClone()</a></td>
 <td>Creates a shallow copy of the current <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_TrayIcon_OnPropertyChanged">OnPropertyChanged</a></td>
+<td><a href="M_Avalonia_Controls_TrayIcon_OnPropertyChanged">OnPropertyChanged(AvaloniaPropertyChangedEventArgs)</a></td>
 <td><br />(Overrides AvaloniaObject.OnPropertyChanged(AvaloniaPropertyChangedEventArgs))</td>
 </tr>
 <tr>
-<td>OnPropertyChangedCore</td>
+<td>OnPropertyChangedCore(AvaloniaPropertyChangedEventArgs)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>RaisePropertyChanged``1</td>
+<td>RaisePropertyChanged``1(DirectPropertyBase(UMP), UMP, UMP)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>SetAndRaise``1</td>
+<td>SetAndRaise``1(DirectPropertyBase(UMP), UMP, UMP)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
@@ -231,7 +235,7 @@ type TrayIcon =
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_TrayIcon_SetIcons">SetIcons</a></td>
+<td><a href="M_Avalonia_Controls_TrayIcon_SetIcons">SetIcons(Application, TrayIcons)</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -247,15 +251,15 @@ type TrayIcon =
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString()</a></td>
 <td>Returns a string that represents the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td>UpdateDataValidation</td>
+<td>UpdateDataValidation(AvaloniaProperty, BindingValueType, Exception)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>VerifyAccess</td>
+<td>VerifyAccess()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 </table>

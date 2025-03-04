@@ -33,6 +33,10 @@ member SetupWithoutStarting : unit -> AppBuilder
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AppBuilder.cs#L193" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="T_Avalonia_AppBuilder">AppBuilder</a>  
 

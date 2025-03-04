@@ -31,6 +31,10 @@ static val ActualThemeVariantProperty: StyledProperty<ThemeVariant>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Application.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(ThemeVariant)
 

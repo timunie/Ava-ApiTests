@@ -33,6 +33,10 @@ type IValueProvider = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Provider/IValueProvider.cs" title="View the source code">View Source</a>
+
+
+
 ## Properties
 <table>
 <tr>
@@ -48,7 +52,7 @@ type IValueProvider = interface end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Automation_Provider_IValueProvider_SetValue">SetValue</a></td>
+<td><a href="M_Avalonia_Automation_Provider_IValueProvider_SetValue">SetValue(String)</a></td>
 <td>Sets the value of a control.</td>
 </tr>
 </table>

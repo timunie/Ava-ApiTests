@@ -38,6 +38,10 @@ override CreateNativeControlCore :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/NativeControlHost.cs#L191" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  IPlatformHandle</dt><dd> </dd></dl>
 

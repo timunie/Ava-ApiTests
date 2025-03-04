@@ -36,6 +36,10 @@ static member GetOverlayLayer :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/ChromeOverlayLayer.cs#L10" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Visual</dt><dd> </dd></dl>
 

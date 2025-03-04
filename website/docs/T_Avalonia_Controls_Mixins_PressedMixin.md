@@ -33,6 +33,10 @@ type PressedMixin = class end
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Mixins/PressedMixin.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  PressedMixin</td></tr>
 </table>
@@ -42,7 +46,7 @@ type PressedMixin = class end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Mixins_PressedMixin_Attach__1">Attach(TControl)</a></td>
+<td><a href="M_Avalonia_Controls_Mixins_PressedMixin_Attach__1">Attach(TControl)()</a></td>
 <td>Initializes a new instance of the PressedMixin class.</td>
 </tr>
 </table>

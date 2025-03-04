@@ -33,6 +33,10 @@ new : unit -> ContentPresenter
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Presenters/ContentPresenter.cs#L172" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

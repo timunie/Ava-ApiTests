@@ -33,6 +33,10 @@ new : unit -> ContextMenu
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ContextMenu.cs#L98" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

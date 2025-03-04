@@ -32,6 +32,10 @@ override OnFrameworkInitializationCompleted : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Application.cs#L287" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

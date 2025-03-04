@@ -41,6 +41,10 @@ abstract GetControlInDirection :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/ILogicalScrollable.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  NavigationDirection</dt><dd>The movement direction.</dd><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The control from which movement begins.</dd></dl>
 

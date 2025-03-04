@@ -33,6 +33,10 @@ new : unit -> LayoutTransformControl
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/LayoutTransformControl.cs#L221" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

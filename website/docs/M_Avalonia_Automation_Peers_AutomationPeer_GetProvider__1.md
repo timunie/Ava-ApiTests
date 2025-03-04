@@ -34,6 +34,10 @@ member GetProvider : unit -> 'T
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/AutomationPeer.cs#L188" title="View the source code">View Source</a>
+
+
+
 #### Type Parameters
 <dl><dt /><dd>The provider type.</dd></dl>
 

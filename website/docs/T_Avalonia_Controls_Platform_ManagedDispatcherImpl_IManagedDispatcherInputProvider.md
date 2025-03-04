@@ -31,6 +31,10 @@ type IManagedDispatcherInputProvider = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/ManagedDispatcherImpl.cs" title="View the source code">View Source</a>
+
+
+
 ## Properties
 <table>
 <tr>
@@ -42,7 +46,7 @@ type IManagedDispatcherInputProvider = interface end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_ManagedDispatcherImpl_IManagedDispatcherInputProvider_DispatchNextInputEvent">DispatchNextInputEvent</a></td>
+<td><a href="M_Avalonia_Controls_Platform_ManagedDispatcherImpl_IManagedDispatcherInputProvider_DispatchNextInputEvent">DispatchNextInputEvent()</a></td>
 <td> </td>
 </tr>
 </table>

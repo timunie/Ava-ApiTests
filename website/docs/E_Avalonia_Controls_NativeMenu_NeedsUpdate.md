@@ -34,8 +34,15 @@ member NeedsUpdate : IEvent<EventHandler<EventArgs>,
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/NativeMenu.cs" title="View the source code">View Source</a>
+
+
+
 #### Value
-<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="https://learn.microsoft.com/dotnet/api/system.eventargs" target="_blank" rel="noopener noreferrer">EventArgs</a>)Use this event to add, remove or modify menu items before a menu is shown or a hotkey is pressed.
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="https://learn.microsoft.com/dotnet/api/system.eventargs" target="_blank" rel="noopener noreferrer">EventArgs</a>)
+
+## 
+Use this event to add, remove or modify menu items before a menu is shown or a hotkey is pressed.
 
 ## See Also
 

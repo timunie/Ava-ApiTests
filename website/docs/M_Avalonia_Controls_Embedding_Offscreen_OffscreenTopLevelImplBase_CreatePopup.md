@@ -32,6 +32,10 @@ override CreatePopup : unit -> IPopupImpl
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Embedding/Offscreen/OffscreenTopLevelImpl.cs#L87" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="T_Avalonia_Platform_IPopupImpl">IPopupImpl</a>
 

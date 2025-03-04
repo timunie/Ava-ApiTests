@@ -35,6 +35,10 @@ member TransparencyBackgroundFallback : IBrush with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TopLevel.cs#L378" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 IBrush
 

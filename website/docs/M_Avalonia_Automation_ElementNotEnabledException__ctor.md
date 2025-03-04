@@ -33,6 +33,10 @@ new : unit -> ElementNotEnabledException
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/ElementNotEnabledException.cs#L7" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

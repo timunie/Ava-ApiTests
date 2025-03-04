@@ -38,6 +38,10 @@ abstract HandleKeyDown :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Utils/ISelectionAdapter.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  KeyEventArgs</dt><dd>A KeyEventArgs that contains data about the KeyDown event.</dd></dl>
 

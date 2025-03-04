@@ -40,6 +40,10 @@ override MeasureOverride :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Grid.cs#L214" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Size</dt><dd>Constraint</dd></dl>
 

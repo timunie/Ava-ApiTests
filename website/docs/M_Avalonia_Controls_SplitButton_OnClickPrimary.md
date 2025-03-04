@@ -40,6 +40,10 @@ override OnClickPrimary :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SplitButton/SplitButton.cs#L402" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  RoutedEventArgs</dt><dd>The event args from the internal Click event.</dd></dl>
 

@@ -33,6 +33,10 @@ type SelectionModelExtensions = class end
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Selection/ISelectionModel.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  SelectionModelExtensions</td></tr>
 </table>
@@ -42,7 +46,7 @@ type SelectionModelExtensions = class end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Selection_SelectionModelExtensions_BatchUpdate">BatchUpdate</a></td>
+<td><a href="M_Avalonia_Controls_Selection_SelectionModelExtensions_BatchUpdate">BatchUpdate(ISelectionModel)</a></td>
 <td> </td>
 </tr>
 </table>

@@ -33,6 +33,10 @@ new : unit -> IconElement
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/IconElement.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

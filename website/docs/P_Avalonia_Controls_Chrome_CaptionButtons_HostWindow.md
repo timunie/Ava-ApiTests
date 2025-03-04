@@ -34,6 +34,10 @@ member HostWindow : Window with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Chrome/CaptionButtons.cs#L29" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Window">Window</a>
 

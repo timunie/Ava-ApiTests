@@ -35,6 +35,10 @@ member HotKey : KeyGesture with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/MenuItem.cs#L235" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 KeyGesture
 

@@ -33,6 +33,10 @@ new : unit -> HyperlinkButton
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/HyperlinkButton.cs#L36" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

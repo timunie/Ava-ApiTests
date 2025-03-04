@@ -38,6 +38,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/ManagedDispatcherImpl.cs#L13" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Platform_ManagedDispatcherImpl_IManagedDispatcherInputProvider">ManagedDispatcherImpl.IManagedDispatcherInputProvider</a></dt><dd> </dd></dl>
 

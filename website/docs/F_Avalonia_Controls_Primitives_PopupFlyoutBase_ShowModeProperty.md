@@ -33,6 +33,10 @@ static val ShowModeProperty: StyledProperty<FlyoutShowMode>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Flyouts/PopupFlyoutBase.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="T_Avalonia_Controls_FlyoutShowMode">FlyoutShowMode</a>)
 

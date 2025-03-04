@@ -31,6 +31,10 @@ type Design = class end
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Design.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  Design</td></tr>
 </table>
@@ -48,19 +52,19 @@ type Design = class end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_ApplyDesignModeProperties">ApplyDesignModeProperties</a></td>
+<td><a href="M_Avalonia_Controls_Design_ApplyDesignModeProperties">ApplyDesignModeProperties(Control, Control)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_GetDataContext">GetDataContext</a></td>
+<td><a href="M_Avalonia_Controls_Design_GetDataContext">GetDataContext(Control)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_GetDesignStyle">GetDesignStyle</a></td>
+<td><a href="M_Avalonia_Controls_Design_GetDesignStyle">GetDesignStyle(Control)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_GetHeight">GetHeight</a></td>
+<td><a href="M_Avalonia_Controls_Design_GetHeight">GetHeight(Control)</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -72,19 +76,19 @@ type Design = class end
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_GetWidth">GetWidth</a></td>
+<td><a href="M_Avalonia_Controls_Design_GetWidth">GetWidth(Control)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_SetDataContext">SetDataContext</a></td>
+<td><a href="M_Avalonia_Controls_Design_SetDataContext">SetDataContext(Control, Object)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_SetDesignStyle">SetDesignStyle</a></td>
+<td><a href="M_Avalonia_Controls_Design_SetDesignStyle">SetDesignStyle(Control, IStyle)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_SetHeight">SetHeight</a></td>
+<td><a href="M_Avalonia_Controls_Design_SetHeight">SetHeight(Control, Double)</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -96,7 +100,7 @@ type Design = class end
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_SetWidth">SetWidth</a></td>
+<td><a href="M_Avalonia_Controls_Design_SetWidth">SetWidth(Control, Double)</a></td>
 <td> </td>
 </tr>
 </table>

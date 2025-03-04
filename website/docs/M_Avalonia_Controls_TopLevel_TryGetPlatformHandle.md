@@ -33,6 +33,10 @@ member TryGetPlatformHandle : unit -> IPlatformHandle
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TopLevel.cs#L431" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 IPlatformHandle  
 An IPlatformHandle describing the window handle, or null if the handle could not be retrieved.

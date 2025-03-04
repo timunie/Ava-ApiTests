@@ -34,6 +34,10 @@ member PlatformImpl : ITopLevelImpl with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TopLevel.cs#L422" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Platform_ITopLevelImpl">ITopLevelImpl</a>
 

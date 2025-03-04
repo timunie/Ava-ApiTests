@@ -41,6 +41,10 @@ static member SetPlacement :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ToolTip.cs#L185" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The control to get the property from.</dd><dt>  <a href="T_Avalonia_Controls_PlacementMode">PlacementMode</a></dt><dd>A value indicating how the tool tip is positioned.</dd></dl>
 

@@ -33,6 +33,10 @@ new : unit -> FlyoutBase
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Flyouts/FlyoutBase.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

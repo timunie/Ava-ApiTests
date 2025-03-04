@@ -35,6 +35,10 @@ type Screen =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/Screen.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  Screen</td></tr>
 <tr><td><strong>Derived</strong></td><td><a href="T_Avalonia_Platform_PlatformScreen">Avalonia.Platform.PlatformScreen</a></td></tr>
@@ -46,7 +50,7 @@ type Screen =
 ## Constructors
 <table>
 <tr>
-<td><a href="M_Avalonia_Platform_Screen__ctor">Screen</a></td>
+<td><a href="M_Avalonia_Platform_Screen__ctor">Screen(Double, PixelRect, PixelRect, Boolean)</a></td>
 <td>Initializes a new instance of the Screen class.</td>
 </tr>
 </table>
@@ -90,27 +94,27 @@ type Screen =
 <td>Indicates whether the current object is equal to another object of the same type.</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.finalize" target="_blank" rel="noopener noreferrer">Finalize</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.finalize" target="_blank" rel="noopener noreferrer">Finalize()</a></td>
 <td>Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Platform_Screen_GetHashCode">GetHashCode</a></td>
+<td><a href="M_Avalonia_Platform_Screen_GetHashCode">GetHashCode()</a></td>
 <td>Serves as the default hash function.<br />(Overrides <a href="https://learn.microsoft.com/dotnet/api/system.object.gethashcode" target="_blank" rel="noopener noreferrer">Object.GetHashCode()</a>)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType()</a></td>
 <td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a> of the current instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone" target="_blank" rel="noopener noreferrer">MemberwiseClone</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone" target="_blank" rel="noopener noreferrer">MemberwiseClone()</a></td>
 <td>Creates a shallow copy of the current <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Platform_Screen_ToString">ToString</a></td>
+<td><a href="M_Avalonia_Platform_Screen_ToString">ToString()</a></td>
 <td>Returns a string that represents the current object.<br />(Overrides <a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">Object.ToString()</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Platform_Screen_TryGetPlatformHandle">TryGetPlatformHandle</a></td>
+<td><a href="M_Avalonia_Platform_Screen_TryGetPlatformHandle">TryGetPlatformHandle()</a></td>
 <td>Tries to get the platform handle for the Screen.</td>
 </tr>
 </table>

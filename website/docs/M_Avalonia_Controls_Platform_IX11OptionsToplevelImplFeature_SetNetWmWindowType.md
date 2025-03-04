@@ -36,6 +36,10 @@ abstract SetNetWmWindowType :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IX11OptionsToplevelImplFeature.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Platform_X11NetWmWindowType">X11NetWmWindowType</a></dt><dd> </dd></dl>
 

@@ -33,6 +33,10 @@ override ActualThemeVariant : ThemeVariant with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Application.cs#L102" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 ThemeVariant
 

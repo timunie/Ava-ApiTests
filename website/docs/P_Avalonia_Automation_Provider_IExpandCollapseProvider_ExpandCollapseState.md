@@ -34,6 +34,10 @@ abstract ExpandCollapseState : ExpandCollapseState with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Provider/IExpandCollapseProvider.cs" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Automation_ExpandCollapseState">ExpandCollapseState</a>
 

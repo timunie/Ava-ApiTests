@@ -33,6 +33,10 @@ static val TextTrimmingProperty: StyledProperty<TextTrimming>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Presenters/ContentPresenter.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(TextTrimming)
 

@@ -40,6 +40,10 @@ override MeasureOverride :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Canvas.cs#L148" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Size</dt><dd>The available size.</dd></dl>
 

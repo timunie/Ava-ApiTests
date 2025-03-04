@@ -33,6 +33,10 @@ member SetFocus : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/AutomationPeer.cs#L175" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

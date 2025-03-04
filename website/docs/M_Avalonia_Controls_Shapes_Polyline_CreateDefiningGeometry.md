@@ -32,6 +32,10 @@ override CreateDefiningGeometry : unit -> Geometry
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Polyline.cs#L31" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 Geometry
 

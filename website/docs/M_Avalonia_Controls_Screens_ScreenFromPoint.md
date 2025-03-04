@@ -38,12 +38,19 @@ member ScreenFromPoint :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Screens.cs#L139" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  PixelPoint</dt><dd>A Point that specifies the location for which to retrieve a Screen.</dd></dl>
 
 #### Return Value
 <a href="T_Avalonia_Platform_Screen">Screen</a>  
-The <a href="T_Avalonia_Platform_Screen">Screen</a>.On mobile, this method always returns null.
+The <a href="T_Avalonia_Platform_Screen">Screen</a>.
+
+## 
+On mobile, this method always returns null.
 
 ## See Also
 

@@ -41,6 +41,10 @@ static member SetFontFeatures :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Documents/TextElement.cs#L188" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The control.</dd><dt>  FontFeatureCollection</dt><dd>The property value to set.</dd></dl>
 

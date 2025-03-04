@@ -35,6 +35,10 @@ override Presenter : ContentPresenter with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ContentControl.cs#L87" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Presenters_ContentPresenter">ContentPresenter</a>
 

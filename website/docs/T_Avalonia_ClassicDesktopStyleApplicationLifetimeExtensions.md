@@ -35,6 +35,10 @@ type ClassicDesktopStyleApplicationLifetimeExtensions = class end
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ApplicationLifetimes/ClassicDesktopStyleApplicationLifetime.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  ClassicDesktopStyleApplicationLifetimeExtensions</td></tr>
 </table>
@@ -44,7 +48,7 @@ type ClassicDesktopStyleApplicationLifetimeExtensions = class end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_ClassicDesktopStyleApplicationLifetimeExtensions_SetupWithClassicDesktopLifetime">SetupWithClassicDesktopLifetime</a></td>
+<td><a href="M_Avalonia_ClassicDesktopStyleApplicationLifetimeExtensions_SetupWithClassicDesktopLifetime">SetupWithClassicDesktopLifetime(AppBuilder, String[], Action(IClassicDesktopStyleApplicationLifetime))</a></td>
 <td>Setups the Application with a IClassicDesktopStyleApplicationLifetime, but doesn't show the main window and doesn't run application main loop.</td>
 </tr>
 <tr>

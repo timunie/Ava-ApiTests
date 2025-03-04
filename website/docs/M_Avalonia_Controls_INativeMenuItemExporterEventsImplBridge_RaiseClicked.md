@@ -31,6 +31,10 @@ abstract RaiseClicked : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/INativeMenuItemExporterEventsImplBridge.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

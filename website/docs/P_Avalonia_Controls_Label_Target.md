@@ -35,6 +35,10 @@ member Target : IInputElement with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Label.cs#L25" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 IInputElement
 

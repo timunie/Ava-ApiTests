@@ -33,6 +33,10 @@ new : unit -> DataTemplates
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/DataTemplates.cs#L14" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

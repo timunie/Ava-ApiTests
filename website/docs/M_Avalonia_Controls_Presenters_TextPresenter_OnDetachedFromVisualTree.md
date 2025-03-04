@@ -38,6 +38,10 @@ override OnDetachedFromVisualTree :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Presenters/TextPresenter.cs#L954" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  VisualTreeAttachmentEventArgs</dt><dd> </dd></dl>
 

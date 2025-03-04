@@ -40,6 +40,10 @@ override Render :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBlock.cs#L586" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  DrawingContext</dt><dd>The drawing context.</dd></dl>
 

@@ -33,6 +33,10 @@ type IRangeValueProvider = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Provider/IRangeValueProvider.cs" title="View the source code">View Source</a>
+
+
+
 ## Properties
 <table>
 <tr>
@@ -64,7 +68,7 @@ type IRangeValueProvider = interface end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Automation_Provider_IRangeValueProvider_SetValue">SetValue</a></td>
+<td><a href="M_Avalonia_Automation_Provider_IRangeValueProvider_SetValue">SetValue(Double)</a></td>
 <td>Sets the value of the control.</td>
 </tr>
 </table>

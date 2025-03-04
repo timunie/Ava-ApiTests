@@ -33,6 +33,10 @@ static val SelectionProperty: DirectProperty<SelectingItemsControl, ISelectionMo
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/SelectingItemsControl.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 DirectProperty(<a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl</a>, <a href="T_Avalonia_Controls_Selection_ISelectionModel">ISelectionModel</a>)
 

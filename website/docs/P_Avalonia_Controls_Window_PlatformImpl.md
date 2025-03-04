@@ -34,6 +34,10 @@ member PlatformImpl : IWindowImpl with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Window.cs#L254" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Platform_IWindowImpl">IWindowImpl</a>
 

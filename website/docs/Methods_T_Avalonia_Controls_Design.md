@@ -10,19 +10,19 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_ApplyDesignModeProperties">ApplyDesignModeProperties</a></td>
+<td><a href="M_Avalonia_Controls_Design_ApplyDesignModeProperties">ApplyDesignModeProperties(Control, Control)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_GetDataContext">GetDataContext</a></td>
+<td><a href="M_Avalonia_Controls_Design_GetDataContext">GetDataContext(Control)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_GetDesignStyle">GetDesignStyle</a></td>
+<td><a href="M_Avalonia_Controls_Design_GetDesignStyle">GetDesignStyle(Control)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_GetHeight">GetHeight</a></td>
+<td><a href="M_Avalonia_Controls_Design_GetHeight">GetHeight(Control)</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -34,19 +34,19 @@ import Tag from '@site/src/components/Tag';
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_GetWidth">GetWidth</a></td>
+<td><a href="M_Avalonia_Controls_Design_GetWidth">GetWidth(Control)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_SetDataContext">SetDataContext</a></td>
+<td><a href="M_Avalonia_Controls_Design_SetDataContext">SetDataContext(Control, Object)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_SetDesignStyle">SetDesignStyle</a></td>
+<td><a href="M_Avalonia_Controls_Design_SetDesignStyle">SetDesignStyle(Control, IStyle)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_SetHeight">SetHeight</a></td>
+<td><a href="M_Avalonia_Controls_Design_SetHeight">SetHeight(Control, Double)</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ import Tag from '@site/src/components/Tag';
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Design_SetWidth">SetWidth</a></td>
+<td><a href="M_Avalonia_Controls_Design_SetWidth">SetWidth(Control, Double)</a></td>
 <td> </td>
 </tr>
 </table>

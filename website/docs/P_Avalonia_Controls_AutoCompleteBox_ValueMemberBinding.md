@@ -35,6 +35,10 @@ member ValueMemberBinding : IBinding with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.Properties.cs#L310" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 IBinding  
 The IBinding object used when binding to a collection property.

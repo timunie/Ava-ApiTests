@@ -41,8 +41,15 @@ static member SetIsTemplateFocusTarget :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/TemplatedControl.cs#L286" title="View the source code">View Source</a>
+
+
+
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The control.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a></dt><dd>The property value.</dd></dl>When a control is navigated to using the keyboard, a focus adorner is shown - usually around the control itself. However if the TemplatedControl.IsTemplateFocusTarget attached property is set to true on an element in the control template, then the focus adorner will be shown around that control instead.
+<dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The control.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a></dt><dd>The property value.</dd></dl>
+
+## 
+When a control is navigated to using the keyboard, a focus adorner is shown - usually around the control itself. However if the TemplatedControl.IsTemplateFocusTarget attached property is set to true on an element in the control template, then the focus adorner will be shown around that control instead.
 
 ## See Also
 

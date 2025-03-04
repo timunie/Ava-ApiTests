@@ -38,6 +38,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SizeChangedEventArgs.cs#L17" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  RoutedEvent</dt><dd>The routed event associated with these event args.</dd></dl>
 

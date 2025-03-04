@@ -33,6 +33,10 @@ type SystemFontAppBuilderExtension = class end
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SystemFontAppBuilderExtension.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  SystemFontAppBuilderExtension</td></tr>
 </table>
@@ -42,7 +46,7 @@ type SystemFontAppBuilderExtension = class end
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_SystemFontAppBuilderExtension_WithSystemFontSource">WithSystemFontSource</a></td>
+<td><a href="M_Avalonia_SystemFontAppBuilderExtension_WithSystemFontSource">WithSystemFontSource(AppBuilder, Uri)</a></td>
 <td> </td>
 </tr>
 </table>

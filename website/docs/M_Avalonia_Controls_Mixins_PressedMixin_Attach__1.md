@@ -35,6 +35,10 @@ static member Attach : unit -> unit  when 'TControl : Control
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Mixins/PressedMixin.cs#L18" title="View the source code">View Source</a>
+
+
+
 #### Type Parameters
 <dl><dt /><dd>The control type.</dd></dl>
 

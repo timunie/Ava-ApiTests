@@ -38,6 +38,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/FuncTemplate%602.cs#L19" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.func-3" target="_blank" rel="noopener noreferrer">Func</a>(<a href="T_Avalonia_Controls_Templates_FuncTemplate_2">TParam</a>, INameScope, <a href="T_Avalonia_Controls_Templates_FuncTemplate_2">TControl</a>)</dt><dd>The function used to create the control.</dd></dl>
 

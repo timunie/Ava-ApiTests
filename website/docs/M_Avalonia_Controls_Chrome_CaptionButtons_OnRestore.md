@@ -32,6 +32,10 @@ override OnRestore : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Chrome/CaptionButtons.cs#L74" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

@@ -40,6 +40,10 @@ override MeasureOverride :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/LayoutTransformControl.cs#L118" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Size</dt><dd>The available size that this element can give to child elements.</dd></dl>
 

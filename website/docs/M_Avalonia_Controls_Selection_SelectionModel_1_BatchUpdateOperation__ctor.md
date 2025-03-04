@@ -38,6 +38,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Selection/SelectionModel.cs#L776" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Selection_SelectionModel_1">SelectionModel</a>(<a href="T_Avalonia_Controls_Selection_SelectionModel_1">T</a>)</dt><dd> </dd></dl>
 

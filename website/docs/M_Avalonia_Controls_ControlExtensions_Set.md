@@ -46,6 +46,10 @@ static member Set :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ControlExtensions.cs#L97" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  IPseudoClasses</dt><dd>The pseudoclasses collection.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a></dt><dd>The name of the pseudoclass to set.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.iobservable-1" target="_blank" rel="noopener noreferrer">IObservable</a>(<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>)</dt><dd>The trigger: true adds the pseudoclass, false removes.</dd></dl>
 

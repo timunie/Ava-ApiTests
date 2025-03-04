@@ -33,6 +33,10 @@ static val NotificationClosedEvent: RoutedEvent<RoutedEventArgs>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Notifications/NotificationCard.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 RoutedEvent(RoutedEventArgs)
 

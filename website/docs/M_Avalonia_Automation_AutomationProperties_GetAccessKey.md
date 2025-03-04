@@ -38,6 +38,10 @@ static member GetAccessKey :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/AutomationProperties.cs#L240" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  StyledElement</dt><dd> </dd></dl>
 

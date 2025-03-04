@@ -38,6 +38,10 @@ override OnApplyTemplate :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/DateTimePickers/DatePicker.cs#L222" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Primitives_TemplateAppliedEventArgs">TemplateAppliedEventArgs</a></dt><dd> </dd></dl>
 

@@ -33,6 +33,10 @@ static val PageTransitionProperty: StyledProperty<IPageTransition>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Carousel.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(IPageTransition)
 

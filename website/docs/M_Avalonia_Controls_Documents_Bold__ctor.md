@@ -33,6 +33,10 @@ new : unit -> Bold
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Documents/Bold.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

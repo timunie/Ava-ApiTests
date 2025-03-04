@@ -34,6 +34,10 @@ member InteractionHandler : IMenuInteractionHandler with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/MenuBase.cs#L100" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Platform_IMenuInteractionHandler">IMenuInteractionHandler</a>
 

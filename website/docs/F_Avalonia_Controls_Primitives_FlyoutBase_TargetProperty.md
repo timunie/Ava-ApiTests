@@ -33,6 +33,10 @@ static val TargetProperty: DirectProperty<FlyoutBase, Control>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Flyouts/FlyoutBase.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 DirectProperty(<a href="T_Avalonia_Controls_Primitives_FlyoutBase">FlyoutBase</a>, <a href="T_Avalonia_Controls_Control">Control</a>)
 

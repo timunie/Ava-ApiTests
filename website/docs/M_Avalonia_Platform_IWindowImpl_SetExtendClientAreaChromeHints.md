@@ -38,6 +38,10 @@ abstract SetExtendClientAreaChromeHints :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IWindowImpl.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Platform_ExtendClientAreaChromeHints">ExtendClientAreaChromeHints</a></dt><dd /></dl>
 

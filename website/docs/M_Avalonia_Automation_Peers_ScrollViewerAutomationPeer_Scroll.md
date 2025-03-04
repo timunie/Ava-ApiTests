@@ -42,6 +42,10 @@ override Scroll :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/ScrollViewerAutomationPeer.cs#L81" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Automation_Provider_ScrollAmount">ScrollAmount</a></dt><dd> </dd><dt>  <a href="T_Avalonia_Automation_Provider_ScrollAmount">ScrollAmount</a></dt><dd> </dd></dl>
 

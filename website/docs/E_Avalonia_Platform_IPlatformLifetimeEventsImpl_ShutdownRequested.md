@@ -34,8 +34,15 @@ abstract ShutdownRequested : IEvent<EventHandler<ShutdownRequestedEventArgs>,
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IPlatformLifetimeEventsImpl.cs" title="View the source code">View Source</a>
+
+
+
 #### Value
-<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Controls_ApplicationLifetimes_ShutdownRequestedEventArgs">ShutdownRequestedEventArgs</a>)Raised on OSX via the Quit menu or right-clicking on the application icon and selecting Quit.
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Controls_ApplicationLifetimes_ShutdownRequestedEventArgs">ShutdownRequestedEventArgs</a>)
+
+## 
+Raised on OSX via the Quit menu or right-clicking on the application icon and selecting Quit.
 
 ## See Also
 

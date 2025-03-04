@@ -48,6 +48,10 @@ override UpdateDataValidation :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/SelectingItemsControl.cs#L583" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  AvaloniaProperty</dt><dd>The property.</dd><dt>  BindingValueType</dt><dd>The current data binding state.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.exception" target="_blank" rel="noopener noreferrer">Exception</a></dt><dd>The current data binding error, if any.</dd></dl>
 

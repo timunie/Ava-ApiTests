@@ -36,6 +36,10 @@ static member GetNetWmWindowType :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/X11Properties.cs#L16" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Window">Window</a></dt><dd> </dd></dl>
 

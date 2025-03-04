@@ -38,8 +38,15 @@ member AnchorRectangle : Rect with
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/PopupPositioning/IPopupPositioner.cs#L89" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-RectThe rectangle is relative to the parent geometry and may not extend outside the window geometry of the popup's parent.
+Rect
+
+## 
+The rectangle is relative to the parent geometry and may not extend outside the window geometry of the popup's parent.
 
 ## See Also
 

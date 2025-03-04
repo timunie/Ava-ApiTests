@@ -35,9 +35,16 @@ member SelectedItem : Object with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.Properties.cs#L333" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  
-The selected item in the drop-down.If the IsTextCompletionEnabled property is true and text typed by the user matches an item in the ItemsSource collection, which is then displayed in the text box, the SelectedItem property will be a null reference.
+The selected item in the drop-down.
+
+## 
+If the IsTextCompletionEnabled property is true and text typed by the user matches an item in the ItemsSource collection, which is then displayed in the text box, the SelectedItem property will be a null reference.
 
 ## See Also
 

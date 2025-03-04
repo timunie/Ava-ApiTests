@@ -34,6 +34,10 @@ static member Auto : GridLength with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/GridLength.cs#L78" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_GridLength">GridLength</a>
 

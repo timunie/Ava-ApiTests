@@ -32,6 +32,10 @@ override BeginBatchUpdate : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Selection/SelectionModel.cs#L204" title="View the source code">View Source</a>
+
+
+
 #### Implements
 <a href="M_Avalonia_Controls_Selection_ISelectionModel_BeginBatchUpdate">ISelectionModel.BeginBatchUpdate()</a>  
 

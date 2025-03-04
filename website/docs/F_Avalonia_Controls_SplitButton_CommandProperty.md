@@ -33,6 +33,10 @@ static val CommandProperty: StyledProperty<ICommand>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SplitButton/SplitButton.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="https://learn.microsoft.com/dotnet/api/system.windows.input.icommand" target="_blank" rel="noopener noreferrer">ICommand</a>)
 

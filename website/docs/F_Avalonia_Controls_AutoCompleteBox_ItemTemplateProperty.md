@@ -33,6 +33,10 @@ static val ItemTemplateProperty: StyledProperty<IDataTemplate>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="T_Avalonia_Controls_Templates_IDataTemplate">IDataTemplate</a>)  
 The identifier for the <a href="P_Avalonia_Controls_AutoCompleteBox_ItemTemplate">ItemTemplate</a> property.

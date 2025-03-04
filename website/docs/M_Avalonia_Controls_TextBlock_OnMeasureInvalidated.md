@@ -32,6 +32,10 @@ override OnMeasureInvalidated : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBlock.cs#L692" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

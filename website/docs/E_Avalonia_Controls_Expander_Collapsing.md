@@ -34,8 +34,15 @@ member Collapsing : IEvent<EventHandler<CancelRoutedEventArgs>,
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Expander.cs" title="View the source code">View Source</a>
+
+
+
 #### Value
-<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(CancelRoutedEventArgs)The event args Cancel property may be set to true to cancel the event and keep the control open (expanded).
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(CancelRoutedEventArgs)
+
+## 
+The event args Cancel property may be set to true to cancel the event and keep the control open (expanded).
 
 ## See Also
 

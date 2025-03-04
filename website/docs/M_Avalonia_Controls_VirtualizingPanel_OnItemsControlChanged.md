@@ -40,6 +40,10 @@ override OnItemsControlChanged :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/VirtualizingPanel.cs#L117" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_ItemsControl">ItemsControl</a></dt><dd>The old value of the <a href="P_Avalonia_Controls_VirtualizingPanel_ItemsControl">ItemsControl</a> property.</dd></dl>
 

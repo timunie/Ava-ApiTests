@@ -36,6 +36,10 @@ override VerticalContentAlignment : VerticalAlignment with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ContentControl.cs#L105" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 VerticalAlignment
 

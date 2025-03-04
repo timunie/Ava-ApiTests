@@ -18,7 +18,7 @@ import Tag from '@site/src/components/Tag';
 <td>Closes a notification.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Notifications_INotificationManager_CloseAll">CloseAll</a></td>
+<td><a href="M_Avalonia_Controls_Notifications_INotificationManager_CloseAll">CloseAll()</a></td>
 <td>Closes all notifications.<br />(Inherited from <a href="T_Avalonia_Controls_Notifications_INotificationManager">INotificationManager</a>)</td>
 </tr>
 <tr>

@@ -33,6 +33,10 @@ new : unit -> DatePicker
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/DateTimePickers/DatePicker.cs#L96" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

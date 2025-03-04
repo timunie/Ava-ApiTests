@@ -33,6 +33,10 @@ new : unit -> RequestBringIntoViewEventArgs
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/RequestBringIntoViewEventArgs.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

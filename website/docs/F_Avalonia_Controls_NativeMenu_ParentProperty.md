@@ -31,6 +31,10 @@ static val ParentProperty: DirectProperty<NativeMenu, NativeMenuItem>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/NativeMenu.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 DirectProperty(<a href="T_Avalonia_Controls_NativeMenu">NativeMenu</a>, <a href="T_Avalonia_Controls_NativeMenuItem">NativeMenuItem</a>)
 

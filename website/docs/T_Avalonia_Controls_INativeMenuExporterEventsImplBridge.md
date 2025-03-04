@@ -31,18 +31,22 @@ type INativeMenuExporterEventsImplBridge = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/INativeMenuExporterEventsImplBridge.cs" title="View the source code">View Source</a>
+
+
+
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_INativeMenuExporterEventsImplBridge_RaiseClosed">RaiseClosed</a></td>
+<td><a href="M_Avalonia_Controls_INativeMenuExporterEventsImplBridge_RaiseClosed">RaiseClosed()</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_INativeMenuExporterEventsImplBridge_RaiseNeedsUpdate">RaiseNeedsUpdate</a></td>
+<td><a href="M_Avalonia_Controls_INativeMenuExporterEventsImplBridge_RaiseNeedsUpdate">RaiseNeedsUpdate()</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_INativeMenuExporterEventsImplBridge_RaiseOpening">RaiseOpening</a></td>
+<td><a href="M_Avalonia_Controls_INativeMenuExporterEventsImplBridge_RaiseOpening">RaiseOpening()</a></td>
 <td> </td>
 </tr>
 </table>

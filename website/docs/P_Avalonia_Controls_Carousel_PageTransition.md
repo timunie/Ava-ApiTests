@@ -35,6 +35,10 @@ member PageTransition : IPageTransition with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Carousel.cs#L41" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 IPageTransition
 

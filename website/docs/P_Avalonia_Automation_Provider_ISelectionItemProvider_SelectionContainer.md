@@ -34,6 +34,10 @@ abstract SelectionContainer : ISelectionProvider with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcWindows/Avalonia.Win32/Interop/Automation/ISelectionItemProvider.cs" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Automation_Provider_ISelectionProvider">ISelectionProvider</a>
 

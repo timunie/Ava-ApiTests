@@ -33,6 +33,10 @@ override PlatformSettings : IPlatformSettings with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TopLevel.cs#L571" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 IPlatformSettings
 

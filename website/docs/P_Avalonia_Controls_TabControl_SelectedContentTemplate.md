@@ -34,6 +34,10 @@ member SelectedContentTemplate : IDataTemplate with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TabControl.cs#L138" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Templates_IDataTemplate">IDataTemplate</a>  
 The content template of the selected tab.

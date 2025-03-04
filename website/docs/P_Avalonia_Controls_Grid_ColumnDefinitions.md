@@ -35,6 +35,10 @@ member ColumnDefinitions : ColumnDefinitions with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Grid.cs#L171" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_ColumnDefinitions">ColumnDefinitions</a>
 

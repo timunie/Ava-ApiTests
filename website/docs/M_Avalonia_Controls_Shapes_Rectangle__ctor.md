@@ -33,6 +33,10 @@ new : unit -> Rectangle
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Rectangle.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

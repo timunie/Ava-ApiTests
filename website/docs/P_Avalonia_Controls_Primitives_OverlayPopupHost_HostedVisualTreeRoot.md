@@ -35,6 +35,10 @@ override HostedVisualTreeRoot : Visual with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/OverlayPopupHost.cs#L48" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Visual
 

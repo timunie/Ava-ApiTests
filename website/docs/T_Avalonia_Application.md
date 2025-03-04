@@ -50,17 +50,24 @@ type Application =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Application.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  AvaloniaObject  →  Application</td></tr>
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_IGlobalDataTemplates">IGlobalDataTemplates</a>, IResourceHost, IResourceNode, <a href="T_Avalonia_Controls_Templates_IDataTemplateHost">IDataTemplateHost</a>, IDataContextProvider, <a href="T_Avalonia_Platform_IApplicationPlatformEvents">IApplicationPlatformEvents</a>, IOptionalFeatureProvider, IGlobalStyles, IStyleHost, IThemeVariantHost</td></tr>
 </table>
 
+
+
+## 
 The Application class encapsulates Avalonia application-specific functionality, including: - A global set of <a href="P_Avalonia_Application_DataTemplates">DataTemplates</a>. - A global set of <a href="P_Avalonia_Application_Styles">Styles</a>. - A FocusManager. - An InputManager. - Registers services needed by the rest of Avalonia in the <a href="M_Avalonia_Application_RegisterServices">RegisterServices()</a> method. - Tracks the lifetime of the application.
 
 ## Constructors
 <table>
 <tr>
-<td><a href="M_Avalonia_Application__ctor">Application</a></td>
+<td><a href="M_Avalonia_Application__ctor">Application()</a></td>
 <td>Creates an instance of the Application class.</td>
 </tr>
 </table>
@@ -156,7 +163,7 @@ The Application class encapsulates Avalonia application-specific functionality, 
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>CheckAccess</td>
+<td>CheckAccess()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
@@ -176,27 +183,27 @@ The Application class encapsulates Avalonia application-specific functionality, 
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>CoerceValue</td>
+<td>CoerceValue(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>Equals</td>
+<td>Equals(Object)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.finalize" target="_blank" rel="noopener noreferrer">Finalize</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.finalize" target="_blank" rel="noopener noreferrer">Finalize()</a></td>
 <td>Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td>GetBaseValue``1</td>
+<td>GetBaseValue``1(StyledProperty(UMP))</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>GetHashCode</td>
+<td>GetHashCode()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.gettype" target="_blank" rel="noopener noreferrer">GetType()</a></td>
 <td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a> of the current instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
@@ -212,43 +219,43 @@ The Application class encapsulates Avalonia application-specific functionality, 
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Application_Initialize">Initialize</a></td>
+<td><a href="M_Avalonia_Application_Initialize">Initialize()</a></td>
 <td>Initializes the application by loading XAML etc.</td>
 </tr>
 <tr>
-<td>IsAnimating</td>
+<td>IsAnimating(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>IsSet</td>
+<td>IsSet(AvaloniaProperty)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone" target="_blank" rel="noopener noreferrer">MemberwiseClone</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone" target="_blank" rel="noopener noreferrer">MemberwiseClone()</a></td>
 <td>Creates a shallow copy of the current <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Application_OnFrameworkInitializationCompleted">OnFrameworkInitializationCompleted</a></td>
+<td><a href="M_Avalonia_Application_OnFrameworkInitializationCompleted">OnFrameworkInitializationCompleted()</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Application_OnPropertyChanged">OnPropertyChanged</a></td>
+<td><a href="M_Avalonia_Application_OnPropertyChanged">OnPropertyChanged(AvaloniaPropertyChangedEventArgs)</a></td>
 <td><br />(Overrides AvaloniaObject.OnPropertyChanged(AvaloniaPropertyChangedEventArgs))</td>
 </tr>
 <tr>
-<td>OnPropertyChangedCore</td>
+<td>OnPropertyChangedCore(AvaloniaPropertyChangedEventArgs)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>RaisePropertyChanged``1</td>
+<td>RaisePropertyChanged``1(DirectPropertyBase(UMP), UMP, UMP)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Application_RegisterServices">RegisterServices</a></td>
+<td><a href="M_Avalonia_Application_RegisterServices">RegisterServices()</a></td>
 <td>Register's the services needed by Avalonia.</td>
 </tr>
 <tr>
-<td>SetAndRaise``1</td>
+<td>SetAndRaise``1(DirectPropertyBase(UMP), UMP, UMP)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
@@ -272,23 +279,23 @@ The Application class encapsulates Avalonia application-specific functionality, 
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString()</a></td>
 <td>Returns a string that represents the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Application_TryGetFeature">TryGetFeature</a></td>
+<td><a href="M_Avalonia_Application_TryGetFeature">TryGetFeature(Type)</a></td>
 <td>Queries for an optional feature.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Application_TryGetResource">TryGetResource</a></td>
+<td><a href="M_Avalonia_Application_TryGetResource">TryGetResource(Object, ThemeVariant, Object)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td>UpdateDataValidation</td>
+<td>UpdateDataValidation(AvaloniaProperty, BindingValueType, Exception)</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 <tr>
-<td>VerifyAccess</td>
+<td>VerifyAccess()</td>
 <td><br />(Inherited from AvaloniaObject)</td>
 </tr>
 </table>
@@ -309,7 +316,7 @@ The Application class encapsulates Avalonia application-specific functionality, 
 </tr>
 <tr>
 <td><a href="E_Avalonia_Application_UrlsOpened">UrlsOpened</a></td>
-<td><strong>Obsolete.</strong></td>
+<td><Tag>Obsolete.</Tag></td>
 </tr>
 </table>
 
@@ -336,19 +343,19 @@ The Application class encapsulates Avalonia application-specific functionality, 
 ## Extension Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_DesktopApplicationExtensions_Run_2">Run</a></td>
+<td><a href="M_Avalonia_Controls_DesktopApplicationExtensions_Run_2">Run(CancellationToken)</a></td>
 <td>On desktop-style platforms runs the application's main loop with custom CancellationToken without setting a lifetime.<br />(Defined by <a href="T_Avalonia_Controls_DesktopApplicationExtensions">DesktopApplicationExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_DesktopApplicationExtensions_Run_1">Run</a></td>
+<td><a href="M_Avalonia_Controls_DesktopApplicationExtensions_Run_1">Run(ICloseable)</a></td>
 <td>On desktop-style platforms runs the application's main loop until closable is closed<br />(Defined by <a href="T_Avalonia_Controls_DesktopApplicationExtensions">DesktopApplicationExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_DesktopApplicationExtensions_Run">Run</a></td>
+<td><a href="M_Avalonia_Controls_DesktopApplicationExtensions_Run">Run(Window)</a></td>
 <td>On desktop-style platforms runs the application's main loop until main window is closed<br />(Defined by <a href="T_Avalonia_Controls_DesktopApplicationExtensions">DesktopApplicationExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_DesktopApplicationExtensions_RunWithMainWindow__1">RunWithMainWindow(TWindow)</a></td>
+<td><a href="M_Avalonia_Controls_DesktopApplicationExtensions_RunWithMainWindow__1">RunWithMainWindow(TWindow)()</a></td>
 <td><br />(Defined by <a href="T_Avalonia_Controls_DesktopApplicationExtensions">DesktopApplicationExtensions</a>)</td>
 </tr>
 </table>

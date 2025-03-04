@@ -34,6 +34,9 @@ type PopupPositionerConstraintAdjustment
 </TabItem>
 </Tabs>
 
+
+
+## 
 Whether a popup is considered 'constrained' is left to the positioner to determine. For example, the popup may be partly outside the target platform defined 'work area', thus necessitating the popup's position be adjusted until it is entirely inside the work area.
 
 ## Members

@@ -38,6 +38,10 @@ override OnPointerPressed :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/Thumb.cs#L104" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  PointerPressedEventArgs</dt><dd> </dd></dl>
 

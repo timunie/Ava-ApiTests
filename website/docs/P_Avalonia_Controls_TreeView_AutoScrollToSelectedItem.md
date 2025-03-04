@@ -35,8 +35,15 @@ member AutoScrollToSelectedItem : bool with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TreeView.cs#L94" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>This property is of limited use with <a href="T_Avalonia_Controls_TreeView">TreeView</a> as it will only scroll to realized items. To scroll to a non-expanded item, you need to ensure that its ancestors are expanded.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## 
+This property is of limited use with <a href="T_Avalonia_Controls_TreeView">TreeView</a> as it will only scroll to realized items. To scroll to a non-expanded item, you need to ensure that its ancestors are expanded.
 
 ## See Also
 

@@ -27,7 +27,7 @@ import Tag from '@site/src/components/Tag';
 </tr>
 <tr>
 <td><a href="P_Avalonia_AppBuilder_LifetimeOverride">LifetimeOverride</a></td>
-<td>Gets a method to override a lifetime factory.<br /><strong>Obsolete.</strong></td>
+<td>Gets a method to override a lifetime factory.<br /><Tag>Obsolete.</Tag></td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_AppBuilder_RenderingSubsystemInitializer">RenderingSubsystemInitializer</a></td>

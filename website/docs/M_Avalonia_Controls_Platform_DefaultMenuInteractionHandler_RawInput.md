@@ -38,6 +38,10 @@ override RawInput :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/DefaultMenuInteractionHandler.cs#L253" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  RawInputEventArgs</dt><dd> </dd></dl>
 

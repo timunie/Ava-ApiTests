@@ -31,14 +31,18 @@ type IX11OptionsToplevelImplFeature = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IX11OptionsToplevelImplFeature.cs" title="View the source code">View Source</a>
+
+
+
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_IX11OptionsToplevelImplFeature_SetNetWmWindowType">SetNetWmWindowType</a></td>
+<td><a href="M_Avalonia_Controls_Platform_IX11OptionsToplevelImplFeature_SetNetWmWindowType">SetNetWmWindowType(X11NetWmWindowType)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_IX11OptionsToplevelImplFeature_SetWmClass">SetWmClass</a></td>
+<td><a href="M_Avalonia_Controls_Platform_IX11OptionsToplevelImplFeature_SetWmClass">SetWmClass(String)</a></td>
 <td> </td>
 </tr>
 </table>

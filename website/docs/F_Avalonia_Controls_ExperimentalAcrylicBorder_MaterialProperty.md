@@ -31,6 +31,10 @@ static val MaterialProperty: StyledProperty<ExperimentalAcrylicMaterial>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ExperimentalAcrylicBorder.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(ExperimentalAcrylicMaterial)
 

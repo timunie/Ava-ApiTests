@@ -38,6 +38,10 @@ member CollapseSubTree :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TreeView.cs#L195" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_TreeViewItem">TreeViewItem</a></dt><dd>The item to collapse.</dd></dl>
 

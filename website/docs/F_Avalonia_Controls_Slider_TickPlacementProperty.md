@@ -33,6 +33,10 @@ static val TickPlacementProperty: StyledProperty<TickPlacement>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Slider.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="T_Avalonia_Controls_TickPlacement">TickPlacement</a>)
 

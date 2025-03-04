@@ -41,6 +41,10 @@ static member SetVerticalSnapPointsType :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ScrollViewer.cs#L519" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The control to set the value on.</dd><dt>  <a href="T_Avalonia_Controls_Primitives_SnapPointsType">SnapPointsType</a></dt><dd>The value of the property.</dd></dl>
 

@@ -39,6 +39,10 @@ static member SetDesignStyle :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Design.cs#L81" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd> </dd><dt>  IStyle</dt><dd> </dd></dl>
 

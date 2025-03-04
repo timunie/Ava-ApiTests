@@ -35,6 +35,10 @@ member Orientation : Orientation with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ProgressBar.cs#L288" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Orientation
 

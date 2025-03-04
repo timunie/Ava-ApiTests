@@ -33,6 +33,10 @@ new : unit -> SplitView
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SplitView/SplitView.cs#L139" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

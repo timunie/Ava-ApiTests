@@ -40,6 +40,10 @@ override OnCollapsing :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Expander.cs#L195" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  CancelRoutedEventArgs</dt><dd> </dd></dl>
 

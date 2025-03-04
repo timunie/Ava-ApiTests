@@ -38,6 +38,10 @@ override OnGotFocus :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Control.cs#L405" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  GotFocusEventArgs</dt><dd> </dd></dl>
 

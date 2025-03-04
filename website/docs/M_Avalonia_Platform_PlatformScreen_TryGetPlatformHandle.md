@@ -32,6 +32,10 @@ override TryGetPlatformHandle : unit -> IPlatformHandle
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IScreenImpl.cs#L27" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 IPlatformHandle
 

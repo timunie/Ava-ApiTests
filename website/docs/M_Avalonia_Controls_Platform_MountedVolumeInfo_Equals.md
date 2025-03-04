@@ -38,6 +38,10 @@ override Equals :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/Dialogs/MountedDriveInfo.cs#L17" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Platform_MountedVolumeInfo">MountedVolumeInfo</a></dt><dd> </dd></dl>
 

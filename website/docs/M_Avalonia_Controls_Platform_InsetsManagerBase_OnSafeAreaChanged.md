@@ -36,6 +36,10 @@ member OnSafeAreaChanged :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IInsetsManager.cs#L48" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Platform_SafeAreaChangedArgs">SafeAreaChangedArgs</a></dt><dd> </dd></dl>
 

@@ -31,6 +31,10 @@ member Complete : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/PullToRefresh/RefreshCompletionDeferral.cs#L20" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

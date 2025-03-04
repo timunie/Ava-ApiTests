@@ -33,6 +33,10 @@ static val BaselineAlignmentProperty: StyledProperty<BaselineAlignment>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Documents/Inline.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(BaselineAlignment)
 

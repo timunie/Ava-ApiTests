@@ -33,14 +33,18 @@ type IMenuInteractionHandler = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IMenuInteractionHandler.cs" title="View the source code">View Source</a>
+
+
+
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_IMenuInteractionHandler_Attach">Attach</a></td>
+<td><a href="M_Avalonia_Controls_Platform_IMenuInteractionHandler_Attach">Attach(MenuBase)</a></td>
 <td>Attaches the interaction handler to a menu.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_IMenuInteractionHandler_Detach">Detach</a></td>
+<td><a href="M_Avalonia_Controls_Platform_IMenuInteractionHandler_Detach">Detach(MenuBase)</a></td>
 <td>Detaches the interaction handler from the attached menu.</td>
 </tr>
 </table>

@@ -33,6 +33,10 @@ type ITopLevelNativeMenuExporter =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/ITopLevelNativeMenuExporter.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_Platform_INativeMenuExporter">INativeMenuExporter</a></td></tr>
 </table>
@@ -50,7 +54,7 @@ type ITopLevelNativeMenuExporter =
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_INativeMenuExporter_SetNativeMenu">SetNativeMenu</a></td>
+<td><a href="M_Avalonia_Controls_Platform_INativeMenuExporter_SetNativeMenu">SetNativeMenu(NativeMenu)</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Controls_Platform_INativeMenuExporter">INativeMenuExporter</a>)</td>
 </tr>
 </table>

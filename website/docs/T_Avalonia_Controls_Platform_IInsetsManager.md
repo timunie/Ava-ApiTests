@@ -31,6 +31,10 @@ type IInsetsManager = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IInsetsManager.cs" title="View the source code">View Source</a>
+
+
+
 ## Properties
 <table>
 <tr>

@@ -35,8 +35,15 @@ member SelectionEnd : int with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBox.cs#L529" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_blank" rel="noopener noreferrer">Int32</a>When the SelectionEnd is equal to <a href="P_Avalonia_Controls_TextBox_SelectionStart">SelectionStart</a>, there is no selected text and it marks the caret position
+<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_blank" rel="noopener noreferrer">Int32</a>
+
+## 
+When the SelectionEnd is equal to <a href="P_Avalonia_Controls_TextBox_SelectionStart">SelectionStart</a>, there is no selected text and it marks the caret position
 
 ## See Also
 

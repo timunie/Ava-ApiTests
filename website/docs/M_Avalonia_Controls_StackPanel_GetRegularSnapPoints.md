@@ -48,6 +48,10 @@ override GetRegularSnapPoints :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/StackPanel.cs#L424" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Orientation</dt><dd>The orientation for the desired snap point set.</dd><dt>  <a href="T_Avalonia_Controls_Primitives_SnapPointsAlignment">SnapPointsAlignment</a></dt><dd>The alignment to use when applying the snap points.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a></dt><dd>Out parameter. The offset of the first snap point.</dd></dl>
 

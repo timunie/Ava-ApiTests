@@ -33,6 +33,10 @@ member SelectedIndexDecrement : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Utils/SelectingItemsControlSelectionAdapter.cs#L219" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

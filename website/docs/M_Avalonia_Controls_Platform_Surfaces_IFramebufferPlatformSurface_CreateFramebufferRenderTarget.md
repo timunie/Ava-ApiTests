@@ -31,6 +31,10 @@ abstract CreateFramebufferRenderTarget : unit -> IFramebufferRenderTarget
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/Surfaces/IFramebufferPlatformSurface.cs" title="View the source code">View Source</a>
+
+
+
 #### Return Value
 <a href="T_Avalonia_Controls_Platform_Surfaces_IFramebufferRenderTarget">IFramebufferRenderTarget</a>
 

@@ -34,6 +34,10 @@ member Instance : Application with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AppBuilder.cs#L37" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Application">Application</a>
 

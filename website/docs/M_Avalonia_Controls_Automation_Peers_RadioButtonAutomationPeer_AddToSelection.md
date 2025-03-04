@@ -32,6 +32,10 @@ override AddToSelection : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/RadioButtonAutomationPeer.cs#L36" title="View the source code">View Source</a>
+
+
+
 #### Implements
 <a href="M_Avalonia_Automation_Provider_ISelectionItemProvider_AddToSelection">ISelectionItemProvider.AddToSelection()</a>  
 

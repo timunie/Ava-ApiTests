@@ -32,6 +32,10 @@ member InputRoot : IInputRoot with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Embedding/Offscreen/OffscreenTopLevelImpl.cs#L17" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 IInputRoot
 

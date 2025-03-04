@@ -45,6 +45,10 @@ abstract Resize :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IWindowImpl.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Size</dt><dd>The new client size.</dd><dt>  <a href="T_Avalonia_Controls_WindowResizeReason">WindowResizeReason</a>  (Optional)</dt><dd>The reason for the resize.</dd></dl>
 

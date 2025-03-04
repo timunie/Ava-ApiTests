@@ -44,6 +44,10 @@ override OnValidSpinDirectionChanged :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Spinner.cs#L139" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_ValidSpinDirections">ValidSpinDirections</a></dt><dd>The old value.</dd><dt>  <a href="T_Avalonia_Controls_ValidSpinDirections">ValidSpinDirections</a></dt><dd>The new value.</dd></dl>
 

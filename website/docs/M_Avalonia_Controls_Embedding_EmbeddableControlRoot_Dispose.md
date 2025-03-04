@@ -34,6 +34,10 @@ override Dispose : unit -> unit
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Embedding/EmbeddableControlRoot.cs#L56" title="View the source code">View Source</a>
+
+
+
 #### Implements
 <a href="https://learn.microsoft.com/dotnet/api/system.idisposable.dispose" target="_blank" rel="noopener noreferrer">IDisposable.Dispose()</a>  
 

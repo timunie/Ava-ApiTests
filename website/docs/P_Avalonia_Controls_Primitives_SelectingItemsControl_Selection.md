@@ -35,6 +35,10 @@ member Selection : ISelectionModel with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/SelectingItemsControl.cs#L319" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Selection_ISelectionModel">ISelectionModel</a>
 

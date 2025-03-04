@@ -33,6 +33,10 @@ static val MinimumPopulateDelayProperty: StyledProperty<TimeSpan>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(<a href="https://learn.microsoft.com/dotnet/api/system.timespan" target="_blank" rel="noopener noreferrer">TimeSpan</a>)  
 The identifier for the <a href="P_Avalonia_Controls_AutoCompleteBox_MinimumPopulateDelay">MinimumPopulateDelay</a> property.

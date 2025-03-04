@@ -33,6 +33,10 @@ new : unit -> TransitioningContentControl
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TransitioningContentControl.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

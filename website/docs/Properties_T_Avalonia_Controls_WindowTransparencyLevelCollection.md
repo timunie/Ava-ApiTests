@@ -14,7 +14,7 @@ import Tag from '@site/src/components/Tag';
 <td>Gets the number of elements contained in the <a href="https://learn.microsoft.com/dotnet/api/system.collections.objectmodel.readonlycollection-1" target="_blank" rel="noopener noreferrer">ReadOnlyCollection(T)</a> instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.collections.objectmodel.readonlycollection-1" target="_blank" rel="noopener noreferrer">ReadOnlyCollection</a>(<a href="T_Avalonia_Controls_WindowTransparencyLevel">WindowTransparencyLevel</a>))</td>
 </tr>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.collections.objectmodel.readonlycollection-1.item" target="_blank" rel="noopener noreferrer">Item</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.collections.objectmodel.readonlycollection-1.item" target="_blank" rel="noopener noreferrer">Item(Int32)</a></td>
 <td>Gets the element at the specified index.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.collections.objectmodel.readonlycollection-1" target="_blank" rel="noopener noreferrer">ReadOnlyCollection</a>(<a href="T_Avalonia_Controls_WindowTransparencyLevel">WindowTransparencyLevel</a>))</td>
 </tr>
 <tr>

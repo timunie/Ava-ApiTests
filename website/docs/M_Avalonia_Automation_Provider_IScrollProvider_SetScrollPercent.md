@@ -41,6 +41,10 @@ abstract SetScrollPercent :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Provider/IScrollProvider.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a></dt><dd>The horizontal position as a percentage of the content area's total range. <a href="F_Avalonia_Automation_ScrollPatternIdentifiers_NoScroll">NoScroll</a> should be passed in if the control cannot be scrolled in this direction.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a></dt><dd>The vertical position as a percentage of the content area's total range. <a href="F_Avalonia_Automation_ScrollPatternIdentifiers_NoScroll">NoScroll</a> should be passed in if the control cannot be scrolled in this direction.</dd></dl>
 

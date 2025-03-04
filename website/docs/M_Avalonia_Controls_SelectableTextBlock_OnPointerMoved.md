@@ -38,6 +38,10 @@ override OnPointerMoved :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SelectableTextBlock.cs#L383" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  PointerEventArgs</dt><dd> </dd></dl>
 

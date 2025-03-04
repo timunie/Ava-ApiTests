@@ -38,6 +38,10 @@ member Show :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Window.cs#L663" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Window">Window</a></dt><dd>Window that will be the owner of the shown window.</dd></dl>
 

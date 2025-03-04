@@ -50,19 +50,19 @@ type INativeControlHostControlTopLevelAttachment =
 ## Methods
 <table>
 <tr>
-<td><a href="https://learn.microsoft.com/dotnet/api/system.idisposable.dispose" target="_blank" rel="noopener noreferrer">Dispose</a></td>
+<td><a href="https://learn.microsoft.com/dotnet/api/system.idisposable.dispose" target="_blank" rel="noopener noreferrer">Dispose()</a></td>
 <td>Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_blank" rel="noopener noreferrer">IDisposable</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_INativeControlHostControlTopLevelAttachment_HideWithSize">HideWithSize</a></td>
+<td><a href="M_Avalonia_Controls_Platform_INativeControlHostControlTopLevelAttachment_HideWithSize">HideWithSize(Size)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_INativeControlHostControlTopLevelAttachment_IsCompatibleWith">IsCompatibleWith</a></td>
+<td><a href="M_Avalonia_Controls_Platform_INativeControlHostControlTopLevelAttachment_IsCompatibleWith">IsCompatibleWith(INativeControlHostImpl)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_INativeControlHostControlTopLevelAttachment_ShowInBounds">ShowInBounds</a></td>
+<td><a href="M_Avalonia_Controls_Platform_INativeControlHostControlTopLevelAttachment_ShowInBounds">ShowInBounds(Rect)</a></td>
 <td> </td>
 </tr>
 </table>

@@ -35,6 +35,10 @@ abstract MainWindow : Window with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ApplicationLifetimes/IClassicDesktopStyleApplicationLifetime.cs" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Window">Window</a>  
 The main window.

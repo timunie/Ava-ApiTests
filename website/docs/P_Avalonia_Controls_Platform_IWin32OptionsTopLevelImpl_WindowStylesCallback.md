@@ -35,6 +35,10 @@ abstract WindowStylesCallback : Win32Properties.CustomWindowStylesCallback with 
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IWin32OptionsTopLevelImpl.cs" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Win32Properties_CustomWindowStylesCallback">Win32Properties.CustomWindowStylesCallback</a>
 

@@ -38,6 +38,10 @@ static member GetTemplateChildren :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/TemplateExtensions.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl</a></dt><dd> </dd></dl>
 

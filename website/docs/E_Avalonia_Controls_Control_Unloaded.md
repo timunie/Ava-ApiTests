@@ -34,8 +34,15 @@ member Unloaded : IEvent<EventHandler<RoutedEventArgs>,
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Control.cs" title="View the source code">View Source</a>
+
+
+
 #### Value
-<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(RoutedEventArgs)This is API symmetrical with <a href="E_Avalonia_Controls_Control_Loaded">Loaded</a> and exists for compatibility with other XAML frameworks; however, it behaves the same as OnDetachedFromVisualTree.
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(RoutedEventArgs)
+
+## 
+This is API symmetrical with <a href="E_Avalonia_Controls_Control_Loaded">Loaded</a> and exists for compatibility with other XAML frameworks; however, it behaves the same as OnDetachedFromVisualTree.
 
 ## See Also
 

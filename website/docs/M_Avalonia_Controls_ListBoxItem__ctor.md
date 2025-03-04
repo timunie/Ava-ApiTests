@@ -33,6 +33,10 @@ new : unit -> ListBoxItem
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ListBoxItem.cs#L24" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

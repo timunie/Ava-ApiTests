@@ -31,6 +31,10 @@ type IPlatformIconLoader = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IPlatformIconLoader.cs" title="View the source code">View Source</a>
+
+
+
 ## Methods
 <table>
 <tr>

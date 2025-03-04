@@ -31,6 +31,10 @@ static val DesignStyleProperty: AttachedProperty<IStyle>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Design.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 AttachedProperty(IStyle)
 

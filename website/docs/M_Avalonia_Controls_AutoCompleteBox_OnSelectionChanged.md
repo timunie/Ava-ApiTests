@@ -40,6 +40,10 @@ override OnSelectionChanged :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L951" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_SelectionChangedEventArgs">SelectionChangedEventArgs</a></dt><dd>A <a href="T_Avalonia_Controls_SelectionChangedEventArgs">SelectionChangedEventArgs</a> that contains the event data.</dd></dl>
 

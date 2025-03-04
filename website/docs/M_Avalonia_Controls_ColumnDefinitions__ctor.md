@@ -33,6 +33,10 @@ new : unit -> ColumnDefinitions
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ColumnDefinitions.cs#L17" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

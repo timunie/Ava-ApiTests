@@ -35,8 +35,15 @@ member DependencyResolver : IAvaloniaDependencyResolver with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/Popup.cs#L202" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-IAvaloniaDependencyResolverThis property allows a client to customize the behaviour of the popup by injecting a specialized dependency resolver into the <a href="T_Avalonia_Controls_Primitives_PopupRoot">PopupRoot</a>'s constructor.
+IAvaloniaDependencyResolver
+
+## 
+This property allows a client to customize the behaviour of the popup by injecting a specialized dependency resolver into the <a href="T_Avalonia_Controls_Primitives_PopupRoot">PopupRoot</a>'s constructor.
 
 ## See Also
 

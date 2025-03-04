@@ -38,6 +38,10 @@ override OnPaneOpening :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SplitView/SplitView.cs#L420" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  CancelRoutedEventArgs</dt><dd> </dd></dl>
 

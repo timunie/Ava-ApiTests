@@ -41,6 +41,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TopLevel.cs#L132" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Platform_ITopLevelImpl">ITopLevelImpl</a></dt><dd>The platform-specific window implementation.</dd><dt>  IAvaloniaDependencyResolver</dt><dd>The dependency resolver to use. If null the default dependency resolver will be used.</dd></dl>
 

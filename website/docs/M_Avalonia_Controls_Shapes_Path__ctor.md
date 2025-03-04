@@ -33,6 +33,10 @@ new : unit -> Path
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Path.cs" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

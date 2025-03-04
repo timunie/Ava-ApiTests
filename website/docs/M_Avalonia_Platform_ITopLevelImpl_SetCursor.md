@@ -38,6 +38,10 @@ abstract SetCursor :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/ITopLevelImpl.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  ICursorImpl</dt><dd>The cursor. Use null for default cursor</dd></dl>
 

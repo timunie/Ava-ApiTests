@@ -34,8 +34,15 @@ abstract IsDataTemplatesInitialized : bool with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/IDataTemplateHost.cs" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>The <a href="P_Avalonia_Controls_Templates_IDataTemplateHost_DataTemplates">DataTemplates</a> property may be lazily initialized, if so this property indicates whether it has been initialized.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## 
+The <a href="P_Avalonia_Controls_Templates_IDataTemplateHost_DataTemplates">DataTemplates</a> property may be lazily initialized, if so this property indicates whether it has been initialized.
 
 ## See Also
 

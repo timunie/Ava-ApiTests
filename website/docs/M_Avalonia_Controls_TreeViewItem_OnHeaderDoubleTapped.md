@@ -40,6 +40,10 @@ override OnHeaderDoubleTapped :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TreeViewItem.cs#L334" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  TappedEventArgs</dt><dd> </dd></dl>
 

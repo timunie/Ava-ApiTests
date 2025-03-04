@@ -33,6 +33,10 @@ static val OrientationProperty: StyledProperty<Orientation>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TickBar.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(Orientation)
 

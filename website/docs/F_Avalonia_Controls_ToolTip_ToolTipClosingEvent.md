@@ -33,8 +33,15 @@ static val ToolTipClosingEvent: RoutedEvent
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ToolTip.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
-RoutedEventMarking the ToolTipClosing event as handled does not cancel closing the tooltip. Once the tooltip is displayed, closing the tooltip is done only in response to user interaction with the UI.
+RoutedEvent
+
+## 
+Marking the ToolTipClosing event as handled does not cancel closing the tooltip. Once the tooltip is displayed, closing the tooltip is done only in response to user interaction with the UI.
 
 ## See Also
 

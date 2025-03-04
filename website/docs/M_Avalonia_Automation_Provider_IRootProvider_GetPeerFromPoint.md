@@ -38,6 +38,10 @@ abstract GetPeerFromPoint :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Provider/IRootProvider.cs" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  Point</dt><dd>The point.</dd></dl>
 

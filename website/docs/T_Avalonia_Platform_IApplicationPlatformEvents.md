@@ -31,10 +31,14 @@ type IApplicationPlatformEvents = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IApplicationPlatformEvents.cs" title="View the source code">View Source</a>
+
+
+
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Platform_IApplicationPlatformEvents_RaiseUrlsOpened">RaiseUrlsOpened</a></td>
+<td><a href="M_Avalonia_Platform_IApplicationPlatformEvents_RaiseUrlsOpened">RaiseUrlsOpened(String[])</a></td>
 <td> </td>
 </tr>
 </table>

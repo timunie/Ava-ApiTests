@@ -10,15 +10,15 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Notifications_INotificationManager_Close">Close</a></td>
+<td><a href="M_Avalonia_Controls_Notifications_INotificationManager_Close">Close(INotification)</a></td>
 <td>Closes a notification.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Notifications_INotificationManager_CloseAll">CloseAll</a></td>
+<td><a href="M_Avalonia_Controls_Notifications_INotificationManager_CloseAll">CloseAll()</a></td>
 <td>Closes all notifications.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Notifications_INotificationManager_Show">Show</a></td>
+<td><a href="M_Avalonia_Controls_Notifications_INotificationManager_Show">Show(INotification)</a></td>
 <td>Show a notification.</td>
 </tr>
 </table>

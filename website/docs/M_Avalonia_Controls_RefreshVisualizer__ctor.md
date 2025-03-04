@@ -33,6 +33,10 @@ new : unit -> RefreshVisualizer
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/PullToRefresh/RefreshVisualizer.cs#L19" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

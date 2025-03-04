@@ -33,6 +33,10 @@ new : unit -> MarginMultiplierConverter
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Converters/MarginMultiplierConverter.cs#L11" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

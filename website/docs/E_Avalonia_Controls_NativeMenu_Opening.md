@@ -34,8 +34,15 @@ member Opening : IEvent<EventHandler<EventArgs>,
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/NativeMenu.cs" title="View the source code">View Source</a>
+
+
+
 #### Value
-<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="https://learn.microsoft.com/dotnet/api/system.eventargs" target="_blank" rel="noopener noreferrer">EventArgs</a>)Do not update the menu in this event; use <a href="E_Avalonia_Controls_NativeMenu_NeedsUpdate">NeedsUpdate</a>.
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="https://learn.microsoft.com/dotnet/api/system.eventargs" target="_blank" rel="noopener noreferrer">EventArgs</a>)
+
+## 
+Do not update the menu in this event; use <a href="E_Avalonia_Controls_NativeMenu_NeedsUpdate">NeedsUpdate</a>.
 
 ## See Also
 

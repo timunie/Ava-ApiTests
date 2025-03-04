@@ -41,6 +41,10 @@ static member SetLiveSetting :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/AutomationProperties.cs#L429" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  StyledElement</dt><dd> </dd><dt>  <a href="T_Avalonia_Automation_AutomationLiveSetting">AutomationLiveSetting</a></dt><dd> </dd></dl>
 

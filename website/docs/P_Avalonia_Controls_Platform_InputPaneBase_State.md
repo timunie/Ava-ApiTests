@@ -34,6 +34,10 @@ override State : InputPaneState with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IInputPane.cs#L33" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Platform_InputPaneState">InputPaneState</a>
 

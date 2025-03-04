@@ -34,6 +34,10 @@ static member Empty : ItemsSourceView with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ItemsSourceView.cs#L28" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_ItemsSourceView">ItemsSourceView</a>
 

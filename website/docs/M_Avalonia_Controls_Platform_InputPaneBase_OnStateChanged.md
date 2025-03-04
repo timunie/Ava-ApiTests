@@ -36,6 +36,10 @@ member OnStateChanged :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IInputPane.cs#L38" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_Platform_InputPaneStateEventArgs">InputPaneStateEventArgs</a></dt><dd> </dd></dl>
 

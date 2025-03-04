@@ -31,6 +31,13 @@ type IRootProvider = interface end
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Provider/IRootProvider.cs" title="View the source code">View Source</a>
+
+
+
+## 
 This interface is implemented by the <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a> class, and should only be implemented on true root elements, such as Windows. To embed an automation tree, use <a href="T_Avalonia_Automation_Provider_IEmbeddedRootProvider">IEmbeddedRootProvider</a> instead.
 
 ## Properties
@@ -44,11 +51,11 @@ This interface is implemented by the <a href="T_Avalonia_Automation_Peers_Automa
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Automation_Provider_IRootProvider_GetFocus">GetFocus</a></td>
+<td><a href="M_Avalonia_Automation_Provider_IRootProvider_GetFocus">GetFocus()</a></td>
 <td>Gets the currently focused element.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Automation_Provider_IRootProvider_GetPeerFromPoint">GetPeerFromPoint</a></td>
+<td><a href="M_Avalonia_Automation_Provider_IRootProvider_GetPeerFromPoint">GetPeerFromPoint(Point)</a></td>
 <td>Gets the element at the specified point, expressed in top-level coordinates.</td>
 </tr>
 </table>

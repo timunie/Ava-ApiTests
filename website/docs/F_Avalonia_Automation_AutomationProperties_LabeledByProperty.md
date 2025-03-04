@@ -33,6 +33,10 @@ static val LabeledByProperty: AttachedProperty<Control>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/AutomationProperties.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 AttachedProperty(<a href="T_Avalonia_Controls_Control">Control</a>)
 

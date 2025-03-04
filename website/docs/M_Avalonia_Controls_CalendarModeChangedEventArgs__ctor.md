@@ -41,6 +41,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Calendar/Calendar.cs#L150" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_CalendarMode">CalendarMode</a></dt><dd>The previous mode.</dd><dt>  <a href="T_Avalonia_Controls_CalendarMode">CalendarMode</a></dt><dd>The new mode.</dd></dl>
 

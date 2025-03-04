@@ -31,6 +31,10 @@ static val DataProperty: StyledProperty<Geometry>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/PathIcon.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(Geometry)
 

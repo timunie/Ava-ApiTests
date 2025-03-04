@@ -33,6 +33,10 @@ new : unit -> DefinitionBase
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/DefinitionBase.cs#L431" title="View the source code">View Source</a>
+
+
+
 ## See Also
 
 

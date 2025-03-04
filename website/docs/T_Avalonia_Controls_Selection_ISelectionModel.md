@@ -33,6 +33,10 @@ type ISelectionModel =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Selection/ISelectionModel.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Implements</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.inotifypropertychanged" target="_blank" rel="noopener noreferrer">INotifyPropertyChanged</a></td></tr>
 </table>
@@ -78,39 +82,39 @@ type ISelectionModel =
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_BeginBatchUpdate">BeginBatchUpdate</a></td>
+<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_BeginBatchUpdate">BeginBatchUpdate()</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_Clear">Clear</a></td>
+<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_Clear">Clear()</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_Deselect">Deselect</a></td>
+<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_Deselect">Deselect(Int32)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_DeselectRange">DeselectRange</a></td>
+<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_DeselectRange">DeselectRange(Int32, Int32)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_EndBatchUpdate">EndBatchUpdate</a></td>
+<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_EndBatchUpdate">EndBatchUpdate()</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_IsSelected">IsSelected</a></td>
+<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_IsSelected">IsSelected(Int32)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_Select">Select</a></td>
+<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_Select">Select(Int32)</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_SelectAll">SelectAll</a></td>
+<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_SelectAll">SelectAll()</a></td>
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_SelectRange">SelectRange</a></td>
+<td><a href="M_Avalonia_Controls_Selection_ISelectionModel_SelectRange">SelectRange(Int32, Int32)</a></td>
 <td> </td>
 </tr>
 </table>
@@ -142,7 +146,7 @@ type ISelectionModel =
 ## Extension Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Selection_SelectionModelExtensions_BatchUpdate">BatchUpdate</a></td>
+<td><a href="M_Avalonia_Controls_Selection_SelectionModelExtensions_BatchUpdate">BatchUpdate()</a></td>
 <td><br />(Defined by <a href="T_Avalonia_Controls_Selection_SelectionModelExtensions">SelectionModelExtensions</a>)</td>
 </tr>
 </table>

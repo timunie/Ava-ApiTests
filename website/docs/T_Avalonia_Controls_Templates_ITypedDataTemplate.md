@@ -35,6 +35,10 @@ type ITypedDataTemplate =
 </TabItem>
 </Tabs>
 
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/ITypedDataTemplate.cs" title="View the source code">View Source</a>
+
 <table>
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_Templates_IDataTemplate">IDataTemplate</a>, <a href="T_Avalonia_Controls_Templates_ITemplate_2">ITemplate</a>(<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>, <a href="T_Avalonia_Controls_Control">Control</a>)</td></tr>
 </table>
@@ -52,11 +56,11 @@ type ITypedDataTemplate =
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Templates_ITemplate_2_Build">Build</a></td>
+<td><a href="M_Avalonia_Controls_Templates_ITemplate_2_Build">Build(TParam)</a></td>
 <td>Creates the control.<br />(Inherited from <a href="T_Avalonia_Controls_Templates_ITemplate_2">ITemplate(TParam, TControl)</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Templates_IDataTemplate_Match">Match</a></td>
+<td><a href="M_Avalonia_Controls_Templates_IDataTemplate_Match">Match(Object)</a></td>
 <td>Checks to see if this data template matches the specified data.<br />(Inherited from <a href="T_Avalonia_Controls_Templates_IDataTemplate">IDataTemplate</a>)</td>
 </tr>
 </table>

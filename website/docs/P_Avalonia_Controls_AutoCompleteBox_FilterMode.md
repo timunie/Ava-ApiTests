@@ -35,9 +35,16 @@ member FilterMode : AutoCompleteFilterMode with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.Properties.cs#L394" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_AutoCompleteFilterMode">AutoCompleteFilterMode</a>  
-One of the <a href="T_Avalonia_Controls_AutoCompleteFilterMode">AutoCompleteFilterMode</a> values The default is <a href="T_Avalonia_Controls_AutoCompleteFilterMode">StartsWith</a>.Use the FilterMode property to specify how possible matches are filtered. For example, possible matches can be filtered in a predefined or custom way. The search mode is automatically set to Custom if you set the ItemFilter property.
+One of the <a href="T_Avalonia_Controls_AutoCompleteFilterMode">AutoCompleteFilterMode</a> values The default is <a href="T_Avalonia_Controls_AutoCompleteFilterMode">StartsWith</a>.
+
+## 
+Use the FilterMode property to specify how possible matches are filtered. For example, possible matches can be filtered in a predefined or custom way. The search mode is automatically set to Custom if you set the ItemFilter property.
 
 ## Exceptions
 <table>

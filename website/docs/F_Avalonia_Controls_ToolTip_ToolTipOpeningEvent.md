@@ -33,8 +33,15 @@ static val ToolTipOpeningEvent: RoutedEvent<CancelRoutedEventArgs>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ToolTip.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
-RoutedEvent(CancelRoutedEventArgs)To prevent a tooltip from appearing in the UI, your handler for ToolTipOpening can mark the event data handled. Otherwise, the tooltip is displayed, using the value of the ToolTip property as the tooltip content. Another possible scenario is that you could write a handler that resets the value of the ToolTip property for the element that is the event source, just before the tooltip is displayed. ToolTipOpening will not be raised if the value of ToolTip is null or otherwise unset. Do not deliberately set ToolTip to null while a tooltip is open or opening; this will not have the effect of closing the tooltip, and will instead create an undesirable visual artifact in the UI.
+RoutedEvent(CancelRoutedEventArgs)
+
+## 
+To prevent a tooltip from appearing in the UI, your handler for ToolTipOpening can mark the event data handled. Otherwise, the tooltip is displayed, using the value of the ToolTip property as the tooltip content. Another possible scenario is that you could write a handler that resets the value of the ToolTip property for the element that is the event source, just before the tooltip is displayed. ToolTipOpening will not be raised if the value of ToolTip is null or otherwise unset. Do not deliberately set ToolTip to null while a tooltip is open or opening; this will not have the effect of closing the tooltip, and will instead create an undesirable visual artifact in the UI.
 
 ## See Also
 

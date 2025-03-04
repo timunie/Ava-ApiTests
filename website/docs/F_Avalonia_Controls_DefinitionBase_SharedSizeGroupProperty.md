@@ -33,8 +33,15 @@ static val SharedSizeGroupProperty: AttachedProperty<string>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/DefinitionBase.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
-AttachedProperty(<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>)Value of the Shared Size Group Property must satisfy the following rules: <ul><li>String must not be empty.</li><li>String must consist of letters, digits and underscore ('_') only.</li><li>String must not start with a digit.</li></ul>
+AttachedProperty(<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>)
+
+## 
+Value of the Shared Size Group Property must satisfy the following rules: <ul><li>String must not be empty.</li><li>String must consist of letters, digits and underscore ('_') only.</li><li>String must not start with a digit.</li></ul>
 
 
 

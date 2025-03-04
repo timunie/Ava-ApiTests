@@ -32,6 +32,10 @@ member Owner : Button with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/ButtonAutomationPeer.cs#L14" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="T_Avalonia_Controls_Button">Button</a>
 

@@ -33,6 +33,10 @@ static val HotKeyProperty: StyledProperty<KeyGesture>
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/SplitButton/SplitButton.cs" title="View the source code">View Source</a>
+
+
+
 #### Field Value
 StyledProperty(KeyGesture)
 

@@ -10,7 +10,7 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Automation_Provider_IToggleProvider_Toggle">Toggle</a></td>
+<td><a href="M_Avalonia_Automation_Provider_IToggleProvider_Toggle">Toggle()</a></td>
 <td>Cycles through the toggle states of a control.</td>
 </tr>
 </table>

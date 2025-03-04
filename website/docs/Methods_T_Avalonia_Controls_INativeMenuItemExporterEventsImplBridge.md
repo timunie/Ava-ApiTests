@@ -10,7 +10,7 @@ import Tag from '@site/src/components/Tag';
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_INativeMenuItemExporterEventsImplBridge_RaiseClicked">RaiseClicked</a></td>
+<td><a href="M_Avalonia_Controls_INativeMenuItemExporterEventsImplBridge_RaiseClicked">RaiseClicked()</a></td>
 <td> </td>
 </tr>
 </table>

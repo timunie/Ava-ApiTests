@@ -35,6 +35,10 @@ member Padding : Thickness with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Decorator.cs#L47" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 Thickness
 

@@ -31,10 +31,14 @@ type IFramebufferPlatformSurface = interface end
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/Surfaces/IFramebufferPlatformSurface.cs" title="View the source code">View Source</a>
+
+
+
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_Surfaces_IFramebufferPlatformSurface_CreateFramebufferRenderTarget">CreateFramebufferRenderTarget</a></td>
+<td><a href="M_Avalonia_Controls_Platform_Surfaces_IFramebufferPlatformSurface_CreateFramebufferRenderTarget">CreateFramebufferRenderTarget()</a></td>
 <td> </td>
 </tr>
 </table>

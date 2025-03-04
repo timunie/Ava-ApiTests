@@ -36,11 +36,18 @@ override DataContext : Object with get, set
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Application.cs#L88" title="View the source code">View Source</a>
+
+
+
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>
 
 #### Implements
 IDataContextProvider.DataContext  
+
+
+## 
 The data context property specifies the default object that will be used for data binding.
 
 ## See Also

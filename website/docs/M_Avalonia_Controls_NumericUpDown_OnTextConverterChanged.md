@@ -44,6 +44,10 @@ override OnTextConverterChanged :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/NumericUpDown/NumericUpDown.cs#L562" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  IValueConverter</dt><dd>The old value.</dd><dt>  IValueConverter</dt><dd>The new value.</dd></dl>
 

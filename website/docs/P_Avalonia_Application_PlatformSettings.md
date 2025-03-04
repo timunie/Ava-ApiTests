@@ -34,8 +34,15 @@ member PlatformSettings : IPlatformSettings with get
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Application.cs#L207" title="View the source code">View Source</a>
+
+
+
 #### Property Value
-IPlatformSettingsPlatformSettings can be null only if application wasn't initialized yet. <a href="T_Avalonia_Controls_TopLevel">TopLevel</a>'s <a href="P_Avalonia_Controls_TopLevel_PlatformSettings">PlatformSettings</a> is an equivalent API which should always be preferred over a global one, as specific top levels might have different settings set-up.
+IPlatformSettings
+
+## 
+PlatformSettings can be null only if application wasn't initialized yet. <a href="T_Avalonia_Controls_TopLevel">TopLevel</a>'s <a href="P_Avalonia_Controls_TopLevel_PlatformSettings">PlatformSettings</a> is an equivalent API which should always be preferred over a global one, as specific top levels might have different settings set-up.
 
 ## See Also
 

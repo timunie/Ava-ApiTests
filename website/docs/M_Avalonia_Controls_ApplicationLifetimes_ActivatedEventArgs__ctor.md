@@ -38,6 +38,10 @@ new :
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ApplicationLifetimes/ActivatedEventArgs.cs#L15" title="View the source code">View Source</a>
+
+
+
 #### Parameters
 <dl><dt>  <a href="T_Avalonia_Controls_ApplicationLifetimes_ActivationKind">ActivationKind</a></dt><dd>The <a href="T_Avalonia_Controls_ApplicationLifetimes_ActivationKind">ActivationKind</a> that this event represents</dd></dl>
 

@@ -36,11 +36,18 @@ override ShutdownRequested : IEvent<EventHandler<ShutdownRequestedEventArgs>,
 
 
 
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ApplicationLifetimes/ClassicDesktopStyleApplicationLifetime.cs" title="View the source code">View Source</a>
+
+
+
 #### Value
 <a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Controls_ApplicationLifetimes_ShutdownRequestedEventArgs">ShutdownRequestedEventArgs</a>)
 
 #### Implements
 <a href="E_Avalonia_Controls_ApplicationLifetimes_IClassicDesktopStyleApplicationLifetime_ShutdownRequested">IClassicDesktopStyleApplicationLifetime.ShutdownRequested</a>  
+
+
+## 
 Application Shutdown can be requested for various reasons like OS shutdown. On Windows this will be called when an OS Session (logout or shutdown) terminates. Cancelling the eventargs will block OS shutdown. On OSX this has the same behavior as on Windows and in addition: This event is raised via the Quit menu or right-clicking on the application icon and selecting Quit. This event provides a first-chance to cancel application shutdown; if shutdown is not canceled at this point the application will try to close each non-owned open window, invoking the <a href="E_Avalonia_Controls_Window_Closing">Closing</a> event on each and allowing each window to cancel the shutdown of the application. Windows cannot however prevent OS shutdown.
 
 ## See Also
