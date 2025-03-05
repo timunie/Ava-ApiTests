@@ -30,7 +30,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
         private XDocument pageTemplate;
 
         private static readonly HashSet<string> spacePreservedElements = new HashSet<string>(
-            new[] { "code", "pre", "snippet" }, StringComparer.OrdinalIgnoreCase);
+            new[] { "pre", "snippet" }, StringComparer.OrdinalIgnoreCase);
 
         private static readonly Dictionary<string, XNode> shortAttributeRepresentation = new Dictionary<string, XNode>();
         private static readonly Dictionary<string, XNode> longAttributeRepresentation = new Dictionary<string, XNode>();
@@ -321,7 +321,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                 // type (API or MAML).
                 new BibliographyElement(), 
                 new CiteElement(), 
-                new CodeElement("code"),
+                new PassthroughElement("code"),
                 new PassthroughElement("include"), 
                 new PassthroughElement("includeAttribute"), 
                 new MarkupElement(),
@@ -449,7 +449,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                 },
                 new MarkdownElement("paramref", "name", "*", "*", "em"), new PreliminaryElement(),
                 // TODO: new PassthroughElement("remarks"),
-                new NamedSectionElement("remarksStandalone"), 
+                // new NamedSectionElement("remarksStandalone"), 
 				new ReturnsElement(), 
 				new SeeElement(),
                 // seeAlso should be a top-level element in the comments but may appear within other elements.
@@ -1041,8 +1041,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                     // Enum members may have additional authored content in the remarks node
                     if (remarks != null)
                     {
-                        transformation.RenderChildElements(summaryCell, new []{ new XElement("br"), new XElement("b", "Remarks: ")});
-                        transformation.RenderChildElements(summaryCell, remarks.Nodes());
+                        summaryCell.Add(new XElement("br"), new XElement("b", "Remarks: "), remarks.Nodes());
                     }
                 }
                 else
@@ -1097,8 +1096,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                     // Enum members may have additional authored content in the remarks node
                     if (remarks != null)
                     {
-                        transformation.RenderChildElements(summaryCell, new []{ new XElement("br"), new XElement("b", "Remarks: ")});
-                        transformation.RenderChildElements(summaryCell, remarks.Nodes());
+                        summaryCell.Add(new XElement("br"), new XElement("b", "Remarks: "), remarks.Nodes());
                     }
                 }
                 else
@@ -1151,8 +1149,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                             // Enum members may have additional authored content in the remarks node
                             if (remarks != null)
                             {
-                                transformation.RenderChildElements(summaryCell, new []{ new XElement("br"), new XElement("b", "Remarks: ")});
-                                transformation.RenderChildElements(summaryCell, remarks.Nodes());
+                                summaryCell.Add(new XElement("br"), new XElement("b", "Remarks: "), remarks.Nodes());
                             }
                         }
 
@@ -1332,8 +1329,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                         // Enum members may have additional authored content in the remarks node
                         if (remarks != null)
                         {
-                            thisTransform.RenderChildElements(summaryCell, new []{ new XElement("br"), new XElement("b", "Remarks: ")});
-                            thisTransform.RenderChildElements(summaryCell, remarks.Nodes());
+                            summaryCell.Add(new XElement("br"), new XElement("b", "Remarks: "), remarks.Nodes());
                         }
                     }
 
@@ -1575,8 +1571,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                         // Enum members may have additional authored content in the remarks node
                         if (remarks != null)
                         {
-                            transformation.RenderChildElements(summaryCell, new []{ new XElement("br"), new XElement("b", "Remarks: ")});
-                            transformation.RenderChildElements(summaryCell, remarks.Nodes());
+                            summaryCell.Add(new XElement("br"), new XElement("b", "Remarks: "), remarks.Nodes());
                         }
                     }
 
@@ -1707,7 +1702,6 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                 var remarks = transformation.CommentsNode.Element("remarks");
                 if (remarks != null)
                 {
-                    remarks.Name = "remarksStandalone";
                     transformation.RenderNode(remarks);
                 }
             }
@@ -1720,7 +1714,6 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                     var remarks = transformation.CommentsNode.Element("remarks");
                     if (remarks != null)
                     {
-                        remarks.Name = "remarksStandalone";
                         transformation.RenderNode(remarks);
                     }
                 }
