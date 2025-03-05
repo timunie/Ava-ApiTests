@@ -2,9 +2,10 @@
 <Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <!-- Import the common properties to support NuGet restore -->
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <Import Project="..\..\..\Avalonia\build\TargetFrameworks.props" />
   <PropertyGroup>
     <!-- A target framework version is required by Visual Studio.  It can be any version with a targeting pack installed. -->
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <!-- The configuration and platform will be used to determine which assemblies to include from solution and
 				 project documentation sources -->
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -23,14 +24,14 @@
     <Language>en-US</Language>
     <TransformComponentArguments>
       <Argument Key="BibliographyDataFile" Value="" />
-      <Argument Key="MaxVersionParts" Value="" />
+      <Argument Key="MaxVersionParts" Value="3" />
       <Argument Key="IncludeEnumValues" Value="True" />
       <Argument Key="EnumMemberSortOrder" Value="Value" />
       <Argument Key="FlagsEnumValueFormat" Value="IntegerValue" />
       <Argument Key="FlagsEnumSeparatorSize" Value="0" />
       <Argument Key="IncludeIntegerEnumSeparators" Value="true" />
-      <Argument Key="BaseSourceCodeUrl" Value="https://github.com/AvaloniaUI/Avalonia/tree/master/src" />
-      <Argument Key="ShowParametersOnAllMethods" Value="true" />
+      <Argument Key="BaseSourceCodeUrl" Value="https://github.com/AvaloniaUI/Avalonia/tree/master/src/" />
+      <Argument Key="ShowParametersOnAllMethods" Value="True" />
     </TransformComponentArguments>
     <HelpFileFormat>Markdown</HelpFileFormat>
     <SyntaxFilters>C#, Visual Basic, F#</SyntaxFilters>
@@ -42,39 +43,41 @@
     <BuildAssemblerVerbosity>OnlyWarningsAndErrors</BuildAssemblerVerbosity>
     <SaveComponentCacheCapacity>100</SaveComponentCacheCapacity>
     <DocumentationSources>
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\packages\Avalonia\Avalonia.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\tools\Avalonia.Analyzers\Avalonia.Analyzers.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Android\Avalonia.Android\Avalonia.Android.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Base\Avalonia.Base.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Browser\Avalonia.Browser\Avalonia.Browser.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Browser\Avalonia.Browser.Blazor\Avalonia.Browser.Blazor.csproj" /> -->
-      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Controls\Avalonia.Controls.csproj" />
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Controls.ColorPicker\Avalonia.Controls.ColorPicker.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Controls.DataGrid\Avalonia.Controls.DataGrid.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Desktop\Avalonia.Desktop.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Diagnostics\Avalonia.Diagnostics.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Dialogs\Avalonia.Dialogs.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Windows\Avalonia.Direct2D1\Avalonia.Direct2D1.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Fonts.Inter\Avalonia.Fonts.Inter.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.FreeDesktop\Avalonia.FreeDesktop.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\iOS\Avalonia.iOS\Avalonia.iOS.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Linux\Avalonia.LinuxFramebuffer\Avalonia.LinuxFramebuffer.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Markup\Avalonia.Markup\Avalonia.Markup.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Markup\Avalonia.Markup.Xaml\Avalonia.Markup.Xaml.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Metal\Avalonia.Metal.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.MicroCom\Avalonia.MicroCom.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Native\Avalonia.Native.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.OpenGL\Avalonia.OpenGL.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.ReactiveUI\Avalonia.ReactiveUI.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Skia\Avalonia.Skia\Avalonia.Skia.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Themes.Fluent\Avalonia.Themes.Fluent.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Themes.Simple\Avalonia.Themes.Simple.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Vulkan\Avalonia.Vulkan.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Windows\Avalonia.Win32\Avalonia.Win32.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Windows\Avalonia.Win32.Interoperability\Avalonia.Win32.Interoperability.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.X11\Avalonia.X11.csproj" /> -->
-      <!-- <DocumentationSource sourceFile="..\DocumentationSources.proj" /> -->
-    </DocumentationSources>
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Controls\Avalonia.Controls.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\packages\Avalonia\Avalonia.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Android\Avalonia.Android\Avalonia.Android.csproj" TargetFramework="$(AvsCurrentAndroidTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Base\Avalonia.Base.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Controls.ColorPicker\Avalonia.Controls.ColorPicker.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Controls.DataGrid\Avalonia.Controls.DataGrid.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Controls\Avalonia.Controls.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.DesignerSupport\Avalonia.DesignerSupport.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Desktop\Avalonia.Desktop.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Diagnostics\Avalonia.Diagnostics.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Dialogs\Avalonia.Dialogs.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Fonts.Inter\Avalonia.Fonts.Inter.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.FreeDesktop\Avalonia.FreeDesktop.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Metal\Avalonia.Metal.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Native\Avalonia.Native.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.OpenGL\Avalonia.OpenGL.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.ReactiveUI\Avalonia.ReactiveUI.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Themes.Fluent\Avalonia.Themes.Fluent.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Themes.Fluent\Avalonia.Themes.Fluent.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Themes.Simple\Avalonia.Themes.Simple.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Vulkan\Avalonia.Vulkan.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.X11\Avalonia.X11.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Browser\Avalonia.Browser.Blazor\Avalonia.Browser.Blazor.csproj" TargetFramework="$(AvsCurrentBrowserTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\iOS\Avalonia.iOS\Avalonia.iOS.csproj" TargetFramework="$(AvsCurrentIOSTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Linux\Avalonia.LinuxFramebuffer\Avalonia.LinuxFramebuffer.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Skia\Avalonia.Skia\Avalonia.Skia.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Windows\Avalonia.Direct2D1\Avalonia.Direct2D1.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Windows\Avalonia.Win32.Automation\Avalonia.Win32.Automation.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Windows\Avalonia.Win32\Avalonia.Win32.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      
+	  <!-- TODO: These two don't work as intended.  -->
+      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Windows\Avalonia.Win32.Interoperability\Avalonia.Win32.Interoperability.csproj" TargetFramework="$(AvsCurrentTargetFramework)" /> -->
+      <!-- <DocumentationSource sourceFile="..\..\..\Avalonia\src\Tizen\Avalonia.Tizen\Avalonia.Tizen.csproj" TargetFramework="$(AvsCurrentTizenTargetFramework)" /> -->
+																				
+    </DocumentationSources>											  
     <PlugInConfigurations>
       <PlugInConfig id="Output Deployment" enabled="False">
         <configuration deleteAfterDeploy="false" verboseLogging="true">

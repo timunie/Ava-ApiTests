@@ -2,6 +2,7 @@
 
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Linq;
 using System.Xml.Linq;
@@ -31,6 +32,9 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
         private static readonly HashSet<string> spacePreservedElements = new HashSet<string>(
             new[] { "code", "pre", "snippet" }, StringComparer.OrdinalIgnoreCase);
 
+        private static readonly Dictionary<string, XNode> shortAttributeRepresentation = new Dictionary<string, XNode>();
+        private static readonly Dictionary<string, XNode> longAttributeRepresentation = new Dictionary<string, XNode>();
+        
         #endregion
 
         #region Constructor
@@ -44,6 +48,39 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
         public DocusaurusMarkdownTransformation(Func<string, string> resolvePath) : base(HelpFileFormats.Markdown, resolvePath)
         {
             TopicTemplatePath = ResolvePath(@"Templates\TopicTemplate.xml");
+            
+            // obsolete attribute
+            shortAttributeRepresentation.Add("T:System.ObsoleteAttribute", new XElement("span",
+                new XAttribute("class", "tag is-danger"),
+                new XElement("include",
+                    new XAttribute("item", "boilerplate_obsoleteShort"))));
+            
+            longAttributeRepresentation.Add("T:System.ObsoleteAttribute", new XElement("span",
+                "\n:::warning[Obsolete]\n\n",
+                new XElement("include", new XAttribute("item", "boilerplate_obsoleteLong")),
+                "\n\n:::\n\n"));
+            
+            // unstable attribute
+            shortAttributeRepresentation.Add("T:Avalonia.Metadata.UnstableAttribute", new XElement("span",
+                new XAttribute("class", "tag is-info"),
+                new XElement("include",
+                    new XAttribute("item", "boilerplate_unstableShort"))));
+            
+            longAttributeRepresentation.Add("T:Avalonia.Metadata.UnstableAttribute", new XElement("span",
+                "\n:::note[Unstable]\n\n",
+                new XElement("include", new XAttribute("item", "boilerplate_unstableLong")),
+                "\n\n:::\n\n"));
+            
+            // not client implementable attribute
+            shortAttributeRepresentation.Add("T:Avalonia.Metadata.NotClientImplementableAttribute", new XElement("span",
+                new XAttribute("class", "tag is-warning"),
+                new XElement("include",
+                    new XAttribute("item", "boilerplate_notClientImplementableShort"))));
+            
+            longAttributeRepresentation.Add("T:Avalonia.Metadata.NotClientImplementableAttribute", new XElement("span",
+                "\n:::warning[Not client implementable]\n\n",
+                new XElement("include", new XAttribute("item", "boilerplate_notClientImplementableLong")),
+                "\n:::\n\n"));
         }
 
         #endregion
@@ -654,17 +691,28 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                 // currentElement.Add(notes, "\n");
                 // transformation.CurrentElement = notes;
 
+                Collection<XNode> attributesFound = new();
+
+                foreach (var key in longAttributeRepresentation.Keys)  
+                {
+                    if (transformation.ReferenceNode.AttributeOfType(key) is not null)
+                    {
+                        attributesFound.Add(longAttributeRepresentation[key]);
+                    }
+                }
+                
                 if (preliminary != null)
                     transformation.RenderNode(preliminary);
-
-                if (obsolete != null)
+                
+                if (attributesFound.Count > 0)
                 {
                     if (preliminary != null)
-                        currentElement.Add(new XElement("br"));
+                        currentElement.Add("\n\n");
 
-                    currentElement.Add(":::warning[Obsolete]\n\n",
-                        new XElement("include", new XAttribute("item", "boilerplate_obsoleteLong")),
-                        "\n\n", ":::", "\n\n");
+                    foreach (var attr in attributesFound)
+                    {
+                        currentElement.Add(attr);
+                    }
                 }
 
                 transformation.CurrentElement = currentElement;
@@ -1108,25 +1156,31 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                             }
                         }
 
-                        var obsoleteAttr = e.AttributeOfType("T:System.ObsoleteAttribute");
+                        var attrFound = new Collection<XNode>();
+
+                        foreach (var key2 in shortAttributeRepresentation.Keys)
+                        {
+                            if (e.AttributeOfType(key2) is not null)
+                            {
+                                attrFound.Add(shortAttributeRepresentation[key2]);
+                            }
+                        }
+                        
                         var prelimComment = e.Element("preliminary");
 
-                        if (obsoleteAttr != null || prelimComment != null)
+                        if (attrFound.Count > 0 || prelimComment != null)
                         {
                             if (!summaryCell.IsEmpty)
                                 summaryCell.Add(new XElement("br"));
 
-                            if (obsoleteAttr != null)
+
+                            foreach (var attr in attrFound)
                             {
-                                summaryCell.Add(new XElement("Tag",
-                                    new XElement("include", new XAttribute("item", "boilerplate_obsoleteShort"))));
+                                summaryCell.Add(attr);
                             }
 
                             if (prelimComment != null)
                             {
-                                if (obsoleteAttr != null)
-                                    summaryCell.Add("&#160;&#160;");
-
                                 summaryCell.Add(new XElement("em",
                                     new XElement("include", new XAttribute("item", "preliminaryShort"))));
                             }
@@ -1283,13 +1337,19 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                         }
                     }
 
-                    if (e.AttributeOfType("T:System.ObsoleteAttribute") != null)
-                    {
-                        if (!summaryCell.IsEmpty)
-                            summaryCell.Add(new XElement("br"));
+                    var attrFound = new Collection<XNode>();
 
-                        summaryCell.Add(new XElement("Tag",
-                            new XElement("include", new XAttribute("item", "boilerplate_obsoleteShort"))));
+                    foreach (var key2 in shortAttributeRepresentation.Keys)
+                    {
+                        if (e.AttributeOfType(key2) is not null)
+                        {
+                            attrFound.Add(shortAttributeRepresentation[key2]);
+                        }
+                    }
+                    
+                    foreach (var attr in attrFound)
+                    {
+                        summaryCell.Add(attr);
                     }
 
                     if (summaryCell.IsEmpty)
@@ -1564,25 +1624,30 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                         }
                     }
 
-                    var obsoleteAttr = e.AttributeOfType("T:System.ObsoleteAttribute");
+                    var attrFound = new Collection<XNode>();
+
+                    foreach (var key2 in shortAttributeRepresentation.Keys)
+                    {
+                        if (e.AttributeOfType(key2) is not null)
+                        {
+                            attrFound.Add(shortAttributeRepresentation[key2]);
+                        }
+                    }
+                    
                     var prelimComment = e.Element("preliminary");
 
-                    if (obsoleteAttr != null || prelimComment != null)
+                    if (attrFound.Count > 0 || prelimComment != null)
                     {
                         if (!summaryCell.IsEmpty)
                             summaryCell.Add(new XElement("br"));
 
-                        if (obsoleteAttr != null)
+                        foreach (var attr in attrFound)
                         {
-                            summaryCell.Add(new XElement("Tag",
-                                new XElement("include", new XAttribute("item", "boilerplate_obsoleteShort"))));
+                            summaryCell.Add(attr);
                         }
 
                         if (prelimComment != null)
                         {
-                            if (obsoleteAttr != null)
-                                summaryCell.Add("&#160;&#160;");
-
                             summaryCell.Add(new XElement("em",
                                 new XElement("include", new XAttribute("item", "preliminaryShort"))));
                         }

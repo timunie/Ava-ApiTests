@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35806.99 d17.13
+VisualStudioVersion = 17.13.35806.99
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{7CF6DF6D-3B04-46F8-A40B-537D21BCA0B4}") = "ApiDocumentation", "ApiDocumentation\ApiDocumentation.shfbproj", "{0D38B9F6-2433-453B-963F-A73964BF9F5D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{68C0C866-C447-4FB3-91F9-1E806537E536} = {68C0C866-C447-4FB3-91F9-1E806537E536}
+		{899F802A-0585-45D3-B580-F680B527A271} = {899F802A-0585-45D3-B580-F680B527A271}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocusaurusExportPlugin", "DocusaurusExportPlugin\DocusaurusExportPlugin.csproj", "{68C0C866-C447-4FB3-91F9-1E806537E536}"
 EndProject
