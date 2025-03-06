@@ -29,9 +29,7 @@ namespace DocusaurusExportPlugin.Sidebar
         public void AddItem(string id, string path, string title, int level)
         {
             var type = id.Split(':').FirstOrDefault();
-
-            Console.WriteLine($"Adding item {id} ({level}, {type}) - {title}");
-        
+            
             SidebarSection section;
         
             var parent = GetParentCategory(level);

@@ -222,6 +222,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
         /// <inheritdoc />
         protected override void CreateElementHandlers()
         {
+            
             AddElements(new Element[]
             {
                 // MAML document root element types
@@ -314,6 +315,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                 new PassthroughElement("track"), 
                 new PassthroughElement("u"), 
                 new PassthroughElement("ul"),
+                // new ConvertibleElement("item", "li"),
                 new PassthroughElement("video"), 
                 new PassthroughElement("wbr"),
 
@@ -389,7 +391,8 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                 new LegacyLinkElement(),
                 new ConvertibleElement("legacyUnderline", "u"), 
                 new MarkdownElement("lineBreak", null, "  \n", "br"),
-                new LinkElement(), new ConvertibleElement("listItem", "li", true),
+                new LinkElement(), 
+                new ConvertibleElement("listItem", "li", true),
                 new MarkdownElement("literal", "*", "*", "em"), 
                 new MarkdownElement("localUri", "*", "*", "em"),
                 new NonRenderedParentElement("localizedText"), 
@@ -467,6 +470,8 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                 new ValueElement(), 
                 new VersionsElement()
             });
+            
+            ReplaceElement(new ConvertibleElement("list", "ul"));
         }
 
         /// <inheritdoc />
