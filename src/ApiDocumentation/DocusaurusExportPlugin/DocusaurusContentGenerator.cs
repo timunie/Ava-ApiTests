@@ -166,8 +166,9 @@ namespace DocusaurusExportPlugin
                                         return m.Value;
                                     }));
 
-                                    // acrons have to be escaped
+                                    // acrons that have to be escaped:
                                     content = content.Replace("{", @"\{");
+                                    content = content.Replace("*<", @"\*<");
                                     
                                     File.WriteAllText(topicFile, content);
 

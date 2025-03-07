@@ -513,13 +513,6 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
 
             CurrentElement = document.Root;
             
-            // add needed mdx modules
-            CurrentElement.Add(
-                "import Tabs from '@theme/Tabs'; \n",
-                "import TabItem from '@theme/TabItem'; \n",
-                "import Tag from '@site/src/components/Tag'; \n",
-                "\n");
-
             if (!IsMamlTopic)
             {
                 // This is used by the Save Component to get the filename.  It won't end up in the final result.

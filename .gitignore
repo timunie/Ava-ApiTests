@@ -402,3 +402,5 @@ FodyWeavers.xsd
 src/ApiDocumentation/ApiDocumentation/Help/
 
 src/ApiDocumentation/ApiDocumentation/tools/
+
+.idea/
