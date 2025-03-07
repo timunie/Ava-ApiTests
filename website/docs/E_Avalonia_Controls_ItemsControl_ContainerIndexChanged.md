@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # ContainerIndexChanged Event
 
 
@@ -11,7 +7,7 @@ Occurs for each realized container when the index for the item it represents has
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -34,15 +30,12 @@ member ContainerIndexChanged : IEvent<EventHandler<ContainerIndexChangedEventArg
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ItemsControl.cs" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ItemsControl.cs" title="View the source code">View Source</a>
 
 
 
 #### Value
-<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Controls_ContainerIndexChangedEventArgs">ContainerIndexChangedEventArgs</a>)
-
-## 
-This event is raised for each realized container where the index for the item it represents has changed. For example, when another item is added or removed in the data source, the index for items that come after in the ordering will be impacted.
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Controls_ContainerIndexChangedEventArgs">ContainerIndexChangedEventArgs</a>)This event is raised for each realized container where the index for the item it represents has changed. For example, when another item is added or removed in the data source, the index for items that come after in the ordering will be impacted.
 
 ## See Also
 

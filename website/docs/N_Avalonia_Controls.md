@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # Avalonia.Controls Namespace
 
 
@@ -68,6 +64,22 @@ import Tag from '@site/src/components/Tag';
 <td>A check box control.</td>
 </tr>
 <tr>
+<td><a href="T_Avalonia_Controls_Classes">Classes</a></td>
+<td>Holds a collection of style classes for an <a href="T_Avalonia_StyledElement">StyledElement</a>.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_ColorChangedEventArgs">ColorChangedEventArgs</a></td>
+<td>Holds the details of a ColorChanged event.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_ColorPicker">ColorPicker</a></td>
+<td>Presents a color for user editing using a spectrum, palette and component sliders within a drop down. Editing is available when the drop down flyout is opened; otherwise, only the preview content area is shown.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_ColorView">ColorView</a></td>
+<td>Presents a color for user editing using a spectrum, palette and component sliders.</td>
+</tr>
+<tr>
 <td><a href="T_Avalonia_Controls_ColumnDefinition">ColumnDefinition</a></td>
 <td>Holds a column definitions for a <a href="T_Avalonia_Controls_Grid">Grid</a>.</td>
 </tr>
@@ -118,6 +130,110 @@ import Tag from '@site/src/components/Tag';
 <tr>
 <td><a href="T_Avalonia_Controls_Controls">Controls</a></td>
 <td>A collection of <a href="T_Avalonia_Controls_Control">Control</a>s.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGrid">DataGrid</a></td>
+<td>Displays data in a customizable grid.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGrid_DisplayIndexComparer">DataGrid.DisplayIndexComparer</a></td>
+<td>Comparator class so we can sort list by the display index</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridAutoGeneratingColumnEventArgs">DataGridAutoGeneratingColumnEventArgs</a></td>
+<td>Provides data for the <a href="E_Avalonia_Controls_DataGrid_AutoGeneratingColumn">AutoGeneratingColumn</a> event.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridBeginningEditEventArgs">DataGridBeginningEditEventArgs</a></td>
+<td>Provides data for the <a href="E_Avalonia_Controls_DataGrid_BeginningEdit">BeginningEdit</a> event.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridBoundColumn">DataGridBoundColumn</a></td>
+<td>Represents a <a href="T_Avalonia_Controls_DataGrid">DataGrid</a> column that can bind to a property in the grid's data source.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridCell">DataGridCell</a></td>
+<td>Represents an individual <a href="T_Avalonia_Controls_DataGrid">DataGrid</a> cell.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridCellEditEndedEventArgs">DataGridCellEditEndedEventArgs</a></td>
+<td>Provides information just after a cell has exited editing mode.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridCellEditEndingEventArgs">DataGridCellEditEndingEventArgs</a></td>
+<td>Provides information just before a cell exits editing mode.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridCellPointerPressedEventArgs">DataGridCellPointerPressedEventArgs</a></td>
+<td>Provides information after the cell has been pressed.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridCheckBoxColumn">DataGridCheckBoxColumn</a></td>
+<td>Represents a <a href="https://learn.microsoft.com/dotnet/api/system.windows.controls.datagrid" target="_blank" rel="noopener noreferrer">DataGrid</a> column that hosts <a href="https://learn.microsoft.com/dotnet/api/system.windows.controls.checkbox" target="_blank" rel="noopener noreferrer">CheckBox</a> controls in its cells.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridColumn">DataGridColumn</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridColumnEventArgs">DataGridColumnEventArgs</a></td>
+<td>Provides data for <a href="T_Avalonia_Controls_DataGrid">DataGrid</a> column-related events.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridColumnHeader">DataGridColumnHeader</a></td>
+<td>Represents an individual <a href="T_Avalonia_Controls_DataGrid">DataGrid</a> column header.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridColumnReorderingEventArgs">DataGridColumnReorderingEventArgs</a></td>
+<td>Provides data for the <a href="E_Avalonia_Controls_DataGrid_ColumnReordering">ColumnReordering</a> event.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridLengthConverter">DataGridLengthConverter</a></td>
+<td>DataGridLengthConverter - Converter class for converting instances of other types to and from DataGridLength instances.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridPreparingCellForEditEventArgs">DataGridPreparingCellForEditEventArgs</a></td>
+<td>Provides data for the <a href="E_Avalonia_Controls_DataGrid_PreparingCellForEdit">PreparingCellForEdit</a> event.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridRow">DataGridRow</a></td>
+<td>Represents a <a href="T_Avalonia_Controls_DataGrid">DataGrid</a> row.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridRowClipboardEventArgs">DataGridRowClipboardEventArgs</a></td>
+<td>This class encapsulates a selected row's information necessary for the CopyingRowClipboardContent event.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridRowDetailsEventArgs">DataGridRowDetailsEventArgs</a></td>
+<td>Provides data for the <a href="E_Avalonia_Controls_DataGrid_LoadingRowDetails">LoadingRowDetails</a>, <a href="E_Avalonia_Controls_DataGrid_UnloadingRowDetails">UnloadingRowDetails</a>, and <a href="E_Avalonia_Controls_DataGrid_RowDetailsVisibilityChanged">RowDetailsVisibilityChanged</a> events.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridRowEditEndedEventArgs">DataGridRowEditEndedEventArgs</a></td>
+<td>Provides information just after a row has exited edit mode.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridRowEditEndingEventArgs">DataGridRowEditEndingEventArgs</a></td>
+<td>Provides information just before a row exits editing mode.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridRowEventArgs">DataGridRowEventArgs</a></td>
+<td>Provides data for <a href="T_Avalonia_Controls_DataGrid">DataGrid</a> row-related events.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridRowGroupHeader">DataGridRowGroupHeader</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridRowGroupHeaderEventArgs">DataGridRowGroupHeaderEventArgs</a></td>
+<td>EventArgs used for the DataGrid's LoadingRowGroup and UnloadingRowGroup events</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridTemplateColumn">DataGridTemplateColumn</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridTextColumn">DataGridTextColumn</a></td>
+<td>Represents a <a href="T_Avalonia_Controls_DataGrid">DataGrid</a> column that hosts textual content in its cells.</td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_DataValidationErrors">DataValidationErrors</a></td>
@@ -172,6 +288,18 @@ import Tag from '@site/src/components/Tag';
 <td> </td>
 </tr>
 <tr>
+<td><a href="T_Avalonia_Controls_FlatColorPalette">FlatColorPalette</a></td>
+<td>Implements a reduced flat design or flat UI color palette.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_FlatHalfColorPalette">FlatHalfColorPalette</a></td>
+<td>Implements half of the <a href="T_Avalonia_Controls_FlatColorPalette">FlatColorPalette</a> for improved usability.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_FluentColorPalette">FluentColorPalette</a></td>
+<td>Implements the standard Windows 10 color palette.</td>
+</tr>
+<tr>
 <td><a href="T_Avalonia_Controls_Flyout">Flyout</a></td>
 <td> </td>
 </tr>
@@ -201,7 +329,7 @@ import Tag from '@site/src/components/Tag';
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_Image">Image</a></td>
-<td>Displays a Bitmap image.</td>
+<td>Displays a <a href="T_Avalonia_Media_Imaging_Bitmap">Bitmap</a> image.</td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_ItemCollection">ItemCollection</a></td>
@@ -244,6 +372,14 @@ import Tag from '@site/src/components/Tag';
 <td> </td>
 </tr>
 <tr>
+<td><a href="T_Avalonia_Controls_MaterialColorPalette">MaterialColorPalette</a></td>
+<td>Implements a reduced version of the 2014 Material Design color palette.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_MaterialHalfColorPalette">MaterialHalfColorPalette</a></td>
+<td>Implements half of the <a href="T_Avalonia_Controls_MaterialColorPalette">MaterialColorPalette</a> for improved usability.</td>
+</tr>
+<tr>
 <td><a href="T_Avalonia_Controls_Menu">Menu</a></td>
 <td>A top-level menu control.</td>
 </tr>
@@ -262,6 +398,18 @@ import Tag from '@site/src/components/Tag';
 <tr>
 <td><a href="T_Avalonia_Controls_MenuItem">MenuItem</a></td>
 <td>A menu item control.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_NameScope">NameScope</a></td>
+<td>Implements a name scope.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_NameScopeExtensions">NameScopeExtensions</a></td>
+<td>Extension methods for <a href="T_Avalonia_Controls_INameScope">INameScope</a>.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_NameScopeLocator">NameScopeLocator</a></td>
+<td> </td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_NativeControlHost">NativeControlHost</a></td>
@@ -305,7 +453,7 @@ import Tag from '@site/src/components/Tag';
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_PixelPointEventArgs">PixelPointEventArgs</a></td>
-<td>Provides PixelPoint data for events.</td>
+<td>Provides <a href="T_Avalonia_PixelPoint">PixelPoint</a> data for events.</td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_PopulatedEventArgs">PopulatedEventArgs</a></td>
@@ -322,6 +470,10 @@ import Tag from '@site/src/components/Tag';
 <tr>
 <td><a href="T_Avalonia_Controls_ProgressBar_ProgressBarTemplateSettings">ProgressBar.ProgressBarTemplateSettings</a></td>
 <td>Provides calculated values for use with the <a href="T_Avalonia_Controls_ProgressBar">ProgressBar</a>'s control theme or template.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_PseudolassesExtensions">PseudolassesExtensions</a></td>
+<td> </td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_RadioButton">RadioButton</a></td>
@@ -360,6 +512,22 @@ import Tag from '@site/src/components/Tag';
 <td>Indicates that the property resolves an element by Name or x:Name. When applying this to attached properties, ensure to put on both the Getter and Setter methods.</td>
 </tr>
 <tr>
+<td><a href="T_Avalonia_Controls_ResourceDictionary">ResourceDictionary</a></td>
+<td>An indexed dictionary of resources.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_ResourceNodeExtensions">ResourceNodeExtensions</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_ResourceProvider">ResourceProvider</a></td>
+<td>Base implementation for IResourceProvider interface. Includes Owner property management.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_ResourcesChangedEventArgs">ResourcesChangedEventArgs</a></td>
+<td> </td>
+</tr>
+<tr>
 <td><a href="T_Avalonia_Controls_ReversibleStackPanel">ReversibleStackPanel</a></td>
 <td>Implements a <a href="T_Avalonia_Controls_StackPanel">StackPanel</a> where the flow direction of its items can be reversed.</td>
 </tr>
@@ -394,6 +562,10 @@ import Tag from '@site/src/components/Tag';
 <tr>
 <td><a href="T_Avalonia_Controls_Separator">Separator</a></td>
 <td>A separator control.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_SixteenColorPalette">SixteenColorPalette</a></td>
+<td>Implements the standard sixteen color palette from the HTML 4.01 specification.</td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_SizeChangedEventArgs">SizeChangedEventArgs</a></td>
@@ -449,7 +621,7 @@ import Tag from '@site/src/components/Tag';
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_ThemeVariantScope">ThemeVariantScope</a></td>
-<td>Decorator control that isolates controls subtree with locally defined ThemeVariant.</td>
+<td>Decorator control that isolates controls subtree with locally defined <a href="T_Avalonia_Styling_ThemeVariant">ThemeVariant</a>.</td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_TickBar">TickBar</a></td>
@@ -572,6 +744,14 @@ import Tag from '@site/src/components/Tag';
 <td>Defines compensation levels for the platform depending on the transparency level. It controls the base opacity level of the 'tracing paper' layer that compensates for low blur radius.</td>
 </tr>
 <tr>
+<td><a href="T_Avalonia_Controls_DataGridClipboardCellContent">DataGridClipboardCellContent</a></td>
+<td>This structure encapsulate the cell information necessary when clipboard content is prepared.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridLength">DataGridLength</a></td>
+<td>Represents the lengths of elements within the <a href="T_Avalonia_Controls_DataGrid">DataGrid</a> control.</td>
+</tr>
+<tr>
 <td><a href="T_Avalonia_Controls_GridLength">GridLength</a></td>
 <td>Holds the width or height of a <a href="T_Avalonia_Controls_Grid">Grid</a>'s column and row definitions.</td>
 </tr>
@@ -592,8 +772,20 @@ import Tag from '@site/src/components/Tag';
 ## Interfaces
 <table>
 <tr>
+<td><a href="T_Avalonia_Controls_IColorPalette">IColorPalette</a></td>
+<td>Interface to define a color palette.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_IDeferredContent">IDeferredContent</a></td>
+<td>Represents a deferred content.</td>
+</tr>
+<tr>
 <td><a href="T_Avalonia_Controls_IGlobalDataTemplates">IGlobalDataTemplates</a></td>
 <td>Defines the application-global data templates.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_INameScope">INameScope</a></td>
+<td>Defines a name scope.</td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_INativeMenuExporterEventsImplBridge">INativeMenuExporterEventsImplBridge</a></td>
@@ -604,6 +796,26 @@ import Tag from '@site/src/components/Tag';
 <td> </td>
 </tr>
 <tr>
+<td><a href="T_Avalonia_Controls_IPseudoClasses">IPseudoClasses</a></td>
+<td>Exposes an interface for setting pseudoclasses on a <a href="T_Avalonia_Controls_Classes">Classes</a> collection.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_IResourceDictionary">IResourceDictionary</a></td>
+<td>An indexed dictionary of resources.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_IResourceHost">IResourceHost</a></td>
+<td>Represents an element which hosts resources.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_IResourceNode">IResourceNode</a></td>
+<td>Represents an object that can be queried for resources.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_IResourceProvider">IResourceProvider</a></td>
+<td>Represents an object that can be queried for resources but does not appear in the logical tree.</td>
+</tr>
+<tr>
 <td><a href="T_Avalonia_Controls_IScrollAnchorProvider">IScrollAnchorProvider</a></td>
 <td>Specifies a contract for a scrolling control that supports scroll anchoring.</td>
 </tr>
@@ -612,8 +824,20 @@ import Tag from '@site/src/components/Tag';
 <td>An interface that is implemented by objects that expose their selection state via a boolean <a href="P_Avalonia_Controls_ISelectable_IsSelected">IsSelected</a> property.</td>
 </tr>
 <tr>
+<td><a href="T_Avalonia_Controls_ISetInheritanceParent">ISetInheritanceParent</a></td>
+<td>Defines an interface through which a <a href="T_Avalonia_StyledElement">StyledElement</a>'s inheritance parent can be set.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_ISetLogicalParent">ISetLogicalParent</a></td>
+<td>Defines an interface through which a <a href="T_Avalonia_StyledElement">StyledElement</a>'s logical parent can be set.</td>
+</tr>
+<tr>
 <td><a href="T_Avalonia_Controls_ITemplate_1">ITemplate(TControl)</a></td>
 <td>Creates a control.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_IThemeVariantProvider">IThemeVariantProvider</a></td>
+<td>Resource provider with theme variant awareness. Can be used with <a href="P_Avalonia_Controls_IResourceDictionary_ThemeDictionaries">ThemeDictionaries</a>.</td>
 </tr>
 </table>
 
@@ -640,6 +864,10 @@ import Tag from '@site/src/components/Tag';
 ## Enumerations
 <table>
 <tr>
+<td><a href="T_Avalonia_Controls_AlphaComponentPosition">AlphaComponentPosition</a></td>
+<td>Defines the position of a color's alpha component relative to all other components.</td>
+</tr>
+<tr>
 <td><a href="T_Avalonia_Controls_AutoCompleteFilterMode">AutoCompleteFilterMode</a></td>
 <td>Specifies how text in the text box portion of the <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox</a> control is used to filter items specified by the <a href="P_Avalonia_Controls_AutoCompleteBox_ItemsSource">ItemsSource</a> property for display in the drop-down.</td>
 </tr>
@@ -660,12 +888,68 @@ import Tag from '@site/src/components/Tag';
 <td>Defines how a <a href="T_Avalonia_Controls_Button">Button</a> reacts to clicks.</td>
 </tr>
 <tr>
+<td><a href="T_Avalonia_Controls_ColorComponent">ColorComponent</a></td>
+<td>Defines a specific component within a color model.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_ColorModel">ColorModel</a></td>
+<td>Defines the model used to represent colors.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_ColorSpectrumComponents">ColorSpectrumComponents</a></td>
+<td>Defines the two HSV color components displayed by a <a href="T_Avalonia_Controls_Primitives_ColorSpectrum">ColorSpectrum</a>.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_ColorSpectrumShape">ColorSpectrumShape</a></td>
+<td>Defines the shape of a <a href="T_Avalonia_Controls_Primitives_ColorSpectrum">ColorSpectrum</a>.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_ColorViewTab">ColorViewTab</a></td>
+<td>Defines a specific tab/page (subview) within the <a href="T_Avalonia_Controls_ColorView">ColorView</a>.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridClipboardCopyMode">DataGridClipboardCopyMode</a></td>
+<td>Defines modes that indicates how DataGrid content is copied to the Clipboard.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridEditAction">DataGridEditAction</a></td>
+<td>Used to specify action to take out of edit mode.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridEditingUnit">DataGridEditingUnit</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridGridLinesVisibility">DataGridGridLinesVisibility</a></td>
+<td>Determines whether the inner cells' vertical/horizontal gridlines are shown or not.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridHeadersVisibility">DataGridHeadersVisibility</a></td>
+<td>Determines whether the row/column headers are shown or not.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridLengthUnitType">DataGridLengthUnitType</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridRowDetailsVisibilityMode">DataGridRowDetailsVisibilityMode</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_DataGridSelectionMode">DataGridSelectionMode</a></td>
+<td>Determines the selection model</td>
+</tr>
+<tr>
 <td><a href="T_Avalonia_Controls_Dock">Dock</a></td>
 <td>Defines the available docking modes for a control in a <a href="T_Avalonia_Controls_DockPanel">DockPanel</a>.</td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_ExpandDirection">ExpandDirection</a></td>
 <td>Direction in which an <a href="T_Avalonia_Controls_Expander">Expander</a> control opens.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_FlatColorPalette_FlatColor">FlatColorPalette.FlatColor</a></td>
+<td>Defines all colors in the <a href="T_Avalonia_Controls_FlatColorPalette">FlatColorPalette</a>.</td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_FlyoutShowMode">FlyoutShowMode</a></td>
@@ -684,8 +968,16 @@ import Tag from '@site/src/components/Tag';
 <td>Defines the valid units for a <a href="T_Avalonia_Controls_GridLength">GridLength</a>.</td>
 </tr>
 <tr>
+<td><a href="T_Avalonia_Controls_HsvComponent">HsvComponent</a></td>
+<td>Defines a specific component in the HSV color model.</td>
+</tr>
+<tr>
 <td><a href="T_Avalonia_Controls_Location">Location</a></td>
 <td> </td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_MaterialColorPalette_MaterialColor">MaterialColorPalette.MaterialColor</a></td>
+<td>Defines all colors in the <a href="T_Avalonia_Controls_MaterialColorPalette">MaterialColorPalette</a>.</td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_MenuItemToggleType">MenuItemToggleType</a></td>
@@ -710,6 +1002,10 @@ import Tag from '@site/src/components/Tag';
 <tr>
 <td><a href="T_Avalonia_Controls_RefreshVisualizerState">RefreshVisualizerState</a></td>
 <td>Defines constants that specify the state of a RefreshVisualizer</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_RgbComponent">RgbComponent</a></td>
+<td>Defines a specific component in the RGB color model.</td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_SelectionMode">SelectionMode</a></td>

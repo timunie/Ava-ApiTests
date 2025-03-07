@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # Notification Class
 
 
@@ -11,7 +7,7 @@ A notification that can be shown in a window or by the host operating system.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -39,16 +35,13 @@ type Notification =
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Notifications/Notification.cs" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Notifications/Notification.cs" title="View the source code">View Source</a>
 
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  Notification</td></tr>
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_Notifications_INotification">INotification</a>, <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.inotifypropertychanged" target="_blank" rel="noopener noreferrer">INotifyPropertyChanged</a></td></tr>
 </table>
 
-
-
-## 
 This class represents a notification that can be displayed either in a window using <a href="T_Avalonia_Controls_Notifications_WindowNotificationManager">WindowNotificationManager</a> or by the host operating system (to be implemented).
 
 ## Constructors

@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # TemplateSettings Property
 
 
@@ -11,12 +7,12 @@ Gets or sets the TemplateSettings for the <a href="T_Avalonia_Controls_ProgressB
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ProgressBar.ProgressBarTemplateSettings TemplateSettings { get; }
+public ProgressBar.ProgressBarTemplateSettings TemplateSettings \{ get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -34,7 +30,7 @@ member TemplateSettings : ProgressBar.ProgressBarTemplateSettings with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/ProgressBar.cs#L253" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ProgressBar.cs#L253" title="View the source code">View Source</a>
 
 
 

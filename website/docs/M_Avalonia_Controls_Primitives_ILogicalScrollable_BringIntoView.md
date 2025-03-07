@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # BringIntoView Method
 
 
@@ -11,7 +7,7 @@ Attempts to bring a portion of the target visual into view by scrolling the cont
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -41,12 +37,12 @@ abstract BringIntoView :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/ILogicalScrollable.cs" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/ILogicalScrollable.cs" title="View the source code">View Source</a>
 
 
 
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The target visual.</dd><dt>  Rect</dt><dd>The portion of the target visual to bring into view.</dd></dl>
+<dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The target visual.</dd><dt>  <a href="T_Avalonia_Rect">Rect</a></dt><dd>The portion of the target visual to bring into view.</dd></dl>
 
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>  

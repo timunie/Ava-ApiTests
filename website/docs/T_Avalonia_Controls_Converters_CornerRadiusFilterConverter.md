@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # CornerRadiusFilterConverter Class
 
 
@@ -11,7 +7,7 @@ Converts an existing CornerRadius struct to a new CornerRadius struct, with filt
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Converters">Avalonia.Controls.Converters</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -37,11 +33,11 @@ type CornerRadiusFilterConverter =
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Converters/CornerRadiusFilterConverter.cs" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Converters/CornerRadiusFilterConverter.cs" title="View the source code">View Source</a>
 
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  CornerRadiusFilterConverter</td></tr>
-<tr><td><strong>Implements</strong></td><td>IValueConverter</td></tr>
+<tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Data_Converters_IValueConverter">IValueConverter</a></td></tr>
 </table>
 
 
@@ -58,7 +54,7 @@ type CornerRadiusFilterConverter =
 <table>
 <tr>
 <td><a href="P_Avalonia_Controls_Converters_CornerRadiusFilterConverter_Filter">Filter</a></td>
-<td>Gets or sets the corners to filter by. Only the specified corners will be included in the converted CornerRadius.</td>
+<td>Gets or sets the corners to filter by. Only the specified corners will be included in the converted <a href="T_Avalonia_CornerRadius">CornerRadius</a>.</td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_Controls_Converters_CornerRadiusFilterConverter_Scale">Scale</a></td>
@@ -70,11 +66,11 @@ type CornerRadiusFilterConverter =
 <table>
 <tr>
 <td><a href="M_Avalonia_Controls_Converters_CornerRadiusFilterConverter_Convert">Convert(Object, Type, Object, CultureInfo)</a></td>
-<td> </td>
+<td>Converts a value.</td>
 </tr>
 <tr>
 <td><a href="M_Avalonia_Controls_Converters_CornerRadiusFilterConverter_ConvertBack">ConvertBack(Object, Type, Object, CultureInfo)</a></td>
-<td> </td>
+<td>Converts a value.</td>
 </tr>
 <tr>
 <td><a href="https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)" target="_blank" rel="noopener noreferrer">Equals(Object)</a></td>

@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # NativeMenuItem Fields
 
 
@@ -35,7 +31,7 @@ import Tag from '@site/src/components/Tag';
 </tr>
 <tr>
 <td><a href="F_Avalonia_Controls_NativeMenuItem_IsEnabledProperty">IsEnabledProperty</a></td>
-<td> </td>
+<td>Defines the <a href="P_Avalonia_Input_InputElement_IsEnabled">IsEnabled</a> property.</td>
 </tr>
 <tr>
 <td><a href="F_Avalonia_Controls_NativeMenuItem_IsVisibleProperty">IsVisibleProperty</a></td>

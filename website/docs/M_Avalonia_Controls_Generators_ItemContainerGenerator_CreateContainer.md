@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # CreateContainer Method
 
 
@@ -11,7 +7,7 @@ Creates a new container control.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Generators">Avalonia.Controls.Generators</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -44,7 +40,7 @@ member CreateContainer :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Generators/ItemContainerGenerator.cs#L104" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Generators/ItemContainerGenerator.cs#L104" title="View the source code">View Source</a>
 
 
 
@@ -53,10 +49,7 @@ member CreateContainer :
 
 #### Return Value
 <a href="T_Avalonia_Controls_Control">Control</a>  
-The newly created container control.
-
-## 
-Before calling this method, <a href="M_Avalonia_Controls_Generators_ItemContainerGenerator_NeedsContainer">NeedsContainer(Object, Int32, Object)</a> should be called to determine whether the item itself should be used as a container. After calling this method, <a href="M_Avalonia_Controls_Generators_ItemContainerGenerator_PrepareItemContainer">PrepareItemContainer(Control, Object, Int32)</a> must be called to prepare the container to display the specified item. If the panel supports recycling then the returned recycle key should be stored alongside the container and when container becomes eligible for recycling the container should be placed in a recycle pool using this key. If the returned recycle key is null then the container cannot be recycled.
+The newly created container control.Before calling this method, <a href="M_Avalonia_Controls_Generators_ItemContainerGenerator_NeedsContainer">NeedsContainer(Object, Int32, Object)</a> should be called to determine whether the item itself should be used as a container. After calling this method, <a href="M_Avalonia_Controls_Generators_ItemContainerGenerator_PrepareItemContainer">PrepareItemContainer(Control, Object, Int32)</a> must be called to prepare the container to display the specified item. If the panel supports recycling then the returned recycle key should be stored alongside the container and when container becomes eligible for recycling the container should be placed in a recycle pool using this key. If the returned recycle key is null then the container cannot be recycled.
 
 ## See Also
 

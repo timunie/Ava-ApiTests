@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # PixelPointEventArgs Properties
 
 
@@ -11,7 +7,7 @@ import Tag from '@site/src/components/Tag';
 <table>
 <tr>
 <td><a href="P_Avalonia_Controls_PixelPointEventArgs_Point">Point</a></td>
-<td>Gets the PixelPoint data.</td>
+<td>Gets the <a href="T_Avalonia_PixelPoint">PixelPoint</a> data.</td>
 </tr>
 </table>
 

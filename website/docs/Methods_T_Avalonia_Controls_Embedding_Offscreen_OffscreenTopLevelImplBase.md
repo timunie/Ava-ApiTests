@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # OffscreenTopLevelImplBase Methods
 
 
@@ -68,6 +64,18 @@ import Tag from '@site/src/components/Tag';
 <tr>
 <td><a href="M_Avalonia_Controls_Embedding_Offscreen_OffscreenTopLevelImplBase_TryGetFeature">TryGetFeature(Type)</a></td>
 <td> </td>
+</tr>
+</table>
+
+## Extension Methods
+<table>
+<tr>
+<td><a href="M_Avalonia_Platform_OptionalFeatureProviderExtensions_TryGetFeature__1_1">TryGetFeature(T)()</a></td>
+<td>Queries for an optional feature.<br />(Defined by <a href="T_Avalonia_Platform_OptionalFeatureProviderExtensions">OptionalFeatureProviderExtensions</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Platform_OptionalFeatureProviderExtensions_TryGetFeature__1">TryGetFeature(T)(T)</a></td>
+<td>Queries for an optional feature.<br />(Defined by <a href="T_Avalonia_Platform_OptionalFeatureProviderExtensions">OptionalFeatureProviderExtensions</a>)</td>
 </tr>
 </table>
 

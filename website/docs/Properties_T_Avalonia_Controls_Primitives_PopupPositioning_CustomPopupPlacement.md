@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # CustomPopupPlacement Properties
 
 
@@ -31,7 +27,7 @@ import Tag from '@site/src/components/Tag';
 </tr>
 <tr>
 <td><a href="P_Avalonia_Controls_Primitives_PopupPositioning_CustomPopupPlacement_PopupSize">PopupSize</a></td>
-<td>The Size of the <a href="T_Avalonia_Controls_Primitives_Popup">Popup</a> control.</td>
+<td>The <a href="T_Avalonia_Size">Size</a> of the <a href="T_Avalonia_Controls_Primitives_Popup">Popup</a> control.</td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_Controls_Primitives_PopupPositioning_CustomPopupPlacement_Target">Target</a></td>

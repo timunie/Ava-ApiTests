@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # RequestedThemeVariant Property
 
 
@@ -11,12 +7,12 @@ Gets or sets the UI theme variant that is used by the control (and its child ele
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ThemeVariant? RequestedThemeVariant { get; set; }
+public ThemeVariant? RequestedThemeVariant \{ get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -35,15 +31,12 @@ member RequestedThemeVariant : ThemeVariant with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Application.cs#L95" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Application.cs#L95" title="View the source code">View Source</a>
 
 
 
 #### Property Value
-ThemeVariant
-
-## 
-Setting RequestedThemeVariant to Default will apply parent's actual theme variant on the current scope.
+<a href="T_Avalonia_Styling_ThemeVariant">ThemeVariant</a>Setting RequestedThemeVariant to <a href="P_Avalonia_Styling_ThemeVariant_Default">Default</a> will apply parent's actual theme variant on the current scope.
 
 ## See Also
 

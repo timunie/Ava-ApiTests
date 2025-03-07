@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # NativeMenu Events
 
 
@@ -22,8 +18,8 @@ import Tag from '@site/src/components/Tag';
 <td>Raised before the menu is opened.</td>
 </tr>
 <tr>
-<td>PropertyChanged</td>
-<td><br />(Inherited from AvaloniaObject)</td>
+<td><a href="E_Avalonia_AvaloniaObject_PropertyChanged">PropertyChanged</a></td>
+<td>Raised when a <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a> value changes on this object.<br />(Inherited from <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a>)</td>
 </tr>
 </table>
 

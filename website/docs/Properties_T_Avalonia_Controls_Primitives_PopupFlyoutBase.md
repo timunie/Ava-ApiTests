@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # PopupFlyoutBase Properties
 
 
@@ -18,20 +14,20 @@ import Tag from '@site/src/components/Tag';
 <td>Gets or sets the Horizontal offset of the popup in relation to the <a href="P_Avalonia_Controls_Primitives_Popup_PlacementTarget">PlacementTarget</a>.</td>
 </tr>
 <tr>
-<td>InheritanceParent</td>
-<td><br />(Inherited from AvaloniaObject)</td>
+<td><a href="P_Avalonia_AvaloniaObject_InheritanceParent">InheritanceParent</a></td>
+<td>Gets or sets the parent object that inherited <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a> values are inherited from.<br />(Inherited from <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a>)</td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_Controls_Primitives_FlyoutBase_IsOpen">IsOpen</a></td>
 <td>Gets whether this Flyout is currently Open<br />(Inherited from <a href="T_Avalonia_Controls_Primitives_FlyoutBase">FlyoutBase</a>)</td>
 </tr>
 <tr>
-<td>Item</td>
-<td><br />(Inherited from AvaloniaObject)</td>
+<td><a href="P_Avalonia_AvaloniaObject_Item">Item(AvaloniaProperty)</a></td>
+<td>Gets or sets the value of a <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Inherited from <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a>)</td>
 </tr>
 <tr>
-<td>Item</td>
-<td><br />(Inherited from AvaloniaObject)</td>
+<td><a href="P_Avalonia_AvaloniaObject_Item_1">Item(IndexerDescriptor)</a></td>
+<td>Gets or sets a binding for a <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Inherited from <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a>)</td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_Controls_Primitives_PopupFlyoutBase_OverlayDismissEventPassThrough">OverlayDismissEventPassThrough</a></td>

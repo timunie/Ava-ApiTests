@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # DataProperty Field
 
 
@@ -9,7 +5,7 @@ import Tag from '@site/src/components/Tag';
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -31,12 +27,12 @@ static val DataProperty: StyledProperty<Geometry>
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/PathIcon.cs" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/PathIcon.cs" title="View the source code">View Source</a>
 
 
 
 #### Field Value
-StyledProperty(Geometry)
+<a href="T_Avalonia_StyledProperty_1">StyledProperty</a>(<a href="T_Avalonia_Media_Geometry">Geometry</a>)
 
 ## See Also
 

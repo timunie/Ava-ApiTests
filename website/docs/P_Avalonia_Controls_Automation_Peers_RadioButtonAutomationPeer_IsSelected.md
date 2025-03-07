@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # IsSelected Property
 
 
@@ -9,12 +5,12 @@ import Tag from '@site/src/components/Tag';
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Automation_Peers">Avalonia.Controls.Automation.Peers</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsSelected { get; }
+public bool IsSelected \{ get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -33,7 +29,7 @@ override IsSelected : bool with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/RadioButtonAutomationPeer.cs#L31" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/RadioButtonAutomationPeer.cs#L31" title="View the source code">View Source</a>
 
 
 

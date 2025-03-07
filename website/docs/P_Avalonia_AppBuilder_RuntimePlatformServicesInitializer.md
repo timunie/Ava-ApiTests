@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # RuntimePlatformServicesInitializer Property
 
 
@@ -11,12 +7,12 @@ Gets or sets a method to call the initialize the runtime platform services (e. g
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Action? RuntimePlatformServicesInitializer { get; }
+public Action? RuntimePlatformServicesInitializer \{ get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -34,7 +30,7 @@ member RuntimePlatformServicesInitializer : Action with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AppBuilder.cs#L27" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AppBuilder.cs#L27" title="View the source code">View Source</a>
 
 
 

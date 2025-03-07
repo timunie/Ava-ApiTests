@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # ThemeVariantScope Fields
 
 
@@ -11,11 +7,11 @@ import Tag from '@site/src/components/Tag';
 <table>
 <tr>
 <td><a href="F_Avalonia_Controls_ThemeVariantScope_ActualThemeVariantProperty">ActualThemeVariantProperty</a></td>
-<td> </td>
+<td>Defines the ActualThemeVariant property.</td>
 </tr>
 <tr>
 <td><a href="F_Avalonia_Controls_ThemeVariantScope_RequestedThemeVariantProperty">RequestedThemeVariantProperty</a></td>
-<td> </td>
+<td>Defines the RequestedThemeVariant property.</td>
 </tr>
 </table>
 

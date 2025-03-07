@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # INativePlatformHandleSurface Interface
 
 
@@ -9,7 +5,7 @@ import Tag from '@site/src/components/Tag';
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Platform">Avalonia.Platform</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -34,7 +30,7 @@ type INativePlatformHandleSurface =
 </Tabs>
 
 <table>
-<tr><td><strong>Implements</strong></td><td>IPlatformHandle</td></tr>
+<tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Platform_IPlatformHandle">IPlatformHandle</a></td></tr>
 </table>
 
 
@@ -42,12 +38,12 @@ type INativePlatformHandleSurface =
 ## Properties
 <table>
 <tr>
-<td>Handle</td>
-<td><br />(Inherited from IPlatformHandle)</td>
+<td><a href="P_Avalonia_Platform_IPlatformHandle_Handle">Handle</a></td>
+<td>Gets the handle.<br />(Inherited from <a href="T_Avalonia_Platform_IPlatformHandle">IPlatformHandle</a>)</td>
 </tr>
 <tr>
-<td>HandleDescriptor</td>
-<td><br />(Inherited from IPlatformHandle)</td>
+<td><a href="P_Avalonia_Platform_IPlatformHandle_HandleDescriptor">HandleDescriptor</a></td>
+<td>Gets an optional string that describes what <a href="P_Avalonia_Platform_IPlatformHandle_Handle">Handle</a> represents.<br />(Inherited from <a href="T_Avalonia_Platform_IPlatformHandle">IPlatformHandle</a>)</td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_Platform_INativePlatformHandleSurface_Scaling">Scaling</a></td>

@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # LogToTrace Method
 
 
@@ -11,7 +7,7 @@ Logs Avalonia events to the <a href="https://learn.microsoft.com/dotnet/api/syst
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -50,12 +46,12 @@ static member LogToTrace :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/LoggingExtensions.cs#L19" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/LoggingExtensions.cs#L19" title="View the source code">View Source</a>
 
 
 
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_AppBuilder">AppBuilder</a></dt><dd>The app builder instance.</dd><dt>  LogEventLevel  (Optional)</dt><dd>The minimum level to log.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>[]</dt><dd>The areas to log. Valid values are listed in LogArea.</dd></dl>
+<dl><dt>  <a href="T_Avalonia_AppBuilder">AppBuilder</a></dt><dd>The app builder instance.</dd><dt>  <a href="T_Avalonia_Logging_LogEventLevel">LogEventLevel</a>  (Optional)</dt><dd>The minimum level to log.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>[]</dt><dd>The areas to log. Valid values are listed in <a href="T_Avalonia_Logging_LogArea">LogArea</a>.</dd></dl>
 
 #### Return Value
 <a href="T_Avalonia_AppBuilder">AppBuilder</a>  

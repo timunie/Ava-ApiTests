@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # PlatformKeyGestureConverter Methods
 
 
@@ -39,7 +35,7 @@ import Tag from '@site/src/components/Tag';
 </tr>
 <tr>
 <td><a href="M_Avalonia_Controls_Converters_PlatformKeyGestureConverter_ToPlatformString">ToPlatformString(KeyGesture)</a></td>
-<td>Converts a KeyGesture to a string, formatting it according to the current platform's style guidelines.</td>
+<td>Converts a <a href="T_Avalonia_Input_KeyGesture">KeyGesture</a> to a string, formatting it according to the current platform's style guidelines.</td>
 </tr>
 <tr>
 <td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString()</a></td>

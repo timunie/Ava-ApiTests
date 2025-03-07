@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # GetPeerFromPoint Method
 
 
@@ -11,7 +7,7 @@ Gets the element at the specified point, expressed in top-level coordinates.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -38,12 +34,12 @@ abstract GetPeerFromPoint :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Provider/IRootProvider.cs" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Provider/IRootProvider.cs" title="View the source code">View Source</a>
 
 
 
 #### Parameters
-<dl><dt>  Point</dt><dd>The point.</dd></dl>
+<dl><dt>  <a href="T_Avalonia_Point">Point</a></dt><dd>The point.</dd></dl>
 
 #### Return Value
 <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a>

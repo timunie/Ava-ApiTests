@@ -1,20 +1,18 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # StyleKeyOverride Property
 
+
+Gets the type by which the element is styled.
 
 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected override Type StyleKeyOverride { get; }
+protected override Type StyleKeyOverride \{ get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -33,12 +31,12 @@ override StyleKeyOverride : Type with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Window.cs#L446" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Window.cs#L446" title="View the source code">View Source</a>
 
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a>
+<a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a>Usually controls are styled by their own type, but there are instances where you want an element to be styled by its base type, e.g. creating SpecialButton that derives from Button and adds extra functionality but is still styled as a regular Button. Override this property to change the style for a control class, returning the type that you wish the elements to be styled as.
 
 ## See Also
 

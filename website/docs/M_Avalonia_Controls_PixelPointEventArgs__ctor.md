@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # PixelPointEventArgs Constructor
 
 
@@ -11,7 +7,7 @@ Initializes a new instance of the <a href="T_Avalonia_Controls_PixelPointEventAr
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -38,12 +34,12 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/PixelPointEventArgs.cs#L14" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/PixelPointEventArgs.cs#L14" title="View the source code">View Source</a>
 
 
 
 #### Parameters
-<dl><dt>  PixelPoint</dt><dd>The PixelPoint data.</dd></dl>
+<dl><dt>  <a href="T_Avalonia_PixelPoint">PixelPoint</a></dt><dd>The <a href="T_Avalonia_PixelPoint">PixelPoint</a> data.</dd></dl>
 
 ## See Also
 

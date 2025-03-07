@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # Screens Methods
 
 
@@ -47,7 +43,7 @@ import Tag from '@site/src/components/Tag';
 </tr>
 <tr>
 <td><a href="M_Avalonia_Controls_Screens_ScreenFromVisual">ScreenFromVisual(Visual)</a></td>
-<td>Retrieves a Screen for the display that contains the specified Visual.</td>
+<td>Retrieves a Screen for the display that contains the specified <a href="T_Avalonia_Visual">Visual</a>.</td>
 </tr>
 <tr>
 <td><a href="M_Avalonia_Controls_Screens_ScreenFromWindow">ScreenFromWindow(WindowBase)</a></td>

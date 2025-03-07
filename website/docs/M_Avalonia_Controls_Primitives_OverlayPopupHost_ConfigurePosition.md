@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # ConfigurePosition Method
 
 
@@ -9,7 +5,7 @@ import Tag from '@site/src/components/Tag';
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -61,12 +57,12 @@ member ConfigurePosition :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/OverlayPopupHost.cs#L129" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/OverlayPopupHost.cs#L129" title="View the source code">View Source</a>
 
 
 
 #### Parameters
-<dl><dt>  Visual</dt><dd> </dd><dt>  <a href="T_Avalonia_Controls_PlacementMode">PlacementMode</a></dt><dd> </dd><dt>  Point</dt><dd> </dd><dt>  <a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupAnchor">PopupAnchor</a>  (Optional)</dt><dd> </dd><dt>  <a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupGravity">PopupGravity</a>  (Optional)</dt><dd> </dd><dt>  <a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupPositionerConstraintAdjustment">PopupPositionerConstraintAdjustment</a>  (Optional)</dt><dd> </dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(Rect)  (Optional)</dt><dd> </dd></dl>
+<dl><dt>  <a href="T_Avalonia_Visual">Visual</a></dt><dd> </dd><dt>  <a href="T_Avalonia_Controls_PlacementMode">PlacementMode</a></dt><dd> </dd><dt>  <a href="T_Avalonia_Point">Point</a></dt><dd> </dd><dt>  <a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupAnchor">PopupAnchor</a>  (Optional)</dt><dd> </dd><dt>  <a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupGravity">PopupGravity</a>  (Optional)</dt><dd> </dd><dt>  <a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupPositionerConstraintAdjustment">PopupPositionerConstraintAdjustment</a>  (Optional)</dt><dd> </dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="T_Avalonia_Rect">Rect</a>)  (Optional)</dt><dd> </dd></dl>
 
 ## See Also
 

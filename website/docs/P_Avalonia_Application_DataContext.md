@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # DataContext Property
 
 
@@ -11,12 +7,12 @@ Gets or sets the Applications's data context.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? DataContext { get; set; }
+public Object? DataContext \{ get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -36,7 +32,7 @@ override DataContext : Object with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Application.cs#L88" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Application.cs#L88" title="View the source code">View Source</a>
 
 
 
@@ -44,10 +40,7 @@ override DataContext : Object with get, set
 <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>
 
 #### Implements
-IDataContextProvider.DataContext  
-
-
-## 
+<a href="P_Avalonia_IDataContextProvider_DataContext">IDataContextProvider.DataContext</a>  
 The data context property specifies the default object that will be used for data binding.
 
 ## See Also

@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # TextBox Fields
 
 
@@ -63,7 +59,7 @@ import Tag from '@site/src/components/Tag';
 </tr>
 <tr>
 <td><a href="F_Avalonia_Controls_TextBox_HorizontalContentAlignmentProperty">HorizontalContentAlignmentProperty</a></td>
-<td>Defines the HorizontalAlignment property.</td>
+<td>Defines the <a href="T_Avalonia_Layout_HorizontalAlignment">HorizontalAlignment</a> property.</td>
 </tr>
 <tr>
 <td><a href="F_Avalonia_Controls_TextBox_InnerLeftContentProperty">InnerLeftContentProperty</a></td>
@@ -167,7 +163,7 @@ import Tag from '@site/src/components/Tag';
 </tr>
 <tr>
 <td><a href="F_Avalonia_Controls_TextBox_VerticalContentAlignmentProperty">VerticalContentAlignmentProperty</a></td>
-<td>Defines the VerticalAlignment property.</td>
+<td>Defines the <a href="T_Avalonia_Layout_VerticalAlignment">VerticalAlignment</a> property.</td>
 </tr>
 <tr>
 <td><a href="F_Avalonia_Controls_TextBox_WatermarkProperty">WatermarkProperty</a></td>

@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # OccludedRect Property
 
 
@@ -9,12 +5,12 @@ import Tag from '@site/src/components/Tag';
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public virtual Rect OccludedRect { get; protected set; }
+public virtual Rect OccludedRect \{ get; protected set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -34,12 +30,12 @@ override OccludedRect : Rect with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Platform/IInputPane.cs#L34" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Platform/IInputPane.cs#L34" title="View the source code">View Source</a>
 
 
 
 #### Property Value
-Rect
+<a href="T_Avalonia_Rect">Rect</a>
 
 #### Implements
 <a href="P_Avalonia_Controls_Platform_IInputPane_OccludedRect">IInputPane.OccludedRect</a>  

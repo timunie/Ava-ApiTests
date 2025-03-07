@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # Avalonia.Controls.Templates Namespace
 
 
@@ -59,6 +55,10 @@ import Tag from '@site/src/components/Tag';
 <td><a href="T_Avalonia_Controls_Templates_TemplateExtensions">TemplateExtensions</a></td>
 <td> </td>
 </tr>
+<tr>
+<td><a href="T_Avalonia_Controls_Templates_TemplateResult_1">TemplateResult(T)</a></td>
+<td> </td>
+</tr>
 </table>
 
 ## Interfaces
@@ -82,6 +82,10 @@ import Tag from '@site/src/components/Tag';
 <tr>
 <td><a href="T_Avalonia_Controls_Templates_ITemplate_2">ITemplate(TParam, TControl)</a></td>
 <td>Creates a control based on a parameter.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_Templates_ITemplateResult">ITemplateResult</a></td>
+<td> </td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_Templates_ITreeDataTemplate">ITreeDataTemplate</a></td>

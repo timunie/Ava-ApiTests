@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # AppBuilder Class
 
 
@@ -11,7 +7,7 @@ Initializes platform-specific services for an <a href="T_Avalonia_Application">A
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -34,7 +30,7 @@ type AppBuilder = class end
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AppBuilder.cs" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AppBuilder.cs" title="View the source code">View Source</a>
 
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  AppBuilder</td></tr>
@@ -62,7 +58,7 @@ type AppBuilder = class end
 </tr>
 <tr>
 <td><a href="P_Avalonia_AppBuilder_LifetimeOverride">LifetimeOverride</a></td>
-<td>Gets a method to override a lifetime factory.<br /><Tag>Obsolete.</Tag></td>
+<td>Gets a method to override a lifetime factory.<br />Obsolete.</td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_AppBuilder_RenderingSubsystemInitializer">RenderingSubsystemInitializer</a></td>
@@ -181,12 +177,68 @@ type AppBuilder = class end
 <td>Setups the Application with a IClassicDesktopStyleApplicationLifetime, but doesn't show the main window and doesn't run application main loop.<br />(Defined by <a href="T_Avalonia_ClassicDesktopStyleApplicationLifetimeExtensions">ClassicDesktopStyleApplicationLifetimeExtensions</a>)</td>
 </tr>
 <tr>
+<td><a href="M_Avalonia_Browser_Blazor_BlazorAppBuilder_StartBlazorAppAsync">StartBlazorAppAsync(BrowserPlatformOptions)</a></td>
+<td>Configures blazor backend, loads avalonia javascript modules and creates a single view lifetime.<br />(Defined by <a href="T_Avalonia_Browser_Blazor_BlazorAppBuilder">BlazorAppBuilder</a>)</td>
+</tr>
+<tr>
 <td><a href="M_Avalonia_ClassicDesktopStyleApplicationLifetimeExtensions_StartWithClassicDesktopLifetime_1">StartWithClassicDesktopLifetime(String[], Action(IClassicDesktopStyleApplicationLifetime))</a></td>
 <td>Starts the Application with a IClassicDesktopStyleApplicationLifetime, shows main window and runs application main loop.<br />(Defined by <a href="T_Avalonia_ClassicDesktopStyleApplicationLifetimeExtensions">ClassicDesktopStyleApplicationLifetimeExtensions</a>)</td>
 </tr>
 <tr>
 <td><a href="M_Avalonia_ClassicDesktopStyleApplicationLifetimeExtensions_StartWithClassicDesktopLifetime">StartWithClassicDesktopLifetime(String[], ShutdownMode)</a></td>
 <td>Starts the Application with a IClassicDesktopStyleApplicationLifetime, shows main window and runs application main loop.<br />(Defined by <a href="T_Avalonia_ClassicDesktopStyleApplicationLifetimeExtensions">ClassicDesktopStyleApplicationLifetimeExtensions</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_AndroidApplicationExtensions_UseAndroid">UseAndroid()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_AndroidApplicationExtensions">AndroidApplicationExtensions</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_AvaloniaNativePlatformExtensions_UseAvaloniaNative">UseAvaloniaNative()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_AvaloniaNativePlatformExtensions">AvaloniaNativePlatformExtensions</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Direct2DApplicationExtensions_UseDirect2D1">UseDirect2D1()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_Direct2DApplicationExtensions">Direct2DApplicationExtensions</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_IOSApplicationExtensions_UseiOS_1">UseiOS()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_IOSApplicationExtensions">IOSApplicationExtensions</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_IOSApplicationExtensions_UseiOS">UseiOS(IAvaloniaAppDelegate)</a></td>
+<td><br />(Defined by <a href="T_Avalonia_IOSApplicationExtensions">IOSApplicationExtensions</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Dialogs_ManagedFileDialogExtensions_UseManagedSystemDialogs">UseManagedSystemDialogs()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_Dialogs_ManagedFileDialogExtensions">ManagedFileDialogExtensions</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Dialogs_ManagedFileDialogExtensions_UseManagedSystemDialogs__1">UseManagedSystemDialogs(TWindow)()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_Dialogs_ManagedFileDialogExtensions">ManagedFileDialogExtensions</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_AppBuilderDesktopExtensions_UsePlatformDetect">UsePlatformDetect()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_AppBuilderDesktopExtensions">AppBuilderDesktopExtensions</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_ReactiveUI_AppBuilderExtensions_UseReactiveUI">UseReactiveUI()</a></td>
+<td>Initializes ReactiveUI framework to use with Avalonia. Registers Avalonia scheduler, an activation for view fetcher, a template binding hook. Remember to call this method if you are using ReactiveUI in your application.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AppBuilderExtensions">AppBuilderExtensions</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_SkiaApplicationExtensions_UseSkia">UseSkia()</a></td>
+<td>Enable Skia renderer.<br />(Defined by <a href="T_Avalonia_SkiaApplicationExtensions">SkiaApplicationExtensions</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Win32ApplicationExtensions_UseWin32">UseWin32()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_Win32ApplicationExtensions">Win32ApplicationExtensions</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_AvaloniaX11PlatformExtensions_UseX11">UseX11()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_AvaloniaX11PlatformExtensions">AvaloniaX11PlatformExtensions</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_AppBuilderExtension_WithInterFont">WithInterFont()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_AppBuilderExtension">AppBuilderExtension</a>)</td>
 </tr>
 <tr>
 <td><a href="M_Avalonia_SystemFontAppBuilderExtension_WithSystemFontSource">WithSystemFontSource(Uri)</a></td>

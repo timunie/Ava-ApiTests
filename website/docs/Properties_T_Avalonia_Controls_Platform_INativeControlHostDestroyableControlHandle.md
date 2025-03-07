@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # INativeControlHostDestroyableControlHandle Properties
 
 
@@ -10,12 +6,12 @@ import Tag from '@site/src/components/Tag';
 ## Properties
 <table>
 <tr>
-<td>Handle</td>
-<td><br />(Inherited from IPlatformHandle)</td>
+<td><a href="P_Avalonia_Platform_IPlatformHandle_Handle">Handle</a></td>
+<td>Gets the handle.<br />(Inherited from <a href="T_Avalonia_Platform_IPlatformHandle">IPlatformHandle</a>)</td>
 </tr>
 <tr>
-<td>HandleDescriptor</td>
-<td><br />(Inherited from IPlatformHandle)</td>
+<td><a href="P_Avalonia_Platform_IPlatformHandle_HandleDescriptor">HandleDescriptor</a></td>
+<td>Gets an optional string that describes what <a href="P_Avalonia_Platform_IPlatformHandle_Handle">Handle</a> represents.<br />(Inherited from <a href="T_Avalonia_Platform_IPlatformHandle">IPlatformHandle</a>)</td>
 </tr>
 </table>
 

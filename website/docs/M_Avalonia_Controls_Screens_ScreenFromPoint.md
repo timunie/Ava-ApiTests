@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # ScreenFromPoint Method
 
 
@@ -11,7 +7,7 @@ Retrieves a Screen for the display that contains the specified point.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -38,19 +34,16 @@ member ScreenFromPoint :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Screens.cs#L139" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Screens.cs#L139" title="View the source code">View Source</a>
 
 
 
 #### Parameters
-<dl><dt>  PixelPoint</dt><dd>A Point that specifies the location for which to retrieve a Screen.</dd></dl>
+<dl><dt>  <a href="T_Avalonia_PixelPoint">PixelPoint</a></dt><dd>A Point that specifies the location for which to retrieve a Screen.</dd></dl>
 
 #### Return Value
 <a href="T_Avalonia_Platform_Screen">Screen</a>  
-The <a href="T_Avalonia_Platform_Screen">Screen</a>.
-
-## 
-On mobile, this method always returns null.
+The <a href="T_Avalonia_Platform_Screen">Screen</a>.On mobile, this method always returns null.
 
 ## See Also
 

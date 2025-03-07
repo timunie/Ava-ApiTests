@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # PopupPositionerConstraintAdjustment Enumeration
 
 
@@ -11,7 +7,7 @@ Defines how a popup position will be adjusted if the unadjusted position would r
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives_PopupPositioning">Avalonia.Controls.Primitives.PopupPositioning</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -34,9 +30,6 @@ type PopupPositionerConstraintAdjustment
 </TabItem>
 </Tabs>
 
-
-
-## 
 Whether a popup is considered 'constrained' is left to the positioner to determine. For example, the popup may be partly outside the target platform defined 'work area', thus necessitating the popup's position be adjusted until it is entirely inside the work area.
 
 ## Members

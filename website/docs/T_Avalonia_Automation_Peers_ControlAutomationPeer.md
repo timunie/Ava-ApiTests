@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # ControlAutomationPeer Class
 
 
@@ -11,7 +7,7 @@ An automation peer which represents a <a href="T_Avalonia_Controls_Control">Cont
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -37,11 +33,11 @@ type ControlAutomationPeer =
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/ControlAutomationPeer.cs" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ControlAutomationPeer.cs" title="View the source code">View Source</a>
 
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a>  →  ControlAutomationPeer</td></tr>
-<tr><td><strong>Derived</strong></td><td><a href="T_Avalonia_Automation_Peers_ContentControlAutomationPeer">Avalonia.Automation.Peers.ContentControlAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_ItemsControlAutomationPeer">Avalonia.Automation.Peers.ItemsControlAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_MenuItemAutomationPeer">Avalonia.Automation.Peers.MenuItemAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_NoneAutomationPeer">Avalonia.Automation.Peers.NoneAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_PopupAutomationPeer">Avalonia.Automation.Peers.PopupAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_RangeBaseAutomationPeer">Avalonia.Automation.Peers.RangeBaseAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_ScrollViewerAutomationPeer">Avalonia.Automation.Peers.ScrollViewerAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_TextBlockAutomationPeer">Avalonia.Automation.Peers.TextBlockAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_TextBoxAutomationPeer">Avalonia.Automation.Peers.TextBoxAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_WindowBaseAutomationPeer">Avalonia.Automation.Peers.WindowBaseAutomationPeer</a><br /><a href="T_Avalonia_Controls_Automation_Peers_ImageAutomationPeer">Avalonia.Controls.Automation.Peers.ImageAutomationPeer</a><br /><a href="T_Avalonia_Controls_Automation_Peers_LabelAutomationPeer">Avalonia.Controls.Automation.Peers.LabelAutomationPeer</a><br /><a href="T_Avalonia_Controls_Automation_Peers_ThumbAutomationPeer">Avalonia.Controls.Automation.Peers.ThumbAutomationPeer</a></td></tr>
+<tr><td><strong>Derived</strong></td><td><a href="T_Avalonia_Automation_Peers_ContentControlAutomationPeer">Avalonia.Automation.Peers.ContentControlAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_DataGridRowAutomationPeer">Avalonia.Automation.Peers.DataGridRowAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_ItemsControlAutomationPeer">Avalonia.Automation.Peers.ItemsControlAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_MenuItemAutomationPeer">Avalonia.Automation.Peers.MenuItemAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_NoneAutomationPeer">Avalonia.Automation.Peers.NoneAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_PopupAutomationPeer">Avalonia.Automation.Peers.PopupAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_RangeBaseAutomationPeer">Avalonia.Automation.Peers.RangeBaseAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_ScrollViewerAutomationPeer">Avalonia.Automation.Peers.ScrollViewerAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_TextBlockAutomationPeer">Avalonia.Automation.Peers.TextBlockAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_TextBoxAutomationPeer">Avalonia.Automation.Peers.TextBoxAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_WindowBaseAutomationPeer">Avalonia.Automation.Peers.WindowBaseAutomationPeer</a><br /><a href="T_Avalonia_Controls_Automation_Peers_DataGridAutomationPeer">Avalonia.Controls.Automation.Peers.DataGridAutomationPeer</a><br /><a href="T_Avalonia_Controls_Automation_Peers_DataGridColumnHeadersPresenterAutomationPeer">Avalonia.Controls.Automation.Peers.DataGridColumnHeadersPresenterAutomationPeer</a><br /><a href="T_Avalonia_Controls_Automation_Peers_DataGridDetailsPresenterAutomationPeer">Avalonia.Controls.Automation.Peers.DataGridDetailsPresenterAutomationPeer</a><br /><a href="T_Avalonia_Controls_Automation_Peers_ImageAutomationPeer">Avalonia.Controls.Automation.Peers.ImageAutomationPeer</a><br /><a href="T_Avalonia_Controls_Automation_Peers_LabelAutomationPeer">Avalonia.Controls.Automation.Peers.LabelAutomationPeer</a><br /><a href="T_Avalonia_Controls_Automation_Peers_ThumbAutomationPeer">Avalonia.Controls.Automation.Peers.ThumbAutomationPeer</a></td></tr>
 </table>
 
 

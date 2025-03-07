@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # TopLevel Fields
 
 
@@ -11,7 +7,7 @@ import Tag from '@site/src/components/Tag';
 <table>
 <tr>
 <td><a href="F_Avalonia_Controls_TopLevel_ActualThemeVariantProperty">ActualThemeVariantProperty</a></td>
-<td> </td>
+<td>Defines the ActualThemeVariant property.</td>
 </tr>
 <tr>
 <td><a href="F_Avalonia_Controls_TopLevel_ActualTransparencyLevelProperty">ActualTransparencyLevelProperty</a></td>
@@ -35,11 +31,11 @@ import Tag from '@site/src/components/Tag';
 </tr>
 <tr>
 <td><a href="F_Avalonia_Controls_TopLevel_PointerOverElementProperty">PointerOverElementProperty</a></td>
-<td>Defines the PointerOverElement property.</td>
+<td>Defines the <a href="P_Avalonia_Input_IInputRoot_PointerOverElement">PointerOverElement</a> property.</td>
 </tr>
 <tr>
 <td><a href="F_Avalonia_Controls_TopLevel_RequestedThemeVariantProperty">RequestedThemeVariantProperty</a></td>
-<td> </td>
+<td>Defines the RequestedThemeVariant property.</td>
 </tr>
 <tr>
 <td><a href="F_Avalonia_Controls_TopLevel_SystemBarColorProperty">SystemBarColorProperty</a></td>

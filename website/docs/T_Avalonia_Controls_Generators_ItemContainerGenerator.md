@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # ItemContainerGenerator Class
 
 
@@ -11,7 +7,7 @@ Generates containers for an <a href="T_Avalonia_Controls_ItemsControl">ItemsCont
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Generators">Avalonia.Controls.Generators</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -33,16 +29,13 @@ type ItemContainerGenerator = class end
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Generators/ItemContainerGenerator.cs" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Generators/ItemContainerGenerator.cs" title="View the source code">View Source</a>
 
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  ItemContainerGenerator</td></tr>
 <tr><td><strong>Derived</strong></td><td><a href="T_Avalonia_Controls_Generators_TreeItemContainerGenerator">Avalonia.Controls.Generators.TreeItemContainerGenerator</a></td></tr>
 </table>
 
-
-
-## 
 When creating a container for an item from a <a href="T_Avalonia_Controls_VirtualizingPanel">VirtualizingPanel</a>, the following process should be followed: - <a href="M_Avalonia_Controls_Generators_ItemContainerGenerator_NeedsContainer">NeedsContainer(Object, Int32, Object)</a> should first be called to determine whether the item needs a container. This method will return true if the item should be wrapped in a container control, or false if the item itself can be used as a container. - If <a href="M_Avalonia_Controls_Generators_ItemContainerGenerator_NeedsContainer">NeedsContainer(Object, Int32, Object)</a> returns true then the <a href="M_Avalonia_Controls_Generators_ItemContainerGenerator_CreateContainer">CreateContainer(Object, Int32, Object)</a> method should be called to create a new container, passing the recycle key returned from <a href="M_Avalonia_Controls_Generators_ItemContainerGenerator_NeedsContainer">NeedsContainer(Object, Int32, Object)</a>. - If the panel supports recycling and the recycle key is non-null then the recycle key should be recorded for the container (e.g. in an attached property or the realized container list). - <a href="M_Avalonia_Controls_Generators_ItemContainerGenerator_PrepareItemContainer">PrepareItemContainer(Control, Object, Int32)</a> method should be called for the container. - The container should then be added to the panel using <a href="M_Avalonia_Controls_VirtualizingPanel_AddInternalChild">AddInternalChild(Control)</a> - Finally, <a href="M_Avalonia_Controls_Generators_ItemContainerGenerator_ItemContainerPrepared">ItemContainerPrepared(Control, Object, Int32)</a> should be called. NOTE: If <a href="M_Avalonia_Controls_Generators_ItemContainerGenerator_NeedsContainer">NeedsContainer(Object, Int32, Object)</a> in the first step above returns false then the above steps should be carried out a single time: the first time the item is displayed. Otherwise the steps should be carried out each time a new container is realized for an item. When unrealizing a container, the following process should be followed: - If <a href="M_Avalonia_Controls_Generators_ItemContainerGenerator_NeedsContainer">NeedsContainer(Object, Int32, Object)</a> for the item returned false then the item cannot be unrealized or recycled. - Otherwise, <a href="M_Avalonia_Controls_Generators_ItemContainerGenerator_ClearItemContainer">ClearItemContainer(Control)</a> should be called for the container - If recycling is supported by the panel and the container then the container should be added to a recycle pool keyed on the recycle key returned from <a href="M_Avalonia_Controls_Generators_ItemContainerGenerator_NeedsContainer">NeedsContainer(Object, Int32, Object)</a>. It is assumed that recycled containers will not be removed from the panel but instead hidden from view using e.g. `container.IsVisible = false`. - If recycling is not supported then the container should be removed from the panel. When recycling an unrealized container, the following process should be followed: - <a href="M_Avalonia_Controls_Generators_ItemContainerGenerator_NeedsContainer">NeedsContainer(Object, Int32, Object)</a> should be called to determine whether the item needs a container, and if so, the recycle key. - A container should be taken from the recycle pool keyed on the returned recycle key. - The container should be made visible. - <a href="M_Avalonia_Controls_Generators_ItemContainerGenerator_PrepareItemContainer">PrepareItemContainer(Control, Object, Int32)</a> method should be called for the container. - <a href="M_Avalonia_Controls_Generators_ItemContainerGenerator_ItemContainerPrepared">ItemContainerPrepared(Control, Object, Int32)</a> should be called. NOTE: Although this class is similar to that found in WPF/UWP, in Avalonia this class only concerns itself with generating and clearing item containers; it does not maintain a record of the currently realized containers, that responsibility is delegated to the items panel.
 
 ## Methods

@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # OverlayDismissEventPassThrough Property
 
 
@@ -11,12 +7,12 @@ Gets or sets a value indicating whether the event that closes the popup is passe
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool OverlayDismissEventPassThrough { get; set; }
+public bool OverlayDismissEventPassThrough \{ get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -35,15 +31,12 @@ member OverlayDismissEventPassThrough : bool with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/Popup.cs#L332" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/Popup.cs#L332" title="View the source code">View Source</a>
 
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
-
-## 
-When <a href="P_Avalonia_Controls_Primitives_Popup_IsLightDismissEnabled">IsLightDismissEnabled</a> is set to true, clicks outside the popup cause the popup to close. When OverlayDismissEventPassThrough is set to false, these clicks will be handled by the popup and not be registered by the parent window. When set to true, the events will be passed through to the parent window.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>When <a href="P_Avalonia_Controls_Primitives_Popup_IsLightDismissEnabled">IsLightDismissEnabled</a> is set to true, clicks outside the popup cause the popup to close. When OverlayDismissEventPassThrough is set to false, these clicks will be handled by the popup and not be registered by the parent window. When set to true, the events will be passed through to the parent window.
 
 ## See Also
 

@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # Avalonia.Controls.ApplicationLifetimes Namespace
 
 
@@ -53,7 +49,7 @@ import Tag from '@site/src/components/Tag';
 <table>
 <tr>
 <td><a href="T_Avalonia_Controls_ApplicationLifetimes_IActivatableApplicationLifetime">IActivatableApplicationLifetime</a></td>
-<td><Tag>Obsolete.</Tag></td>
+<td>Obsolete.</td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_ApplicationLifetimes_IActivatableLifetime">IActivatableLifetime</a></td>

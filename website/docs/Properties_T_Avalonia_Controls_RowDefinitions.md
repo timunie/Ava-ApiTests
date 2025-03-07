@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # RowDefinitions Properties
 
 
@@ -10,24 +6,24 @@ import Tag from '@site/src/components/Tag';
 ## Properties
 <table>
 <tr>
-<td>Capacity</td>
-<td><br />(Inherited from AvaloniaList(<a href="T_Avalonia_Controls_RowDefinition">RowDefinition</a>))</td>
+<td><a href="P_Avalonia_Collections_AvaloniaList_1_Capacity">Capacity</a></td>
+<td>Gets or sets the total number of elements the internal data structure can hold without resizing.<br />(Inherited from <a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList(T)</a>)</td>
 </tr>
 <tr>
-<td>Count</td>
-<td><br />(Inherited from AvaloniaList(<a href="T_Avalonia_Controls_RowDefinition">RowDefinition</a>))</td>
+<td><a href="P_Avalonia_Collections_AvaloniaList_1_Count">Count</a></td>
+<td>Gets the number of items in the collection.<br />(Inherited from <a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList(T)</a>)</td>
 </tr>
 <tr>
-<td>Item</td>
-<td><br />(Inherited from AvaloniaList(<a href="T_Avalonia_Controls_RowDefinition">RowDefinition</a>))</td>
+<td><a href="P_Avalonia_Collections_AvaloniaList_1_Item">Item(Int32)</a></td>
+<td>Gets or sets the item at the specified index.<br />(Inherited from <a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList(T)</a>)</td>
 </tr>
 <tr>
-<td>ResetBehavior</td>
-<td><br />(Inherited from AvaloniaList(<a href="T_Avalonia_Controls_RowDefinition">RowDefinition</a>))</td>
+<td><a href="P_Avalonia_Collections_AvaloniaList_1_ResetBehavior">ResetBehavior</a></td>
+<td>Gets or sets the reset behavior of the list.<br />(Inherited from <a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList(T)</a>)</td>
 </tr>
 <tr>
-<td>Validate</td>
-<td><br />(Inherited from AvaloniaList(<a href="T_Avalonia_Controls_RowDefinition">RowDefinition</a>))</td>
+<td><a href="P_Avalonia_Collections_AvaloniaList_1_Validate">Validate</a></td>
+<td>Gets or sets a validation routine that can be used to validate items before they are added.<br />(Inherited from <a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList(T)</a>)</td>
 </tr>
 </table>
 

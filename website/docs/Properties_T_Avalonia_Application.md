@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # Application Properties
 
 
@@ -11,7 +7,7 @@ import Tag from '@site/src/components/Tag';
 <table>
 <tr>
 <td><a href="P_Avalonia_Application_ActualThemeVariant">ActualThemeVariant</a></td>
-<td> </td>
+<td>Gets the UI theme that is currently used by the element, which might be different than the RequestedThemeVariantProperty.</td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_Application_ApplicationLifetime">ApplicationLifetime</a></td>
@@ -30,16 +26,16 @@ import Tag from '@site/src/components/Tag';
 <td>Gets or sets the application's global data templates.</td>
 </tr>
 <tr>
-<td>InheritanceParent</td>
-<td><br />(Inherited from AvaloniaObject)</td>
+<td><a href="P_Avalonia_AvaloniaObject_InheritanceParent">InheritanceParent</a></td>
+<td>Gets or sets the parent object that inherited <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a> values are inherited from.<br />(Inherited from <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a>)</td>
 </tr>
 <tr>
-<td>Item</td>
-<td><br />(Inherited from AvaloniaObject)</td>
+<td><a href="P_Avalonia_AvaloniaObject_Item">Item(AvaloniaProperty)</a></td>
+<td>Gets or sets the value of a <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Inherited from <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a>)</td>
 </tr>
 <tr>
-<td>Item</td>
-<td><br />(Inherited from AvaloniaObject)</td>
+<td><a href="P_Avalonia_AvaloniaObject_Item_1">Item(IndexerDescriptor)</a></td>
+<td>Gets or sets a binding for a <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Inherited from <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a>)</td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_Application_Name">Name</a></td>

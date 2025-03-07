@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # SpinEvent Field
 
 
@@ -11,7 +7,7 @@ Defines the <a href="E_Avalonia_Controls_Spinner_Spin">Spin</a> event.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -33,12 +29,12 @@ static val SpinEvent: RoutedEvent<SpinEventArgs>
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Spinner.cs" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Spinner.cs" title="View the source code">View Source</a>
 
 
 
 #### Field Value
-RoutedEvent(<a href="T_Avalonia_Controls_SpinEventArgs">SpinEventArgs</a>)
+<a href="T_Avalonia_Interactivity_RoutedEvent_1">RoutedEvent</a>(<a href="T_Avalonia_Controls_SpinEventArgs">SpinEventArgs</a>)
 
 ## See Also
 

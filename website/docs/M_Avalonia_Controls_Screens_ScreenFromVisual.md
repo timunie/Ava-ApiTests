@@ -1,17 +1,13 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # ScreenFromVisual Method
 
 
-Retrieves a Screen for the display that contains the specified Visual.
+Retrieves a Screen for the display that contains the specified <a href="T_Avalonia_Visual">Visual</a>.
 
 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -38,12 +34,12 @@ member ScreenFromVisual :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Screens.cs#L149" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Screens.cs#L149" title="View the source code">View Source</a>
 
 
 
 #### Parameters
-<dl><dt>  Visual</dt><dd>A Visual for which to retrieve a Screen.</dd></dl>
+<dl><dt>  <a href="T_Avalonia_Visual">Visual</a></dt><dd>A Visual for which to retrieve a Screen.</dd></dl>
 
 #### Return Value
 <a href="T_Avalonia_Platform_Screen">Screen</a>  

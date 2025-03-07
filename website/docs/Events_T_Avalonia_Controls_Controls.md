@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # Controls Events
 
 
@@ -10,12 +6,12 @@ import Tag from '@site/src/components/Tag';
 ## Events
 <table>
 <tr>
-<td>CollectionChanged</td>
-<td><br />(Inherited from AvaloniaList(<a href="T_Avalonia_Controls_Control">Control</a>))</td>
+<td><a href="E_Avalonia_Collections_AvaloniaList_1_CollectionChanged">CollectionChanged</a></td>
+<td>Raised when a change is made to the collection's items.<br />(Inherited from <a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList(T)</a>)</td>
 </tr>
 <tr>
-<td>PropertyChanged</td>
-<td><br />(Inherited from AvaloniaList(<a href="T_Avalonia_Controls_Control">Control</a>))</td>
+<td><a href="E_Avalonia_Collections_AvaloniaList_1_PropertyChanged">PropertyChanged</a></td>
+<td>Raised when a property on the collection changes.<br />(Inherited from <a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList(T)</a>)</td>
 </tr>
 </table>
 

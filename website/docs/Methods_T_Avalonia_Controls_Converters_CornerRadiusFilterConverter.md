@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # CornerRadiusFilterConverter Methods
 
 
@@ -11,11 +7,11 @@ import Tag from '@site/src/components/Tag';
 <table>
 <tr>
 <td><a href="M_Avalonia_Controls_Converters_CornerRadiusFilterConverter_Convert">Convert(Object, Type, Object, CultureInfo)</a></td>
-<td> </td>
+<td>Converts a value.</td>
 </tr>
 <tr>
 <td><a href="M_Avalonia_Controls_Converters_CornerRadiusFilterConverter_ConvertBack">ConvertBack(Object, Type, Object, CultureInfo)</a></td>
-<td> </td>
+<td>Converts a value.</td>
 </tr>
 <tr>
 <td><a href="https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)" target="_blank" rel="noopener noreferrer">Equals(Object)</a></td>

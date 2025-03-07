@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # DisplayDate Property
 
 
@@ -11,12 +7,12 @@ Gets or sets the date to display.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DateTime DisplayDate { get; set; }
+public DateTime DisplayDate \{ get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -35,16 +31,13 @@ member DisplayDate : DateTime with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Calendar/Calendar.cs#L752" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Calendar/Calendar.cs#L752" title="View the source code">View Source</a>
 
 
 
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.datetime" target="_blank" rel="noopener noreferrer">DateTime</a>  
 The date to display.
-
-## 
-
 This property allows the developer to specify a date to display. If this property is a null reference (Nothing in Visual Basic), SelectedDate is displayed. If SelectedDate is also a null reference (Nothing in Visual Basic), Today is displayed. The default is Today.
 
 To set this property in XAML, use a date specified in the format yyyy/mm/dd. The mm and dd components must always consist of two characters, with a leading zero if necessary. For instance, the month of May should be specified as 05.

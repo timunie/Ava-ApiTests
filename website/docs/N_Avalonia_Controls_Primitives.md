@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # Avalonia.Controls.Primitives Namespace
 
 
@@ -38,6 +34,46 @@ import Tag from '@site/src/components/Tag';
 <tr>
 <td><a href="T_Avalonia_Controls_Primitives_ChromeOverlayLayer">ChromeOverlayLayer</a></td>
 <td> </td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_Primitives_ColorHelper">ColorHelper</a></td>
+<td>Contains helpers useful when working with colors.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_Primitives_ColorPreviewer">ColorPreviewer</a></td>
+<td>Presents a preview color with optional accent colors.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_Primitives_ColorSlider">ColorSlider</a></td>
+<td>A slider with a background that represents a single color component.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_Primitives_ColorSpectrum">ColorSpectrum</a></td>
+<td>A two dimensional spectrum for color selection.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_Primitives_DataGridCellsPresenter">DataGridCellsPresenter</a></td>
+<td>Used within the template of a <a href="T_Avalonia_Controls_DataGrid">DataGrid</a> to specify the location in the control's visual tree where the cells are to be added.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_Primitives_DataGridColumnHeadersPresenter">DataGridColumnHeadersPresenter</a></td>
+<td>Used within the template of a <a href="T_Avalonia_Controls_DataGrid">DataGrid</a> to specify the location in the control's visual tree where the column headers are to be added.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_Primitives_DataGridDetailsPresenter">DataGridDetailsPresenter</a></td>
+<td>Used within the template of a <a href="T_Avalonia_Controls_DataGrid">DataGrid</a> to specify the location in the control's visual tree where the row details are to be added.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_Primitives_DataGridFrozenGrid">DataGridFrozenGrid</a></td>
+<td>Represents a non-scrollable grid that contains <a href="T_Avalonia_Controls_DataGrid">DataGrid</a> row headers.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_Primitives_DataGridRowHeader">DataGridRowHeader</a></td>
+<td>Represents an individual <a href="T_Avalonia_Controls_DataGrid">DataGrid</a> row header.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_Primitives_DataGridRowsPresenter">DataGridRowsPresenter</a></td>
+<td>Used within the template of a <a href="T_Avalonia_Controls_DataGrid">DataGrid</a> to specify the location in the control's visual tree where the rows are to be added.</td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_Primitives_DateTimePickerPanel">DateTimePickerPanel</a></td>

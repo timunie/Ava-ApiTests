@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # SharedSizeGroupProperty Field
 
 
@@ -11,7 +7,7 @@ Shared size group property marks column / row definition as belonging to a group
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -33,17 +29,12 @@ static val SharedSizeGroupProperty: AttachedProperty<string>
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/DefinitionBase.cs" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/DefinitionBase.cs" title="View the source code">View Source</a>
 
 
 
 #### Field Value
-AttachedProperty(<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>)
-
-## 
-Value of the Shared Size Group Property must satisfy the following rules: <ul><li>String must not be empty.</li><li>String must consist of letters, digits and underscore ('_') only.</li><li>String must not start with a digit.</li></ul>
-
-
+<a href="T_Avalonia_AttachedProperty_1">AttachedProperty</a>(<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>)Value of the Shared Size Group Property must satisfy the following rules: <ul>String must not be empty.String must consist of letters, digits and underscore ('_') only.String must not start with a digit.</ul>
 
 ## See Also
 

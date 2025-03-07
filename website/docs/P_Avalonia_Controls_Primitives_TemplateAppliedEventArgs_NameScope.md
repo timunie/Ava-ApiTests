@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # NameScope Property
 
 
@@ -11,12 +7,12 @@ Gets the name scope of the applied template.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public INameScope NameScope { get; }
+public INameScope NameScope \{ get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -34,12 +30,12 @@ member NameScope : INameScope with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/TemplateAppliedEventArgs.cs#L23" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/TemplateAppliedEventArgs.cs#L23" title="View the source code">View Source</a>
 
 
 
 #### Property Value
-INameScope
+<a href="T_Avalonia_Controls_INameScope">INameScope</a>
 
 ## See Also
 

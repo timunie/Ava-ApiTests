@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # ContentControlAutomationPeer Class
 
 
@@ -9,7 +5,7 @@ import Tag from '@site/src/components/Tag';
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,11 +31,11 @@ type ContentControlAutomationPeer =
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Peers/ContentControlAutomationPeer.cs" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ContentControlAutomationPeer.cs" title="View the source code">View Source</a>
 
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a>  →  <a href="T_Avalonia_Automation_Peers_ControlAutomationPeer">ControlAutomationPeer</a>  →  ContentControlAutomationPeer</td></tr>
-<tr><td><strong>Derived</strong></td><td><a href="T_Avalonia_Automation_Peers_ButtonAutomationPeer">Avalonia.Automation.Peers.ButtonAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_ListItemAutomationPeer">Avalonia.Automation.Peers.ListItemAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_ToggleButtonAutomationPeer">Avalonia.Automation.Peers.ToggleButtonAutomationPeer</a></td></tr>
+<tr><td><strong>Derived</strong></td><td><a href="T_Avalonia_Automation_Peers_ButtonAutomationPeer">Avalonia.Automation.Peers.ButtonAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_ListItemAutomationPeer">Avalonia.Automation.Peers.ListItemAutomationPeer</a><br /><a href="T_Avalonia_Automation_Peers_ToggleButtonAutomationPeer">Avalonia.Automation.Peers.ToggleButtonAutomationPeer</a><br /><a href="T_Avalonia_Controls_Automation_Peers_DataGridCellAutomationPeer">Avalonia.Controls.Automation.Peers.DataGridCellAutomationPeer</a><br /><a href="T_Avalonia_Controls_Automation_Peers_DataGridColumnHeaderAutomationPeer">Avalonia.Controls.Automation.Peers.DataGridColumnHeaderAutomationPeer</a></td></tr>
 </table>
 
 

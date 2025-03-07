@@ -1,20 +1,18 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # RadiusX Property
 
+
+Gets or sets the radius on the X-axis used to round the corners of the rectangle. Corner radii are represented by an ellipse so this is the X-axis width of the ellipse.
 
 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Shapes">Avalonia.Controls.Shapes</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double RadiusX { get; set; }
+public double RadiusX \{ get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -33,12 +31,12 @@ member RadiusX : float with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Shapes/Rectangle.cs#L34" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Shapes/Rectangle.cs#L34" title="View the source code">View Source</a>
 
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>
+<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>In order for this property to be used, <a href="P_Avalonia_Media_RectangleGeometry_Rect">Rect</a> must not be set (equal to the default <a href="T_Avalonia_Rect">Rect</a> value).
 
 ## See Also
 

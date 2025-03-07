@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # SelectionAdapter Property
 
 
@@ -11,12 +7,12 @@ Gets or sets the selection adapter used to populate the drop-down with a list of
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected ISelectionAdapter? SelectionAdapter { get; set; }
+protected ISelectionAdapter? SelectionAdapter \{ get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -35,16 +31,13 @@ member SelectionAdapter : ISelectionAdapter with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L564" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L564" title="View the source code">View Source</a>
 
 
 
 #### Property Value
 <a href="T_Avalonia_Controls_Utils_ISelectionAdapter">ISelectionAdapter</a>  
-The selection adapter used to populate the drop-down with a list of selectable items.
-
-## 
-You can use this property when you create an automation peer to use with AutoCompleteBox or deriving from AutoCompleteBox to create a custom control.
+The selection adapter used to populate the drop-down with a list of selectable items.You can use this property when you create an automation peer to use with AutoCompleteBox or deriving from AutoCompleteBox to create a custom control.
 
 ## See Also
 

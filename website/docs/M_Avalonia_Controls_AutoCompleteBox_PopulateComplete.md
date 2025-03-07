@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # PopulateComplete Method
 
 
@@ -11,7 +7,7 @@ Notifies the <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox</a> t
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -33,11 +29,8 @@ member PopulateComplete : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L1582" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L1582" title="View the source code">View Source</a>
 
-
-
-## 
 Call this method when you are providing custom population of the drop-down portion of the AutoCompleteBox, to signal the control that you are done with the population process. Typically, you use PopulateComplete when the population process is a long-running process and you want to cancel built-in filtering of the ItemsSource items. In this case, you can handle the Populated event and set PopulatingEventArgs.Cancel to true. When the long-running process has completed you call PopulateComplete to indicate the drop-down is populated.
 
 ## See Also

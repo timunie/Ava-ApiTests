@@ -1,0 +1,46 @@
+# MaxTextHeight Property
+
+
+Sets the maximum length of a column of text. The last line of text displayed is the last whole line that will fit within this limit, or the nth line as specified by MaxLineCount, whichever occurs first. Use the Trimming property to control how the omission of text is indicated.
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public double MaxTextHeight \{ get; set; }
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Property MaxTextHeight As Double
+	Get
+	Set
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+member MaxTextHeight : float with get, set
+```
+</TabItem>
+</Tabs>
+
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L1160" title="View the source code">View Source</a>
+
+
+
+#### Property Value
+<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Media_FormattedText">FormattedText Class</a>  
+<a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  

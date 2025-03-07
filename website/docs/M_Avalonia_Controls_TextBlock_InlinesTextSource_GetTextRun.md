@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # GetTextRun Method
 
 
@@ -9,7 +5,7 @@ import Tag from '@site/src/components/Tag';
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -38,7 +34,7 @@ override GetTextRun :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TextBlock.cs#L936" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TextBlock.cs#L936" title="View the source code">View Source</a>
 
 
 
@@ -46,10 +42,10 @@ override GetTextRun :
 <dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_blank" rel="noopener noreferrer">Int32</a></dt><dd> </dd></dl>
 
 #### Return Value
-TextRun
+<a href="T_Avalonia_Media_TextFormatting_TextRun">TextRun</a>
 
 #### Implements
-ITextSource.GetTextRun(Int32)  
+<a href="M_Avalonia_Media_TextFormatting_ITextSource_GetTextRun">ITextSource.GetTextRun(Int32)</a>  
 
 
 ## See Also

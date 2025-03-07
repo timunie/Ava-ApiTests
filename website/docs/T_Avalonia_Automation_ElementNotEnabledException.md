@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # ElementNotEnabledException Class
 
 
@@ -9,7 +5,7 @@ import Tag from '@site/src/components/Tag';
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Automation">Avalonia.Automation</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +31,7 @@ type ElementNotEnabledException =
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/ElementNotEnabledException.cs" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/ElementNotEnabledException.cs" title="View the source code">View Source</a>
 
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="https://learn.microsoft.com/dotnet/api/system.exception" target="_blank" rel="noopener noreferrer">Exception</a>  →  ElementNotEnabledException</td></tr>
@@ -127,7 +123,7 @@ type ElementNotEnabledException =
 <table>
 <tr>
 <td><a href="https://learn.microsoft.com/dotnet/api/system.exception.serializeobjectstate" target="_blank" rel="noopener noreferrer">SerializeObjectState</a></td>
-<td>Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.exception" target="_blank" rel="noopener noreferrer">Exception</a>)<br /><Tag>Obsolete.</Tag></td>
+<td>Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.exception" target="_blank" rel="noopener noreferrer">Exception</a>)<br />Obsolete.</td>
 </tr>
 </table>
 

@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # Avalonia.Controls.Automation.Peers Namespace
 
 
@@ -11,6 +7,26 @@ import Tag from '@site/src/components/Tag';
 
 ## Classes
 <table>
+<tr>
+<td><a href="T_Avalonia_Controls_Automation_Peers_DataGridAutomationPeer">DataGridAutomationPeer</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_Automation_Peers_DataGridCellAutomationPeer">DataGridCellAutomationPeer</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_Automation_Peers_DataGridColumnHeaderAutomationPeer">DataGridColumnHeaderAutomationPeer</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_Automation_Peers_DataGridColumnHeadersPresenterAutomationPeer">DataGridColumnHeadersPresenterAutomationPeer</a></td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Controls_Automation_Peers_DataGridDetailsPresenterAutomationPeer">DataGridDetailsPresenterAutomationPeer</a></td>
+<td> </td>
+</tr>
 <tr>
 <td><a href="T_Avalonia_Controls_Automation_Peers_ImageAutomationPeer">ImageAutomationPeer</a></td>
 <td> </td>

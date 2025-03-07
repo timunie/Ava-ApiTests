@@ -1,17 +1,13 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # GetTopLevel Method
 
 
-Gets the <a href="T_Avalonia_Controls_TopLevel">TopLevel</a> for which the given Visual is hosted in.
+Gets the <a href="T_Avalonia_Controls_TopLevel">TopLevel</a> for which the given <a href="T_Avalonia_Visual">Visual</a> is hosted in.
 
 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -38,12 +34,12 @@ static member GetTopLevel :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/TopLevel.cs#L591" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TopLevel.cs#L591" title="View the source code">View Source</a>
 
 
 
 #### Parameters
-<dl><dt>  Visual</dt><dd>The visual to query its TopLevel</dd></dl>
+<dl><dt>  <a href="T_Avalonia_Visual">Visual</a></dt><dd>The visual to query its TopLevel</dd></dl>
 
 #### Return Value
 <a href="T_Avalonia_Controls_TopLevel">TopLevel</a>  

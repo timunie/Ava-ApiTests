@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # 📂 Avalonia.Controls Namespaces
 
 
@@ -52,6 +48,10 @@ import Tag from '@site/src/components/Tag';
 <td></td>
 </tr>
 <tr>
+<td><a href="N_Avalonia_Controls_Metadata">Avalonia.Controls.Metadata</a></td>
+<td></td>
+</tr>
+<tr>
 <td><a href="N_Avalonia_Controls_Mixins">Avalonia.Controls.Mixins</a></td>
 <td></td>
 </tr>
@@ -73,6 +73,10 @@ import Tag from '@site/src/components/Tag';
 </tr>
 <tr>
 <td><a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="N_Avalonia_Controls_Primitives_Converters">Avalonia.Controls.Primitives.Converters</a></td>
 <td></td>
 </tr>
 <tr>

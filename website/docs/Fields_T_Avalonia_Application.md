@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # Application Fields
 
 
@@ -11,7 +7,7 @@ import Tag from '@site/src/components/Tag';
 <table>
 <tr>
 <td><a href="F_Avalonia_Application_ActualThemeVariantProperty">ActualThemeVariantProperty</a></td>
-<td> </td>
+<td>Defines the ActualThemeVariant property.</td>
 </tr>
 <tr>
 <td><a href="F_Avalonia_Application_DataContextProperty">DataContextProperty</a></td>
@@ -23,7 +19,7 @@ import Tag from '@site/src/components/Tag';
 </tr>
 <tr>
 <td><a href="F_Avalonia_Application_RequestedThemeVariantProperty">RequestedThemeVariantProperty</a></td>
-<td> </td>
+<td>Defines the RequestedThemeVariant property.</td>
 </tr>
 </table>
 

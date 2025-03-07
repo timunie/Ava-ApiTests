@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # ISelectionAdapter Methods
 
 
@@ -11,7 +7,7 @@ import Tag from '@site/src/components/Tag';
 <table>
 <tr>
 <td><a href="M_Avalonia_Controls_Utils_ISelectionAdapter_HandleKeyDown">HandleKeyDown(KeyEventArgs)</a></td>
-<td>Provides handling for the KeyDown event that occurs when a key is pressed while the drop-down portion of the <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox</a> has focus.</td>
+<td>Provides handling for the <a href="E_Avalonia_Input_InputElement_KeyDown">KeyDown</a> event that occurs when a key is pressed while the drop-down portion of the <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox</a> has focus.</td>
 </tr>
 </table>
 

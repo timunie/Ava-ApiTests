@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # Avalonia.Automation.Peers Namespace
 
 
@@ -30,6 +26,10 @@ import Tag from '@site/src/components/Tag';
 <tr>
 <td><a href="T_Avalonia_Automation_Peers_ControlAutomationPeer">ControlAutomationPeer</a></td>
 <td>An automation peer which represents a <a href="T_Avalonia_Controls_Control">Control</a> element.</td>
+</tr>
+<tr>
+<td><a href="T_Avalonia_Automation_Peers_DataGridRowAutomationPeer">DataGridRowAutomationPeer</a></td>
+<td> </td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Automation_Peers_ItemsControlAutomationPeer">ItemsControlAutomationPeer</a></td>

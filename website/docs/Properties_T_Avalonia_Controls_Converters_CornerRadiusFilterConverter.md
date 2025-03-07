@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # CornerRadiusFilterConverter Properties
 
 
@@ -11,7 +7,7 @@ import Tag from '@site/src/components/Tag';
 <table>
 <tr>
 <td><a href="P_Avalonia_Controls_Converters_CornerRadiusFilterConverter_Filter">Filter</a></td>
-<td>Gets or sets the corners to filter by. Only the specified corners will be included in the converted CornerRadius.</td>
+<td>Gets or sets the corners to filter by. Only the specified corners will be included in the converted <a href="T_Avalonia_CornerRadius">CornerRadius</a>.</td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_Controls_Converters_CornerRadiusFilterConverter_Scale">Scale</a></td>

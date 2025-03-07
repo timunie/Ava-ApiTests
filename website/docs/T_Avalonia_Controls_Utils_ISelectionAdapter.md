@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # ISelectionAdapter Interface
 
 
@@ -11,7 +7,7 @@ Defines an item collection, selection members, and key handling for the selectio
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Utils">Avalonia.Controls.Utils</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -33,7 +29,7 @@ type ISelectionAdapter = interface end
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Utils/ISelectionAdapter.cs" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Utils/ISelectionAdapter.cs" title="View the source code">View Source</a>
 
 
 
@@ -53,7 +49,7 @@ type ISelectionAdapter = interface end
 <table>
 <tr>
 <td><a href="M_Avalonia_Controls_Utils_ISelectionAdapter_HandleKeyDown">HandleKeyDown(KeyEventArgs)</a></td>
-<td>Provides handling for the KeyDown event that occurs when a key is pressed while the drop-down portion of the <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox</a> has focus.</td>
+<td>Provides handling for the <a href="E_Avalonia_Input_InputElement_KeyDown">KeyDown</a> event that occurs when a key is pressed while the drop-down portion of the <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox</a> has focus.</td>
 </tr>
 </table>
 

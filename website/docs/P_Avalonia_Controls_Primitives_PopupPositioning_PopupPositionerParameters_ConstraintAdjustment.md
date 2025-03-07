@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # ConstraintAdjustment Property
 
 
@@ -11,12 +7,12 @@ Specify how the popup should be positioned if the originally intended position c
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives_PopupPositioning">Avalonia.Controls.Primitives.PopupPositioning</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PopupPositionerConstraintAdjustment ConstraintAdjustment {
+public PopupPositionerConstraintAdjustment ConstraintAdjustment \{
 	get;
  set; }
 ```
@@ -38,15 +34,12 @@ member ConstraintAdjustment : PopupPositionerConstraintAdjustment with
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Primitives/PopupPositioning/IPopupPositioner.cs#L148" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/PopupPositioning/IPopupPositioner.cs#L148" title="View the source code">View Source</a>
 
 
 
 #### Property Value
-<a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupPositionerConstraintAdjustment">PopupPositionerConstraintAdjustment</a>
-
-## 
-Adjusts the popup position if the intended position caused the popup to be constrained; meaning at least partially outside positioning boundaries set by the positioner. The adjustment is set by constructing a bitmask describing the adjustment to be made when the popup is constrained on that axis. If no bit for one axis is set, the positioner will assume that the child surface should not change its position on that axis when constrained. If more than one bit for one axis is set, the order of how adjustments are applied is specified in the corresponding adjustment descriptions. The default adjustment is none.
+<a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupPositionerConstraintAdjustment">PopupPositionerConstraintAdjustment</a>Adjusts the popup position if the intended position caused the popup to be constrained; meaning at least partially outside positioning boundaries set by the positioner. The adjustment is set by constructing a bitmask describing the adjustment to be made when the popup is constrained on that axis. If no bit for one axis is set, the positioner will assume that the child surface should not change its position on that axis when constrained. If more than one bit for one axis is set, the order of how adjustments are applied is specified in the corresponding adjustment descriptions. The default adjustment is none.
 
 ## See Also
 

@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # IRootProvider Interface
 
 
@@ -11,7 +7,7 @@ Exposes methods and properties to support UI Automation client access to the roo
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -33,11 +29,8 @@ type IRootProvider = interface end
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Automation/Provider/IRootProvider.cs" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Provider/IRootProvider.cs" title="View the source code">View Source</a>
 
-
-
-## 
 This interface is implemented by the <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a> class, and should only be implemented on true root elements, such as Windows. To embed an automation tree, use <a href="T_Avalonia_Automation_Provider_IEmbeddedRootProvider">IEmbeddedRootProvider</a> instead.
 
 ## Properties

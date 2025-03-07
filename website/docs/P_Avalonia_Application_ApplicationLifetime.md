@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # ApplicationLifetime Property
 
 
@@ -11,12 +7,12 @@ Application lifetime, use it for things like setting the main window and exiting
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IApplicationLifetime? ApplicationLifetime { get; set; }
+public IApplicationLifetime? ApplicationLifetime \{ get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -35,7 +31,7 @@ member ApplicationLifetime : IApplicationLifetime with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Application.cs#L186" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Application.cs#L186" title="View the source code">View Source</a>
 
 
 

@@ -1,7 +1,3 @@
-import Tabs from '@theme/Tabs'; 
-import TabItem from '@theme/TabItem'; 
-import Tag from '@site/src/components/Tag'; 
-
 # Build(Object, Control) Method
 
 
@@ -11,7 +7,7 @@ Creates or recycles a control to display the specified data.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0+68ab391c0a3653e0722638e29fcbd9633c7fd386
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -41,7 +37,7 @@ abstract Build :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/srcAvalonia.Controls/Templates/IRecyclingDataTemplate.cs" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Templates/IRecyclingDataTemplate.cs" title="View the source code">View Source</a>
 
 
 
@@ -50,10 +46,7 @@ abstract Build :
 
 #### Return Value
 <a href="T_Avalonia_Controls_Control">Control</a>  
-The *existing* control if supplied and applicable to *data*, otherwise a new control or null.
-
-## 
-The caller should ensure that any control passed to *existing* originated from the same data template.
+The *existing* control if supplied and applicable to *data*, otherwise a new control or null.The caller should ensure that any control passed to *existing* originated from the same data template.
 
 ## See Also
 
