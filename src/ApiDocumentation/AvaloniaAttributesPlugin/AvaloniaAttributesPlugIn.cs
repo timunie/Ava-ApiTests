@@ -4,8 +4,8 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Xml;
 using System.Xml.Linq;
+using System.Xml.XPath;
 
 // Search for "TODO" to find changes that you need to make to this plug-in template.
 
@@ -37,9 +37,9 @@ namespace AvaloniaAttributes
 
         //=====================================================================
 
-        private List<ExecutionPoint> executionPoints;
+        private List<ExecutionPoint>? _executionPoints;
 
-        private BuildProcess builder;
+        private BuildProcess? _builder;
 
         #endregion
 
@@ -55,14 +55,14 @@ namespace AvaloniaAttributes
         {
             get
             {
-                if (executionPoints == null)
-                    executionPoints = new List<ExecutionPoint>
+                if (_executionPoints == null)
+                    _executionPoints = new List<ExecutionPoint>
                     {
                         new ExecutionPoint(BuildStep.GenerateReflectionInfo, ExecutionBehaviors.Before),
                         new ExecutionPoint(BuildStep.ApplyDocumentModel, ExecutionBehaviors.Before),
                     };
 
-                return executionPoints;
+                return _executionPoints;
             }
         }
 
@@ -73,12 +73,12 @@ namespace AvaloniaAttributes
         /// <param name="configuration">The configuration data that the plug-in should use to initialize itself</param>
         public void Initialize(BuildProcess buildProcess, XElement configuration)
         {
-            builder = buildProcess;
+            _builder = buildProcess;
 
             var metadata = (HelpFileBuilderPlugInExportAttribute)this.GetType().GetCustomAttributes(
                 typeof(HelpFileBuilderPlugInExportAttribute), false).First();
 
-            builder.ReportProgress("{0} Version {1}\r\n{2}", metadata.Id, metadata.Version, metadata.Copyright);
+            _builder.ReportProgress("{0} Version {1}\r\n{2}", metadata.Id, metadata.Version, metadata.Copyright);
 
             // TODO: Add your initialization code here such as reading the configuration data
         }
@@ -92,22 +92,22 @@ namespace AvaloniaAttributes
             switch (context.BuildStep)
             {
                 case BuildStep.GenerateReflectionInfo:
-                    AddAvaloniaAttributesToReflectionInfo(context);
+                    AddAvaloniaAttributesToReflectionInfo();
                     break;
                 case BuildStep.ApplyDocumentModel:
-                    FilterPrivateApi(context);
+                    FilterPrivateApi();
                     break;
             }
         }
 
-        private void AddAvaloniaAttributesToReflectionInfo(ExecutionContext context)
+        private void AddAvaloniaAttributesToReflectionInfo()
         {
-            builder.ReportProgress("Adding PrivateApi-Attribute");
+            _builder?.ReportProgress("Adding PrivateApi-Attribute");
 
-            string configFile = Path.Combine(builder.WorkingFolder, "MRefBuilder.config");
+            string configFile = Path.Combine(_builder!.WorkingFolder, "MRefBuilder.config");
 
             var config = XDocument.Load(configFile);
-            var currentFilter = config.Root.Descendants("attributeFilter").FirstOrDefault();
+            var currentFilter = config.Root?.Descendants("attributeFilter").FirstOrDefault();
 
             if (currentFilter != null)
                 currentFilter.Add(new XElement("namespace", new XAttribute("name", "Avalonia.Metadata"),
@@ -116,61 +116,77 @@ namespace AvaloniaAttributes
                         new XAttribute("expose", "true"))));
 
             config.Save(configFile);
-
-            return;
         }
 
-        private void FilterPrivateApi(ExecutionContext context)
+
+        private void FilterPrivateApi()
         {
             // Copy idea of the `XPathReflectionFileFilterPlugIn`, but with also removing all items having a specific attribute
-            
-            XmlDocument refInfo = new XmlDocument();
 
-            refInfo.Load(builder.ReflectionInfoFilename);
+            XDocument refInfo = XDocument.Load(_builder!.ReflectionInfoFilename);
 
             int counter = 0;
 
-            var nodes = refInfo.SelectNodes("/reflection/apis/api[contains(@id, 'Impl')]");
-            
+            var nodes = refInfo.XPathSelectElements("/reflection/apis/api[contains(@id, 'Impl')]").ToList();
+
             // Remove all Nodes whose name ends with "impl"
-            foreach (XmlNode node in nodes)
+            foreach (var node in nodes)
             {
-                if (node is XmlElement element && element.GetAttribute("id") is string attr)
+                if (node.Attribute("id")?.Value is { } attr)
                 {
                     if (attr.EndsWith("Impl") || attr.Contains("Impl."))
                     {
-                        element.ParentNode.RemoveChild(element);
-                        
-                        RemoveApiRecursive(refInfo, element?.GetAttribute("id"), ref counter);
+                        node.Remove();
+                        RemoveApiRecursive(refInfo, node.Attribute("id")?.Value, ref counter);
                     }
                 }
+
                 counter++;
             }
+
+            _builder.ReportProgress("    Removed {0} Items for expression '{1}'", counter,
+                "/reflection/apis/api[contains(@id, 'Impl')]");
+
+            // Remove all Nodes with Attribute "PrivateApi"
+            counter = 0;
             
-            // foreach(string expression in expressions)
-            // {
-            //     builder.ReportProgress("Removing items matching '{0}'", expression);
-            //
-            //     XmlNodeList nodes = refInfo.SelectNodes(expression);
-            //
-            //     foreach(XmlNode node in nodes)
-            //         node.ParentNode.RemoveChild(node);
+            nodes = refInfo
+                .XPathSelectElements(
+                    "/reflection/apis/api[attributes/attribute/type/@api='T:Avalonia.Metadata.PrivateApiAttribute']")
+                .ToList();
+            
+            foreach (var node in nodes)
+            {
+                node.Remove();
+                RemoveApiRecursive(refInfo, node.Attribute("id")?.Value, ref counter);
+            }
 
-            builder.ReportProgress("    Removed {0} items", counter);
+            counter++;
+            
+            _builder.ReportProgress("    Removed {0} Items for expression '{1}'", counter,
+                "/reflection/apis/api[attributes/attribute/type/@api='T:Avalonia.Metadata.PrivateApiAttribute']");
 
-
-            refInfo.Save(builder.ReflectionInfoFilename);
+            refInfo.Save(_builder.ReflectionInfoFilename);
         }
 
-        private void RemoveApiRecursive(XmlDocument refInfo, string apiName, ref int counter)
+        private static void RemoveApiRecursive(XDocument refInfo, string? apiName, ref int counter)
         {
-            var nodes = refInfo.SelectNodes($"//*[contains(@api, '{apiName}')]");
-            
-            foreach (XmlNode node in nodes)
+            if (apiName == null) return;
+
+            var nodes = refInfo.XPathSelectElements($"//*[contains(@api, '{apiName}')]").ToList();
+
+            foreach (var node in nodes)
             {
-                node.ParentNode.RemoveChild(node);
-                counter++;
-                RemoveApiRecursive(refInfo, (node as XmlElement)?.GetAttribute("api"), ref counter);
+                if (node.Parent != null)
+                {
+                    node.Remove();
+                    counter++;
+
+                    if (node.Attribute("api")?.Value != apiName)
+                    {
+                        RemoveApiRecursive(refInfo, node.Attribute("api")?.Value, ref counter);
+                    }
+                }
             }
         }
         
