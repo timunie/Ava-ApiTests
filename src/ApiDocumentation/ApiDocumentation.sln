@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocusaurusPresentationStyle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{55659784-0A4A-4E1E-AAEC-AAD505161774}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaAttributesPlugIn", "AvaloniaAttributes\AvaloniaAttributesPlugIn.csproj", "{2D999AB3-8D83-4432-B7A3-9B0BBECB7A45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaAttributesPlugIn", "AvaloniaAttributesPlugin\AvaloniaAttributesPlugin.csproj", "{2D999AB3-8D83-4432-B7A3-9B0BBECB7A45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

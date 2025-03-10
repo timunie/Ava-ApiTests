@@ -40,6 +40,7 @@
 		<IsTool>true</IsTool>
 		<NoWarn>$(NoWarn);NU5128</NoWarn>
 		<ContentTargetFolders>tools\</ContentTargetFolders>
+		<LangVersion>latest</LangVersion>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

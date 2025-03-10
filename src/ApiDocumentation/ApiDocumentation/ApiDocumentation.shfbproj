@@ -113,15 +113,14 @@
           </deploymentLocation>
         </configuration>
       </PlugInConfig>
-      <PlugInConfig id="XPath Reflection File Filter" enabled="True">
+      <PlugInConfig id="XPath Reflection File Filter" enabled="False">
         <configuration>
           <expressions>
-            <!-- <expression>/reflection/apis/api[//@api="T:Avalonia.Metadata.PrivateApiAttribute"]</expression> -->
+            <expression>/reflection/apis/api[attributes/attribute/type/@api="T:Avalonia.Metadata.PrivateApiAttribute"]</expression>
             <expression>/reflection/apis/api[substring(@id, string-length(@id) - string-length("Impl") +1) = "Impl"]</expression>
             <expression>/reflection/apis/api[contains(@id, "Impl.")]</expression>
             <expression>/reflection/apis/api/elements/element[substring(@api, string-length(@api) - string-length("Impl") +1) = "Impl"]</expression>
             <expression>/reflection/apis/api/elements/element[contains(@id, "Impl.")]</expression>
-            <!-- <expression>//*[substring(@id, string-length(@id) - string-length("Impl") +1) = "Impl"]</expression> -->
           </expressions>
         </configuration>
       </PlugInConfig>
