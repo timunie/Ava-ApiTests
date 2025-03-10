@@ -116,11 +116,19 @@
       <PlugInConfig id="XPath Reflection File Filter" enabled="True">
         <configuration>
           <expressions>
-            <expression>/reflection/apis/api/attributes/attribute[type/@api="T:Avalonia.Metadata.PrivateApiAttribute"]</expression>
+            <!-- <expression>/reflection/apis/api[//@api="T:Avalonia.Metadata.PrivateApiAttribute"]</expression> -->
+            <expression>/reflection/apis/api[substring(@id, string-length(@id) - string-length("Impl") +1) = "Impl"]</expression>
+            <expression>/reflection/apis/api[contains(@id, "Impl.")]</expression>
+            <expression>/reflection/apis/api/elements/element[substring(@api, string-length(@api) - string-length("Impl") +1) = "Impl"]</expression>
+            <expression>/reflection/apis/api/elements/element[contains(@id, "Impl.")]</expression>
+            <!-- <expression>//*[substring(@id, string-length(@id) - string-length("Impl") +1) = "Impl"]</expression> -->
           </expressions>
         </configuration>
       </PlugInConfig>
       <PlugInConfig id="DocusaurusExport" enabled="True">
+        <configuration />
+      </PlugInConfig>
+      <PlugInConfig id="AvaloniaAttributes" enabled="True">
         <configuration />
       </PlugInConfig>
     </PlugInConfigurations>
@@ -139,6 +147,7 @@
     <WorkingPath>Help\</WorkingPath>
     <BuildLogFile>Build-Log\Help.log</BuildLogFile>
     <SourceCodeBasePath>..\..\..\Avalonia\src\</SourceCodeBasePath>
+    <VisibleItems>Attributes, InheritedMembers, InheritedFrameworkMembers, Protected, ProtectedInternalAsProtected, NonBrowsable</VisibleItems>
   </PropertyGroup>
   <!-- There are no properties for these groups.  AnyCPU needs to appear in order for Visual Studio to perform
 			 the build.  The others are optional common platform types that may appear. -->
