@@ -57,6 +57,11 @@ namespace TestProject
             // Remove all Nodes with Attribute "PrivateApi"
             foreach (var node in nodes)
             {
+                foreach (var child in node.Descendants("element").ToList())
+                {
+                    RemoveApiRecursive(refInfo, child?.Attribute("api")?.Value, ref counter);
+                }
+                
                 if (node.Parent != null)
                 {
                     node.Remove();
@@ -88,12 +93,10 @@ namespace TestProject
                     counter++;
 
                     if (node.Attribute("api")?.Value != apiName)
-                    {
                         RemoveApiRecursive(refInfo, node.Attribute("api")?.Value, ref counter);
-                    }
                 }
             }
-            
+
             nodes = refInfo.XPathSelectElements($"//*[contains(@id, '{apiName}')]").ToList();
 
             foreach (var node in nodes)
@@ -103,10 +106,8 @@ namespace TestProject
                     node.Remove();
                     counter++;
 
-                    if (node.Attribute("id")?.Value != apiName)
-                    {
+                    if (node.Attribute("api")?.Value != apiName)
                         RemoveApiRecursive(refInfo, node.Attribute("id")?.Value, ref counter);
-                    }
                 }
             }
         }
