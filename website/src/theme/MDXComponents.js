@@ -3,6 +3,7 @@ import React from 'react';
 import MDXComponents from '@theme-original/MDXComponents';
 import Tabs from '@theme/Tabs'; 
 import TabItem from '@theme/TabItem'; 
+import Tag from '@site/src/components/Tag';
 
 export default {
   // Re-use the default mapping
@@ -10,4 +11,5 @@ export default {
   // Map the Tabs etc
   Tabs,
   TabItem,
+  Tag,
 };

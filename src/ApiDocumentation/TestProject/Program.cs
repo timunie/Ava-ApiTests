@@ -1,4 +1,5 @@
-﻿using System.Xml;
+﻿using System.Collections.Generic;
+using System.Xml;
 using System.Xml.Linq;
 using System.Xml.XPath;
 
@@ -20,18 +21,19 @@ namespace TestProject
             // Copy idea of the `XPathReflectionFileFilterPlugIn`, but with also removing all items having a specific attribute
 
             var original =
-                @"C:\Users\timun\source\repos\_OSS\Ava-ApiTests\src\ApiDocumentation\TestProject\TestFiles\reflection.xml";
+                @"C:\Users\uniewski\source\repos\_OSS\Ava-ApiTests\src\ApiDocumentation\TestProject\TestFiles\reflection.xml";
 
             var processed =
-                @"C:\Users\timun\source\repos\_OSS\Ava-ApiTests\src\ApiDocumentation\TestProject\TestFiles\mod.xml";
+                @"C:\Users\uniewski\source\repos\_OSS\Ava-ApiTests\src\ApiDocumentation\TestProject\TestFiles\mod.xml";
 
             XDocument refInfo = XDocument.Load(original);
 
             int counter = 0;
+            
+            // Remove all Nodes whose id ends with "Impl"
+            var nodes = refInfo.XPathSelectElements("/reflection/apis/api[contains(@id, 'Impl')]");
 
-            var nodes = refInfo.XPathSelectElements("/reflection/apis/api[contains(@id, 'Impl')]").ToList();
-
-            // Remove all Nodes whose name ends with "impl"
+            
             foreach (var node in nodes)
             {
                 if (node.Attribute("id")?.Value is { } attr)
@@ -39,7 +41,31 @@ namespace TestProject
                     if ((attr.EndsWith("Impl") || attr.Contains("Impl.")) && node.Parent != null)
                     {
                         node.Remove();
-                        RemoveApiRecursive(refInfo, node?.Attribute("id")?.Value, ref counter);
+                        // RemoveApiRecursive(refInfo, node?.Attribute("id")?.Value, ref counter);
+                    }
+                }
+
+                counter++;
+            }
+            
+            Console.WriteLine("    Removed {0} for expression '{1}'", counter,
+                "/reflection/apis/api[contains(@id, 'Impl')]");
+
+
+            // -------------------------------------------------------------------------------------------------------------------
+            // Remove all Nodes whose api-name ends with "Impl"
+
+            nodes = refInfo.XPathSelectElements("/reflection/apis/api/elements/element[contains(@api, 'Impl')]");
+
+            // Remove all Nodes whose name ends with "impl"
+            foreach (var node in nodes)
+            {
+                if (node.Attribute("api")?.Value is { } attr)
+                {
+                    if ((attr.EndsWith("Impl") || attr.Contains("Impl.")))
+                    {
+                        node.Remove();
+                        // RemoveApiRecursive(refInfo, node?.Attribute("api")?.Value, ref counter);
                     }
                 }
 
@@ -47,30 +73,90 @@ namespace TestProject
             }
 
             Console.WriteLine("    Removed {0} for expression '{1}'", counter,
-                "/reflection/apis/api[contains(@id, 'Impl')]");
+                "/reflection/apis/api/elements/element[contains(@api, 'Impl')]");
+
+
+            // -------------------------------------------------------------------------------------------------------------------
+            // Remove all Nodes with PrivateApi-Attribute
 
             nodes = refInfo
                 .XPathSelectElements(
                     "/reflection/apis/api[attributes/attribute/type/@api='T:Avalonia.Metadata.PrivateApiAttribute']")
                 .ToList();
 
+            HashSet<string> childrenToRemove = new HashSet<string>();
+
             // Remove all Nodes with Attribute "PrivateApi"
             foreach (var node in nodes)
             {
-                foreach (var child in node.Descendants("element").ToList())
+                var children = node.Descendants("element")
+                    .Select(x => x.Attribute("api")?.Value ?? string.Empty)
+                    .Where(x => x?.Contains("Avalonia") ?? false);
+
+                foreach (var child in children)
                 {
-                    RemoveApiRecursive(refInfo, child?.Attribute("api")?.Value, ref counter);
+                    childrenToRemove.Add(child);
                 }
                 
                 if (node.Parent != null)
                 {
                     node.Remove();
-                    RemoveApiRecursive(refInfo, node?.Attribute("id")?.Value, ref counter);
+                    childrenToRemove.Add(node.Attribute("id")?.Value ?? string.Empty);
+                    counter++;
+                    // RemoveApiRecursive(refInfo, node?.Attribute("id")?.Value, ref counter);
                 }
             }
 
-            counter++;
+            // collect all elements from types to remove
+            foreach (var item in childrenToRemove.Where(x => x.StartsWith("T:")).ToArray())
+            {
+                nodes = refInfo
+                    .XPathSelectElements(
+                        $"/reflection/apis/api[contains(@id, '{item}')]");
 
+                foreach (var node in nodes)
+                {
+                    var children = node.Descendants("element")
+                                        .Select(x => x.Attribute("api")?.Value ?? string.Empty)
+                                        .Where(x => x?.Contains("Avalonia") ?? false);
+
+                    childrenToRemove.Add(node.Attribute("id").Value ?? string.Empty);
+
+                    foreach (var child in children)
+                    {
+                        childrenToRemove.Add(child);
+                    }
+                }
+            }
+
+            foreach (var child in childrenToRemove)
+            {
+                nodes = refInfo
+                    .XPathSelectElements(
+                        $"/reflection/apis/api/elements/element[contains(@api, '{child}')]");
+
+                foreach (var node in nodes)
+                {
+                    if (node.Parent != null)
+                    {
+                        node.Remove();
+                        counter++;
+                    }
+                }
+
+                nodes = refInfo
+                    .XPathSelectElements(
+                        $"/reflection/apis/api[contains(@id, '{child}')]");
+
+                foreach (var node in nodes)
+                {
+                    if (node.Parent != null)
+                    {
+                        node.Remove();
+                        counter++;
+                    }
+                }
+            }
 
             Console.WriteLine("    Removed {0} items in total", counter);
             // builder.ReportProgress();
@@ -79,37 +165,5 @@ namespace TestProject
             refInfo.Save(processed);
         }
 
-        private static void RemoveApiRecursive(XDocument refInfo, string? apiName, ref int counter)
-        {
-            if (apiName == null) return;
-
-            var nodes = refInfo.XPathSelectElements($"//*[contains(@api, '{apiName}')]").ToList();
-
-            foreach (var node in nodes)
-            {
-                if (node.Parent != null)
-                {
-                    node.Remove();
-                    counter++;
-
-                    if (node.Attribute("api")?.Value != apiName)
-                        RemoveApiRecursive(refInfo, node.Attribute("api")?.Value, ref counter);
-                }
-            }
-
-            nodes = refInfo.XPathSelectElements($"//*[contains(@id, '{apiName}')]").ToList();
-
-            foreach (var node in nodes)
-            {
-                if (node.Parent != null)
-                {
-                    node.Remove();
-                    counter++;
-
-                    if (node.Attribute("api")?.Value != apiName)
-                        RemoveApiRecursive(refInfo, node.Attribute("id")?.Value, ref counter);
-                }
-            }
-        }
     }
 }

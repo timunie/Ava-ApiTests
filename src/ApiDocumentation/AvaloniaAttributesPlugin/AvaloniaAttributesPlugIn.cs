@@ -4,6 +4,8 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text.RegularExpressions;
+using System.Xml;
 using System.Xml.Linq;
 using System.Xml.XPath;
 
@@ -37,9 +39,9 @@ namespace AvaloniaAttributes
 
         //=====================================================================
 
-        private List<ExecutionPoint>? _executionPoints;
+        private List<ExecutionPoint> executionPoints;
 
-        private BuildProcess? _builder;
+        private BuildProcess builder;
 
         #endregion
 
@@ -55,14 +57,14 @@ namespace AvaloniaAttributes
         {
             get
             {
-                if (_executionPoints == null)
-                    _executionPoints = new List<ExecutionPoint>
+                if (executionPoints == null)
+                    executionPoints = new List<ExecutionPoint>
                     {
                         new ExecutionPoint(BuildStep.GenerateReflectionInfo, ExecutionBehaviors.Before),
                         new ExecutionPoint(BuildStep.ApplyDocumentModel, ExecutionBehaviors.Before),
                     };
 
-                return _executionPoints;
+                return executionPoints;
             }
         }
 
@@ -73,12 +75,12 @@ namespace AvaloniaAttributes
         /// <param name="configuration">The configuration data that the plug-in should use to initialize itself</param>
         public void Initialize(BuildProcess buildProcess, XElement configuration)
         {
-            _builder = buildProcess;
+            builder = buildProcess;
 
             var metadata = (HelpFileBuilderPlugInExportAttribute)this.GetType().GetCustomAttributes(
                 typeof(HelpFileBuilderPlugInExportAttribute), false).First();
 
-            _builder.ReportProgress("{0} Version {1}\r\n{2}", metadata.Id, metadata.Version, metadata.Copyright);
+            builder.ReportProgress("{0} Version {1}\r\n{2}", metadata.Id, metadata.Version, metadata.Copyright);
 
             // TODO: Add your initialization code here such as reading the configuration data
         }
@@ -92,22 +94,22 @@ namespace AvaloniaAttributes
             switch (context.BuildStep)
             {
                 case BuildStep.GenerateReflectionInfo:
-                    AddAvaloniaAttributesToReflectionInfo();
+                    AddAvaloniaAttributesToReflectionInfo(context);
                     break;
                 case BuildStep.ApplyDocumentModel:
-                    FilterPrivateApi();
+                    FilterPrivateApi(context);
                     break;
             }
         }
 
-        private void AddAvaloniaAttributesToReflectionInfo()
+        private void AddAvaloniaAttributesToReflectionInfo(ExecutionContext context)
         {
-            _builder?.ReportProgress("Adding PrivateApi-Attribute");
+            builder.ReportProgress("Adding PrivateApi-Attribute");
 
-            string configFile = Path.Combine(_builder!.WorkingFolder, "MRefBuilder.config");
+            string configFile = Path.Combine(builder.WorkingFolder, "MRefBuilder.config");
 
             var config = XDocument.Load(configFile);
-            var currentFilter = config.Root?.Descendants("attributeFilter").FirstOrDefault();
+            var currentFilter = config.Root.Descendants("attributeFilter").FirstOrDefault();
 
             if (currentFilter != null)
                 currentFilter.Add(new XElement("namespace", new XAttribute("name", "Avalonia.Metadata"),
@@ -116,80 +118,169 @@ namespace AvaloniaAttributes
                         new XAttribute("expose", "true"))));
 
             config.Save(configFile);
+
+            return;
         }
 
-
-        private void FilterPrivateApi()
+        private void FilterPrivateApi(ExecutionContext context)
         {
             // Copy idea of the `XPathReflectionFileFilterPlugIn`, but with also removing all items having a specific attribute
 
-            XDocument refInfo = XDocument.Load(_builder!.ReflectionInfoFilename);
+            XDocument refInfo = XDocument.Load(builder.ReflectionInfoFilename);
 
-            int counter = 0;
+            int counter = 0, counterSum = 0;
 
-            var nodes = refInfo.XPathSelectElements("/reflection/apis/api[contains(@id, 'Impl')]").ToList();
+            // Remove all Nodes whose id ends with "Impl"
+            Regex
+                regex = new Regex(
+                    @"Impl([A-Z.,)]|\b)", RegexOptions.Compiled); // Finds any text that ends with Impl or contains Impl - followed by Uppercase-char. 
 
-            // Remove all Nodes whose name ends with "impl"
+            var nodes = refInfo.XPathSelectElements("/reflection/apis/api[contains(@id, 'Impl')]").ToArray();
+
             foreach (var node in nodes)
             {
-                if (node.Attribute("id")?.Value is { } attr)
+                if (node.Attribute("id")?.Value is { } attr && regex.IsMatch(attr) && node.Parent != null)
                 {
-                    if (attr.EndsWith("Impl") || attr.Contains("Impl."))
-                    {
-                        node.Remove();
-                        RemoveApiRecursive(refInfo, node.Attribute("id")?.Value, ref counter);
-                    }
+                    node.Remove();
                 }
 
                 counter++;
             }
 
-            _builder.ReportProgress("    Removed {0} Items for expression '{1}'", counter,
+            builder.ReportProgress("    Removed {0} for expression '{1}'", counter,
                 "/reflection/apis/api[contains(@id, 'Impl')]");
 
-            // Remove all Nodes with Attribute "PrivateApi"
+            counterSum += counter;
             counter = 0;
-            
+
+            // -------------------------------------------------------------------------------------------------------------------
+            // Remove all Nodes whose api-name ends with "Impl"
+
+            nodes = refInfo.XPathSelectElements("/reflection/apis/api/elements/element[contains(@api, 'Impl')]")
+                .ToArray();
+
+            // Remove all Nodes whose name ends with "impl"
+            foreach (var node in nodes)
+            {
+                if (node.Attribute("api")?.Value is { } attr && regex.IsMatch(attr) && node.Parent != null)
+                {
+                    node.Remove();
+                }
+
+                counter++;
+            }
+
+            builder.ReportProgress("    Removed {0} for expression '{1}'", counter,
+                "/reflection/apis/api/elements/element[contains(@api, 'Impl')]");
+
+            counterSum += counter;
+            counter = 0;
+
+            // -------------------------------------------------------------------------------------------------------------------
+            // Remove all Nodes with PrivateApi-Attribute
+
             nodes = refInfo
                 .XPathSelectElements(
                     "/reflection/apis/api[attributes/attribute/type/@api='T:Avalonia.Metadata.PrivateApiAttribute']")
-                .ToList();
-            
+                .ToArray();
+
+            HashSet<string> childrenToRemove = new HashSet<string>();
+
+            // Remove all Nodes with Attribute "PrivateApi"
             foreach (var node in nodes)
             {
-                node.Remove();
-                RemoveApiRecursive(refInfo, node.Attribute("id")?.Value, ref counter);
-            }
+                var children = node.Descendants("element")
+                    .Select(x => x.Attribute("api")?.Value ?? string.Empty)
+                    .Where(x => x?.Contains("Avalonia") ?? false);
 
-            counter++;
-            
-            _builder.ReportProgress("    Removed {0} Items for expression '{1}'", counter,
-                "/reflection/apis/api[attributes/attribute/type/@api='T:Avalonia.Metadata.PrivateApiAttribute']");
+                foreach (var child in children)
+                {
+                    childrenToRemove.Add(child);
+                }
 
-            refInfo.Save(_builder.ReflectionInfoFilename);
-        }
-
-        private static void RemoveApiRecursive(XDocument refInfo, string? apiName, ref int counter)
-        {
-            if (apiName == null) return;
-
-            var nodes = refInfo.XPathSelectElements($"//*[contains(@api, '{apiName}')]").ToList();
-
-            foreach (var node in nodes)
-            {
                 if (node.Parent != null)
                 {
                     node.Remove();
+                    childrenToRemove.Add(node.Attribute("id")?.Value ?? string.Empty);
                     counter++;
+                    // RemoveApiRecursive(refInfo, node?.Attribute("id")?.Value, ref counter);
+                }
+            }
 
-                    if (node.Attribute("api")?.Value != apiName)
+            builder.ReportProgress("    Removed {0} for expression '{1}'", counter,
+                "/reflection/apis/api[attributes/attribute/type/@api='T:Avalonia.Metadata.PrivateApiAttribute']");
+
+            counterSum += counter;
+            counter = 0;
+
+            // collect all elements from types to remove
+            foreach (var item in childrenToRemove.Where(x => x.StartsWith("T:")).ToArray())
+            {
+                nodes = refInfo
+                    .XPathSelectElements(
+                        $"/reflection/apis/api[contains(@id, '{item}')]").ToArray();
+
+                foreach (var node in nodes)
+                {
+                    var children = node.Descendants("element")
+                        .Select(x => x.Attribute("api")?.Value ?? string.Empty)
+                        .Where(x => x?.Contains("Avalonia") ?? false);
+
+                    childrenToRemove.Add(node.Attribute("id").Value ?? string.Empty);
+
+                    foreach (var child in children)
                     {
-                        RemoveApiRecursive(refInfo, node.Attribute("api")?.Value, ref counter);
+                        childrenToRemove.Add(child);
                     }
                 }
             }
+
+            builder.ReportProgress("    Removed {0} for expression '{1}'", counter,
+                "/reflection/apis/api[contains(@id, '{item}')]");
+
+            counterSum += counter;
+            counter = 0;
+
+            foreach (var child in childrenToRemove)
+            {
+                nodes = refInfo
+                    .XPathSelectElements(
+                        $"/reflection/apis/api/elements/element[contains(@api, '{child}')]").ToArray();
+
+                foreach (var node in nodes)
+                {
+                    if (node.Parent != null)
+                    {
+                        node.Remove();
+                        counter++;
+                    }
+                }
+
+                nodes = refInfo
+                    .XPathSelectElements(
+                        $"/reflection/apis/api[contains(@id, '{child}')]").ToArray();
+
+                foreach (var node in nodes)
+                {
+                    if (node.Parent != null)
+                    {
+                        node.Remove();
+                        counter++;
+                    }
+                }
+            }
+
+            builder.ReportProgress("    Removed {0} for expression '{1}'", counter,
+                "/reflection/apis/api[contains(@id, '{item}')]");
+
+            counterSum += counter;
+            counter = 0;
+
+            builder.ReportProgress("    Removed {0} items in total", counterSum);
+
+            refInfo.Save(builder.ReflectionInfoFilename);
         }
-        
+
         #endregion
 
         #region IDisposable implementation

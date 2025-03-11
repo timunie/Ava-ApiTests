@@ -41,6 +41,8 @@
 		<NoWarn>$(NoWarn);NU5128</NoWarn>
 		<ContentTargetFolders>tools\</ContentTargetFolders>
 		<GenerateDocumentationFile>True</GenerateDocumentationFile>
+		<LangVersion>latest</LangVersion>
+		<Nullable>enable</Nullable>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

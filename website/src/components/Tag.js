@@ -1,9 +1,8 @@
 import React from 'react';
-import styles from './Tag.Styles.css';
 
-export default function Tag({children}, type='warning') {
+export default function Tag({children}, type = 'is-warning') {
   return (
-    <div className={type}>
+    <div className={'tag '.concat(type)}>
       {children}
     </div>
   );

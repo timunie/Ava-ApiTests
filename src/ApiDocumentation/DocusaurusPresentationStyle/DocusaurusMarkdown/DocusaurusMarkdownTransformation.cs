@@ -50,8 +50,8 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
             TopicTemplatePath = ResolvePath(@"Templates\TopicTemplate.xml");
             
             // obsolete attribute
-            shortAttributeRepresentation.Add("T:System.ObsoleteAttribute", new XElement("span",
-                new XAttribute("class", "tag is-danger"),
+            shortAttributeRepresentation.Add("T:System.ObsoleteAttribute", new XElement("Tag",
+                new XAttribute("type", "is-danger"),
                 new XElement("include",
                     new XAttribute("item", "boilerplate_obsoleteShort"))));
             
@@ -61,8 +61,8 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                 "\n\n:::\n\n"));
             
             // unstable attribute
-            shortAttributeRepresentation.Add("T:Avalonia.Metadata.UnstableAttribute", new XElement("span",
-                new XAttribute("class", "tag is-info"),
+            shortAttributeRepresentation.Add("T:Avalonia.Metadata.UnstableAttribute", new XElement("Tag",
+                new XAttribute("type", "is-info"),
                 new XElement("include",
                     new XAttribute("item", "boilerplate_unstableShort"))));
             
@@ -72,8 +72,8 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                 "\n\n:::\n\n"));
             
             // not client implementable attribute
-            shortAttributeRepresentation.Add("T:Avalonia.Metadata.NotClientImplementableAttribute", new XElement("span",
-                new XAttribute("class", "tag is-warning"),
+            shortAttributeRepresentation.Add("T:Avalonia.Metadata.NotClientImplementableAttribute", new XElement("Tag",
+                new XAttribute("type", "is-warning"),
                 new XElement("include",
                     new XAttribute("item", "boilerplate_notClientImplementableShort"))));
             
