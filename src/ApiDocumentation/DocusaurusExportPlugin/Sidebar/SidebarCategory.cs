@@ -9,7 +9,7 @@ namespace DocusaurusExportPlugin.Sidebar
         public bool Collapsed { get; set; }
         public List<SidebarSection> Items { get; set; } = new List<SidebarSection>();
 
-        public string Path { get; set; }
+        public string? Path { get; set; }
     
         public override string ToJson(int indentLevel)
         {
@@ -33,7 +33,7 @@ namespace DocusaurusExportPlugin.Sidebar
         
             sb.AppendLine($"{indent}  'items': [");
 
-            var lastItem = Items.Last();
+            var lastItem = Items.LastOrDefault();
             foreach (var item in Items)
             {
                 sb.Append(item.ToJson(indentLevel + 2));
