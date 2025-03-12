@@ -43,7 +43,6 @@
     <BuildAssemblerVerbosity>OnlyWarningsAndErrors</BuildAssemblerVerbosity>
     <SaveComponentCacheCapacity>100</SaveComponentCacheCapacity>
     <DocumentationSources>
-      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Controls\Avalonia.Controls.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
       <DocumentationSource sourceFile="..\..\..\Avalonia\packages\Avalonia\Avalonia.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
       <DocumentationSource sourceFile="..\..\..\Avalonia\src\Android\Avalonia.Android\Avalonia.Android.csproj" TargetFramework="$(AvsCurrentAndroidTargetFramework)" />
       <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Base\Avalonia.Base.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
@@ -60,7 +59,6 @@
       <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Native\Avalonia.Native.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
       <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.OpenGL\Avalonia.OpenGL.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
       <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.ReactiveUI\Avalonia.ReactiveUI.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
-      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Themes.Fluent\Avalonia.Themes.Fluent.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
       <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Themes.Fluent\Avalonia.Themes.Fluent.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
       <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Themes.Simple\Avalonia.Themes.Simple.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
       <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Vulkan\Avalonia.Vulkan.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />

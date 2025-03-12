@@ -34,12 +34,14 @@ $avaloniaProjects = @(
 	"Avalonia\src\Avalonia.Themes.Simple\Avalonia.Themes.Simple.csproj", 
 	"Avalonia\src\Avalonia.Vulkan\Avalonia.Vulkan.csproj", 
 	"Avalonia\src\Windows\Avalonia.Win32\Avalonia.Win32.csproj", 
+	"Avalonia\src\Windows\Avalonia.Win32.Automation\Avalonia.Win32.Automation.csproj", 
 	"Avalonia\src\Windows\Avalonia.Win32.Interoperability\Avalonia.Win32.Interoperability.csproj", 
 	"Avalonia\src\Avalonia.X11\Avalonia.X11.csproj", 
 	
 	# Sandcastle documentation
 	"src\ApiDocumentation\DocusaurusExportPlugin\DocusaurusExportPlugin.csproj",
 	"src\ApiDocumentation\DocusaurusPresentationStyle\DocusaurusPresentationStyle.csproj",
+	"src\ApiDocumentation\AvaloniaAttributesPlugin\AvaloniaAttributesPlugIn.csproj",
 	"src\ApiDocumentation\ApiDocumentation\ApiDocumentation.shfbproj"
 )
 

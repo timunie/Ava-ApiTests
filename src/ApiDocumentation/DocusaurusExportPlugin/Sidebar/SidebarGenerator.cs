@@ -7,82 +7,72 @@ using System.Text;
 
 namespace DocusaurusExportPlugin.Sidebar
 {
+    /// <summary>
+    /// Docusaurus-Sidebar-Generator
+    /// </summary>
     public class SidebarGenerator
     {
+        /// <summary>
+        /// Gets a list of all Sidebar-Secions
+        /// </summary>
         public List<SidebarSection> Items { get; } = new List<SidebarSection>();
-        private List<SidebarSection> _AllItems { get; } = new List<SidebarSection>();
-
-        private SidebarCategory GetParentCategory(int currentLevel)
-        {
-            if (currentLevel <= 1 || _AllItems.Count == 0) return null;
-
-            for (int i = _AllItems.Count - 1; i >= 0; i--)
-            {
-                var item = _AllItems[i];
-            
-                if (item is SidebarCategory category && category.Level < currentLevel) return category;
-            }
         
-            return null;
+        private SidebarSection? _currentParent;
+
+        private SidebarSection? GetParentCategory(int level)
+        {
+            if (level <= 1)
+            {
+                return null;
+            }
+            else if (level > _currentParent?.Level)
+            {
+                return _currentParent;
+            }
+            else
+            {
+                while (_currentParent != null &&  _currentParent?.Level > level - 1)
+                {
+                    _currentParent = _currentParent.Parent;
+                }
+                return _currentParent;
+            }
         }
     
-        public void AddItem(string id, string path, string title, int level)
+        /// <summary>
+        /// Adds a new item to the sidebar
+        /// </summary>
+        /// <param name="id">the id of the section</param>
+        /// <param name="path">the path to link</param>
+        /// <param name="label">the label to display</param>
+        /// <param name="level">the level of the item</param>
+        public void AddItem(string id, string path, string label, int level)
         {
             var type = id.Split(':').FirstOrDefault();
             
-            SidebarSection section;
-        
             var parent = GetParentCategory(level);
-        
-            switch (type)
+            
+            var section = new SidebarSection(parent)
             {
-                case "G":
-                    section = new SidebarCategory
-                    {
-                        Level = level,
-                        Label = title,
-                        Path = path,
-                        Collapsed = false
-                    };
-                    break;
+                Level = level,
+                Label = label,
+                Path = path,
+                Collapsed = type != "G" // collapse everything except for groups (type == "G:")
+            };
             
-                case "N":
-                    section = new SidebarCategory
-                    {
-                        Level = level,
-                        Label = title,
-                        Path = path,
-                        Collapsed = true
-                    };
-                
-                    break;
-            
-                case "T":
-                    section = new SidebarLink()
-                    {
-                        Level = level,
-                        Label = title,
-                        Path = path,
-                    };
-                    break;
-
-                default:
-                    return;
-            }
-        
-
             if (parent != null)
             {
                 parent.Items.Add(section);
-            
-                Trace.WriteLine($"Added sidebar section {section.Label} to {parent.Label}");
             }
             else
             {
                 Items.Add(section);
-                Trace.WriteLine($"Added sidebar category {section.Label} to Items");
             }
-            _AllItems.Add(section);
+
+            if (parent == null || section.Level > _currentParent?.Level)
+            {
+                _currentParent = section;
+            }
         }
     
         public void GenerateSidebarsJs(string sidebarFilePath)
@@ -100,7 +90,7 @@ namespace DocusaurusExportPlugin.Sidebar
             var lastSection = Items.Last();
             foreach (var section in Items)
             {
-                sb.Append(section.ToJson(4));
+                sb.Append(section.ToJson());
                 if (section != lastSection)
                 {
                     sb.AppendLine(",");

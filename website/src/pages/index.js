@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/G_Avalonia">
-            Avalonia-API test
+            Avalonia-API
           </Link>
         </div>
       </div>
@@ -32,11 +32,12 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}
+      description="Learn to build with Avalonia" 
+	  noFooter >
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+       
       </main>
     </Layout>
   );
