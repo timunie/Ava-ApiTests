@@ -44,7 +44,7 @@ override GetRegularSnapPoints :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/VirtualizingStackPanel.cs#L924" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/VirtualizingStackPanel.cs#L925" title="View the source code">View Source</a>
 
 
 
@@ -65,3 +65,4 @@ The distance between the equidistant snap points. Returns 0 when no snap points 
 #### Reference
 <a href="T_Avalonia_Controls_VirtualizingStackPanel">VirtualizingStackPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

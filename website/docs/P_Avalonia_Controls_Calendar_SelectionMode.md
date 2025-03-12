@@ -12,7 +12,7 @@ Gets or sets a value that indicates what kind of selections are allowed.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public CalendarSelectionMode SelectionMode \{ get; set; }
+public CalendarSelectionMode SelectionMode { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ When this property is changed, all selected dates will be cleared.
 #### Reference
 <a href="T_Avalonia_Controls_Calendar">Calendar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

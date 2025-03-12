@@ -35,7 +35,7 @@ static let inline (<>)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/PlatformHandle.cs#L68" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/PlatformHandle.cs#L69" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ static let inline (<>)
 #### Reference
 <a href="T_Avalonia_Platform_PlatformHandle">PlatformHandle Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

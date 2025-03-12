@@ -28,10 +28,6 @@
 <td> </td>
 </tr>
 <tr>
-<td><a href="T_Avalonia_Data_CultureInfoIetfLanguageTagConverter">CultureInfoIetfLanguageTagConverter</a></td>
-<td> </td>
-</tr>
-<tr>
 <td><a href="T_Avalonia_Data_DataValidationException">DataValidationException</a></td>
 <td>Exception, which wrap validation errors.</td>
 </tr>
@@ -73,7 +69,7 @@
 <table>
 <tr>
 <td><a href="T_Avalonia_Data_IBinding">IBinding</a></td>
-<td>Holds a binding that can be applied to a property on an object.</td>
+<td>Holds a binding that can be applied to a property on an object.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 </table>
 

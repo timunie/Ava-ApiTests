@@ -12,6 +12,7 @@ Initializes a new instance of the <a href="T_Avalonia_Input_PointerCaptureLostEv
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute("This constructor might be removed in 12.0. If you need to remove capture, use stable methods on the IPointer instance.,")]
 public PointerCaptureLostEventArgs(
 	Object source,
 	IPointer pointer
@@ -20,6 +21,7 @@ public PointerCaptureLostEventArgs(
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute("This constructor might be removed in 12.0. If you need to remove capture, use stable methods on the IPointer instance.,")>
 Public Sub New ( 
 	source As Object,
 	pointer As IPointer
@@ -28,6 +30,7 @@ Public Sub New (
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute("This constructor might be removed in 12.0. If you need to remove capture, use stable methods on the IPointer instance.,")>]
 new : 
         source : Object * 
         pointer : IPointer -> PointerCaptureLostEventArgs
@@ -50,3 +53,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Input_PointerCaptureLostEventArgs">PointerCaptureLostEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

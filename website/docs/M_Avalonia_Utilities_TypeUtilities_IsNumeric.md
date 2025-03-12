@@ -34,7 +34,7 @@ static member IsNumeric :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/TypeUtilities.cs#L377" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/TypeUtilities.cs#L378" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ True if the type is numeric; otherwise false.Boolean is not considered numeric.
 #### Reference
 <a href="T_Avalonia_Utilities_TypeUtilities">TypeUtilities Class</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

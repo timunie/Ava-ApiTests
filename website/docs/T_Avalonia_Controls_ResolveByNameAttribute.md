@@ -12,11 +12,13 @@ Indicates that the property resolves an element by Name or x:Name. When applying
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AttributeUsageAttribute(AttributeTargets.Method|AttributeTargets.Property)]
 public sealed class ResolveByNameAttribute : Attribute
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AttributeUsageAttribute(AttributeTargets.Method Or AttributeTargets.Property)>
 Public NotInheritable Class ResolveByNameAttribute
 	Inherits Attribute
 ```
@@ -24,6 +26,7 @@ Public NotInheritable Class ResolveByNameAttribute
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<AttributeUsageAttribute(AttributeTargets.Method|AttributeTargets.Property)>]
 type ResolveByNameAttribute = 
     class
         inherit Attribute
@@ -91,3 +94,4 @@ type ResolveByNameAttribute =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

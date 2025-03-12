@@ -65,3 +65,4 @@ type AvaloniaMainActivity =
 
 #### Reference
 <a href="N_Avalonia_Android">Avalonia.Android Namespace</a>  
+

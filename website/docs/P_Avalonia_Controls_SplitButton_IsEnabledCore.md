@@ -12,7 +12,7 @@ Allows a derived class to override the enabled state of the control.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected override bool IsEnabledCore \{ get; }
+protected override bool IsEnabledCore { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ override IsEnabledCore : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_SplitButton">SplitButton Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

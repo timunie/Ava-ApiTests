@@ -12,7 +12,7 @@ Use the Light theme variant.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static ThemeVariant Light \{ get; }
+public static ThemeVariant Light { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member Light : ThemeVariant with get
 #### Reference
 <a href="T_Avalonia_Styling_ThemeVariant">ThemeVariant Class</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

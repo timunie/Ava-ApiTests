@@ -12,7 +12,7 @@ Gets the width of a line of text, excluding trailing whitespace characters.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract double Width \{ get; }
+public abstract double Width { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The text line width, excluding trailing whitespace characters.
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextLine">TextLine Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

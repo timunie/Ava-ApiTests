@@ -12,7 +12,7 @@ Specifies a callback method to be called when compositor needs to create a platf
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Func<IReadOnlyList<PlatformGraphicsDeviceAdapterDescription>, int>? GraphicsAdapterSelectionCallback \{ get; set; }
+public Func<IReadOnlyList<PlatformGraphicsDeviceAdapterDescription>, int>? GraphicsAdapterSelectionCallback { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member GraphicsAdapterSelectionCallback : Func<IReadOnlyList<PlatformGraphicsDev
 #### Reference
 <a href="T_Avalonia_Win32PlatformOptions">Win32PlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

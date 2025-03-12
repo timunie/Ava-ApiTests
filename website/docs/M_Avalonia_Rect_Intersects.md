@@ -34,7 +34,7 @@ member Intersects :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rect.cs#L389" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rect.cs#L390" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ True if the specified rectangle intersects with this one; otherwise false.
 #### Reference
 <a href="T_Avalonia_Rect">Rect Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

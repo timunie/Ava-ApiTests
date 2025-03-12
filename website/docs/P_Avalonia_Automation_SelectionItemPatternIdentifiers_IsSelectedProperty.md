@@ -12,7 +12,7 @@ Indicates the element is currently selected.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static AutomationProperty IsSelectedProperty \{ get; }
+public static AutomationProperty IsSelectedProperty { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member IsSelectedProperty : AutomationProperty with get
 #### Reference
 <a href="T_Avalonia_Automation_SelectionItemPatternIdentifiers">SelectionItemPatternIdentifiers Class</a>  
 <a href="N_Avalonia_Automation">Avalonia.Automation Namespace</a>  
+

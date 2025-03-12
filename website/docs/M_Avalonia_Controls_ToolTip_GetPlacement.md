@@ -34,7 +34,7 @@ static member GetPlacement :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ToolTip.cs#L175" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ToolTip.cs#L176" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ A value indicating how the tool tip is positioned.
 #### Reference
 <a href="T_Avalonia_Controls_ToolTip">ToolTip Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

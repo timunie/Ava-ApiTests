@@ -12,7 +12,7 @@ Gets a value that indicates the distance of the strikethrough from the baseline.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double StrikethroughPosition \{ get; }
+public double StrikethroughPosition { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member StrikethroughPosition : float with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextMetrics">TextMetrics Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

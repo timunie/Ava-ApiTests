@@ -40,3 +40,4 @@ static val mutable EGL_OPENGL_ES_BIT: int
 #### Reference
 <a href="T_Avalonia_OpenGL_Egl_EglConsts">EglConsts Class</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

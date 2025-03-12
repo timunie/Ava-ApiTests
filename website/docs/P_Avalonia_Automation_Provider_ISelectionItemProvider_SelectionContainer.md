@@ -12,7 +12,7 @@ Gets the UI Automation provider that implements <a href="T_Avalonia_Automation_P
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-ISelectionProvider? SelectionContainer \{ get; }
+ISelectionProvider? SelectionContainer { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract SelectionContainer : ISelectionProvider with get
 #### Reference
 <a href="T_Avalonia_Automation_Provider_ISelectionItemProvider">ISelectionItemProvider Interface</a>  
 <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider Namespace</a>  
+

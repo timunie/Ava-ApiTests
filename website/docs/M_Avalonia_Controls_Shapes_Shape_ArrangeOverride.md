@@ -34,7 +34,7 @@ override ArrangeOverride :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Shapes/Shape.cs#L303" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Shapes/Shape.cs#L304" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ override ArrangeOverride :
 #### Reference
 <a href="T_Avalonia_Controls_Shapes_Shape">Shape Class</a>  
 <a href="N_Avalonia_Controls_Shapes">Avalonia.Controls.Shapes Namespace</a>  
+

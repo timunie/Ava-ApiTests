@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Media_Immutable_ImmutableSolidColorBrush">ImmutableSolidColorBrush Class</a>  
 <a href="Overload_Avalonia_Media_Immutable_ImmutableSolidColorBrush__ctor">ImmutableSolidColorBrush Overload</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

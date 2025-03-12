@@ -12,7 +12,7 @@ Gets or sets a value that determines whether the TextBox clears its selection af
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool ClearSelectionOnLostFocus \{ get; set; }
+public bool ClearSelectionOnLostFocus { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ClearSelectionOnLostFocus : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TextBox">TextBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

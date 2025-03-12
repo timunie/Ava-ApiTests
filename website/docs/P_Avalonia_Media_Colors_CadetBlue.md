@@ -12,7 +12,7 @@ Gets a color with an ARGB value of #ff5f9ea0.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static Color CadetBlue \{ get; }
+public static Color CadetBlue { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member CadetBlue : Color with get
 #### Reference
 <a href="T_Avalonia_Media_Colors">Colors Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -29,7 +29,7 @@ member ClearValue : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingNotification.cs#L259" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingNotification.cs#L260" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ member ClearValue : unit -> unit
 #### Reference
 <a href="T_Avalonia_Data_BindingNotification">BindingNotification Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

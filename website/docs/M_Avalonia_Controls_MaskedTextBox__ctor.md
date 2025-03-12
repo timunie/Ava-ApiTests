@@ -40,3 +40,4 @@ new : unit -> MaskedTextBox
 <a href="T_Avalonia_Controls_MaskedTextBox">MaskedTextBox Class</a>  
 <a href="Overload_Avalonia_Controls_MaskedTextBox__ctor">MaskedTextBox Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

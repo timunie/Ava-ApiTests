@@ -20,7 +20,7 @@ where TWindow : new(), Window
 <TabItem value="vb" label="VB">
 ```vb
 <ExtensionAttribute>
-Public Shared Function UseManagedSystemDialogs(Of TWindow As \{New, Window}) ( 
+Public Shared Function UseManagedSystemDialogs(Of TWindow As {New, Window}) ( 
 	builder As AppBuilder
 ) As AppBuilder
 ```
@@ -36,7 +36,7 @@ static member UseManagedSystemDialogs :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Dialogs/ManagedFileDialogExtensions.cs#L40" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Dialogs/ManagedFileDialogExtensions.cs#L41" title="View the source code">View Source</a>
 
 
 
@@ -59,3 +59,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 <a href="T_Avalonia_Dialogs_ManagedFileDialogExtensions">ManagedFileDialogExtensions Class</a>  
 <a href="Overload_Avalonia_Dialogs_ManagedFileDialogExtensions_UseManagedSystemDialogs">UseManagedSystemDialogs Overload</a>  
 <a href="N_Avalonia_Dialogs">Avalonia.Dialogs Namespace</a>  
+

@@ -37,7 +37,7 @@ static member SetTip :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ToolTip.cs#L141" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ToolTip.cs#L142" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ static member SetTip :
 #### Reference
 <a href="T_Avalonia_Controls_ToolTip">ToolTip Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

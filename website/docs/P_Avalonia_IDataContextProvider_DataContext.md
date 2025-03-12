@@ -12,7 +12,7 @@ Gets or sets the element's data context.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Object? DataContext \{ get; set; }
+Object? DataContext { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ abstract DataContext : Object with get, set
 #### Reference
 <a href="T_Avalonia_IDataContextProvider">IDataContextProvider Interface</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

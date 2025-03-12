@@ -12,7 +12,7 @@ Gets or sets the minimum width of the column in DIPs.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double MinWidth \{ get; set; }
+public double MinWidth { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member MinWidth : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ColumnDefinition">ColumnDefinition Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

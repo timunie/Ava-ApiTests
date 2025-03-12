@@ -39,3 +39,4 @@ new : unit -> ToBrushConverter
 #### Reference
 <a href="T_Avalonia_Controls_Converters_ToBrushConverter">ToBrushConverter Class</a>  
 <a href="N_Avalonia_Controls_Converters">Avalonia.Controls.Converters Namespace</a>  
+

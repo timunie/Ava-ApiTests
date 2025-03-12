@@ -445,15 +445,15 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IBrush">IBrush</a></td>
-<td>Describes how an area is painted.</td>
+<td>Describes how an area is painted.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IConicGradientBrush">IConicGradientBrush</a></td>
-<td>Paints an area with a conic gradient.</td>
+<td>Paints an area with a conic gradient.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IDashStyle">IDashStyle</a></td>
-<td>Represents the sequence of dashes and gaps that will be applied by a <a href="T_Avalonia_Media_Pen">Pen</a>.</td>
+<td>Represents the sequence of dashes and gaps that will be applied by a <a href="T_Avalonia_Media_Pen">Pen</a>.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IDropShadowEffect">IDropShadowEffect</a></td>
@@ -461,23 +461,23 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IEffect">IEffect</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IExperimentalAcrylicMaterial">IExperimentalAcrylicMaterial</a></td>
-<td>Experimental Interface for producing Acrylic-like materials.</td>
+<td>Experimental Interface for producing Acrylic-like materials.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IGlyphTypeface">IGlyphTypeface</a></td>
-<td> </td>
+<td><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IGradientBrush">IGradientBrush</a></td>
-<td>A brush that draws with a gradient.</td>
+<td>A brush that draws with a gradient.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IGradientStop">IGradientStop</a></td>
-<td>Describes the location and color of a transition point in a gradient.</td>
+<td>Describes the location and color of a transition point in a gradient.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IImage">IImage</a></td>
@@ -485,11 +485,11 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IImageBrush">IImageBrush</a></td>
-<td>Paints an area with an IBitmap.</td>
+<td>Paints an area with an IBitmap.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IImageBrushSource">IImageBrushSource</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IImmutableBrush">IImmutableBrush</a></td>
@@ -505,11 +505,11 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IImmutableSolidColorBrush">IImmutableSolidColorBrush</a></td>
-<td>Fills an area with a solid color.</td>
+<td>Fills an area with a solid color.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_ILinearGradientBrush">ILinearGradientBrush</a></td>
-<td>A brush that draws with a linear gradient.</td>
+<td>A brush that draws with a linear gradient.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IMutableEffect">IMutableEffect</a></td>
@@ -517,7 +517,7 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IMutableExperimentalAcrylicMaterial">IMutableExperimentalAcrylicMaterial</a></td>
-<td>Represents a mutable brush which can return an immutable clone of itself.</td>
+<td>Represents a mutable brush which can return an immutable clone of itself.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IMutableTransform">IMutableTransform</a></td>
@@ -525,31 +525,31 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IPen">IPen</a></td>
-<td>Describes how a stroke is drawn.</td>
+<td>Describes how a stroke is drawn.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_IRadialGradientBrush">IRadialGradientBrush</a></td>
-<td>Paints an area with a radial gradient.</td>
+<td>Paints an area with a radial gradient.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_ISceneBrush">ISceneBrush</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_ISceneBrushContent">ISceneBrushContent</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_ISolidColorBrush">ISolidColorBrush</a></td>
-<td>Fills an area with a solid color.</td>
+<td>Fills an area with a solid color.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_ITileBrush">ITileBrush</a></td>
-<td>A brush which displays a repeating image.</td>
+<td>A brush which displays a repeating image.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Media_ITransform">ITransform</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 </table>
 

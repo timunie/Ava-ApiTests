@@ -8,10 +8,6 @@
 ## Classes
 <table>
 <tr>
-<td><a href="T_Avalonia_Controls_ApplicationLifetimes_ActivatableLifetimeBase">ActivatableLifetimeBase</a></td>
-<td> </td>
-</tr>
-<tr>
 <td><a href="T_Avalonia_Controls_ApplicationLifetimes_ActivatedEventArgs">ActivatedEventArgs</a></td>
 <td>Event args for an Application Lifetime Activated or Deactivated events.</td>
 </tr>
@@ -49,27 +45,27 @@
 <table>
 <tr>
 <td><a href="T_Avalonia_Controls_ApplicationLifetimes_IActivatableApplicationLifetime">IActivatableApplicationLifetime</a></td>
-<td>Obsolete.</td>
+<td><Tag type="is-danger">Obsolete.</Tag><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_ApplicationLifetimes_IActivatableLifetime">IActivatableLifetime</a></td>
-<td>An interface for ApplicationLifetimes where the application can be Activated and Deactivated.</td>
+<td>An interface for ApplicationLifetimes where the application can be Activated and Deactivated.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_ApplicationLifetimes_IApplicationLifetime">IApplicationLifetime</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_ApplicationLifetimes_IClassicDesktopStyleApplicationLifetime">IClassicDesktopStyleApplicationLifetime</a></td>
-<td>Controls application lifetime in classic desktop style</td>
+<td>Controls application lifetime in classic desktop style<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_ApplicationLifetimes_IControlledApplicationLifetime">IControlledApplicationLifetime</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_ApplicationLifetimes_ISingleViewApplicationLifetime">ISingleViewApplicationLifetime</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 </table>
 

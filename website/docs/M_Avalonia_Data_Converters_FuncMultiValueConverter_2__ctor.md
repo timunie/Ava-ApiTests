@@ -47,3 +47,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Data_Converters_FuncMultiValueConverter_2">FuncMultiValueConverter(TIn, TOut) Class</a>  
 <a href="N_Avalonia_Data_Converters">Avalonia.Data.Converters Namespace</a>  
+

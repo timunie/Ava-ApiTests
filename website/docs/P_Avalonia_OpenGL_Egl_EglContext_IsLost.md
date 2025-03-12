@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsLost \{ get; }
+public bool IsLost { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -37,7 +37,7 @@ override IsLost : bool with get
 <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
 
 #### Implements
-<a href="P_Avalonia_Platform_IPlatformGraphicsContext_IsLost">IPlatformGraphicsContext.IsLost</a>  
+IPlatformGraphicsContext.IsLost  
 
 
 ## See Also
@@ -46,3 +46,4 @@ override IsLost : bool with get
 #### Reference
 <a href="T_Avalonia_OpenGL_Egl_EglContext">EglContext Class</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

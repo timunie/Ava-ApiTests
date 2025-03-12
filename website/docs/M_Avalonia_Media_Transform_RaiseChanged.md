@@ -29,7 +29,7 @@ member RaiseChanged : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Transform.cs#L47" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Transform.cs#L48" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ member RaiseChanged : unit -> unit
 #### Reference
 <a href="T_Avalonia_Media_Transform">Transform Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

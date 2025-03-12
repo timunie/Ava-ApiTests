@@ -37,7 +37,7 @@ static member SetIsTemplateFocusTarget :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/TemplatedControl.cs#L286" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/TemplatedControl.cs#L287" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ static member SetIsTemplateFocusTarget :
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets a value indicating whether the control is focused.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsFocused \{ get; }
+public bool IsFocused { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ override IsFocused : bool with get
 #### Reference
 <a href="T_Avalonia_Input_InputElement">InputElement Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

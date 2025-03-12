@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract Uri Key \{ get; }
+public abstract Uri Key { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ abstract Key : Uri with get
 #### Reference
 <a href="T_Avalonia_Media_Fonts_FontCollectionBase">FontCollectionBase Class</a>  
 <a href="N_Avalonia_Media_Fonts">Avalonia.Media.Fonts Namespace</a>  
+

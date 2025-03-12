@@ -12,7 +12,7 @@ Gets the text runs that are contained within a line.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract IReadOnlyList<TextRun> TextRuns \{ get; }
+public abstract IReadOnlyList<TextRun> TextRuns { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The contained text runs.
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextLine">TextLine Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

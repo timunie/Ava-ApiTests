@@ -12,7 +12,7 @@ Gets or sets the geometry clip for this visual.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Geometry? Clip \{ get; set; }
+public Geometry? Clip { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Clip : Geometry with get, set
 #### Reference
 <a href="T_Avalonia_Visual">Visual Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -34,7 +34,7 @@ static member GetIsSharedSizeScope :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Grid.cs#L150" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Grid.cs#L151" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ IsSharedSizeScope property value.
 #### Reference
 <a href="T_Avalonia_Controls_Grid">Grid Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

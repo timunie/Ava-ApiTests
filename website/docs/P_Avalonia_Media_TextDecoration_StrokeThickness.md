@@ -12,7 +12,7 @@ Gets or sets the thickness of the <a href="T_Avalonia_Media_TextDecoration">Text
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double StrokeThickness \{ get; set; }
+public double StrokeThickness { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member StrokeThickness : float with get, set
 #### Reference
 <a href="T_Avalonia_Media_TextDecoration">TextDecoration Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

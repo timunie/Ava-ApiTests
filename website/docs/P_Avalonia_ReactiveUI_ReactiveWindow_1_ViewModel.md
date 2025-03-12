@@ -12,7 +12,7 @@ The ViewModel.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TViewModel ViewModel \{ get; set; }
+public TViewModel ViewModel { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ IViewFor.ViewModel
 #### Reference
 <a href="T_Avalonia_ReactiveUI_ReactiveWindow_1">ReactiveWindow(TViewModel) Class</a>  
 <a href="N_Avalonia_ReactiveUI">Avalonia.ReactiveUI Namespace</a>  
+

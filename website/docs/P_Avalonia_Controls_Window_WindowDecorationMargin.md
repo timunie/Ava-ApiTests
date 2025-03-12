@@ -12,7 +12,7 @@ Gets the WindowDecorationMargin. This tells you the thickness around the window 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Thickness WindowDecorationMargin \{ get; }
+public Thickness WindowDecorationMargin { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member WindowDecorationMargin : Thickness with get
 #### Reference
 <a href="T_Avalonia_Controls_Window">Window Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

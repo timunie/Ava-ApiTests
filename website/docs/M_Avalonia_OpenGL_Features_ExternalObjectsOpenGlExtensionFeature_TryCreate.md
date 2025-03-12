@@ -32,7 +32,7 @@ static member TryCreate :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Features/ExternalObjectsOpenGlExtensionFeature.cs#L70" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Features/ExternalObjectsOpenGlExtensionFeature.cs#L71" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ static member TryCreate :
 #### Reference
 <a href="T_Avalonia_OpenGL_Features_ExternalObjectsOpenGlExtensionFeature">ExternalObjectsOpenGlExtensionFeature Class</a>  
 <a href="N_Avalonia_OpenGL_Features">Avalonia.OpenGL.Features Namespace</a>  
+

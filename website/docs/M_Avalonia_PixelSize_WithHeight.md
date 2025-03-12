@@ -51,3 +51,4 @@ The new <a href="T_Avalonia_PixelSize">PixelSize</a>.
 #### Reference
 <a href="T_Avalonia_PixelSize">PixelSize Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

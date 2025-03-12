@@ -12,7 +12,7 @@ Gets a value indicating whether the window is being closed programmatically.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsProgrammatic \{ get; }
+public bool IsProgrammatic { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IsProgrammatic : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_WindowClosingEventArgs">WindowClosingEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

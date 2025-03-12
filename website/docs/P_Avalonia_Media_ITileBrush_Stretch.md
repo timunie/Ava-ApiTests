@@ -12,7 +12,7 @@ Gets a value indicating how the source rectangle will be stretched to fill the d
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Stretch Stretch \{ get; }
+Stretch Stretch { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Stretch : Stretch with get
 #### Reference
 <a href="T_Avalonia_Media_ITileBrush">ITileBrush Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

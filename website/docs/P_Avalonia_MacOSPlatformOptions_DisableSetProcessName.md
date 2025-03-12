@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the native macOS should set [NSProcessIn
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool DisableSetProcessName \{ get; set; }
+public bool DisableSetProcessName { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DisableSetProcessName : bool with get, set
 #### Reference
 <a href="T_Avalonia_MacOSPlatformOptions">MacOSPlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

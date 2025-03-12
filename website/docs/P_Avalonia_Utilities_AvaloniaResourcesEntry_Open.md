@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Func<Stream>? Open \{ get; init; }
+public Func<Stream>? Open { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member Open : Func<Stream> with get, set
 #### Reference
 <a href="T_Avalonia_Utilities_AvaloniaResourcesEntry">AvaloniaResourcesEntry Class</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

@@ -12,7 +12,7 @@ Brush used to fill the TickBar's Ticks.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IBrush? Fill \{ get; set; }
+public IBrush? Fill { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Fill : IBrush with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TickBar">TickBar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

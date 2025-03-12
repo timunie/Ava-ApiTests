@@ -12,7 +12,7 @@ Gets whether this instance is read-only and can't be modified.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsReadOnly \{ get; }
+public bool IsReadOnly { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IsReadOnly : bool with get
 #### Reference
 <a href="T_Avalonia_AvaloniaPropertyMetadata">AvaloniaPropertyMetadata Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

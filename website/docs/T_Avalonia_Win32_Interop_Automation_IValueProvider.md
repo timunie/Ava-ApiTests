@@ -10,16 +10,25 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[ComVisibleAttribute(true)]
+[GuidAttribute("c7935180-6fb3-4201-b174-7df73adbf64a")]
+[InterfaceTypeAttribute(ComInterfaceType.InterfaceIsIUnknown)]
 public interface IValueProvider
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ComVisibleAttribute(true)>
+<GuidAttribute("c7935180-6fb3-4201-b174-7df73adbf64a")>
+<InterfaceTypeAttribute(ComInterfaceType.InterfaceIsIUnknown)>
 Public Interface IValueProvider
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ComVisibleAttribute(true)>]
+[<GuidAttribute("c7935180-6fb3-4201-b174-7df73adbf64a")>]
+[<InterfaceTypeAttribute(ComInterfaceType.InterfaceIsIUnknown)>]
 type IValueProvider = interface end
 ```
 </TabItem>
@@ -56,3 +65,4 @@ type IValueProvider = interface end
 
 #### Reference
 <a href="N_Avalonia_Win32_Interop_Automation">Avalonia.Win32.Interop.Automation Namespace</a>  
+

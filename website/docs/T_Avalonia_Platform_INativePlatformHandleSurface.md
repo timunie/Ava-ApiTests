@@ -10,17 +10,20 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface INativePlatformHandleSurface : IPlatformHandle
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface INativePlatformHandleSurface
 	Inherits IPlatformHandle
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type INativePlatformHandleSurface = 
     interface
         interface IPlatformHandle
@@ -60,3 +63,4 @@ type INativePlatformHandleSurface =
 
 #### Reference
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

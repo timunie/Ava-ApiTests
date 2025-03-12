@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-T Value \{ get; }
+T Value { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ abstract Value : 'T with get
 #### Reference
 <a href="T_Avalonia_Platform_IScopedResource_1">IScopedResource(T) Interface</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

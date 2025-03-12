@@ -66,3 +66,4 @@ type ITypedDataTemplate =
 
 #### Reference
 <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates Namespace</a>  
+

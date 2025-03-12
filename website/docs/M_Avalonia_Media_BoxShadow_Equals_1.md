@@ -34,7 +34,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/BoxShadow.cs#L24" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/BoxShadow.cs#L25" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ override Equals :
 <a href="T_Avalonia_Media_BoxShadow">BoxShadow Structure</a>  
 <a href="Overload_Avalonia_Media_BoxShadow_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

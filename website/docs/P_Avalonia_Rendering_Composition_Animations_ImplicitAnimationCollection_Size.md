@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public uint Size \{ get; }
+public uint Size { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Size : uint32 with get
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_Animations_ImplicitAnimationCollection">ImplicitAnimationCollection Class</a>  
 <a href="N_Avalonia_Rendering_Composition_Animations">Avalonia.Rendering.Composition.Animations Namespace</a>  
+

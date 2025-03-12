@@ -12,7 +12,7 @@ Gets the kind of pointer state change.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PointerUpdateKind PointerUpdateKind \{
+public PointerUpdateKind PointerUpdateKind {
 	get;
  }
 ```
@@ -46,3 +46,4 @@ member PointerUpdateKind : PointerUpdateKind with
 #### Reference
 <a href="T_Avalonia_Input_PointerPointProperties">PointerPointProperties Structure</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

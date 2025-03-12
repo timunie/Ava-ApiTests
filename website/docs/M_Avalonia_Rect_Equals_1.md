@@ -54,3 +54,4 @@ True if the object is equal to this rectangle; false otherwise.
 <a href="T_Avalonia_Rect">Rect Structure</a>  
 <a href="Overload_Avalonia_Rect_Equals">Equals Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

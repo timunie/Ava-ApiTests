@@ -12,7 +12,7 @@ Gets the parent style host element.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IStyleHost? StylingParent \{ get; }
+IStyleHost? StylingParent { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract StylingParent : IStyleHost with get
 #### Reference
 <a href="T_Avalonia_Styling_IStyleHost">IStyleHost Interface</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

@@ -12,7 +12,7 @@ Specifies, for the first row, the column where the items should start.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int FirstColumn \{ get; set; }
+public int FirstColumn { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member FirstColumn : int with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_UniformGrid">UniformGrid Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

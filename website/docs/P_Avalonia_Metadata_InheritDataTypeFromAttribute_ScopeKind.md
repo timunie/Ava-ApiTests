@@ -12,7 +12,7 @@ Gets the kind of scope from which the data type should be inherited.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public InheritDataTypeFromScopeKind ScopeKind \{ get; }
+public InheritDataTypeFromScopeKind ScopeKind { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member ScopeKind : InheritDataTypeFromScopeKind with get
 #### Reference
 <a href="T_Avalonia_Metadata_InheritDataTypeFromAttribute">InheritDataTypeFromAttribute Class</a>  
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

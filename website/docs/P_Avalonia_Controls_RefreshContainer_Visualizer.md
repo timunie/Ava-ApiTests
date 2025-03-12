@@ -12,7 +12,7 @@ Gets or sets the <a href="T_Avalonia_Controls_RefreshVisualizer">RefreshVisualiz
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RefreshVisualizer? Visualizer \{ get; set; }
+public RefreshVisualizer? Visualizer { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Visualizer : RefreshVisualizer with get, set
 #### Reference
 <a href="T_Avalonia_Controls_RefreshContainer">RefreshContainer Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

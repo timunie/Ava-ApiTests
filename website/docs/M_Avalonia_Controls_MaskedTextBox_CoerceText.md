@@ -36,7 +36,7 @@ override CoerceText :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/MaskedTextBox.cs#L434" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/MaskedTextBox.cs#L435" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ A coerced text.This method also manages the internal undo/redo state whenever th
 #### Reference
 <a href="T_Avalonia_Controls_MaskedTextBox">MaskedTextBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Default DPI.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static Vector DefaultDpi \{ get; }
+public static Vector DefaultDpi { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member DefaultDpi : Vector with get
 #### Reference
 <a href="T_Avalonia_Skia_SkiaPlatform">SkiaPlatform Class</a>  
 <a href="N_Avalonia_Skia">Avalonia.Skia Namespace</a>  
+

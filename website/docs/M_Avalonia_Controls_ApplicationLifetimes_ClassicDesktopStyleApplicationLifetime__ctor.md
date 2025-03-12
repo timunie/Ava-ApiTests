@@ -39,3 +39,4 @@ new : unit -> ClassicDesktopStyleApplicationLifetime
 #### Reference
 <a href="T_Avalonia_Controls_ApplicationLifetimes_ClassicDesktopStyleApplicationLifetime">ClassicDesktopStyleApplicationLifetime Class</a>  
 <a href="N_Avalonia_Controls_ApplicationLifetimes">Avalonia.Controls.ApplicationLifetimes Namespace</a>  
+

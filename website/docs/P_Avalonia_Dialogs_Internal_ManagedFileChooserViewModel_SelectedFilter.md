@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ManagedFileChooserFilterViewModel? SelectedFilter \{ get; set; }
+public ManagedFileChooserFilterViewModel? SelectedFilter { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member SelectedFilter : ManagedFileChooserFilterViewModel with get, set
 #### Reference
 <a href="T_Avalonia_Dialogs_Internal_ManagedFileChooserViewModel">ManagedFileChooserViewModel Class</a>  
 <a href="N_Avalonia_Dialogs_Internal">Avalonia.Dialogs.Internal Namespace</a>  
+

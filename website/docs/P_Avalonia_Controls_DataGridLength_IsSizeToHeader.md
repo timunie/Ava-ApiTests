@@ -12,7 +12,7 @@ Returns `true` if this instance is to size to the header of a column or row.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsSizeToHeader \{ get; }
+public bool IsSizeToHeader { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member IsSizeToHeader : bool with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridLength.cs#L210" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridLength.cs#L211" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member IsSizeToHeader : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_DataGridLength">DataGridLength Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -102,3 +102,4 @@ type MacOSPlatformOptions = class end
 
 #### Reference
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or Sets the Fallback Color. This is used on rendering plaforms that dont su
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Color FallbackColor \{ get; set; }
+public Color FallbackColor { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override FallbackColor : Color with get, set
 #### Reference
 <a href="T_Avalonia_Media_ExperimentalAcrylicMaterial">ExperimentalAcrylicMaterial Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

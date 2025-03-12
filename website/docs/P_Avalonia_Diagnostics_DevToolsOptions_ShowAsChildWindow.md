@@ -12,7 +12,7 @@ Gets or sets a value indicating whether DevTools should be displayed as a child 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool ShowAsChildWindow \{ get; set; }
+public bool ShowAsChildWindow { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ShowAsChildWindow : bool with get, set
 #### Reference
 <a href="T_Avalonia_Diagnostics_DevToolsOptions">DevToolsOptions Class</a>  
 <a href="N_Avalonia_Diagnostics">Avalonia.Diagnostics Namespace</a>  
+

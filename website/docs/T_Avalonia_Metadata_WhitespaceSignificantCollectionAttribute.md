@@ -12,11 +12,13 @@ Indicates that a collection type should be processed as being whitespace signifi
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AttributeUsageAttribute(AttributeTargets.Class, AllowMultiple = false, Inherited = true)]
 public sealed class WhitespaceSignificantCollectionAttribute : Attribute
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AttributeUsageAttribute(AttributeTargets.Class, AllowMultiple := false, Inherited := true)>
 Public NotInheritable Class WhitespaceSignificantCollectionAttribute
 	Inherits Attribute
 ```
@@ -24,6 +26,7 @@ Public NotInheritable Class WhitespaceSignificantCollectionAttribute
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<AttributeUsageAttribute(AttributeTargets.Class, AllowMultiple = false, Inherited = true)>]
 type WhitespaceSignificantCollectionAttribute = 
     class
         inherit Attribute
@@ -91,3 +94,4 @@ type WhitespaceSignificantCollectionAttribute =
 
 #### Reference
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

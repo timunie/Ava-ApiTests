@@ -40,7 +40,7 @@ override CancelCellEdit :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridCheckBoxColumn.cs#L69" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridCheckBoxColumn.cs#L70" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ override CancelCellEdit :
 #### Reference
 <a href="T_Avalonia_Controls_DataGridCheckBoxColumn">DataGridCheckBoxColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

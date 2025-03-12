@@ -42,3 +42,4 @@ static val SelectionProperty: DirectProperty<SelectingItemsControl, ISelectionMo
 #### Reference
 <a href="T_Avalonia_Controls_ListBox">ListBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

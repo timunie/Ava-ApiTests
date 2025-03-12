@@ -12,7 +12,7 @@ Gets a value indicating whether this control and all its parents are enabled.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsEffectivelyEnabled \{ get; }
+public bool IsEffectivelyEnabled { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ The <a href="P_Avalonia_Input_IInputElement_IsEnabled">IsEnabled</a> property is
 #### Reference
 <a href="T_Avalonia_Input_InputElement">InputElement Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

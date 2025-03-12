@@ -12,7 +12,7 @@ Gets the new index of <a href="P_Avalonia_LogicalTree_ChildIndexChangedEventArgs
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int Index \{ get; }
+public int Index { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Index : int with get
 #### Reference
 <a href="T_Avalonia_LogicalTree_ChildIndexChangedEventArgs">ChildIndexChangedEventArgs Class</a>  
 <a href="N_Avalonia_LogicalTree">Avalonia.LogicalTree Namespace</a>  
+

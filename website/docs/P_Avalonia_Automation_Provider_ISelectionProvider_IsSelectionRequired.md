@@ -12,7 +12,7 @@ Gets a value that indicates whether the provider requires at least one child ele
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool IsSelectionRequired \{ get; }
+bool IsSelectionRequired { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract IsSelectionRequired : bool with get
 #### Reference
 <a href="T_Avalonia_Automation_Provider_ISelectionProvider">ISelectionProvider Interface</a>  
 <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider Namespace</a>  
+

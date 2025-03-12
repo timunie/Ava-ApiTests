@@ -12,7 +12,7 @@ Gets or sets a value indicating whether to apply mirror transform on this contro
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool HasMirrorTransform \{ get; protected set; }
+public bool HasMirrorTransform { get; protected set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member HasMirrorTransform : bool with get, set
 #### Reference
 <a href="T_Avalonia_Visual">Visual Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

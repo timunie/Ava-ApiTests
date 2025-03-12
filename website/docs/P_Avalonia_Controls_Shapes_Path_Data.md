@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Geometry? Data \{ get; set; }
+public Geometry? Data { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member Data : Geometry with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Shapes_Path">Path Class</a>  
 <a href="N_Avalonia_Controls_Shapes">Avalonia.Controls.Shapes Namespace</a>  
+

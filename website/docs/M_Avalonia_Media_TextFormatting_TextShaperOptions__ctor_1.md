@@ -71,3 +71,4 @@ new :
 <a href="T_Avalonia_Media_TextFormatting_TextShaperOptions">TextShaperOptions Structure</a>  
 <a href="Overload_Avalonia_Media_TextFormatting_TextShaperOptions__ctor">TextShaperOptions Overload</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

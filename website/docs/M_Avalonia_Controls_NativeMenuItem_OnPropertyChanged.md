@@ -34,7 +34,7 @@ override OnPropertyChanged :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/NativeMenuItem.cs#L206" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/NativeMenuItem.cs#L207" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override OnPropertyChanged :
 #### Reference
 <a href="T_Avalonia_Controls_NativeMenuItem">NativeMenuItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

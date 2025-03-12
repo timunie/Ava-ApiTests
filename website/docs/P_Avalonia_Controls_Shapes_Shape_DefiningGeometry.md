@@ -12,7 +12,7 @@ Gets a value that represents the <a href="T_Avalonia_Media_Geometry">Geometry</a
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Geometry? DefiningGeometry \{ get; }
+public Geometry? DefiningGeometry { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member DefiningGeometry : Geometry with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Shapes/Shape.cs#L75" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Shapes/Shape.cs#L76" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member DefiningGeometry : Geometry with get
 #### Reference
 <a href="T_Avalonia_Controls_Shapes_Shape">Shape Class</a>  
 <a href="N_Avalonia_Controls_Shapes">Avalonia.Controls.Shapes Namespace</a>  
+

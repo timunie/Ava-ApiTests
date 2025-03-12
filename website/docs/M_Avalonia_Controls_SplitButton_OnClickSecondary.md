@@ -36,7 +36,7 @@ override OnClickSecondary :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/SplitButton/SplitButton.cs#L423" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/SplitButton/SplitButton.cs#L425" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnClickSecondary :
 #### Reference
 <a href="T_Avalonia_Controls_SplitButton">SplitButton Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

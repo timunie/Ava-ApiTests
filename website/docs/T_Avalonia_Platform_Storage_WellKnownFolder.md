@@ -72,3 +72,4 @@ type WellKnownFolder
 
 #### Reference
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

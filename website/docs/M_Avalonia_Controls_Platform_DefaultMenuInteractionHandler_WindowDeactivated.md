@@ -38,7 +38,7 @@ override WindowDeactivated :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Platform/DefaultMenuInteractionHandler.cs#L274" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Platform/DefaultMenuInteractionHandler.cs#L275" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ override WindowDeactivated :
 #### Reference
 <a href="T_Avalonia_Controls_Platform_DefaultMenuInteractionHandler">DefaultMenuInteractionHandler Class</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

@@ -37,7 +37,7 @@ static let inline (/)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rect.cs#L221" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rect.cs#L222" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ The scaled rectangle.
 #### Reference
 <a href="T_Avalonia_Rect">Rect Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

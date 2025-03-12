@@ -34,7 +34,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/AvaloniaList.cs#L779" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/AvaloniaList.cs#L780" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Collections_AvaloniaList_1_Enumerator">AvaloniaList(T).Enumerator Structure</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

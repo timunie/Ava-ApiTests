@@ -12,7 +12,7 @@ The maximum number of bytes for video memory to store textures and resources.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public long? MaxGpuResourceSizeBytes \{ get; set; }
+public long? MaxGpuResourceSizeBytes { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member MaxGpuResourceSizeBytes : Nullable<int64> with get, set
 #### Reference
 <a href="T_Avalonia_SkiaOptions">SkiaOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

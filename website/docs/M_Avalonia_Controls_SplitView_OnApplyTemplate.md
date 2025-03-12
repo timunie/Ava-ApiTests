@@ -34,7 +34,7 @@ override OnApplyTemplate :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/SplitView/SplitView.cs#L295" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/SplitView/SplitView.cs#L296" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override OnApplyTemplate :
 #### Reference
 <a href="T_Avalonia_Controls_SplitView">SplitView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

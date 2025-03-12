@@ -34,7 +34,7 @@ static member Parse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/Easings/Easing.cs#L30" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/Easings/Easing.cs#L34" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ Returns the instance of the parsed type.
 #### Reference
 <a href="T_Avalonia_Animation_Easings_Easing">Easing Class</a>  
 <a href="N_Avalonia_Animation_Easings">Avalonia.Animation.Easings Namespace</a>  
+

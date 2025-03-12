@@ -12,7 +12,7 @@ Gets or sets the Menu of the TrayIcon.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public NativeMenu? Menu \{ get; set; }
+public NativeMenu? Menu { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Menu : NativeMenu with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TrayIcon">TrayIcon Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

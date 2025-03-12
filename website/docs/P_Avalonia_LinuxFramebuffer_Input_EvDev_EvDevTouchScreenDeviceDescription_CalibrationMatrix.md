@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Matrix CalibrationMatrix \{ get; set; }
+public Matrix CalibrationMatrix { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member CalibrationMatrix : Matrix with get, set
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_Input_EvDev_EvDevTouchScreenDeviceDescription">EvDevTouchScreenDeviceDescription Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer_Input_EvDev">Avalonia.LinuxFramebuffer.Input.EvDev Namespace</a>  
+

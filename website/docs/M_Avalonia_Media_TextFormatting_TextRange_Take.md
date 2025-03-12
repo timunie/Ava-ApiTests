@@ -34,7 +34,7 @@ member Take :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextRange.cs#L46" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextRange.cs#L47" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ A <a href="T_Avalonia_Media_TextFormatting_TextRange">TextRange</a> that contain
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextRange">TextRange Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

@@ -12,16 +12,19 @@ Represents an object that can be queried for resources.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IResourceNode
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IResourceNode
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IResourceNode = interface end
 ```
 </TabItem>
@@ -54,3 +57,4 @@ The interface represents a common interface for both controls that host resource
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

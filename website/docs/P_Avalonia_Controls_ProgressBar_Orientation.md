@@ -12,7 +12,7 @@ Gets or sets the orientation of the <a href="T_Avalonia_Controls_ProgressBar">Pr
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Orientation Orientation \{ get; set; }
+public Orientation Orientation { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Orientation : Orientation with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ProgressBar">ProgressBar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets any key modifiers active at the time of focus.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public KeyModifiers KeyModifiers \{ get; init; }
+public KeyModifiers KeyModifiers { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member KeyModifiers : KeyModifiers with get, set
 #### Reference
 <a href="T_Avalonia_Input_GotFocusEventArgs">GotFocusEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

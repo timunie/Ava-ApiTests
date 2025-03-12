@@ -40,7 +40,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Logging/ParametrizedLogger.cs#L15" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Logging/ParametrizedLogger.cs#L16" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Logging_ParametrizedLogger">ParametrizedLogger Structure</a>  
 <a href="N_Avalonia_Logging">Avalonia.Logging Namespace</a>  
+

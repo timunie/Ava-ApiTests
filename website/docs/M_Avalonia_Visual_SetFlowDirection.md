@@ -37,7 +37,7 @@ static member SetFlowDirection :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Visual.cs#L369" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Visual.cs#L370" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ static member SetFlowDirection :
 #### Reference
 <a href="T_Avalonia_Visual">Visual Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

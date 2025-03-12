@@ -34,7 +34,7 @@ static member Parse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/HslColor.cs#L215" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/HslColor.cs#L216" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The parsed <a href="T_Avalonia_Media_HslColor">HslColor</a>.
 #### Reference
 <a href="T_Avalonia_Media_HslColor">HslColor Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

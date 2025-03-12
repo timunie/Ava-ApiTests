@@ -12,7 +12,7 @@ Gets or sets the displayed shape of the spectrum.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ColorSpectrumShape Shape \{ get; set; }
+public ColorSpectrumShape Shape { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Shape : ColorSpectrumShape with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_ColorSpectrum">ColorSpectrum Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

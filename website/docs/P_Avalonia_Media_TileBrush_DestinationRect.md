@@ -12,7 +12,7 @@ Gets or sets the rectangle on the destination in which to paint a tile.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RelativeRect DestinationRect \{ get; set; }
+public RelativeRect DestinationRect { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override DestinationRect : RelativeRect with get, set
 #### Reference
 <a href="T_Avalonia_Media_TileBrush">TileBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

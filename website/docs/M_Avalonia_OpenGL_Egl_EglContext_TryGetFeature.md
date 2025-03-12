@@ -34,7 +34,7 @@ override TryGetFeature :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Egl/EglContext.cs#L179" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Egl/EglContext.cs#L180" title="View the source code">View Source</a>
 
 
 
@@ -45,7 +45,7 @@ override TryGetFeature :
 <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>
 
 #### Implements
-<a href="M_Avalonia_Platform_IOptionalFeatureProvider_TryGetFeature">IOptionalFeatureProvider.TryGetFeature(Type)</a>  
+IOptionalFeatureProvider.TryGetFeature(Type)  
 
 
 ## See Also
@@ -54,3 +54,4 @@ override TryGetFeature :
 #### Reference
 <a href="T_Avalonia_OpenGL_Egl_EglContext">EglContext Class</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

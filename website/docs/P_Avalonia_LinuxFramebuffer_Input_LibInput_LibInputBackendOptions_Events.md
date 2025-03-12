@@ -12,7 +12,7 @@ List Events of events handler to monitoring eg: /dev/eventX.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IReadOnlyList<string>? Events \{ get; init; }
+public IReadOnlyList<string>? Events { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Events : IReadOnlyList<string> with get, set
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_Input_LibInput_LibInputBackendOptions">LibInputBackendOptions Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer_Input_LibInput">Avalonia.LinuxFramebuffer.Input.LibInput Namespace</a>  
+

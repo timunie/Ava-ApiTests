@@ -36,7 +36,7 @@ override OnSelectionChanged :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L951" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L952" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnSelectionChanged :
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -37,7 +37,7 @@ static member GetBindingExpressionBase :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingOperations.cs#L119" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingOperations.cs#L120" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ The <a href="T_Avalonia_Data_BindingExpressionBase">BindingExpressionBase</a> ob
 #### Reference
 <a href="T_Avalonia_Data_BindingOperations">BindingOperations Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

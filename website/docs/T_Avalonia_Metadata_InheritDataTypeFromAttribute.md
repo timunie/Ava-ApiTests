@@ -12,11 +12,15 @@ Attribute that instructs the compiler to resolve the data type using specific sc
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AttributeUsageAttribute(AttributeTargets.Property|AttributeTargets.Parameter, AllowMultiple = false, 
+	Inherited = true)]
 public sealed class InheritDataTypeFromAttribute : Attribute
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AttributeUsageAttribute(AttributeTargets.Property Or AttributeTargets.Parameter, AllowMultiple := false, 
+	Inherited := true)>
 Public NotInheritable Class InheritDataTypeFromAttribute
 	Inherits Attribute
 ```
@@ -24,6 +28,8 @@ Public NotInheritable Class InheritDataTypeFromAttribute
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<AttributeUsageAttribute(AttributeTargets.Property|AttributeTargets.Parameter, AllowMultiple = false, 
+	Inherited = true)>]
 type InheritDataTypeFromAttribute = 
     class
         inherit Attribute
@@ -95,3 +101,4 @@ This attribute is used to configure markup extensions like TemplateBinding to pr
 
 #### Reference
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

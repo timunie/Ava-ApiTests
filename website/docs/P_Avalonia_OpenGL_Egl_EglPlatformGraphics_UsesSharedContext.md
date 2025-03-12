@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool UsesSharedContext \{ get; }
+public bool UsesSharedContext { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -46,3 +46,4 @@ override UsesSharedContext : bool with get
 #### Reference
 <a href="T_Avalonia_OpenGL_Egl_EglPlatformGraphics">EglPlatformGraphics Class</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

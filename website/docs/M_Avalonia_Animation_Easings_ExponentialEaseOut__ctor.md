@@ -39,3 +39,4 @@ new : unit -> ExponentialEaseOut
 #### Reference
 <a href="T_Avalonia_Animation_Easings_ExponentialEaseOut">ExponentialEaseOut Class</a>  
 <a href="N_Avalonia_Animation_Easings">Avalonia.Animation.Easings Namespace</a>  
+

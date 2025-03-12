@@ -12,7 +12,7 @@ Gets the total number of shades for each color in this palette. Shades are usual
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int ShadeCount \{ get; }
+public int ShadeCount { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ Represents total rows in a table.
 #### Reference
 <a href="T_Avalonia_Controls_FlatColorPalette">FlatColorPalette Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

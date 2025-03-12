@@ -35,7 +35,7 @@ static let inline (+)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Size.cs#L148" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Size.cs#L149" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ static let inline (+)
 #### Reference
 <a href="T_Avalonia_Size">Size Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

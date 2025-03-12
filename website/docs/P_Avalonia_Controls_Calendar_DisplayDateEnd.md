@@ -12,7 +12,7 @@ Gets or sets the last date to be displayed.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DateTime? DisplayDateEnd \{ get; set; }
+public DateTime? DisplayDateEnd { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The last date to display.To set this property in XAML, use a date specified in t
 #### Reference
 <a href="T_Avalonia_Controls_Calendar">Calendar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

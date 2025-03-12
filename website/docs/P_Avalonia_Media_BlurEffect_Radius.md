@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Radius \{ get; set; }
+public double Radius { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -47,3 +47,4 @@ override Radius : float with get, set
 #### Reference
 <a href="T_Avalonia_Media_BlurEffect">BlurEffect Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

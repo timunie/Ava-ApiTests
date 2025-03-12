@@ -12,7 +12,7 @@ Gets or sets the display format of the <a href="P_Avalonia_Controls_NumericUpDow
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string FormatString \{ get; set; }
+public string FormatString { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member FormatString : string with get, set
 #### Reference
 <a href="T_Avalonia_Controls_NumericUpDown">NumericUpDown Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -30,7 +30,7 @@ override Dispose : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Remote/RemoteServer.cs#L36" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Remote/RemoteServer.cs#L37" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ override Dispose : unit -> unit
 #### Reference
 <a href="T_Avalonia_Controls_Remote_RemoteServer">RemoteServer Class</a>  
 <a href="N_Avalonia_Controls_Remote">Avalonia.Controls.Remote Namespace</a>  
+

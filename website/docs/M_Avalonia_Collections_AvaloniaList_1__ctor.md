@@ -40,3 +40,4 @@ new : unit -> AvaloniaList
 <a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList(T) Class</a>  
 <a href="Overload_Avalonia_Collections_AvaloniaList_1__ctor">AvaloniaList(T) Overload</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

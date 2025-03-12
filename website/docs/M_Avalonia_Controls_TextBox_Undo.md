@@ -29,7 +29,7 @@ member Undo : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TextBox.cs#L2308" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TextBox.cs#L2309" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ member Undo : unit -> unit
 #### Reference
 <a href="T_Avalonia_Controls_TextBox">TextBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

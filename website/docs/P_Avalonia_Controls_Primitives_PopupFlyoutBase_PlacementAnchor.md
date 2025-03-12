@@ -12,7 +12,7 @@ Gets or sets the anchor point on the <a href="P_Avalonia_Controls_Primitives_Pop
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PopupAnchor PlacementAnchor \{ get; set; }
+public PopupAnchor PlacementAnchor { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member PlacementAnchor : PopupAnchor with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_PopupFlyoutBase">PopupFlyoutBase Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

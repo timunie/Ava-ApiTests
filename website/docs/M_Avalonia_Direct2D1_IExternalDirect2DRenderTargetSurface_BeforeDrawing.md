@@ -37,3 +37,4 @@ abstract BeforeDrawing : unit -> unit
 #### Reference
 <a href="T_Avalonia_Direct2D1_IExternalDirect2DRenderTargetSurface">IExternalDirect2DRenderTargetSurface Interface</a>  
 <a href="N_Avalonia_Direct2D1">Avalonia.Direct2D1 Namespace</a>  
+

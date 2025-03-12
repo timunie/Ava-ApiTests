@@ -13,7 +13,7 @@ Gets or sets the culture in which to evaluate the converter.
 <TabItem value="csharp" label="C#">
 ```csharp
 [TypeConverterAttribute(typeof(CultureInfoIetfLanguageTagConverter))]
-public CultureInfo? ConverterCulture \{ get; set; }
+public CultureInfo? ConverterCulture { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ The default value is null.If this property is not set then <a href="https://lear
 #### Reference
 <a href="T_Avalonia_Data_TemplateBinding">TemplateBinding Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

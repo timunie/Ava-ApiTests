@@ -12,17 +12,32 @@ A Toggle Switch control.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_MovingKnobs", typeof(Panel), IsRequired = true)]
+[TemplatePartAttribute("PART_OffContentPresenter", typeof(ContentPresenter))]
+[TemplatePartAttribute("PART_OnContentPresenter", typeof(ContentPresenter))]
+[TemplatePartAttribute("PART_SwitchKnob", typeof(Panel))]
+[PseudoClassesAttribute(new string[] { ... })]
 public class ToggleSwitch : ToggleButton
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_MovingKnobs", GetType(Panel), IsRequired := true)>
+<TemplatePartAttribute("PART_OffContentPresenter", GetType(ContentPresenter))>
+<TemplatePartAttribute("PART_OnContentPresenter", GetType(ContentPresenter))>
+<TemplatePartAttribute("PART_SwitchKnob", GetType(Panel))>
+<PseudoClassesAttribute(New String() { ... })>
 Public Class ToggleSwitch
 	Inherits ToggleButton
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_MovingKnobs", typeof(Panel), IsRequired = true)>]
+[<TemplatePartAttribute("PART_OffContentPresenter", typeof(ContentPresenter))>]
+[<TemplatePartAttribute("PART_OnContentPresenter", typeof(ContentPresenter))>]
+[<TemplatePartAttribute("PART_SwitchKnob", typeof(Panel))>]
+[<PseudoClassesAttribute(new string[] { ... })>]
 type ToggleSwitch = 
     class
         inherit ToggleButton
@@ -1176,10 +1191,6 @@ type ToggleSwitch =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1274,3 +1285,4 @@ type ToggleSwitch =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

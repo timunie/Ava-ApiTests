@@ -34,7 +34,7 @@ override OnColumnSorting :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridColumns.cs#L39" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridColumns.cs#L40" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override OnColumnSorting :
 #### Reference
 <a href="T_Avalonia_Controls_DataGrid">DataGrid Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,16 +12,19 @@ Diagnostics interface to retrieve an associated <a href="T_Avalonia_Controls_Pri
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IPopupHostProvider
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IPopupHostProvider
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IPopupHostProvider = interface end
 ```
 </TabItem>
@@ -54,3 +57,4 @@ type IPopupHostProvider = interface end
 
 #### Reference
 <a href="N_Avalonia_Controls_Diagnostics">Avalonia.Controls.Diagnostics Namespace</a>  
+

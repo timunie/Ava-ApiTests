@@ -37,14 +37,6 @@ type TextShaper = class end
 
 
 
-## Constructors
-<table>
-<tr>
-<td><a href="M_Avalonia_Media_TextFormatting_TextShaper__ctor">TextShaper(ITextShaperImpl)</a></td>
-<td>Initializes a new instance of the TextShaper class</td>
-</tr>
-</table>
-
 ## Properties
 <table>
 <tr>
@@ -94,3 +86,4 @@ type TextShaper = class end
 
 #### Reference
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

@@ -34,7 +34,7 @@ member CancelEdit :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGrid.cs#L2009" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGrid.cs#L2010" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ True if operation was successful. False otherwise.
 <a href="T_Avalonia_Controls_DataGrid">DataGrid Class</a>  
 <a href="Overload_Avalonia_Controls_DataGrid_CancelEdit">CancelEdit Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the type of shape to use on both ends of a line.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PenLineCap LineCap \{ get; set; }
+public PenLineCap LineCap { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override LineCap : PenLineCap with get, set
 #### Reference
 <a href="T_Avalonia_Media_Pen">Pen Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

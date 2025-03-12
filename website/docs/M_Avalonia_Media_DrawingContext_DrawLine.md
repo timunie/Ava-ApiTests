@@ -40,7 +40,7 @@ member DrawLine :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/DrawingContext.cs#L78" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/DrawingContext.cs#L79" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ member DrawLine :
 #### Reference
 <a href="T_Avalonia_Media_DrawingContext">DrawingContext Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

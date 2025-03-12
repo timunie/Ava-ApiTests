@@ -12,7 +12,7 @@ Gets the distance from the top to the baseline of the current TextLine object.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract double Baseline \{ get; }
+public abstract double Baseline { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ A <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank"
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextLine">TextLine Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

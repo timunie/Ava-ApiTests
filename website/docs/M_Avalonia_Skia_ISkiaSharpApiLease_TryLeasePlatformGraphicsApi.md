@@ -36,3 +36,4 @@ abstract TryLeasePlatformGraphicsApi : unit -> ISkiaSharpPlatformGraphicsApiLeas
 #### Reference
 <a href="T_Avalonia_Skia_ISkiaSharpApiLease">ISkiaSharpApiLease Interface</a>  
 <a href="N_Avalonia_Skia">Avalonia.Skia Namespace</a>  
+

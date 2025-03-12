@@ -39,7 +39,7 @@ member Navigate :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Dialogs/Internal/ManagedFileChooserViewModel.cs#L270" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Dialogs/Internal/ManagedFileChooserViewModel.cs#L271" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ member Navigate :
 <a href="T_Avalonia_Dialogs_Internal_ManagedFileChooserViewModel">ManagedFileChooserViewModel Class</a>  
 <a href="Overload_Avalonia_Dialogs_Internal_ManagedFileChooserViewModel_Navigate">Navigate Overload</a>  
 <a href="N_Avalonia_Dialogs_Internal">Avalonia.Dialogs.Internal Namespace</a>  
+

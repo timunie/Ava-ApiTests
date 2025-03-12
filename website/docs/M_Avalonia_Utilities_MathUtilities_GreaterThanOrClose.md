@@ -37,7 +37,7 @@ static member GreaterThanOrClose :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/MathUtilities.cs#L148" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/MathUtilities.cs#L149" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ static member GreaterThanOrClose :
 <a href="T_Avalonia_Utilities_MathUtilities">MathUtilities Class</a>  
 <a href="Overload_Avalonia_Utilities_MathUtilities_GreaterThanOrClose">GreaterThanOrClose Overload</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

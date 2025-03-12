@@ -34,7 +34,7 @@ static member GetPreviousMeasureConstraint :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Layout/LayoutInformation.cs#L14" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Layout/LayoutInformation.cs#L15" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ Previous control measure constraint, if any.
 #### Reference
 <a href="T_Avalonia_Layout_LayoutInformation">LayoutInformation Class</a>  
 <a href="N_Avalonia_Layout">Avalonia.Layout Namespace</a>  
+

@@ -12,17 +12,20 @@ Gets the children of the <a href="T_Avalonia_Controls_Panel">Panel</a>.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Controls Children \{ get; }
+[ContentAttribute]
+public Controls Children { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public ReadOnly Property Children As Controls
 	Get
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Children : Controls with get
 ```
 </TabItem>
@@ -43,3 +46,4 @@ member Children : Controls with get
 #### Reference
 <a href="T_Avalonia_Controls_Panel">Panel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Media_PolyLineSegment">PolyLineSegment Class</a>  
 <a href="Overload_Avalonia_Media_PolyLineSegment__ctor">PolyLineSegment Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

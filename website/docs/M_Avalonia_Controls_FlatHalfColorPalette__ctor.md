@@ -39,3 +39,4 @@ new : unit -> FlatHalfColorPalette
 #### Reference
 <a href="T_Avalonia_Controls_FlatHalfColorPalette">FlatHalfColorPalette Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

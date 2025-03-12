@@ -35,3 +35,4 @@ new : unit -> MarkupExtensionDefaultOptionAttribute
 #### Reference
 <a href="T_Avalonia_Metadata_MarkupExtensionDefaultOptionAttribute">MarkupExtensionDefaultOptionAttribute Class</a>  
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

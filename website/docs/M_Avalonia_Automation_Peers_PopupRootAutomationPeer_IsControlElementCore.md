@@ -41,3 +41,4 @@ override IsControlElementCore : unit -> bool
 #### Reference
 <a href="T_Avalonia_Automation_Peers_PopupRootAutomationPeer">PopupRootAutomationPeer Class</a>  
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

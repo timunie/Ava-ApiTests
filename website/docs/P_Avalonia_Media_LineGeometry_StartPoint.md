@@ -12,7 +12,7 @@ Gets or sets the start point of the line.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Point StartPoint \{ get; set; }
+public Point StartPoint { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member StartPoint : Point with get, set
 #### Reference
 <a href="T_Avalonia_Media_LineGeometry">LineGeometry Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

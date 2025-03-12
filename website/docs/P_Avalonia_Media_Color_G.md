@@ -12,7 +12,7 @@ Gets the Green component of the color.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public byte G \{ get; }
+public byte G { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member G : byte with get
 #### Reference
 <a href="T_Avalonia_Media_Color">Color Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

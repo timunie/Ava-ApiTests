@@ -34,7 +34,7 @@ member RemoveFontCollection :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FontManager.cs#L204" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FontManager.cs#L205" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ member RemoveFontCollection :
 #### Reference
 <a href="T_Avalonia_Media_FontManager">FontManager Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

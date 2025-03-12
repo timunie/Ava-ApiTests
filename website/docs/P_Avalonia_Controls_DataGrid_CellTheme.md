@@ -12,7 +12,7 @@ Gets or sets the theme applied to all cells.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ControlTheme CellTheme \{ get; set; }
+public ControlTheme CellTheme { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member CellTheme : ControlTheme with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGrid">DataGrid Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

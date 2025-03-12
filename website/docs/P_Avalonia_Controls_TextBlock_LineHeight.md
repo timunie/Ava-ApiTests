@@ -12,7 +12,7 @@ Gets or sets the height of each line of content.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double LineHeight \{ get; set; }
+public double LineHeight { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member LineHeight : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TextBlock">TextBlock Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

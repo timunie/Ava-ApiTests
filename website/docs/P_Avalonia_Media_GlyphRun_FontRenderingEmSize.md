@@ -12,7 +12,7 @@ Gets or sets the em size used for rendering the <a href="T_Avalonia_Media_GlyphR
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double FontRenderingEmSize \{ get; set; }
+public double FontRenderingEmSize { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member FontRenderingEmSize : float with get, set
 #### Reference
 <a href="T_Avalonia_Media_GlyphRun">GlyphRun Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

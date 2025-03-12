@@ -37,7 +37,7 @@ static member GetKeySymbol :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Windows/Avalonia.Win32/Input/KeyInterop.cs#L503" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Windows/Avalonia.Win32/Input/KeyInterop.cs#L507" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ A key symbol, or null if none matched.
 #### Reference
 <a href="T_Avalonia_Win32_Input_KeyInterop">KeyInterop Class</a>  
 <a href="N_Avalonia_Win32_Input">Avalonia.Win32.Input Namespace</a>  
+

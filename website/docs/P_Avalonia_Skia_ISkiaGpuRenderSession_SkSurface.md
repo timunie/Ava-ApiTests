@@ -12,7 +12,7 @@ Canvas that will be used to render.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-SKSurface SkSurface \{ get; }
+SKSurface SkSurface { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ SKSurface
 #### Reference
 <a href="T_Avalonia_Skia_ISkiaGpuRenderSession">ISkiaGpuRenderSession Interface</a>  
 <a href="N_Avalonia_Skia">Avalonia.Skia Namespace</a>  
+

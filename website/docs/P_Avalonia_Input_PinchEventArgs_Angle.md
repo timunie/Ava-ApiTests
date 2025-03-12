@@ -12,7 +12,7 @@ Gets the angle of the pinch gesture, in degrees.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Angle \{ get; }
+public double Angle { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Angle : float with get
 #### Reference
 <a href="T_Avalonia_Input_PinchEventArgs">PinchEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

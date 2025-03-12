@@ -36,7 +36,7 @@ override RegisterContentPresenter :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TabControl.cs#L234" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TabControl.cs#L235" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ override RegisterContentPresenter :
 #### Reference
 <a href="T_Avalonia_Controls_TabControl">TabControl Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

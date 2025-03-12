@@ -12,7 +12,7 @@ Gets or sets the ShutdownMode. This property indicates whether the application i
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-ShutdownMode ShutdownMode \{ get; set; }
+ShutdownMode ShutdownMode { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The shutdown mode.
 #### Reference
 <a href="T_Avalonia_Controls_ApplicationLifetimes_IClassicDesktopStyleApplicationLifetime">IClassicDesktopStyleApplicationLifetime Interface</a>  
 <a href="N_Avalonia_Controls_ApplicationLifetimes">Avalonia.Controls.ApplicationLifetimes Namespace</a>  
+

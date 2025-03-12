@@ -12,7 +12,7 @@ Get the incremental tab width.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double IncrementalTabWidth \{ get; }
+public double IncrementalTabWidth { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IncrementalTabWidth : float with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextShaperOptions">TextShaperOptions Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

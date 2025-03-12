@@ -46,3 +46,4 @@ type PlatformGraphicsExternalImageFormat
 
 #### Reference
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

@@ -175,3 +175,4 @@ type DirectProperty<'TOwner, 'TValue when 'TOwner : AvaloniaObject> =
 
 #### Reference
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

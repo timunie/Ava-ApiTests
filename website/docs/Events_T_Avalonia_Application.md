@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td><a href="E_Avalonia_Application_UrlsOpened">UrlsOpened</a></td>
-<td>Obsolete.</td>
+<td><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 </table>
 
@@ -29,3 +29,4 @@
 #### Reference
 <a href="T_Avalonia_Application">Application Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

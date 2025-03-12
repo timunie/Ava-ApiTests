@@ -12,7 +12,7 @@ Gets the unit of the <a href="T_Avalonia_Controls_GridLength">GridLength</a>.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public GridUnitType GridUnitType \{ get; }
+public GridUnitType GridUnitType { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member GridUnitType : GridUnitType with get
 #### Reference
 <a href="T_Avalonia_Controls_GridLength">GridLength Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

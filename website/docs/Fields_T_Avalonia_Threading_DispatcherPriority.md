@@ -10,16 +10,8 @@
 <td>The job will be processed when the application is idle.</td>
 </tr>
 <tr>
-<td><a href="F_Avalonia_Threading_DispatcherPriority_AsyncRenderTargetResize">AsyncRenderTargetResize</a></td>
-<td>A special priority for platforms that resize the render target in asynchronous-ish matter, should be changed into event grouping in the platform backend render</td>
-</tr>
-<tr>
 <td><a href="F_Avalonia_Threading_DispatcherPriority_Background">Background</a></td>
 <td>The job will be processed after other non-idle operations have completed.</td>
-</tr>
-<tr>
-<td><a href="F_Avalonia_Threading_DispatcherPriority_BeforeRender">BeforeRender</a></td>
-<td>A special platform hook for jobs to be executed before the normal render cycle</td>
 </tr>
 <tr>
 <td><a href="F_Avalonia_Threading_DispatcherPriority_ContextIdle">ContextIdle</a></td>
@@ -65,10 +57,6 @@
 <td><a href="F_Avalonia_Threading_DispatcherPriority_SystemIdle">SystemIdle</a></td>
 <td>The job will be processed when the system is idle.</td>
 </tr>
-<tr>
-<td><a href="F_Avalonia_Threading_DispatcherPriority_UiThreadRender">UiThreadRender</a></td>
-<td>A special priority for platforms with UI render timer or for forced full rasterization requests</td>
-</tr>
 </table>
 
 ## See Also
@@ -77,3 +65,4 @@
 #### Reference
 <a href="T_Avalonia_Threading_DispatcherPriority">DispatcherPriority Structure</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

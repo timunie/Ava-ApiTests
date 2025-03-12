@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Type Type \{ get; }
+public Type Type { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Type : Type with get
 #### Reference
 <a href="T_Avalonia_Data_Core_EnsureTypePropertyPathElement">EnsureTypePropertyPathElement Class</a>  
 <a href="N_Avalonia_Data_Core">Avalonia.Data.Core Namespace</a>  
+

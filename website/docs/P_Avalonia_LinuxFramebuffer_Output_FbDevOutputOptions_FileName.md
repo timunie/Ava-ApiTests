@@ -12,7 +12,7 @@ The frame buffer device name. Defaults to the value in environment variable FRAM
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? FileName \{ get; set; }
+public string? FileName { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member FileName : string with get, set
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_Output_FbDevOutputOptions">FbDevOutputOptions Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer_Output">Avalonia.LinuxFramebuffer.Output Namespace</a>  
+

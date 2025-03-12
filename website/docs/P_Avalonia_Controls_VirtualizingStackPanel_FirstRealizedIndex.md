@@ -12,7 +12,7 @@ Gets the index of the first realized element, or -1 if no elements are realized.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int FirstRealizedIndex \{ get; }
+public int FirstRealizedIndex { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member FirstRealizedIndex : int with get
 #### Reference
 <a href="T_Avalonia_Controls_VirtualizingStackPanel">VirtualizingStackPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

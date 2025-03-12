@@ -12,7 +12,7 @@ Gets or sets the height of the element.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Height \{ get; set; }
+public double Height { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Height : float with get, set
 #### Reference
 <a href="T_Avalonia_Layout_Layoutable">Layoutable Class</a>  
 <a href="N_Avalonia_Layout">Avalonia.Layout Namespace</a>  
+

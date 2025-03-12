@@ -40,3 +40,4 @@ abstract GetNewValue : unit -> Object
 #### Reference
 <a href="T_Avalonia_AvaloniaPropertyChangedEventArgs">AvaloniaPropertyChangedEventArgs Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the <a href="T_Avalonia_Media_FontStretch">FontStretch</a> value for the <a
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-FontStretch Stretch \{ get; }
+FontStretch Stretch { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Stretch : FontStretch with get
 #### Reference
 <a href="T_Avalonia_Media_IGlyphTypeface">IGlyphTypeface Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

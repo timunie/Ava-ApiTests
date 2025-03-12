@@ -37,7 +37,7 @@ static member Distance :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Point.cs#L174" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Point.cs#L175" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ The Euclidean distance.
 #### Reference
 <a href="T_Avalonia_Point">Point Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

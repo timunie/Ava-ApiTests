@@ -12,7 +12,7 @@ The popup indicator displayed while dragging. If null and Handled = true, then d
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Control DragIndicator \{ get; set; }
+public Control DragIndicator { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DragIndicator : Control with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGridColumnReorderingEventArgs">DataGridColumnReorderingEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

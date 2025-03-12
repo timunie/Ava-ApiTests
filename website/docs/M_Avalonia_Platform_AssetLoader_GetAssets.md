@@ -54,3 +54,4 @@ All matching assets as a tuple of the absolute path to the asset and the assembl
 #### Reference
 <a href="T_Avalonia_Platform_AssetLoader">AssetLoader Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

@@ -12,7 +12,7 @@ The third element of the first row (perspX: input x-axis perspective factor).
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double M13 \{ get; }
+public double M13 { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member M13 : float with get
 #### Reference
 <a href="T_Avalonia_Matrix">Matrix Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

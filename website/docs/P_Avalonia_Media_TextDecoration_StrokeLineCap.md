@@ -12,7 +12,7 @@ Gets or sets a <a href="T_Avalonia_Media_PenLineCap">PenLineCap</a> enumeration 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PenLineCap StrokeLineCap \{ get; set; }
+public PenLineCap StrokeLineCap { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member StrokeLineCap : PenLineCap with get, set
 #### Reference
 <a href="T_Avalonia_Media_TextDecoration">TextDecoration Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

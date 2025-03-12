@@ -38,7 +38,7 @@ override GetAssembly :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/StandardAssetLoader.cs#L96" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/StandardAssetLoader.cs#L97" title="View the source code">View Source</a>
 
 
 
@@ -58,3 +58,4 @@ override GetAssembly :
 #### Reference
 <a href="T_Avalonia_Platform_StandardAssetLoader">StandardAssetLoader Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

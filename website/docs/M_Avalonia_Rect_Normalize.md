@@ -29,7 +29,7 @@ member Normalize : unit -> Rect
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rect.cs#L469" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rect.cs#L470" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ Normalized RectEmpty rect will be return when Rect contains invalid values. Like
 #### Reference
 <a href="T_Avalonia_Rect">Rect Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

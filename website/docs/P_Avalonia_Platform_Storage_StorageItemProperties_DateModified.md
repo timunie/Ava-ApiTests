@@ -12,7 +12,7 @@ Gets the date and time of the last time the file was modified.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DateTimeOffset? DateModified \{ get; }
+public DateTimeOffset? DateModified { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member DateModified : Nullable<DateTimeOffset> with get
 #### Reference
 <a href="T_Avalonia_Platform_Storage_StorageItemProperties">StorageItemProperties Class</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

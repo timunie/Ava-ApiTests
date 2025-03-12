@@ -12,7 +12,7 @@ Gets a value that indicates whether the <a href="T_Avalonia_Animation_IterationC
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsInfinite \{ get; }
+public bool IsInfinite { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IsInfinite : bool with get
 #### Reference
 <a href="T_Avalonia_Animation_IterationCount">IterationCount Structure</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

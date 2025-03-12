@@ -36,7 +36,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridLength.cs#L328" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridLength.cs#L329" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ override Equals :
 <a href="T_Avalonia_Controls_DataGridLength">DataGridLength Structure</a>  
 <a href="Overload_Avalonia_Controls_DataGridLength_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

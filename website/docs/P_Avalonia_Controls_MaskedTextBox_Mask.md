@@ -12,7 +12,7 @@ Gets or sets the mask to apply to the TextBox.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? Mask \{ get; set; }
+public string? Mask { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Mask : string with get, set
 #### Reference
 <a href="T_Avalonia_Controls_MaskedTextBox">MaskedTextBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

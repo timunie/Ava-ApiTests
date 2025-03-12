@@ -40,7 +40,7 @@ member SetFontFamily :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L299" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L300" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ member SetFontFamily :
 <a href="T_Avalonia_Media_FormattedText">FormattedText Class</a>  
 <a href="Overload_Avalonia_Media_FormattedText_SetFontFamily">SetFontFamily Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -40,3 +40,4 @@ new : unit -> TemplateBinding
 <a href="T_Avalonia_Data_TemplateBinding">TemplateBinding Class</a>  
 <a href="Overload_Avalonia_Data_TemplateBinding__ctor">TemplateBinding Overload</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

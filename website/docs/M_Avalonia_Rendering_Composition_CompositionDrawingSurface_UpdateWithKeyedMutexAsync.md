@@ -40,7 +40,7 @@ member UpdateWithKeyedMutexAsync :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rendering/Composition/CompositionDrawingSurface.cs#L23" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rendering/Composition/CompositionDrawingSurface.cs#L24" title="View the source code">View Source</a>
 
 
 
@@ -57,3 +57,4 @@ A task that completes when update operation is completed and user code is free t
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_CompositionDrawingSurface">CompositionDrawingSurface Class</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

@@ -12,7 +12,7 @@ The second element of the third row (offsetY/translateY).
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double M32 \{ get; }
+public double M32 { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member M32 : float with get
 #### Reference
 <a href="T_Avalonia_Matrix">Matrix Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

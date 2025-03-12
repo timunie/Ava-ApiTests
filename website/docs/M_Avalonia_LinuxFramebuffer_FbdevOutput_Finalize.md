@@ -28,7 +28,7 @@ override Finalize : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Linux/Avalonia.LinuxFramebuffer/Output/FbdevOutput.cs#L213" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Linux/Avalonia.LinuxFramebuffer/Output/FbdevOutput.cs#L214" title="View the source code">View Source</a>
 
 
 
@@ -38,3 +38,4 @@ override Finalize : unit -> unit
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_FbdevOutput">FbdevOutput Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer">Avalonia.LinuxFramebuffer Namespace</a>  
+

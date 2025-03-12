@@ -12,7 +12,7 @@ Get or set the UnicodeRange that is covered by the fallback.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public UnicodeRange UnicodeRange \{ get; set; }
+public UnicodeRange UnicodeRange { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member UnicodeRange : UnicodeRange with get, set
 #### Reference
 <a href="T_Avalonia_Media_FontFallback">FontFallback Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

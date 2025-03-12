@@ -12,7 +12,7 @@ Gets the current page we are on. (zero based)
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int PageIndex \{ get; }
+public int PageIndex { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member PageIndex : int with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L788" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L789" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member PageIndex : int with get
 #### Reference
 <a href="T_Avalonia_Collections_DataGridCollectionView">DataGridCollectionView Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

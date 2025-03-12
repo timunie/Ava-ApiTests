@@ -12,7 +12,7 @@ Gets a value that indicates whether the redo stack has an action that can be red
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool CanRedo \{ get; }
+public bool CanRedo { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member CanRedo : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_TextBox">TextBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

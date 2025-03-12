@@ -42,3 +42,4 @@ static val FontStretchProperty: StyledProperty<FontStretch>
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

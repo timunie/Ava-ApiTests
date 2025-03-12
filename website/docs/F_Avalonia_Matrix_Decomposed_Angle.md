@@ -40,3 +40,4 @@ val mutable Angle: float
 #### Reference
 <a href="T_Avalonia_Matrix_Decomposed">Matrix.Decomposed Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

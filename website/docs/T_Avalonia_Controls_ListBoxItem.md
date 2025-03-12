@@ -12,12 +12,14 @@ A selectable item in a <a href="T_Avalonia_Controls_ListBox">ListBox</a>.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[PseudoClassesAttribute(new string[] { ... })]
 public class ListBoxItem : ContentControl, 
 	ISelectable
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<PseudoClassesAttribute(New String() { ... })>
 Public Class ListBoxItem
 	Inherits ContentControl
 	Implements ISelectable
@@ -25,6 +27,7 @@ Public Class ListBoxItem
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<PseudoClassesAttribute(new string[] { ... })>]
 type ListBoxItem = 
     class
         inherit ContentControl
@@ -1061,10 +1064,6 @@ type ListBoxItem =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1159,3 +1158,4 @@ type ListBoxItem =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

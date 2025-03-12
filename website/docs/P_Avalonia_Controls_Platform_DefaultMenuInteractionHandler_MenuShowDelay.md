@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static TimeSpan MenuShowDelay \{ get; set; }
+public static TimeSpan MenuShowDelay { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ static member MenuShowDelay : TimeSpan with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Platform_DefaultMenuInteractionHandler">DefaultMenuInteractionHandler Class</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the new item when an AddNew transaction is in progress Otherwise it returns
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object CurrentAddItem \{ get; }
+public Object CurrentAddItem { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -31,7 +31,7 @@ override CurrentAddItem : Object with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L521" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L522" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ override CurrentAddItem : Object with get
 #### Reference
 <a href="T_Avalonia_Collections_DataGridCollectionView">DataGridCollectionView Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

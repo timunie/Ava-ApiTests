@@ -41,3 +41,4 @@ member Opened : IEvent<EventHandler,
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_FlyoutBase">FlyoutBase Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

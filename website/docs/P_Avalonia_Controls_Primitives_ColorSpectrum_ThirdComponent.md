@@ -12,7 +12,7 @@ Gets the third HSV color component that is NOT displayed by the spectrum. This i
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ColorComponent ThirdComponent \{ get; }
+public ColorComponent ThirdComponent { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member ThirdComponent : ColorComponent with get
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_ColorSpectrum">ColorSpectrum Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

@@ -37,7 +37,7 @@ static member Register :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/WeakEvent.cs#L137" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/WeakEvent.cs#L138" title="View the source code">View Source</a>
 
 
 
@@ -57,3 +57,4 @@ static member Register :
 <a href="T_Avalonia_Utilities_WeakEvent">WeakEvent Class</a>  
 <a href="Overload_Avalonia_Utilities_WeakEvent_Register">Register Overload</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

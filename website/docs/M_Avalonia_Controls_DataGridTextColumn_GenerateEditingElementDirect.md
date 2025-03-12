@@ -40,7 +40,7 @@ override GenerateEditingElementDirect :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridTextColumn.cs#L166" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridTextColumn.cs#L167" title="View the source code">View Source</a>
 
 
 
@@ -57,3 +57,4 @@ A new <a href="T_Avalonia_Controls_TextBox">TextBox</a> control that is bound to
 #### Reference
 <a href="T_Avalonia_Controls_DataGridTextColumn">DataGridTextColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

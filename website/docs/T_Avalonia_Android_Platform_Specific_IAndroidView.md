@@ -36,3 +36,4 @@ type IAndroidView = interface end
 
 #### Reference
 <a href="N_Avalonia_Android_Platform_Specific">Avalonia.Android.Platform.Specific Namespace</a>  
+

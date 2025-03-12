@@ -34,7 +34,7 @@ override IsSelected :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Selection/SelectionModel.cs#L229" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Selection/SelectionModel.cs#L230" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ override IsSelected :
 #### Reference
 <a href="T_Avalonia_Controls_Selection_SelectionModel_1">SelectionModel(T) Class</a>  
 <a href="N_Avalonia_Controls_Selection">Avalonia.Controls.Selection Namespace</a>  
+

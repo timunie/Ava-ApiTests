@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IPlatformGraphicsContext Context \{ get; }
+IPlatformGraphicsContext Context { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -37,3 +37,4 @@ abstract Context : IPlatformGraphicsContext with get
 #### Reference
 <a href="T_Avalonia_Skia_ISkiaSharpPlatformGraphicsApiLease">ISkiaSharpPlatformGraphicsApiLease Interface</a>  
 <a href="N_Avalonia_Skia">Avalonia.Skia Namespace</a>  
+

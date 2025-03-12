@@ -12,7 +12,7 @@ Gets the <a href="T_Avalonia_PixelPoint">PixelPoint</a> data.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PixelPoint Point \{ get; }
+public PixelPoint Point { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Point : PixelPoint with get
 #### Reference
 <a href="T_Avalonia_Controls_PixelPointEventArgs">PixelPointEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

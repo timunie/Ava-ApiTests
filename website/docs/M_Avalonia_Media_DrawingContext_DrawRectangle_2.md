@@ -58,3 +58,4 @@ member DrawRectangle :
 <a href="T_Avalonia_Media_DrawingContext">DrawingContext Class</a>  
 <a href="Overload_Avalonia_Media_DrawingContext_DrawRectangle">DrawRectangle Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

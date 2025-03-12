@@ -12,7 +12,7 @@ Gets or sets the control's focus adorner.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ITemplate<Control>? FocusAdorner \{ get; set; }
+public ITemplate<Control>? FocusAdorner { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member FocusAdorner : ITemplate<Control> with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Control">Control Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the default value for the property.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Object? DefaultValue \{ get; }
+Object? DefaultValue { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract DefaultValue : Object with get
 #### Reference
 <a href="T_Avalonia_IStyledPropertyMetadata">IStyledPropertyMetadata Interface</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

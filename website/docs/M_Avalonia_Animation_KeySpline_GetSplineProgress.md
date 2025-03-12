@@ -34,7 +34,7 @@ member GetSplineProgress :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/KeySpline.cs#L162" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/KeySpline.cs#L163" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ the spline progress
 #### Reference
 <a href="T_Avalonia_Animation_KeySpline">KeySpline Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

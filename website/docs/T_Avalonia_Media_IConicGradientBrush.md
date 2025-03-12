@@ -12,18 +12,21 @@ Paints an area with a conic gradient.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IConicGradientBrush : IGradientBrush, 
 	IBrush
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IConicGradientBrush
 	Inherits IGradientBrush, IBrush
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IConicGradientBrush = 
     interface
         interface IGradientBrush
@@ -88,3 +91,4 @@ type IConicGradientBrush =
 
 #### Reference
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

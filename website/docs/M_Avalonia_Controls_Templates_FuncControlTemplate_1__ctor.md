@@ -47,3 +47,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Controls_Templates_FuncControlTemplate_1">FuncControlTemplate(T) Class</a>  
 <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates Namespace</a>  
+

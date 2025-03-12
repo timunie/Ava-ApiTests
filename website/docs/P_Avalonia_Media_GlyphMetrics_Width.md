@@ -12,7 +12,7 @@ Distance from the left extremum of the glyph to the right extremum.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int Width \{ get; init; }
+public int Width { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Width : int with get, set
 #### Reference
 <a href="T_Avalonia_Media_GlyphMetrics">GlyphMetrics Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

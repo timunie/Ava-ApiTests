@@ -12,7 +12,7 @@ Gets the <a href="T_Avalonia_Media_TextFormatting_Unicode_BidiPairedBracketType"
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public BidiPairedBracketType PairedBracketType \{ get; }
+public BidiPairedBracketType PairedBracketType { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member PairedBracketType : BidiPairedBracketType with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_Unicode_Codepoint">Codepoint Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting_Unicode">Avalonia.Media.TextFormatting.Unicode Namespace</a>  
+

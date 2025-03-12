@@ -12,7 +12,7 @@ Gets or sets a validation routine that can be used to validate items before they
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Action<T>? Validate \{ get; set; }
+public Action<T>? Validate { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Validate : Action<'T> with get, set
 #### Reference
 <a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList(T) Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

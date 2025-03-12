@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IList<SetterBase> Setters \{ get; }
+public IList<SetterBase> Setters { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Setters : IList<SetterBase> with get
 #### Reference
 <a href="T_Avalonia_Styling_StyleBase">StyleBase Class</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

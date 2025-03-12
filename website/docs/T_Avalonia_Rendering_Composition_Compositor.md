@@ -37,14 +37,6 @@ type Compositor = class end
 
 
 
-## Constructors
-<table>
-<tr>
-<td><a href="M_Avalonia_Rendering_Composition_Compositor__ctor">Compositor(IPlatformGraphics, Boolean)</a></td>
-<td>Creates a new compositor on a specified render loop that would use a particular GPU</td>
-</tr>
-</table>
-
 ## Methods
 <table>
 <tr>
@@ -182,3 +174,4 @@ type Compositor = class end
 
 #### Reference
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

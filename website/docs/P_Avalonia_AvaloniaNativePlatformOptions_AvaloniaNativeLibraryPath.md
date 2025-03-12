@@ -12,7 +12,7 @@ This property should be used in case you want to build Avalonia OSX native part 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string AvaloniaNativeLibraryPath \{ get; set; }
+public string AvaloniaNativeLibraryPath { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member AvaloniaNativeLibraryPath : string with get, set
 #### Reference
 <a href="T_Avalonia_AvaloniaNativePlatformOptions">AvaloniaNativePlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

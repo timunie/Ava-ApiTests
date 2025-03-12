@@ -12,7 +12,7 @@ Gets or sets the selected items.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IList SelectedItems \{ get; set; }
+public IList SelectedItems { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -31,7 +31,7 @@ member SelectedItems : IList with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TreeView.cs#L144" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TreeView.cs#L145" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ member SelectedItems : IList with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TreeView">TreeView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

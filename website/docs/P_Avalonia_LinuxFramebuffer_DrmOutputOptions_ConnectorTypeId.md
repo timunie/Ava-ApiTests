@@ -12,7 +12,7 @@ Specifies the connector type ID used with <a href="P_Avalonia_LinuxFramebuffer_D
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public uint? ConnectorTypeId \{ get; set; }
+public uint? ConnectorTypeId { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ConnectorTypeId : Nullable<uint32> with get, set
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_DrmOutputOptions">DrmOutputOptions Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer">Avalonia.LinuxFramebuffer Namespace</a>  
+

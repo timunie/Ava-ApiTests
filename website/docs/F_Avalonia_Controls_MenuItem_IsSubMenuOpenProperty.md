@@ -42,3 +42,4 @@ static val IsSubMenuOpenProperty: StyledProperty<bool>
 #### Reference
 <a href="T_Avalonia_Controls_MenuItem">MenuItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets a method to call after the <a href="T_Avalonia_Application">Application</a>
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Action<AppBuilder> AfterSetupCallback \{ get; }
+public Action<AppBuilder> AfterSetupCallback { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member AfterSetupCallback : Action<AppBuilder> with get
 #### Reference
 <a href="T_Avalonia_AppBuilder">AppBuilder Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

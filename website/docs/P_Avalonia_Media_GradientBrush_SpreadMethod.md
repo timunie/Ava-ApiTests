@@ -12,7 +12,7 @@ Gets the brush's spread method that defines how to draw a gradient that doesn't 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public GradientSpreadMethod SpreadMethod \{ get; set; }
+public GradientSpreadMethod SpreadMethod { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override SpreadMethod : GradientSpreadMethod with get, set
 #### Reference
 <a href="T_Avalonia_Media_GradientBrush">GradientBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

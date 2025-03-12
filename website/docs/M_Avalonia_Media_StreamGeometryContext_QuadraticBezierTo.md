@@ -42,7 +42,7 @@ override QuadraticBezierTo :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/StreamGeometryContext.cs#L138" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/StreamGeometryContext.cs#L139" title="View the source code">View Source</a>
 
 
 
@@ -60,3 +60,4 @@ override QuadraticBezierTo :
 <a href="T_Avalonia_Media_StreamGeometryContext">StreamGeometryContext Class</a>  
 <a href="Overload_Avalonia_Media_StreamGeometryContext_QuadraticBezierTo">QuadraticBezierTo Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

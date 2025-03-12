@@ -12,7 +12,7 @@ Gets a value indicating whether the point is inside the bounds of the text.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsInside \{ get; }
+public bool IsInside { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IsInside : bool with get
 #### Reference
 <a href="T_Avalonia_Media_TextHitTestResult">TextHitTestResult Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

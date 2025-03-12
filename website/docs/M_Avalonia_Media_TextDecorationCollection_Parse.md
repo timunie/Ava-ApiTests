@@ -34,7 +34,7 @@ static member Parse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextDecorationCollection.cs#L29" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextDecorationCollection.cs#L30" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The <a href="T_Avalonia_Media_TextDecorationCollection">TextDecorationCollection
 #### Reference
 <a href="T_Avalonia_Media_TextDecorationCollection">TextDecorationCollection Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

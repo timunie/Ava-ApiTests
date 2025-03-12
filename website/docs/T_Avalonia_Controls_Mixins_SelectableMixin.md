@@ -56,3 +56,4 @@ Mixins apply themselves to classes and not instances, and as such should be crea
 
 #### Reference
 <a href="N_Avalonia_Controls_Mixins">Avalonia.Controls.Mixins Namespace</a>  
+

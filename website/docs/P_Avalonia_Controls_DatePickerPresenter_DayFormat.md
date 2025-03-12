@@ -12,7 +12,7 @@ Gets or sets the DayFormat
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string DayFormat \{ get; set; }
+public string DayFormat { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DayFormat : string with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DatePickerPresenter">DatePickerPresenter Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

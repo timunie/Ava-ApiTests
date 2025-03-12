@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract bool IsBottomLevel \{ get; }
+public abstract bool IsBottomLevel { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ abstract IsBottomLevel : bool with get
 #### Reference
 <a href="T_Avalonia_Collections_DataGridCollectionViewGroup">DataGridCollectionViewGroup Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

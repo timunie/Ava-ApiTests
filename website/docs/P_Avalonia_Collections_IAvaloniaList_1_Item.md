@@ -14,7 +14,7 @@ Gets or sets the element at the specified index.
 ```csharp
 T this[
 	int index
-] \{ get; set; }
+] { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -57,3 +57,4 @@ The element at the requested index.
 #### Reference
 <a href="T_Avalonia_Collections_IAvaloniaList_1">IAvaloniaList(T) Interface</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

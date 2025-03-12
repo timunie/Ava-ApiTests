@@ -30,7 +30,7 @@ override Close : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ContextMenu.cs#L286" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ContextMenu.cs#L287" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ override Close : unit -> unit
 #### Reference
 <a href="T_Avalonia_Controls_ContextMenu">ContextMenu Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

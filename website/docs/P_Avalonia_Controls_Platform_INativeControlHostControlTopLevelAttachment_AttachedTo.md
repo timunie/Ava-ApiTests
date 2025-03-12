@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-INativeControlHostImpl? AttachedTo \{ get; set; }
+INativeControlHostImpl? AttachedTo { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ abstract AttachedTo : INativeControlHostImpl with get, set
 
 
 #### Property Value
-<a href="T_Avalonia_Controls_Platform_INativeControlHostImpl">INativeControlHostImpl</a>
+INativeControlHostImpl
 
 ## See Also
 
@@ -38,3 +38,4 @@ abstract AttachedTo : INativeControlHostImpl with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Platform_INativeControlHostControlTopLevelAttachment">INativeControlHostControlTopLevelAttachment Interface</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

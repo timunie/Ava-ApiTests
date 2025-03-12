@@ -12,7 +12,7 @@ The content type (mostly for determining the shape of the virtual keyboard)
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TextInputContentType ContentType \{ get; set; }
+public TextInputContentType ContentType { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ContentType : TextInputContentType with get, set
 #### Reference
 <a href="T_Avalonia_Input_TextInput_TextInputOptions">TextInputOptions Class</a>  
 <a href="N_Avalonia_Input_TextInput">Avalonia.Input.TextInput Namespace</a>  
+

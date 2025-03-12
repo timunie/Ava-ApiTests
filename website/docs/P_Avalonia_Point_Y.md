@@ -12,7 +12,7 @@ Gets the Y position.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Y \{ get; }
+public double Y { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Y : float with get
 #### Reference
 <a href="T_Avalonia_Point">Point Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

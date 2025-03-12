@@ -12,18 +12,21 @@ Paints an area with an IBitmap.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IImageBrush : ITileBrush, 
 	IBrush
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IImageBrush
 	Inherits ITileBrush, IBrush
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IImageBrush = 
     interface
         interface ITileBrush
@@ -100,3 +103,4 @@ type IImageBrush =
 
 #### Reference
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

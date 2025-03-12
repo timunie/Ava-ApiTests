@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Size AvailableSize \{ get; }
+public Size AvailableSize { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member AvailableSize : Size with get
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_TextSelectorLayer">TextSelectorLayer Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the control's clip rectangle in global coordinate space.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Rect Clip \{ get; }
+public Rect Clip { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Clip : Rect with get
 #### Reference
 <a href="T_Avalonia_VisualTree_TransformedBounds">TransformedBounds Structure</a>  
 <a href="N_Avalonia_VisualTree">Avalonia.VisualTree Namespace</a>  
+

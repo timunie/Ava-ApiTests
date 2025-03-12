@@ -12,7 +12,7 @@ Gets the number of newline characters at the end of a line.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract int NewLineLength \{ get; }
+public abstract int NewLineLength { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The number of newline characters.
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextLine">TextLine Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

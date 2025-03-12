@@ -42,3 +42,4 @@ static val mutable NoScroll: float
 #### Reference
 <a href="T_Avalonia_Automation_ScrollPatternIdentifiers">ScrollPatternIdentifiers Class</a>  
 <a href="N_Avalonia_Automation">Avalonia.Automation Namespace</a>  
+

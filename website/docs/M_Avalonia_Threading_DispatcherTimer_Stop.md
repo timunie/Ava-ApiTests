@@ -29,7 +29,7 @@ member Stop : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherTimer.cs#L160" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherTimer.cs#L161" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ member Stop : unit -> unit
 #### Reference
 <a href="T_Avalonia_Threading_DispatcherTimer">DispatcherTimer Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

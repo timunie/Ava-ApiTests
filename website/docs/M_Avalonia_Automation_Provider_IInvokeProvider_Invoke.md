@@ -39,3 +39,4 @@ abstract Invoke : unit -> unit
 #### Reference
 <a href="T_Avalonia_Automation_Provider_IInvokeProvider">IInvokeProvider Interface</a>  
 <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider Namespace</a>  
+

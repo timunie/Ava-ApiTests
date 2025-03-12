@@ -12,7 +12,7 @@ Gets the exception that was raised when executing code by way of the dispatcher.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Exception Exception \{ get; }
+public Exception Exception { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Exception : Exception with get
 #### Reference
 <a href="T_Avalonia_Threading_DispatcherUnhandledExceptionFilterEventArgs">DispatcherUnhandledExceptionFilterEventArgs Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

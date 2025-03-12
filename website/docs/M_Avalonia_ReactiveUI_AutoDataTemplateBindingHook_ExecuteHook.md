@@ -52,7 +52,7 @@ override ExecuteHook :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.ReactiveUI/AutoDataTemplateBindingHook.cs#L36" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.ReactiveUI/AutoDataTemplateBindingHook.cs#L37" title="View the source code">View Source</a>
 
 
 
@@ -73,3 +73,4 @@ IPropertyBindingHook.ExecuteHook(Object, Object, Func(IObservedChange(Object, Ob
 #### Reference
 <a href="T_Avalonia_ReactiveUI_AutoDataTemplateBindingHook">AutoDataTemplateBindingHook Class</a>  
 <a href="N_Avalonia_ReactiveUI">Avalonia.ReactiveUI Namespace</a>  
+

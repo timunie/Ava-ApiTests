@@ -29,7 +29,7 @@ new : unit -> LibInputBackendOptions
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Linux/Avalonia.LinuxFramebuffer/Input/LibInput/LibInputBackendOptions.cs#L14" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Linux/Avalonia.LinuxFramebuffer/Input/LibInput/LibInputBackendOptions.cs" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ new : unit -> LibInputBackendOptions
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_Input_LibInput_LibInputBackendOptions">LibInputBackendOptions Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer_Input_LibInput">Avalonia.LinuxFramebuffer.Input.LibInput Namespace</a>  
+

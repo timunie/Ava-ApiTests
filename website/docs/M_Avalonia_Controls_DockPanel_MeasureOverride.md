@@ -36,7 +36,7 @@ override MeasureOverride :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/DockPanel.cs#L90" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/DockPanel.cs#L91" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ The Panel's desired size.Children are measured based on their sizing properties 
 #### Reference
 <a href="T_Avalonia_Controls_DockPanel">DockPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

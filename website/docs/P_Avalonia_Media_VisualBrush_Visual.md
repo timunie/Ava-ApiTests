@@ -12,7 +12,7 @@ Gets or sets the visual to draw.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Visual? Visual \{ get; set; }
+public Visual? Visual { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Visual : Visual with get, set
 #### Reference
 <a href="T_Avalonia_Media_VisualBrush">VisualBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

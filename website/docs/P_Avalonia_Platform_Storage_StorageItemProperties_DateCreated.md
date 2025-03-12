@@ -12,7 +12,7 @@ Gets the date and time that the current folder was created.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DateTimeOffset? DateCreated \{ get; }
+public DateTimeOffset? DateCreated { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member DateCreated : Nullable<DateTimeOffset> with get
 #### Reference
 <a href="T_Avalonia_Platform_Storage_StorageItemProperties">StorageItemProperties Class</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

@@ -36,7 +36,7 @@ override OnDropDownOpening :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L964" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L965" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnDropDownOpening :
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

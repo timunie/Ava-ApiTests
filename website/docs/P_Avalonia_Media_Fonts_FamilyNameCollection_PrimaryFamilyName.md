@@ -12,7 +12,7 @@ Gets the primary family name.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string PrimaryFamilyName \{ get; }
+public string PrimaryFamilyName { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The primary family name.
 #### Reference
 <a href="T_Avalonia_Media_Fonts_FamilyNameCollection">FamilyNameCollection Class</a>  
 <a href="N_Avalonia_Media_Fonts">Avalonia.Media.Fonts Namespace</a>  
+

@@ -12,16 +12,19 @@ Defines a platform-specific mount volumes info provider implementation.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface IMountedVolumeInfoProvider
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface IMountedVolumeInfoProvider
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type IMountedVolumeInfoProvider = interface end
 ```
 </TabItem>
@@ -46,3 +49,4 @@ type IMountedVolumeInfoProvider = interface end
 
 #### Reference
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

@@ -40,3 +40,4 @@ new : unit -> MenuBase
 <a href="T_Avalonia_Controls_MenuBase">MenuBase Class</a>  
 <a href="Overload_Avalonia_Controls_MenuBase__ctor">MenuBase Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

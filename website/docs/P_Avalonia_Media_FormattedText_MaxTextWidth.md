@@ -12,7 +12,7 @@ The MaxTextWidth property defines the alignment edges for the FormattedText. For
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double MaxTextWidth \{ get; set; }
+public double MaxTextWidth { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -31,7 +31,7 @@ member MaxTextWidth : float with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L1097" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L1098" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ member MaxTextWidth : float with get, set
 #### Reference
 <a href="T_Avalonia_Media_FormattedText">FormattedText Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

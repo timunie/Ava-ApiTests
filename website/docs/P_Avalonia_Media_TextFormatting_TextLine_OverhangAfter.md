@@ -12,7 +12,7 @@ Gets the distance that black pixels extend beyond the bottom alignment edge of a
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract double OverhangAfter \{ get; }
+public abstract double OverhangAfter { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The overhang after distance.
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextLine">TextLine Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

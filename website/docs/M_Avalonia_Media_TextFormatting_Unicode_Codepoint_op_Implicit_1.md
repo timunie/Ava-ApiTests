@@ -31,7 +31,7 @@ F# does not support the declaration of new casting operators.
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/Unicode/Codepoint.cs#L161" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/Unicode/Codepoint.cs#L162" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ F# does not support the declaration of new casting operators.
 <a href="T_Avalonia_Media_TextFormatting_Unicode_Codepoint">Codepoint Structure</a>  
 <a href="Overload_Avalonia_Media_TextFormatting_Unicode_Codepoint_op_Implicit">Implicit Overload</a>  
 <a href="N_Avalonia_Media_TextFormatting_Unicode">Avalonia.Media.TextFormatting.Unicode Namespace</a>  
+

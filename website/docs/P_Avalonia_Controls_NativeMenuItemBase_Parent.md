@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public NativeMenu? Parent \{ get; }
+public NativeMenu? Parent { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Parent : NativeMenu with get
 #### Reference
 <a href="T_Avalonia_Controls_NativeMenuItemBase">NativeMenuItemBase Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

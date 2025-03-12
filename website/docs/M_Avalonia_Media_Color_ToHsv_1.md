@@ -47,7 +47,7 @@ static member ToHsv :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Color.cs#L612" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Color.cs#L614" title="View the source code">View Source</a>
 
 
 
@@ -65,3 +65,4 @@ A new <a href="T_Avalonia_Media_HsvColor">HsvColor</a> equivalent to the given R
 <a href="T_Avalonia_Media_Color">Color Structure</a>  
 <a href="Overload_Avalonia_Media_Color_ToHsv">ToHsv Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

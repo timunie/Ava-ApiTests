@@ -12,7 +12,7 @@ Gets or sets the styled element's classes.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Classes Classes \{ get; }
+public Classes Classes { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -47,3 +47,4 @@ Even though this property can be set, the setter is only intended for use in obj
 #### Reference
 <a href="T_Avalonia_StyledElement">StyledElement Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -47,3 +47,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Layout_EffectiveViewportChangedEventArgs">EffectiveViewportChangedEventArgs Class</a>  
 <a href="N_Avalonia_Layout">Avalonia.Layout Namespace</a>  
+

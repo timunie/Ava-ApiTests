@@ -34,7 +34,7 @@ override OnPropertyChanged :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Documents/Inline.cs#L117" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Documents/Inline.cs#L118" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override OnPropertyChanged :
 #### Reference
 <a href="T_Avalonia_Controls_Documents_Inline">Inline Class</a>  
 <a href="N_Avalonia_Controls_Documents">Avalonia.Controls.Documents Namespace</a>  
+

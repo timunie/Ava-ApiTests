@@ -12,7 +12,7 @@ Gets or sets a timeout after which the dispatcher will start prioritizing input 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TimeSpan InputStarvationTimeout \{ get; set; }
+public TimeSpan InputStarvationTimeout { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member InputStarvationTimeout : TimeSpan with get, set
 #### Reference
 <a href="T_Avalonia_Threading_DispatcherOptions">DispatcherOptions Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

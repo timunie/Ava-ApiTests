@@ -48,3 +48,4 @@ member GetProcAddress :
 #### Reference
 <a href="T_Avalonia_OpenGL_GlInterface">GlInterface Class</a>  
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

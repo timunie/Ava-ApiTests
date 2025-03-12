@@ -12,7 +12,7 @@ Gets or sets the format string applied to the internally calculated progress tex
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string ProgressTextFormat \{ get; set; }
+public string ProgressTextFormat { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ProgressTextFormat : string with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ProgressBar">ProgressBar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

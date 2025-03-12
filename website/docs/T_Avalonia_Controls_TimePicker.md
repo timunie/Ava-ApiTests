@@ -12,17 +12,65 @@ A control to allow the user to select a time.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_FirstColumnDivider", typeof(Rectangle))]
+[TemplatePartAttribute("PART_FirstPickerHost", typeof(Border))]
+[TemplatePartAttribute("PART_FlyoutButton", typeof(Button))]
+[TemplatePartAttribute("PART_FlyoutButtonContentGrid", typeof(Grid))]
+[TemplatePartAttribute("PART_HourTextBlock", typeof(TextBlock))]
+[TemplatePartAttribute("PART_MinuteTextBlock", typeof(TextBlock))]
+[TemplatePartAttribute("PART_SecondTextBlock", typeof(TextBlock))]
+[TemplatePartAttribute("PART_PeriodTextBlock", typeof(TextBlock))]
+[TemplatePartAttribute("PART_PickerPresenter", typeof(TimePickerPresenter))]
+[TemplatePartAttribute("PART_Popup", typeof(Popup))]
+[TemplatePartAttribute("PART_SecondColumnDivider", typeof(Rectangle))]
+[TemplatePartAttribute("PART_SecondPickerHost", typeof(Border))]
+[TemplatePartAttribute("PART_ThirdColumnDivider", typeof(Rectangle))]
+[TemplatePartAttribute("PART_ThirdPickerHost", typeof(Border))]
+[TemplatePartAttribute("PART_FourthPickerHost", typeof(Border))]
+[PseudoClassesAttribute(new string[] { ... })]
 public class TimePicker : TemplatedControl
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_FirstColumnDivider", GetType(Rectangle))>
+<TemplatePartAttribute("PART_FirstPickerHost", GetType(Border))>
+<TemplatePartAttribute("PART_FlyoutButton", GetType(Button))>
+<TemplatePartAttribute("PART_FlyoutButtonContentGrid", GetType(Grid))>
+<TemplatePartAttribute("PART_HourTextBlock", GetType(TextBlock))>
+<TemplatePartAttribute("PART_MinuteTextBlock", GetType(TextBlock))>
+<TemplatePartAttribute("PART_SecondTextBlock", GetType(TextBlock))>
+<TemplatePartAttribute("PART_PeriodTextBlock", GetType(TextBlock))>
+<TemplatePartAttribute("PART_PickerPresenter", GetType(TimePickerPresenter))>
+<TemplatePartAttribute("PART_Popup", GetType(Popup))>
+<TemplatePartAttribute("PART_SecondColumnDivider", GetType(Rectangle))>
+<TemplatePartAttribute("PART_SecondPickerHost", GetType(Border))>
+<TemplatePartAttribute("PART_ThirdColumnDivider", GetType(Rectangle))>
+<TemplatePartAttribute("PART_ThirdPickerHost", GetType(Border))>
+<TemplatePartAttribute("PART_FourthPickerHost", GetType(Border))>
+<PseudoClassesAttribute(New String() { ... })>
 Public Class TimePicker
 	Inherits TemplatedControl
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_FirstColumnDivider", typeof(Rectangle))>]
+[<TemplatePartAttribute("PART_FirstPickerHost", typeof(Border))>]
+[<TemplatePartAttribute("PART_FlyoutButton", typeof(Button))>]
+[<TemplatePartAttribute("PART_FlyoutButtonContentGrid", typeof(Grid))>]
+[<TemplatePartAttribute("PART_HourTextBlock", typeof(TextBlock))>]
+[<TemplatePartAttribute("PART_MinuteTextBlock", typeof(TextBlock))>]
+[<TemplatePartAttribute("PART_SecondTextBlock", typeof(TextBlock))>]
+[<TemplatePartAttribute("PART_PeriodTextBlock", typeof(TextBlock))>]
+[<TemplatePartAttribute("PART_PickerPresenter", typeof(TimePickerPresenter))>]
+[<TemplatePartAttribute("PART_Popup", typeof(Popup))>]
+[<TemplatePartAttribute("PART_SecondColumnDivider", typeof(Rectangle))>]
+[<TemplatePartAttribute("PART_SecondPickerHost", typeof(Border))>]
+[<TemplatePartAttribute("PART_ThirdColumnDivider", typeof(Rectangle))>]
+[<TemplatePartAttribute("PART_ThirdPickerHost", typeof(Border))>]
+[<TemplatePartAttribute("PART_FourthPickerHost", typeof(Border))>]
+[<PseudoClassesAttribute(new string[] { ... })>]
 type TimePicker = 
     class
         inherit TemplatedControl
@@ -1076,10 +1124,6 @@ type TimePicker =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1174,3 +1218,4 @@ type TimePicker =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

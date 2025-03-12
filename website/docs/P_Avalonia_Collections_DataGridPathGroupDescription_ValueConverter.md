@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IValueConverter ValueConverter \{ get; set; }
+public IValueConverter ValueConverter { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member ValueConverter : IValueConverter with get, set
 #### Reference
 <a href="T_Avalonia_Collections_DataGridPathGroupDescription">DataGridPathGroupDescription Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

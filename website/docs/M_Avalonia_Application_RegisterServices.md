@@ -30,7 +30,7 @@ override RegisterServices : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Application.cs#L253" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Application.cs#L254" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ override RegisterServices : unit -> unit
 #### Reference
 <a href="T_Avalonia_Application">Application Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the control that was attached or detached from the logical tree.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ILogical Source \{ get; }
+public ILogical Source { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Source : ILogical with get
 #### Reference
 <a href="T_Avalonia_LogicalTree_LogicalTreeAttachmentEventArgs">LogicalTreeAttachmentEventArgs Class</a>  
 <a href="N_Avalonia_LogicalTree">Avalonia.LogicalTree Namespace</a>  
+

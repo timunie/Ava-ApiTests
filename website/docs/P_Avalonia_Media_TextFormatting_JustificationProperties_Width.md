@@ -12,7 +12,7 @@ Gets the width in which the range is justified.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract double Width \{ get; }
+public abstract double Width { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Width : float with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_JustificationProperties">JustificationProperties Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

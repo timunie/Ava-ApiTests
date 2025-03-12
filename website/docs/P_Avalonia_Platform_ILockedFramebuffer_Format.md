@@ -12,7 +12,7 @@ Pixel format
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-PixelFormat Format \{ get; }
+PixelFormat Format { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Format : PixelFormat with get
 #### Reference
 <a href="T_Avalonia_Platform_ILockedFramebuffer">ILockedFramebuffer Interface</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

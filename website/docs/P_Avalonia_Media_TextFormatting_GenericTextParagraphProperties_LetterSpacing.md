@@ -12,7 +12,7 @@ The letter spacing
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public override double LetterSpacing \{ get; }
+public override double LetterSpacing { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ override LetterSpacing : float with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_GenericTextParagraphProperties">GenericTextParagraphProperties Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

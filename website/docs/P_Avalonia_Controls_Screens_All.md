@@ -12,7 +12,7 @@ Gets the list of all screens available on the device.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IReadOnlyList<Screen> All \{ get; }
+public IReadOnlyList<Screen> All { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member All : IReadOnlyList<Screen> with get
 #### Reference
 <a href="T_Avalonia_Controls_Screens">Screens Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

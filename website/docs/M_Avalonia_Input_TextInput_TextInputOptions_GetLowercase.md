@@ -34,7 +34,7 @@ static member GetLowercase :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/TextInput/TextInputOptions.cs#L149" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/TextInput/TextInputOptions.cs#L150" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ true if Lowercase
 #### Reference
 <a href="T_Avalonia_Input_TextInput_TextInputOptions">TextInputOptions Class</a>  
 <a href="N_Avalonia_Input_TextInput">Avalonia.Input.TextInput Namespace</a>  
+

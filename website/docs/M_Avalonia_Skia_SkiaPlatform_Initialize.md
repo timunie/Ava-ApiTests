@@ -29,7 +29,7 @@ static member Initialize : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Skia/Avalonia.Skia/SkiaPlatform.cs#L14" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Skia/Avalonia.Skia/SkiaPlatform.cs#L15" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ static member Initialize : unit -> unit
 <a href="T_Avalonia_Skia_SkiaPlatform">SkiaPlatform Class</a>  
 <a href="Overload_Avalonia_Skia_SkiaPlatform_Initialize">Initialize Overload</a>  
 <a href="N_Avalonia_Skia">Avalonia.Skia Namespace</a>  
+

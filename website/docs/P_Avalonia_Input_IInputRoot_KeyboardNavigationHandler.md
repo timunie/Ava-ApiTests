@@ -12,7 +12,7 @@ Gets or sets the keyboard navigation handler.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IKeyboardNavigationHandler? KeyboardNavigationHandler \{ get; }
+IKeyboardNavigationHandler? KeyboardNavigationHandler { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract KeyboardNavigationHandler : IKeyboardNavigationHandler with get
 #### Reference
 <a href="T_Avalonia_Input_IInputRoot">IInputRoot Interface</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

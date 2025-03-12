@@ -34,7 +34,7 @@ override OnPointerExited :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridRowHeader.cs#L175" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridRowHeader.cs#L176" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override OnPointerExited :
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_DataGridRowHeader">DataGridRowHeader Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

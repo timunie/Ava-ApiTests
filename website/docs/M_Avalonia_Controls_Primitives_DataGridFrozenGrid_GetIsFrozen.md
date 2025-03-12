@@ -34,7 +34,7 @@ static member GetIsFrozen :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Primitives/DataGridFrozenGrid.cs#L28" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Primitives/DataGridFrozenGrid.cs#L29" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ true if the grid is frozen; otherwise, false. The default is true.
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_DataGridFrozenGrid">DataGridFrozenGrid Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

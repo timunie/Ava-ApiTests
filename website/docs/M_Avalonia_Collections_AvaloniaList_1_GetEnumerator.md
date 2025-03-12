@@ -27,7 +27,7 @@ member GetEnumerator : unit -> AvaloniaList(T).Enumerator
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/AvaloniaList.cs#L300" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/AvaloniaList.cs#L301" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ member GetEnumerator : unit -> AvaloniaList(T).Enumerator
 #### Reference
 <a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList(T) Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

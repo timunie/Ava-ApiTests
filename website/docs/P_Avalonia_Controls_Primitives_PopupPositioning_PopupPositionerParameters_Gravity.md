@@ -12,7 +12,7 @@ Defines in what direction a popup should be positioned, relative to the anchor p
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PopupGravity Gravity \{ get; set; }
+public PopupGravity Gravity { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Gravity : PopupGravity with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupPositionerParameters">PopupPositionerParameters Structure</a>  
 <a href="N_Avalonia_Controls_Primitives_PopupPositioning">Avalonia.Controls.Primitives.PopupPositioning Namespace</a>  
+

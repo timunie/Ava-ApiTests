@@ -51,3 +51,4 @@ true if the item belongs to this collection view; otherwise, false.
 #### Reference
 <a href="T_Avalonia_Collections_IDataGridCollectionView">IDataGridCollectionView Interface</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsFilled \{ get; set; }
+public bool IsFilled { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member IsFilled : bool with get, set
 #### Reference
 <a href="T_Avalonia_Media_PolylineGeometry">PolylineGeometry Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

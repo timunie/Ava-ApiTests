@@ -37,7 +37,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/UnicodeRange.cs#L110" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/UnicodeRange.cs#L111" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Media_UnicodeRangeSegment">UnicodeRangeSegment Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

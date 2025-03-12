@@ -42,7 +42,7 @@ override ContainerForItemPreparedOverride :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TreeViewItem.cs#L160" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TreeViewItem.cs#L161" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ override ContainerForItemPreparedOverride :
 #### Reference
 <a href="T_Avalonia_Controls_TreeViewItem">TreeViewItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

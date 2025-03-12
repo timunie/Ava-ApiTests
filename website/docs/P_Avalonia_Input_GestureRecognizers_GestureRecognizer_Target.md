@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected IInputElement? Target \{ get; }
+protected IInputElement? Target { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Target : IInputElement with get
 #### Reference
 <a href="T_Avalonia_Input_GestureRecognizers_GestureRecognizer">GestureRecognizer Class</a>  
 <a href="N_Avalonia_Input_GestureRecognizers">Avalonia.Input.GestureRecognizers Namespace</a>  
+

@@ -36,7 +36,7 @@ override ArrangeOverride :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Notifications/ReversibleStackPanel.cs#L29" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Notifications/ReversibleStackPanel.cs#L30" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ override ArrangeOverride :
 #### Reference
 <a href="T_Avalonia_Controls_ReversibleStackPanel">ReversibleStackPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -49,11 +49,11 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Animation_CustomAnimatorBase">CustomAnimatorBase</a></td>
-<td>Obsolete.</td>
+<td><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Animation_CustomAnimatorBase_1">CustomAnimatorBase(T)</a></td>
-<td>Obsolete.</td>
+<td><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Animation_DoubleTransition">DoubleTransition</a></td>
@@ -137,7 +137,7 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Animation_Transitions">Transitions</a></td>
-<td>A collection of <a href="T_Avalonia_Animation_ITransition">ITransition</a> definitions.</td>
+<td>A collection of ITransition definitions.</td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Animation_VectorTransition">VectorTransition</a></td>
@@ -161,11 +161,7 @@
 <table>
 <tr>
 <td><a href="T_Avalonia_Animation_IAnimation">IAnimation</a></td>
-<td>Interface for Animation objects</td>
-</tr>
-<tr>
-<td><a href="T_Avalonia_Animation_IAnimationSetter">IAnimationSetter</a></td>
-<td> </td>
+<td>Interface for Animation objects<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Animation_ICustomAnimator">ICustomAnimator</a></td>
@@ -174,10 +170,6 @@
 <tr>
 <td><a href="T_Avalonia_Animation_IPageTransition">IPageTransition</a></td>
 <td>Interface for animations that transition between two pages.</td>
-</tr>
-<tr>
-<td><a href="T_Avalonia_Animation_ITransition">ITransition</a></td>
-<td>Interface for Transition objects.</td>
 </tr>
 </table>
 

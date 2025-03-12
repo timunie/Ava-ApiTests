@@ -12,7 +12,7 @@ Gets the gradient stop color.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Color Color \{ get; set; }
+public Color Color { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override Color : Color with get, set
 #### Reference
 <a href="T_Avalonia_Media_GradientStop">GradientStop Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

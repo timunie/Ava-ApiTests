@@ -43,7 +43,7 @@ static member ToNavigationDirection :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/NavigationDirection.cs#L101" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/NavigationDirection.cs#L105" title="View the source code">View Source</a>
 
 
 
@@ -63,3 +63,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 #### Reference
 <a href="T_Avalonia_Input_NavigationDirectionExtensions">NavigationDirectionExtensions Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

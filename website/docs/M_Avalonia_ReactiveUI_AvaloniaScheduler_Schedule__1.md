@@ -45,7 +45,7 @@ override Schedule :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.ReactiveUI/AvaloniaScheduler.cs#L37" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.ReactiveUI/AvaloniaScheduler.cs#L57" title="View the source code">View Source</a>
 
 
 
@@ -70,3 +70,4 @@ The disposable object used to cancel the scheduled action (best effort).
 <a href="T_Avalonia_ReactiveUI_AvaloniaScheduler">AvaloniaScheduler Class</a>  
 <a href="Overload_Avalonia_ReactiveUI_AvaloniaScheduler_Schedule">Schedule Overload</a>  
 <a href="N_Avalonia_ReactiveUI">Avalonia.ReactiveUI Namespace</a>  
+

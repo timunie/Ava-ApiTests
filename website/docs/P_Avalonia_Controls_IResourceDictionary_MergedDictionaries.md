@@ -12,7 +12,7 @@ Gets a collection of child resource dictionaries.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IList<IResourceProvider> MergedDictionaries \{ get; }
+IList<IResourceProvider> MergedDictionaries { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract MergedDictionaries : IList<IResourceProvider> with get
 #### Reference
 <a href="T_Avalonia_Controls_IResourceDictionary">IResourceDictionary Interface</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

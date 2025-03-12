@@ -40,7 +40,7 @@ override Post :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/AvaloniaSynchronizationContext.cs#L63" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/AvaloniaSynchronizationContext.cs#L64" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ override Post :
 #### Reference
 <a href="T_Avalonia_Threading_AvaloniaSynchronizationContext">AvaloniaSynchronizationContext Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

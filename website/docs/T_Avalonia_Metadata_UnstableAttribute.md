@@ -12,11 +12,13 @@ This API is unstable and is not covered by API compatibility guarantees between 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AttributeUsageAttribute(AttributeTargets.All)]
 public sealed class UnstableAttribute : Attribute
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AttributeUsageAttribute(AttributeTargets.All)>
 Public NotInheritable Class UnstableAttribute
 	Inherits Attribute
 ```
@@ -24,6 +26,7 @@ Public NotInheritable Class UnstableAttribute
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<AttributeUsageAttribute(AttributeTargets.All)>]
 type UnstableAttribute = 
     class
         inherit Attribute
@@ -99,3 +102,4 @@ type UnstableAttribute =
 
 #### Reference
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

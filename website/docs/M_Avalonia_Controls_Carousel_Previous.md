@@ -29,7 +29,7 @@ member Previous : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Carousel.cs#L60" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Carousel.cs#L61" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ member Previous : unit -> unit
 #### Reference
 <a href="T_Avalonia_Controls_Carousel">Carousel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

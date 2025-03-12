@@ -12,7 +12,7 @@ Gets or sets the template that defines the control's appearance.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IControlTemplate? Template \{ get; set; }
+public IControlTemplate? Template { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Template : IControlTemplate with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

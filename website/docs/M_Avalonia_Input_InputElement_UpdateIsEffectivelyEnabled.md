@@ -29,7 +29,7 @@ member UpdateIsEffectivelyEnabled : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/InputElement.cs#L686" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/InputElement.cs#L687" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ member UpdateIsEffectivelyEnabled : unit -> unit
 #### Reference
 <a href="T_Avalonia_Input_InputElement">InputElement Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

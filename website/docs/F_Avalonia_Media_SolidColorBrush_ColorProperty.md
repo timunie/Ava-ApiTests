@@ -42,3 +42,4 @@ static val ColorProperty: StyledProperty<Color>
 #### Reference
 <a href="T_Avalonia_Media_SolidColorBrush">SolidColorBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

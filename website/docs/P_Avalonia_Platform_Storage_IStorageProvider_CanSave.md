@@ -12,7 +12,7 @@ Returns true if it's possible to open save file picker on the current platform.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool CanSave \{ get; }
+bool CanSave { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract CanSave : bool with get
 #### Reference
 <a href="T_Avalonia_Platform_Storage_IStorageProvider">IStorageProvider Interface</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

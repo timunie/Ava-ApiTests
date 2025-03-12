@@ -19,7 +19,7 @@ where TApp : new(), Application
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
-Public Shared Function Configure(Of TApp As \{New, Application}) As AppBuilder
+Public Shared Function Configure(Of TApp As {New, Application}) As AppBuilder
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
@@ -31,7 +31,7 @@ static member Configure : unit -> AppBuilder  when 'TApp : new() and Application
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AppBuilder.cs#L97" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AppBuilder.cs#L98" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ An <a href="T_Avalonia_AppBuilder">AppBuilder</a> instance.
 <a href="T_Avalonia_AppBuilder">AppBuilder Class</a>  
 <a href="Overload_Avalonia_AppBuilder_Configure">Configure Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -12,7 +12,7 @@ DataGridRowGroupHeader associated with this instance
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DataGridRowGroupHeader RowGroupHeader \{ get; }
+public DataGridRowGroupHeader RowGroupHeader { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member RowGroupHeader : DataGridRowGroupHeader with get
 #### Reference
 <a href="T_Avalonia_Controls_DataGridRowGroupHeaderEventArgs">DataGridRowGroupHeaderEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

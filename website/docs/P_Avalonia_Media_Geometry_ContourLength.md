@@ -12,7 +12,7 @@ Gets the geometry's total length as if all its contours are placed in a straight
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double ContourLength \{ get; }
+public double ContourLength { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member ContourLength : float with get
 #### Reference
 <a href="T_Avalonia_Media_Geometry">Geometry Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

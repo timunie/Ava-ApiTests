@@ -12,7 +12,7 @@ Gets the brush's gradient stops.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IReadOnlyList<IGradientStop> GradientStops \{ get; }
+public IReadOnlyList<IGradientStop> GradientStops { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ override GradientStops : IReadOnlyList<IGradientStop> with get
 #### Reference
 <a href="T_Avalonia_Media_Immutable_ImmutableGradientBrush">ImmutableGradientBrush Class</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

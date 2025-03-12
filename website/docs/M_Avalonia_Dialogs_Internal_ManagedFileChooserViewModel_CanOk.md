@@ -10,6 +10,9 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[DependsOnAttribute("FileName")]
+[DependsOnAttribute("Location")]
+[DependsOnAttribute("SelectedItems")]
 public bool CanOk(
 	Object _
 )
@@ -17,6 +20,9 @@ public bool CanOk(
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<DependsOnAttribute("FileName")>
+<DependsOnAttribute("Location")>
+<DependsOnAttribute("SelectedItems")>
 Public Function CanOk ( 
 	_ As Object
 ) As Boolean
@@ -24,6 +30,9 @@ Public Function CanOk (
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<DependsOnAttribute("FileName")>]
+[<DependsOnAttribute("Location")>]
+[<DependsOnAttribute("SelectedItems")>]
 member CanOk : 
         _ : Object -> bool 
 ```
@@ -48,3 +57,4 @@ member CanOk :
 #### Reference
 <a href="T_Avalonia_Dialogs_Internal_ManagedFileChooserViewModel">ManagedFileChooserViewModel Class</a>  
 <a href="N_Avalonia_Dialogs_Internal">Avalonia.Dialogs.Internal Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the panel used to display the items.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Panel? Panel \{ get; }
+public Panel? Panel { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Panel : Panel with get
 #### Reference
 <a href="T_Avalonia_Controls_Presenters_ItemsPresenter">ItemsPresenter Class</a>  
 <a href="N_Avalonia_Controls_Presenters">Avalonia.Controls.Presenters Namespace</a>  
+

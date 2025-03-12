@@ -12,17 +12,20 @@ A brush that draws with a gradient.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IGradientBrush : IBrush
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IGradientBrush
 	Inherits IBrush
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IGradientBrush = 
     interface
         interface IBrush
@@ -78,3 +81,4 @@ type IGradientBrush =
 
 #### Reference
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

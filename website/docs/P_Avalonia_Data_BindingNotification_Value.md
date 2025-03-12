@@ -12,7 +12,7 @@ Gets the value that should be passed to the target when <a href="P_Avalonia_Data
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? Value \{ get; }
+public Object? Value { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Value : Object with get
 #### Reference
 <a href="T_Avalonia_Data_BindingNotification">BindingNotification Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

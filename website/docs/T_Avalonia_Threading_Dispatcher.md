@@ -235,3 +235,4 @@ In Avalonia, there is usually only a single Dispatcher in the application - the 
 
 #### Reference
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

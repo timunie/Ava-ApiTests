@@ -39,3 +39,4 @@ new : unit -> StringFormatConverter
 #### Reference
 <a href="T_Avalonia_Controls_Converters_StringFormatConverter">StringFormatConverter Class</a>  
 <a href="N_Avalonia_Controls_Converters">Avalonia.Controls.Converters Namespace</a>  
+

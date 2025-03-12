@@ -12,7 +12,7 @@ Gets the <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_b
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Type PropertyType \{ get; }
+public Type PropertyType { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member PropertyType : Type with get
 #### Reference
 <a href="T_Avalonia_Controls_DataGridAutoGeneratingColumnEventArgs">DataGridAutoGeneratingColumnEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -13,26 +13,14 @@
 </tr>
 </table>
 
-## Structures
-<table>
-<tr>
-<td><a href="T_Avalonia_Controls_Platform_Surfaces_FramebufferLockProperties">FramebufferLockProperties</a></td>
-<td> </td>
-</tr>
-</table>
-
 ## Interfaces
 <table>
 <tr>
 <td><a href="T_Avalonia_Controls_Platform_Surfaces_IFramebufferPlatformSurface">IFramebufferPlatformSurface</a></td>
-<td> </td>
+<td><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_Platform_Surfaces_IFramebufferRenderTarget">IFramebufferRenderTarget</a></td>
-<td> </td>
-</tr>
-<tr>
-<td><a href="T_Avalonia_Controls_Platform_Surfaces_IFramebufferRenderTargetWithProperties">IFramebufferRenderTargetWithProperties</a></td>
-<td> </td>
+<td><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 </table>

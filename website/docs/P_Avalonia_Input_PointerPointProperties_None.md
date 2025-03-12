@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static PointerPointProperties None \{ get; }
+public static PointerPointProperties None { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ static member None : PointerPointProperties with get
 #### Reference
 <a href="T_Avalonia_Input_PointerPointProperties">PointerPointProperties Structure</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

@@ -36,7 +36,7 @@ override OnOpened :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/WindowBase.cs#L218" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/WindowBase.cs#L219" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnOpened :
 #### Reference
 <a href="T_Avalonia_Controls_WindowBase">WindowBase Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

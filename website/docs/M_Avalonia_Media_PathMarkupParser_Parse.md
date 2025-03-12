@@ -34,7 +34,7 @@ member Parse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/PathMarkupParser.cs#L101" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/PathMarkupParser.cs#L102" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ member Parse :
 #### Reference
 <a href="T_Avalonia_Media_PathMarkupParser">PathMarkupParser Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

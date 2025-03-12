@@ -12,7 +12,7 @@ Gets or sets the alpha channel threshold below which a default color is used ins
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public byte AlphaThreshold \{ get; set; }
+public byte AlphaThreshold { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member AlphaThreshold : byte with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_Converters_ContrastBrushConverter">ContrastBrushConverter Class</a>  
 <a href="N_Avalonia_Controls_Primitives_Converters">Avalonia.Controls.Primitives.Converters Namespace</a>  
+

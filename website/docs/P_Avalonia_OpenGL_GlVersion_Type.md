@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public GlProfileType Type \{
+public GlProfileType Type {
 	get;
  }
 ```
@@ -44,3 +44,4 @@ member Type : GlProfileType with
 #### Reference
 <a href="T_Avalonia_OpenGL_GlVersion">GlVersion Structure</a>  
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

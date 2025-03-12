@@ -39,3 +39,4 @@ new : unit -> EffectTransition
 #### Reference
 <a href="T_Avalonia_Animation_EffectTransition">EffectTransition Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

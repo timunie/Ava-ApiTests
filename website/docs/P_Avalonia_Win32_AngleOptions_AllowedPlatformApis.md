@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IList<AngleOptions.PlatformApi>? AllowedPlatformApis \{ get; set; }
+public IList<AngleOptions.PlatformApi>? AllowedPlatformApis { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member AllowedPlatformApis : IList<AngleOptions.PlatformApi> with get, set
 #### Reference
 <a href="T_Avalonia_Win32_AngleOptions">AngleOptions Class</a>  
 <a href="N_Avalonia_Win32">Avalonia.Win32 Namespace</a>  
+

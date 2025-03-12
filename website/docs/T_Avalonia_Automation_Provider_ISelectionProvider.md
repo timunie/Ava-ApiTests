@@ -58,3 +58,4 @@ type ISelectionProvider = interface end
 
 #### Reference
 <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider Namespace</a>  
+

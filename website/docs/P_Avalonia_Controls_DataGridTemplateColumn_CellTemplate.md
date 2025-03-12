@@ -10,11 +10,15 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IDataTemplate CellTemplate \{ get; set; }
+[ContentAttribute]
+[InheritDataTypeFromItemsAttribute("ItemsSource", AncestorType = typeof(DataGrid))]
+public IDataTemplate CellTemplate { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
+<InheritDataTypeFromItemsAttribute("ItemsSource", AncestorType := GetType(DataGrid))>
 Public Property CellTemplate As IDataTemplate
 	Get
 	Set
@@ -22,6 +26,8 @@ Public Property CellTemplate As IDataTemplate
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
+[<InheritDataTypeFromItemsAttribute("ItemsSource", AncestorType = typeof(DataGrid))>]
 member CellTemplate : IDataTemplate with get, set
 ```
 </TabItem>
@@ -42,3 +48,4 @@ member CellTemplate : IDataTemplate with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGridTemplateColumn">DataGridTemplateColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

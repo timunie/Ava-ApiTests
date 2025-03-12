@@ -103,3 +103,4 @@ Whereas an <a href="T_Avalonia_Data_IBinding">IBinding</a> holds a description o
 
 #### Reference
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

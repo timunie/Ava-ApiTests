@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool IsCorrupted \{ get; }
+bool IsCorrupted { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -37,3 +37,4 @@ abstract IsCorrupted : bool with get
 #### Reference
 <a href="T_Avalonia_OpenGL_Surfaces_IGlPlatformSurfaceRenderTargetWithCorruptionInfo">IGlPlatformSurfaceRenderTargetWithCorruptionInfo Interface</a>  
 <a href="N_Avalonia_OpenGL_Surfaces">Avalonia.OpenGL.Surfaces Namespace</a>  
+

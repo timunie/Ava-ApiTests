@@ -39,3 +39,4 @@ new : unit -> SizeTransition
 #### Reference
 <a href="T_Avalonia_Animation_SizeTransition">SizeTransition Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

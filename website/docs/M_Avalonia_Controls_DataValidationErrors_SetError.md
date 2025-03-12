@@ -35,7 +35,7 @@ static member SetError :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/DataValidationErrors.cs#L126" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/DataValidationErrors.cs#L127" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ static member SetError :
 #### Reference
 <a href="T_Avalonia_Controls_DataValidationErrors">DataValidationErrors Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

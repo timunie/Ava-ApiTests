@@ -129,3 +129,4 @@ This class represents a notification that can be displayed either in a window us
 
 #### Reference
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
+

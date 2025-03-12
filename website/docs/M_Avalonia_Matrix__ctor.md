@@ -58,7 +58,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Matrix.cs#L78" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Matrix.cs#L79" title="View the source code">View Source</a>
 
 
 
@@ -72,3 +72,4 @@ new :
 <a href="T_Avalonia_Matrix">Matrix Structure</a>  
 <a href="Overload_Avalonia_Matrix__ctor">Matrix Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

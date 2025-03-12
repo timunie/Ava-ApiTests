@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected GlVersion GlVersion \{ get; }
+protected GlVersion GlVersion { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member GlVersion : GlVersion with get
 #### Reference
 <a href="T_Avalonia_OpenGL_Controls_OpenGlControlBase">OpenGlControlBase Class</a>  
 <a href="N_Avalonia_OpenGL_Controls">Avalonia.OpenGL.Controls Namespace</a>  
+

@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public EdgeMode EdgeMode \{ get; init; }
+public EdgeMode EdgeMode { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member EdgeMode : EdgeMode with get, set
 #### Reference
 <a href="T_Avalonia_Media_RenderOptions">RenderOptions Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

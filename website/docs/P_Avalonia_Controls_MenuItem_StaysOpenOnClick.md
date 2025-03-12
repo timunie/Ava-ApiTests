@@ -12,7 +12,7 @@ Gets or sets a value that indicates the submenu that this <a href="T_Avalonia_Co
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool StaysOpenOnClick \{ get; set; }
+public bool StaysOpenOnClick { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ override StaysOpenOnClick : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_MenuItem">MenuItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

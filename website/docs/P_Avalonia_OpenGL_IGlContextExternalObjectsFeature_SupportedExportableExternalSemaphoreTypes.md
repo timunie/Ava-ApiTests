@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IReadOnlyList<string> SupportedExportableExternalSemaphoreTypes \{ get; }
+IReadOnlyList<string> SupportedExportableExternalSemaphoreTypes { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ abstract SupportedExportableExternalSemaphoreTypes : IReadOnlyList<string> with 
 #### Reference
 <a href="T_Avalonia_OpenGL_IGlContextExternalObjectsFeature">IGlContextExternalObjectsFeature Interface</a>  
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

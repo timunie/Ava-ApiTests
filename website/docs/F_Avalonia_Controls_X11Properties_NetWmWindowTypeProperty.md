@@ -40,3 +40,4 @@ static val NetWmWindowTypeProperty: AttachedProperty<X11NetWmWindowType>
 #### Reference
 <a href="T_Avalonia_Controls_X11Properties">X11Properties Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

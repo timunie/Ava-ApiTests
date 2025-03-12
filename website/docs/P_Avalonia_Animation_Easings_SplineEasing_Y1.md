@@ -12,7 +12,7 @@ Y coordinate of the first control point
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Y1 \{ get; set; }
+public double Y1 { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Y1 : float with get, set
 #### Reference
 <a href="T_Avalonia_Animation_Easings_SplineEasing">SplineEasing Class</a>  
 <a href="N_Avalonia_Animation_Easings">Avalonia.Animation.Easings Namespace</a>  
+

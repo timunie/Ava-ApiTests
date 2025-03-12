@@ -12,7 +12,7 @@ Gets or sets the AngleX property.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double AngleX \{ get; set; }
+public double AngleX { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member AngleX : float with get, set
 #### Reference
 <a href="T_Avalonia_Media_SkewTransform">SkewTransform Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

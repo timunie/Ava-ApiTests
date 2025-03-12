@@ -12,6 +12,7 @@ Initializes a new instance of the <a href="T_Avalonia_Input_DragEventArgs">DragE
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute("This constructor might be removed in 12.0. For unit testing, consider using DragDrop.DoDragDrop or IHeadlessWindow.DragDrop.")]
 public DragEventArgs(
 	RoutedEvent<DragEventArgs> routedEvent,
 	IDataObject data,
@@ -23,6 +24,7 @@ public DragEventArgs(
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute("This constructor might be removed in 12.0. For unit testing, consider using DragDrop.DoDragDrop or IHeadlessWindow.DragDrop.")>
 Public Sub New ( 
 	routedEvent As RoutedEvent(Of DragEventArgs),
 	data As IDataObject,
@@ -34,6 +36,7 @@ Public Sub New (
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute("This constructor might be removed in 12.0. For unit testing, consider using DragDrop.DoDragDrop or IHeadlessWindow.DragDrop.")>]
 new : 
         routedEvent : RoutedEvent<DragEventArgs> * 
         data : IDataObject * 
@@ -59,3 +62,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Input_DragEventArgs">DragEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

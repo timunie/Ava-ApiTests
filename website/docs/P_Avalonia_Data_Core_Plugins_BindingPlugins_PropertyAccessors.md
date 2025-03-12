@@ -12,7 +12,7 @@ An ordered collection of property accessor plugins that can be used to customize
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static IList<IPropertyAccessorPlugin> PropertyAccessors \{ get; }
+public static IList<IPropertyAccessorPlugin> PropertyAccessors { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member PropertyAccessors : IList<IPropertyAccessorPlugin> with get
 #### Reference
 <a href="T_Avalonia_Data_Core_Plugins_BindingPlugins">BindingPlugins Class</a>  
 <a href="N_Avalonia_Data_Core_Plugins">Avalonia.Data.Core.Plugins Namespace</a>  
+

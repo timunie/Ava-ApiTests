@@ -12,7 +12,7 @@ Gets a read-only view of the items in the <a href="T_Avalonia_Controls_ItemsCont
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ItemsSourceView ItemsView \{ get; }
+public ItemsSourceView ItemsView { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member ItemsView : ItemsSourceView with get
 #### Reference
 <a href="T_Avalonia_Controls_ItemsControl">ItemsControl Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

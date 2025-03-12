@@ -10,17 +10,20 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface ISkiaSharpPlatformGraphicsApiLease : IDisposable
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface ISkiaSharpPlatformGraphicsApiLease
 	Inherits IDisposable
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type ISkiaSharpPlatformGraphicsApiLease = 
     interface
         interface IDisposable
@@ -56,3 +59,4 @@ type ISkiaSharpPlatformGraphicsApiLease =
 
 #### Reference
 <a href="N_Avalonia_Skia">Avalonia.Skia Namespace</a>  
+

@@ -43,3 +43,4 @@ member CuttingToClipboard : IEvent<EventHandler<RoutedEventArgs>,
 #### Reference
 <a href="T_Avalonia_Controls_TextBox">TextBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

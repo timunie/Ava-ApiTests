@@ -12,7 +12,7 @@ The visual that's showing the text
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract Visual TextViewVisual \{ get; }
+public abstract Visual TextViewVisual { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract TextViewVisual : Visual with get
 #### Reference
 <a href="T_Avalonia_Input_TextInput_TextInputMethodClient">TextInputMethodClient Class</a>  
 <a href="N_Avalonia_Input_TextInput">Avalonia.Input.TextInput Namespace</a>  
+

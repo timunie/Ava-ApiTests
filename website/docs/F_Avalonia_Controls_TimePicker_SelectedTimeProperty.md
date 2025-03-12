@@ -42,3 +42,4 @@ static val SelectedTimeProperty: StyledProperty<Nullable<TimeSpan>>
 #### Reference
 <a href="T_Avalonia_Controls_TimePicker">TimePicker Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

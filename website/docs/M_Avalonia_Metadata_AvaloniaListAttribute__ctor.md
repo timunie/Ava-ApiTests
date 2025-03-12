@@ -39,3 +39,4 @@ new : unit -> AvaloniaListAttribute
 #### Reference
 <a href="T_Avalonia_Metadata_AvaloniaListAttribute">AvaloniaListAttribute Class</a>  
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

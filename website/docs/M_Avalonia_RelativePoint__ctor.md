@@ -37,7 +37,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/RelativePoint.cs#L74" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/RelativePoint.cs#L75" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ new :
 <a href="T_Avalonia_RelativePoint">RelativePoint Structure</a>  
 <a href="Overload_Avalonia_RelativePoint__ctor">RelativePoint Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

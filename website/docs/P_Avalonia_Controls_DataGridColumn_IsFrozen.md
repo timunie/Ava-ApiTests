@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsFrozen \{ get; }
+public bool IsFrozen { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member IsFrozen : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_DataGridColumn">DataGridColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

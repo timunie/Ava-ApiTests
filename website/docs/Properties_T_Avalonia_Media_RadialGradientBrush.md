@@ -31,7 +31,7 @@
 </tr>
 <tr>
 <td><a href="P_Avalonia_Media_RadialGradientBrush_Radius">Radius</a></td>
-<td>Gets or sets the horizontal and vertical radius of the outermost circle of the radial gradient.<br />Obsolete.</td>
+<td>Gets or sets the horizontal and vertical radius of the outermost circle of the radial gradient.<br /><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_Media_RadialGradientBrush_RadiusX">RadiusX</a></td>
@@ -65,3 +65,4 @@
 #### Reference
 <a href="T_Avalonia_Media_RadialGradientBrush">RadialGradientBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

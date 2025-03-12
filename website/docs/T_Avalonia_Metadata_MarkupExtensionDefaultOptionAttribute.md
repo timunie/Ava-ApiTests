@@ -10,11 +10,13 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AttributeUsageAttribute(AttributeTargets.Property, AllowMultiple = false)]
 public sealed class MarkupExtensionDefaultOptionAttribute : Attribute
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AttributeUsageAttribute(AttributeTargets.Property, AllowMultiple := false)>
 Public NotInheritable Class MarkupExtensionDefaultOptionAttribute
 	Inherits Attribute
 ```
@@ -22,6 +24,7 @@ Public NotInheritable Class MarkupExtensionDefaultOptionAttribute
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<AttributeUsageAttribute(AttributeTargets.Property, AllowMultiple = false)>]
 type MarkupExtensionDefaultOptionAttribute = 
     class
         inherit Attribute
@@ -85,3 +88,4 @@ type MarkupExtensionDefaultOptionAttribute =
 
 #### Reference
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

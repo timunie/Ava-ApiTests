@@ -40,7 +40,7 @@ static member TryGet :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Logging/Logger.cs#L48" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Logging/Logger.cs#L49" title="View the source code">View Source</a>
 
 
 
@@ -58,3 +58,4 @@ true if logger was obtained successfully.
 <a href="T_Avalonia_Logging_Logger">Logger Class</a>  
 <a href="Overload_Avalonia_Logging_Logger_TryGet">TryGet Overload</a>  
 <a href="N_Avalonia_Logging">Avalonia.Logging Namespace</a>  
+

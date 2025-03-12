@@ -12,7 +12,7 @@ The binding that will be used to get or set cell content for the clipboard. If t
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public override IBinding ClipboardContentBinding \{ get; set; }
+public override IBinding ClipboardContentBinding { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -32,7 +32,7 @@ override ClipboardContentBinding : IBinding with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridBoundColumn.cs#L87" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridBoundColumn.cs#L88" title="View the source code">View Source</a>
 
 
 
@@ -45,3 +45,4 @@ override ClipboardContentBinding : IBinding with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGridBoundColumn">DataGridBoundColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

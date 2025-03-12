@@ -12,7 +12,7 @@ Gets or sets the minimum delay, after text is typed in the text box before the <
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TimeSpan MinimumPopulateDelay \{ get; set; }
+public TimeSpan MinimumPopulateDelay { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The minimum delay, after text is typed in the text box, but before the <a href="
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

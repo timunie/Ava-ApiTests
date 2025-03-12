@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ulong MemoryOffset \{
+public ulong MemoryOffset {
 	get;
  set; }
 ```
@@ -45,3 +45,4 @@ member MemoryOffset : uint64 with
 #### Reference
 <a href="T_Avalonia_Platform_PlatformGraphicsExternalImageProperties">PlatformGraphicsExternalImageProperties Structure</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

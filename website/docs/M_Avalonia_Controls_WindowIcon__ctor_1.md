@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Controls_WindowIcon">WindowIcon Class</a>  
 <a href="Overload_Avalonia_Controls_WindowIcon__ctor">WindowIcon Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

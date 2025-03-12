@@ -37,7 +37,7 @@ member InvokeAsync :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/Dispatcher.Invoke.cs#L578" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/Dispatcher.Invoke.cs#L579" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ An task that completes after the task returned from callback finishes
 <a href="T_Avalonia_Threading_Dispatcher">Dispatcher Class</a>  
 <a href="Overload_Avalonia_Threading_Dispatcher_InvokeAsync">InvokeAsync Overload</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

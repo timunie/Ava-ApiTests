@@ -12,7 +12,7 @@ Number of bytes per row
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-int RowBytes \{ get; }
+int RowBytes { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract RowBytes : int with get
 #### Reference
 <a href="T_Avalonia_Platform_ILockedFramebuffer">ILockedFramebuffer Interface</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

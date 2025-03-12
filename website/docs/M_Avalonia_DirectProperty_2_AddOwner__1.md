@@ -55,7 +55,7 @@ member AddOwner :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/DirectProperty.cs#L88" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/DirectProperty.cs#L89" title="View the source code">View Source</a>
 
 
 
@@ -75,3 +75,4 @@ The property.
 #### Reference
 <a href="T_Avalonia_DirectProperty_2">DirectProperty(TOwner, TValue) Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

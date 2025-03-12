@@ -12,17 +12,20 @@ Represents an element which hosts resources.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IResourceHost : IResourceNode
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IResourceHost
 	Inherits IResourceNode
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IResourceHost = 
     interface
         interface IResourceNode
@@ -102,3 +105,4 @@ This interface is implemented by <a href="T_Avalonia_StyledElement">StyledElemen
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

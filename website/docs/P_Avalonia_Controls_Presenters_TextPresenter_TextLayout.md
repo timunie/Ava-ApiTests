@@ -12,7 +12,7 @@ Gets the TextLayout used to render the text.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TextLayout TextLayout \{ get; }
+public TextLayout TextLayout { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member TextLayout : TextLayout with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Presenters/TextPresenter.cs#L263" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Presenters/TextPresenter.cs#L264" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member TextLayout : TextLayout with get
 #### Reference
 <a href="T_Avalonia_Controls_Presenters_TextPresenter">TextPresenter Class</a>  
 <a href="N_Avalonia_Controls_Presenters">Avalonia.Controls.Presenters Namespace</a>  
+

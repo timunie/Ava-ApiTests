@@ -28,7 +28,7 @@ override GetEnumerator : unit -> IEnumerator<'T>
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ItemsSourceView.cs#L339" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ItemsSourceView.cs#L346" title="View the source code">View Source</a>
 
 
 
@@ -45,3 +45,4 @@ override GetEnumerator : unit -> IEnumerator<'T>
 #### Reference
 <a href="T_Avalonia_Controls_ItemsSourceView_1">ItemsSourceView(T) Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -42,3 +42,4 @@ static val OnContentTemplateProperty: StyledProperty<IDataTemplate>
 #### Reference
 <a href="T_Avalonia_Controls_ToggleSwitch">ToggleSwitch Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

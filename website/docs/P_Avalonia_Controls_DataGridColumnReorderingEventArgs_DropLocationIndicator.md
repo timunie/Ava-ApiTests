@@ -12,7 +12,7 @@ UIElement to display at the insertion position. If null and Handled = true, then
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Control DropLocationIndicator \{ get; set; }
+public Control DropLocationIndicator { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DropLocationIndicator : Control with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGridColumnReorderingEventArgs">DataGridColumnReorderingEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

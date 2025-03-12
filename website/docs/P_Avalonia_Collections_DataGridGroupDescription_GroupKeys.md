@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public AvaloniaList<Object> GroupKeys \{ get; }
+public AvaloniaList<Object> GroupKeys { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member GroupKeys : AvaloniaList<Object> with get
 #### Reference
 <a href="T_Avalonia_Collections_DataGridGroupDescription">DataGridGroupDescription Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

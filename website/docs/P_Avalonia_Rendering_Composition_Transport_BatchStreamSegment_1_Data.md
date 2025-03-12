@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TData Data \{
+public TData Data {
 	get;
  set; }
 ```
@@ -45,3 +45,4 @@ member Data : 'TData with
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_Transport_BatchStreamSegment_1">BatchStreamSegment(TData) Structure</a>  
 <a href="N_Avalonia_Rendering_Composition_Transport">Avalonia.Rendering.Composition.Transport Namespace</a>  
+

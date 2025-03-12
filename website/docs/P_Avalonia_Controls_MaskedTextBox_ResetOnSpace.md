@@ -12,7 +12,7 @@ Gets or sets a value indicating if selected characters should be reset when the 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool ResetOnSpace \{ get; set; }
+public bool ResetOnSpace { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ResetOnSpace : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_MaskedTextBox">MaskedTextBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

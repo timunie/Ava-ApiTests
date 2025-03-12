@@ -12,7 +12,7 @@ The UUID of the graphics adapter used by the compositor
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-byte[]? DeviceUuid \{ get; set; }
+byte[]? DeviceUuid { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -40,3 +40,4 @@ abstract DeviceUuid : byte[] with get, set
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_ICompositionGpuInterop">ICompositionGpuInterop Interface</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

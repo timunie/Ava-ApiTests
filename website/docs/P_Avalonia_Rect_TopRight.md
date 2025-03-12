@@ -12,7 +12,7 @@ Gets the top right point of the rectangle.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Point TopRight \{ get; }
+public Point TopRight { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member TopRight : Point with get
 #### Reference
 <a href="T_Avalonia_Rect">Rect Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

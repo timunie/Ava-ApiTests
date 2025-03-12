@@ -12,7 +12,7 @@ Gets or sets a value which indicates whether to wrap around when the first or la
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool WrapSelection \{ get; set; }
+public bool WrapSelection { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member WrapSelection : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

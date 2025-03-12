@@ -40,3 +40,4 @@ new : unit -> RectangleGeometry
 <a href="T_Avalonia_Media_RectangleGeometry">RectangleGeometry Class</a>  
 <a href="Overload_Avalonia_Media_RectangleGeometry__ctor">RectangleGeometry Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

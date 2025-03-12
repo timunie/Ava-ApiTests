@@ -12,7 +12,7 @@ Gets or sets the index of the current selection.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int SelectedIndex \{ get; set; }
+public int SelectedIndex { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The index of the current selection, or -1 if the selection is empty.
 #### Reference
 <a href="T_Avalonia_Controls_DataGrid">DataGrid Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

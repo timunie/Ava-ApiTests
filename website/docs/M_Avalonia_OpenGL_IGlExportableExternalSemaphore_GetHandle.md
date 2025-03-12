@@ -36,3 +36,4 @@ abstract GetHandle : unit -> IPlatformHandle
 #### Reference
 <a href="T_Avalonia_OpenGL_IGlExportableExternalSemaphore">IGlExportableExternalSemaphore Interface</a>  
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

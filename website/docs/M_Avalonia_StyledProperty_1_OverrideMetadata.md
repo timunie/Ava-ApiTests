@@ -37,7 +37,7 @@ member OverrideMetadata :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/StyledProperty.cs#L172" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/StyledProperty.cs#L173" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ member OverrideMetadata :
 <a href="T_Avalonia_StyledProperty_1">StyledProperty(TValue) Class</a>  
 <a href="Overload_Avalonia_StyledProperty_1_OverrideMetadata">OverrideMetadata Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

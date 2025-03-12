@@ -12,7 +12,7 @@ Gets a value indicating whether the renderer should draw specific diagnostics.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RendererDiagnostics RendererDiagnostics \{ get; }
+public RendererDiagnostics RendererDiagnostics { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member RendererDiagnostics : RendererDiagnostics with get
 #### Reference
 <a href="T_Avalonia_Controls_TopLevel">TopLevel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

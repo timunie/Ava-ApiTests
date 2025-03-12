@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IReadOnlyList<IStorageItem> Files \{ get; }
+public IReadOnlyList<IStorageItem> Files { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Files : IReadOnlyList<IStorageItem> with get
 #### Reference
 <a href="T_Avalonia_Controls_ApplicationLifetimes_FileActivatedEventArgs">FileActivatedEventArgs Class</a>  
 <a href="N_Avalonia_Controls_ApplicationLifetimes">Avalonia.Controls.ApplicationLifetimes Namespace</a>  
+

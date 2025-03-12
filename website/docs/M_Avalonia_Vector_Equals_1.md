@@ -51,3 +51,4 @@ override Equals :
 <a href="T_Avalonia_Vector">Vector Structure</a>  
 <a href="Overload_Avalonia_Vector_Equals">Equals Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

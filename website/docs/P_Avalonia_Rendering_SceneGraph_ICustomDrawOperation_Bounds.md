@@ -12,7 +12,7 @@ Gets the bounds of the visible content in the node in global coordinates.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Rect Bounds \{ get; }
+Rect Bounds { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -39,3 +39,4 @@ abstract Bounds : Rect with get
 #### Reference
 <a href="T_Avalonia_Rendering_SceneGraph_ICustomDrawOperation">ICustomDrawOperation Interface</a>  
 <a href="N_Avalonia_Rendering_SceneGraph">Avalonia.Rendering.SceneGraph Namespace</a>  
+

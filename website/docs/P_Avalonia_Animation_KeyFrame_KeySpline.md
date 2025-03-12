@@ -12,7 +12,7 @@ Gets or sets the KeySpline of this <a href="T_Avalonia_Animation_KeyFrame">KeyFr
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public KeySpline? KeySpline \{ get; set; }
+public KeySpline? KeySpline { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -31,7 +31,7 @@ member KeySpline : KeySpline with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/KeyFrame.cs#L86" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/KeyFrame.cs#L87" title="View the source code">View Source</a>
 
 
 
@@ -45,3 +45,4 @@ The key spline.
 #### Reference
 <a href="T_Avalonia_Animation_KeyFrame">KeyFrame Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

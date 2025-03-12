@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public override FlowDirection FlowDirection \{ get; }
+public override FlowDirection FlowDirection { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ override FlowDirection : FlowDirection with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextLeadingPrefixCharacterEllipsis">TextLeadingPrefixCharacterEllipsis Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

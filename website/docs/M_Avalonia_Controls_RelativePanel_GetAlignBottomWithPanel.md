@@ -34,7 +34,7 @@ static member GetAlignBottomWithPanel :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RelativePanel.AttachedProperties.cs#L74" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RelativePanel.AttachedProperties.cs#L75" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The RelativePanel.AlignBottomWithPanel XAML attached property value of the speci
 #### Reference
 <a href="T_Avalonia_Controls_RelativePanel">RelativePanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

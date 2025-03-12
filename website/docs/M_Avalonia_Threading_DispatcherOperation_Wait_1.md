@@ -34,7 +34,7 @@ member Wait :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherOperation.cs#L132" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherOperation.cs#L133" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ member Wait :
 <a href="T_Avalonia_Threading_DispatcherOperation">DispatcherOperation Class</a>  
 <a href="Overload_Avalonia_Threading_DispatcherOperation_Wait">Wait Overload</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

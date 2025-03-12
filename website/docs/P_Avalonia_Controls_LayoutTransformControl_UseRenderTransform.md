@@ -12,7 +12,7 @@ Utilize the <a href="F_Avalonia_Visual_RenderTransformProperty">RenderTransformP
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool UseRenderTransform \{ get; set; }
+public bool UseRenderTransform { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member UseRenderTransform : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_LayoutTransformControl">LayoutTransformControl Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

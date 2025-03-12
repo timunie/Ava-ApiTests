@@ -12,7 +12,7 @@ Gets or sets the value.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int Value \{ get; init; }
+public int Value { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Value : int with get, set
 #### Reference
 <a href="T_Avalonia_Media_FontFeature">FontFeature Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

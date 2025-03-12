@@ -43,3 +43,4 @@ member SelectionChanged : IEvent<EventHandler<SelectionChangedEventArgs>,
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

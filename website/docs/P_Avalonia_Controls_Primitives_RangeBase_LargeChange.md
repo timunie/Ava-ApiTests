@@ -12,7 +12,7 @@ Gets or sets the large increment value added or subtracted from the <a href="P_A
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double LargeChange \{ get; set; }
+public double LargeChange { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member LargeChange : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_RangeBase">RangeBase Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

@@ -34,7 +34,7 @@ static member GetAlignRightWithPanel :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RelativePanel.AttachedProperties.cs#L271" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RelativePanel.AttachedProperties.cs#L272" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The RelativePanel.AlignRightWithPanel XAML attached property value of the specif
 #### Reference
 <a href="T_Avalonia_Controls_RelativePanel">RelativePanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

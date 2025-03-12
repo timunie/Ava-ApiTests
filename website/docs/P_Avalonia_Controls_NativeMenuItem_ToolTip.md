@@ -12,7 +12,7 @@ Gets or sets the tooltip associated with the menu item. This may not be supporte
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? ToolTip \{ get; set; }
+public string? ToolTip { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ToolTip : string with get, set
 #### Reference
 <a href="T_Avalonia_Controls_NativeMenuItem">NativeMenuItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

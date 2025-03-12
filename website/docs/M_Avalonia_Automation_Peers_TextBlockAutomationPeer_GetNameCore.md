@@ -41,3 +41,4 @@ override GetNameCore : unit -> string
 #### Reference
 <a href="T_Avalonia_Automation_Peers_TextBlockAutomationPeer">TextBlockAutomationPeer Class</a>  
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

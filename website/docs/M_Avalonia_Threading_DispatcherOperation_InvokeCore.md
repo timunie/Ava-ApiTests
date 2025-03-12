@@ -28,7 +28,7 @@ override InvokeCore : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherOperation.cs#L272" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherOperation.cs#L275" title="View the source code">View Source</a>
 
 
 
@@ -38,3 +38,4 @@ override InvokeCore : unit -> unit
 #### Reference
 <a href="T_Avalonia_Threading_DispatcherOperation">DispatcherOperation Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

@@ -39,3 +39,4 @@ new : unit -> MacOSPlatformOptions
 #### Reference
 <a href="T_Avalonia_MacOSPlatformOptions">MacOSPlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

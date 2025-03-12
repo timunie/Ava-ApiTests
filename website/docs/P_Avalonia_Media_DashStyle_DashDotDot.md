@@ -12,7 +12,7 @@ Represents a dashed double dotted <a href="T_Avalonia_Media_DashStyle">DashStyle
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static IDashStyle DashDotDot \{ get; }
+public static IDashStyle DashDotDot { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member DashDotDot : IDashStyle with get
 #### Reference
 <a href="T_Avalonia_Media_DashStyle">DashStyle Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

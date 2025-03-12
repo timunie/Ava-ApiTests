@@ -12,7 +12,7 @@ Gets or sets the TemplateSettings for the <a href="T_Avalonia_Controls_ProgressB
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ProgressBar.ProgressBarTemplateSettings TemplateSettings \{ get; }
+public ProgressBar.ProgressBarTemplateSettings TemplateSettings { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member TemplateSettings : ProgressBar.ProgressBarTemplateSettings with get
 #### Reference
 <a href="T_Avalonia_Controls_ProgressBar">ProgressBar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

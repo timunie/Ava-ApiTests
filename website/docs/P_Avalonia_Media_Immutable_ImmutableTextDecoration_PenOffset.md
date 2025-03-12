@@ -12,7 +12,7 @@ Gets or sets the pen offset.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double PenOffset \{ get; }
+public double PenOffset { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The pen offset.
 #### Reference
 <a href="T_Avalonia_Media_Immutable_ImmutableTextDecoration">ImmutableTextDecoration Class</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

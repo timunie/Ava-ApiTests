@@ -35,7 +35,7 @@ member Subscribe :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/WeakEvent.cs#L33" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/WeakEvent.cs#L34" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ member Subscribe :
 #### Reference
 <a href="T_Avalonia_Utilities_WeakEvent_2">WeakEvent(TSender, TEventArgs) Class</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

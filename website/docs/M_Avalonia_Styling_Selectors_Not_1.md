@@ -39,7 +39,7 @@ static member Not :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/Selectors.cs#L124" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/Selectors.cs#L125" title="View the source code">View Source</a>
 
 
 
@@ -60,3 +60,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 <a href="T_Avalonia_Styling_Selectors">Selectors Class</a>  
 <a href="Overload_Avalonia_Styling_Selectors_Not">Not Overload</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

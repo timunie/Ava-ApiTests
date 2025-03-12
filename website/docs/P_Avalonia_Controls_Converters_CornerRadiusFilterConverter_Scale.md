@@ -12,7 +12,7 @@ Gets or sets the scale multiplier applied uniformly to each corner.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Scale \{ get; set; }
+public double Scale { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Scale : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Converters_CornerRadiusFilterConverter">CornerRadiusFilterConverter Class</a>  
 <a href="N_Avalonia_Controls_Converters">Avalonia.Controls.Converters Namespace</a>  
+

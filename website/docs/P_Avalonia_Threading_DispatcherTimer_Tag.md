@@ -12,7 +12,7 @@ Any data that the caller wants to pass along with the timer.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? Tag \{ get; set; }
+public Object? Tag { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Tag : Object with get, set
 #### Reference
 <a href="T_Avalonia_Threading_DispatcherTimer">DispatcherTimer Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

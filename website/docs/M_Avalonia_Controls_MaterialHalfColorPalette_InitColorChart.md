@@ -29,7 +29,7 @@ member InitColorChart : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/ColorPalettes/MaterialHalfColorPalette.cs#L20" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/ColorPalettes/MaterialHalfColorPalette.cs#L21" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ member InitColorChart : unit -> unit
 #### Reference
 <a href="T_Avalonia_Controls_MaterialHalfColorPalette">MaterialHalfColorPalette Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

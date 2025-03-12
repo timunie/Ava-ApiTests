@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public KeyModifiers SelectionModifiers \{ get; set; }
+public KeyModifiers SelectionModifiers { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member SelectionModifiers : KeyModifiers with get, set
 #### Reference
 <a href="T_Avalonia_Input_Platform_PlatformHotkeyConfiguration">PlatformHotkeyConfiguration Class</a>  
 <a href="N_Avalonia_Input_Platform">Avalonia.Input.Platform Namespace</a>  
+

@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public virtual AlphaFormat? AlphaFormat \{ get; }
+public virtual AlphaFormat? AlphaFormat { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ override AlphaFormat : Nullable<AlphaFormat> with get
 #### Reference
 <a href="T_Avalonia_Media_Imaging_Bitmap">Bitmap Class</a>  
 <a href="N_Avalonia_Media_Imaging">Avalonia.Media.Imaging Namespace</a>  
+

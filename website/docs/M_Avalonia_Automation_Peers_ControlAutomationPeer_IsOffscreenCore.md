@@ -28,7 +28,7 @@ override IsOffscreenCore : unit -> bool
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ControlAutomationPeer.cs#L216" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ControlAutomationPeer.cs#L217" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override IsOffscreenCore : unit -> bool
 #### Reference
 <a href="T_Avalonia_Automation_Peers_ControlAutomationPeer">ControlAutomationPeer Class</a>  
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

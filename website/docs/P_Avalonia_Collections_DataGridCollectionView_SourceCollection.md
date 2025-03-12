@@ -12,7 +12,7 @@ Gets the source of the IEnumerable collection we are using for our view.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IEnumerable SourceCollection \{ get; }
+public IEnumerable SourceCollection { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ override SourceCollection : IEnumerable with get
 #### Reference
 <a href="T_Avalonia_Collections_DataGridCollectionView">DataGridCollectionView Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

@@ -12,7 +12,7 @@ An ordered collection of stream plugins that can be used to customize the behavi
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static IList<IStreamPlugin> StreamHandlers \{ get; }
+public static IList<IStreamPlugin> StreamHandlers { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member StreamHandlers : IList<IStreamPlugin> with get
 #### Reference
 <a href="T_Avalonia_Data_Core_Plugins_BindingPlugins">BindingPlugins Class</a>  
 <a href="N_Avalonia_Data_Core_Plugins">Avalonia.Data.Core.Plugins Namespace</a>  
+

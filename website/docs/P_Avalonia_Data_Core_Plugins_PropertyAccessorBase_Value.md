@@ -12,7 +12,7 @@ Gets the current value of the property.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract Object? Value \{ get; }
+public abstract Object? Value { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -47,3 +47,4 @@ abstract Value : Object with get
 #### Reference
 <a href="T_Avalonia_Data_Core_Plugins_PropertyAccessorBase">PropertyAccessorBase Class</a>  
 <a href="N_Avalonia_Data_Core_Plugins">Avalonia.Data.Core.Plugins Namespace</a>  
+

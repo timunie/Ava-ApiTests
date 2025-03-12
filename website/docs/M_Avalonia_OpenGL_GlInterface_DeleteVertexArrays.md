@@ -30,7 +30,7 @@ F# does not support APIs that consume or return unsafe types.
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/obj/Debug/net8.0/DevGenerators/Generator.GetProcAddressInitializationGenerator/globalAvalonia.OpenGL.GlInterface.cs#L417" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/obj/Release/net8.0/DevGenerators/Generator.GetProcAddressInitializationGenerator/globalAvalonia.OpenGL.GlInterface.cs#L418" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ F# does not support APIs that consume or return unsafe types.
 #### Reference
 <a href="T_Avalonia_OpenGL_GlInterface">GlInterface Class</a>  
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

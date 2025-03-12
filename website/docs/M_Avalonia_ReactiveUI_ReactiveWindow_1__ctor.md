@@ -39,3 +39,4 @@ new : unit -> ReactiveWindow
 #### Reference
 <a href="T_Avalonia_ReactiveUI_ReactiveWindow_1">ReactiveWindow(TViewModel) Class</a>  
 <a href="N_Avalonia_ReactiveUI">Avalonia.ReactiveUI Namespace</a>  
+

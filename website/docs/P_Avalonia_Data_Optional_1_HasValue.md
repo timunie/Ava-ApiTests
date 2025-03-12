@@ -12,7 +12,7 @@ Gets a value indicating whether a value is present.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool HasValue \{ get; }
+public bool HasValue { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member HasValue : bool with get
 #### Reference
 <a href="T_Avalonia_Data_Optional_1">Optional(T) Structure</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

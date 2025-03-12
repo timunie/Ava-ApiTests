@@ -53,7 +53,7 @@ type AvaloniaResourcesIndexReaderWriter = class end
 </tr>
 <tr>
 <td><a href="M_Avalonia_Utilities_AvaloniaResourcesIndexReaderWriter_WriteResources_1">WriteResources(Stream, List(ValueTuple(String, Int32, Func(Stream))))</a></td>
-<td>Obsolete.</td>
+<td><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 </table>
 
@@ -62,3 +62,4 @@ type AvaloniaResourcesIndexReaderWriter = class end
 
 #### Reference
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

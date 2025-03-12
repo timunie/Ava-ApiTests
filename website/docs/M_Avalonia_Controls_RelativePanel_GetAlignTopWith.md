@@ -12,6 +12,7 @@ Gets the value of the RelativePanel.AlignTopWith XAML attached property for the 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[ResolveByNameAttribute]
 public static Object GetAlignTopWith(
 	AvaloniaObject obj
 )
@@ -19,6 +20,7 @@ public static Object GetAlignTopWith(
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ResolveByNameAttribute>
 Public Shared Function GetAlignTopWith ( 
 	obj As AvaloniaObject
 ) As Object
@@ -26,6 +28,7 @@ Public Shared Function GetAlignTopWith (
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ResolveByNameAttribute>]
 static member GetAlignTopWith : 
         obj : AvaloniaObject -> Object 
 ```
@@ -34,7 +37,7 @@ static member GetAlignTopWith :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RelativePanel.AttachedProperties.cs#L366" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RelativePanel.AttachedProperties.cs#L367" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +54,4 @@ The value to set. (The element to align this element's top edge with.)
 #### Reference
 <a href="T_Avalonia_Controls_RelativePanel">RelativePanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

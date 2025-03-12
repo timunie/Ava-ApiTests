@@ -47,3 +47,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Controls_ApplicationLifetimes_ActivatedEventArgs">ActivatedEventArgs Class</a>  
 <a href="N_Avalonia_Controls_ApplicationLifetimes">Avalonia.Controls.ApplicationLifetimes Namespace</a>  
+

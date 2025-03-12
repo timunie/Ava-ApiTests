@@ -12,7 +12,7 @@ Gets or sets a value that determines whether the element should be snapped to pi
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool UseLayoutRounding \{ get; set; }
+public bool UseLayoutRounding { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member UseLayoutRounding : bool with get, set
 #### Reference
 <a href="T_Avalonia_Layout_Layoutable">Layoutable Class</a>  
 <a href="N_Avalonia_Layout">Avalonia.Layout Namespace</a>  
+

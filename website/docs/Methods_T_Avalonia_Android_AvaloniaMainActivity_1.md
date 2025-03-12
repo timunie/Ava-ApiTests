@@ -21,3 +21,4 @@
 #### Reference
 <a href="T_Avalonia_Android_AvaloniaMainActivity_1">AvaloniaMainActivity(TApp) Class</a>  
 <a href="N_Avalonia_Android">Avalonia.Android Namespace</a>  
+

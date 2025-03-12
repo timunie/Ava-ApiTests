@@ -40,3 +40,4 @@ new : unit -> Points
 <a href="T_Avalonia_Points">Points Class</a>  
 <a href="Overload_Avalonia_Points__ctor">Points Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

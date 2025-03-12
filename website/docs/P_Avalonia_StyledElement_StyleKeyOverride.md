@@ -12,7 +12,7 @@ Gets the type by which the element is styled.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected virtual Type StyleKeyOverride \{ get; }
+protected virtual Type StyleKeyOverride { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ override StyleKeyOverride : Type with get
 #### Reference
 <a href="T_Avalonia_StyledElement">StyledElement Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

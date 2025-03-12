@@ -34,7 +34,7 @@ static member BindingError :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingValue.cs#L341" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingValue.cs#L342" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ static member BindingError :
 <a href="T_Avalonia_Data_BindingValue_1">BindingValue(T) Structure</a>  
 <a href="Overload_Avalonia_Data_BindingValue_1_BindingError">BindingError Overload</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

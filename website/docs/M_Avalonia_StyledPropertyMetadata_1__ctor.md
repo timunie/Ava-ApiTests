@@ -63,3 +63,4 @@ new :
 #### Reference
 <a href="T_Avalonia_StyledPropertyMetadata_1">StyledPropertyMetadata(TValue) Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

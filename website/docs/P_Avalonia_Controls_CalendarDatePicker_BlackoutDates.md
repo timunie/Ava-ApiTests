@@ -12,7 +12,7 @@ Gets a collection of dates that are marked as not selectable.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public CalendarBlackoutDatesCollection? BlackoutDates \{ get; }
+public CalendarBlackoutDatesCollection? BlackoutDates { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ A collection of dates that cannot be selected. The default value is an empty col
 #### Reference
 <a href="T_Avalonia_Controls_CalendarDatePicker">CalendarDatePicker Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

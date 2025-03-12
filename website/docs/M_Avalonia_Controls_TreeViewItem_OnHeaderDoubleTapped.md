@@ -36,7 +36,7 @@ override OnHeaderDoubleTapped :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TreeViewItem.cs#L334" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TreeViewItem.cs#L335" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnHeaderDoubleTapped :
 #### Reference
 <a href="T_Avalonia_Controls_TreeViewItem">TreeViewItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

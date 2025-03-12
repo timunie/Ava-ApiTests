@@ -33,7 +33,7 @@ F# does not support the declaration of new casting operators.
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelPoint.cs#L65" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelPoint.cs#L66" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ F# does not support the declaration of new casting operators.
 #### Reference
 <a href="T_Avalonia_PixelPoint">PixelPoint Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

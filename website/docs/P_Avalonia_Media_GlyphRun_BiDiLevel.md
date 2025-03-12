@@ -12,7 +12,7 @@ Gets or sets the bidirectional nesting level of the <a href="T_Avalonia_Media_Gl
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int BiDiLevel \{ get; set; }
+public int BiDiLevel { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member BiDiLevel : int with get, set
 #### Reference
 <a href="T_Avalonia_Media_GlyphRun">GlyphRun Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

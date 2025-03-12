@@ -12,7 +12,7 @@ Gets the column that contains the cell to be edited.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DataGridColumn Column \{ get; }
+public DataGridColumn Column { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Column : DataGridColumn with get
 #### Reference
 <a href="T_Avalonia_Controls_DataGridBeginningEditEventArgs">DataGridBeginningEditEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

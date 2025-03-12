@@ -34,7 +34,7 @@ override OnOpenGlDeinit :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Controls/OpenGlControlBase.cs#L248" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Controls/OpenGlControlBase.cs#L250" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override OnOpenGlDeinit :
 #### Reference
 <a href="T_Avalonia_OpenGL_Controls_OpenGlControlBase">OpenGlControlBase Class</a>  
 <a href="N_Avalonia_OpenGL_Controls">Avalonia.OpenGL.Controls Namespace</a>  
+

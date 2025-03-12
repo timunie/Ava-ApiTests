@@ -12,7 +12,7 @@ Gets a value indicating whether the control is fully constructed in the visual t
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsLoaded \{ get; }
+public bool IsLoaded { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IsLoaded : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_Control">Control Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

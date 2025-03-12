@@ -12,7 +12,7 @@ Gets or sets how the existing snap points are vertically aligned versus the init
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public SnapPointsAlignment VerticalSnapPointsAlignment \{ get; set; }
+public SnapPointsAlignment VerticalSnapPointsAlignment { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member VerticalSnapPointsAlignment : SnapPointsAlignment with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ScrollViewer">ScrollViewer Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

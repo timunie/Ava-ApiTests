@@ -192,3 +192,4 @@ type IDataGridCollectionView =
 
 #### Reference
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the minute increment in the selector
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int MinuteIncrement \{ get; set; }
+public int MinuteIncrement { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member MinuteIncrement : int with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TimePickerPresenter">TimePickerPresenter Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

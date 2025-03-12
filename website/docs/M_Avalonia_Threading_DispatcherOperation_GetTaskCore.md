@@ -28,7 +28,7 @@ override GetTaskCore : unit -> Task
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherOperation.cs#L315" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherOperation.cs#L316" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override GetTaskCore : unit -> Task
 #### Reference
 <a href="T_Avalonia_Threading_DispatcherOperation">DispatcherOperation Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

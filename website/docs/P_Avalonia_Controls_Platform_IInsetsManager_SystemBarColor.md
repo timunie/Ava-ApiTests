@@ -12,7 +12,7 @@ Gets or sets the color of the platform's system bars
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Color? SystemBarColor \{ get; set; }
+Color? SystemBarColor { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ abstract SystemBarColor : Nullable<Color> with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Platform_IInsetsManager">IInsetsManager Interface</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

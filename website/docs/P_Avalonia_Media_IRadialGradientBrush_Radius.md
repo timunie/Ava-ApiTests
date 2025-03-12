@@ -18,7 +18,7 @@ Note: This API is now obsolete.
 <TabItem value="csharp" label="C#">
 ```csharp
 [ObsoleteAttribute("Use RadiusX/RadiusY")]
-double Radius \{ get; }
+double Radius { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -51,3 +51,4 @@ abstract Radius : float with get
 #### Reference
 <a href="T_Avalonia_Media_IRadialGradientBrush">IRadialGradientBrush Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

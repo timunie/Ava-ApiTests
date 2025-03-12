@@ -36,7 +36,7 @@ override OnGotFocus :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/NumericUpDown/NumericUpDown.cs#L386" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/NumericUpDown/NumericUpDown.cs#L387" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnGotFocus :
 #### Reference
 <a href="T_Avalonia_Controls_NumericUpDown">NumericUpDown Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

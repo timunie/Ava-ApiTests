@@ -40,3 +40,4 @@ new : unit -> BindingEvaluator
 <a href="T_Avalonia_Controls_AutoCompleteBox_BindingEvaluator_1">AutoCompleteBox.BindingEvaluator(T) Class</a>  
 <a href="Overload_Avalonia_Controls_AutoCompleteBox_BindingEvaluator_1__ctor">AutoCompleteBox.BindingEvaluator(T) Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

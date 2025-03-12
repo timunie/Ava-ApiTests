@@ -12,7 +12,7 @@ Gets the start.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int Start \{ get; }
+public int Start { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The start.
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextRange">TextRange Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

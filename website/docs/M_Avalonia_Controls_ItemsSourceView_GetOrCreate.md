@@ -34,7 +34,7 @@ static member GetOrCreate :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ItemsSourceView.cs#L152" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ItemsSourceView.cs#L153" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ static member GetOrCreate :
 <a href="T_Avalonia_Controls_ItemsSourceView">ItemsSourceView Class</a>  
 <a href="Overload_Avalonia_Controls_ItemsSourceView_GetOrCreate">GetOrCreate Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

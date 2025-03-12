@@ -48,7 +48,7 @@ override Convert :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Converters/EnumToBoolConverter.cs#L23" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Converters/EnumToBoolConverter.cs#L24" title="View the source code">View Source</a>
 
 
 
@@ -69,3 +69,4 @@ This method should not throw exceptions. If the value is not convertible, return
 #### Reference
 <a href="T_Avalonia_Controls_Converters_EnumToBoolConverter">EnumToBoolConverter Class</a>  
 <a href="N_Avalonia_Controls_Converters">Avalonia.Controls.Converters Namespace</a>  
+

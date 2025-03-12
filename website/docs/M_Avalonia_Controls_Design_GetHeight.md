@@ -32,7 +32,7 @@ static member GetHeight :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Design.cs#L23" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Design.cs#L24" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ static member GetHeight :
 #### Reference
 <a href="T_Avalonia_Controls_Design">Design Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

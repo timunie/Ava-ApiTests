@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public VulkanInstanceCreationOptions VulkanInstanceCreationOptions \{ get; set; }
+public VulkanInstanceCreationOptions VulkanInstanceCreationOptions { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member VulkanInstanceCreationOptions : VulkanInstanceCreationOptions with get, s
 #### Reference
 <a href="T_Avalonia_Vulkan_VulkanOptions">VulkanOptions Class</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

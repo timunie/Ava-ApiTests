@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PixelFormat Format \{ get; }
+public PixelFormat Format { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -46,3 +46,4 @@ override Format : PixelFormat with get
 #### Reference
 <a href="T_Avalonia_Platform_LockedFramebuffer">LockedFramebuffer Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

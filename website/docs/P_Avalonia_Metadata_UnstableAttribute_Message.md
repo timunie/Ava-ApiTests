@@ -12,7 +12,7 @@ Gets a value that indicates whether the compiler will treat usage of the obsolet
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? Message \{ get; }
+public string? Message { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Message : string with get
 #### Reference
 <a href="T_Avalonia_Metadata_UnstableAttribute">UnstableAttribute Class</a>  
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

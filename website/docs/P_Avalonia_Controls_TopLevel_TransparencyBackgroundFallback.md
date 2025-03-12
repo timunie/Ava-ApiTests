@@ -12,7 +12,7 @@ Gets or sets the <a href="T_Avalonia_Media_IBrush">IBrush</a> that transparency 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IBrush TransparencyBackgroundFallback \{ get; set; }
+public IBrush TransparencyBackgroundFallback { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member TransparencyBackgroundFallback : IBrush with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TopLevel">TopLevel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,6 +12,7 @@ Gets the value of the RelativePanel.Above XAML attached property for the target 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[ResolveByNameAttribute]
 public static Object GetAbove(
 	AvaloniaObject obj
 )
@@ -19,6 +20,7 @@ public static Object GetAbove(
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ResolveByNameAttribute>
 Public Shared Function GetAbove ( 
 	obj As AvaloniaObject
 ) As Object
@@ -26,6 +28,7 @@ Public Shared Function GetAbove (
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ResolveByNameAttribute>]
 static member GetAbove : 
         obj : AvaloniaObject -> Object 
 ```
@@ -34,7 +37,7 @@ static member GetAbove :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RelativePanel.AttachedProperties.cs#L40" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RelativePanel.AttachedProperties.cs#L41" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +54,4 @@ The RelativePanel.Above XAML attached property value of the specified object. (T
 #### Reference
 <a href="T_Avalonia_Controls_RelativePanel">RelativePanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

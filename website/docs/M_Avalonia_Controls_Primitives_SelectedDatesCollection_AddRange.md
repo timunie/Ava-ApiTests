@@ -37,7 +37,7 @@ member AddRange :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Calendar/SelectedDatesCollection.cs#L61" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Calendar/SelectedDatesCollection.cs#L68" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ member AddRange :
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_SelectedDatesCollection">SelectedDatesCollection Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

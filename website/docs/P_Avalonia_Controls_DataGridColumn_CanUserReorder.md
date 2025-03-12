@@ -12,7 +12,7 @@ Gets or sets a value that indicates whether the user can change the column displ
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool CanUserReorder \{ get; set; }
+public bool CanUserReorder { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -31,7 +31,7 @@ member CanUserReorder : bool with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridColumn.cs#L284" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridColumn.cs#L285" title="View the source code">View Source</a>
 
 
 
@@ -45,3 +45,4 @@ true if the user can drag the column header to a new position; otherwise, false.
 #### Reference
 <a href="T_Avalonia_Controls_DataGridColumn">DataGridColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

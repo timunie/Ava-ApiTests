@@ -28,7 +28,7 @@ override EnsureCurrent : unit -> IDisposable
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Egl/EglContext.cs#L126" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Egl/EglContext.cs#L127" title="View the source code">View Source</a>
 
 
 
@@ -36,7 +36,7 @@ override EnsureCurrent : unit -> IDisposable
 <a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_blank" rel="noopener noreferrer">IDisposable</a>
 
 #### Implements
-<a href="M_Avalonia_Platform_IPlatformGraphicsContext_EnsureCurrent">IPlatformGraphicsContext.EnsureCurrent()</a>  
+IPlatformGraphicsContext.EnsureCurrent()  
 
 
 ## See Also
@@ -45,3 +45,4 @@ override EnsureCurrent : unit -> IDisposable
 #### Reference
 <a href="T_Avalonia_OpenGL_Egl_EglContext">EglContext Class</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

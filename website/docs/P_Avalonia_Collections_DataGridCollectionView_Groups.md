@@ -12,7 +12,7 @@ Gets the top-level groups, constructed according to the descriptions given in Gr
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IAvaloniaReadOnlyList<Object> Groups \{ get; }
+public IAvaloniaReadOnlyList<Object> Groups { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -31,7 +31,7 @@ override Groups : IAvaloniaReadOnlyList<Object> with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L676" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L677" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ override Groups : IAvaloniaReadOnlyList<Object> with get
 #### Reference
 <a href="T_Avalonia_Collections_DataGridCollectionView">DataGridCollectionView Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

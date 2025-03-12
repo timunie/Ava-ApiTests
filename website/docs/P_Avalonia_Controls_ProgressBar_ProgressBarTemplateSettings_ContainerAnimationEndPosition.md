@@ -12,7 +12,7 @@ Used by Avalonia.Themes.Fluent to define the first indeterminate indicator's end
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double ContainerAnimationEndPosition \{ get; set; }
+public double ContainerAnimationEndPosition { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ContainerAnimationEndPosition : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ProgressBar_ProgressBarTemplateSettings">ProgressBar.ProgressBarTemplateSettings Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

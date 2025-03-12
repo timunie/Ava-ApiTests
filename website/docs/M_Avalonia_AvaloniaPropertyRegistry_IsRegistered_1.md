@@ -37,7 +37,7 @@ member IsRegistered :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaPropertyRegistry.cs#L382" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaPropertyRegistry.cs#L383" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ True if the property is registered, otherwise false.
 <a href="T_Avalonia_AvaloniaPropertyRegistry">AvaloniaPropertyRegistry Class</a>  
 <a href="Overload_Avalonia_AvaloniaPropertyRegistry_IsRegistered">IsRegistered Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

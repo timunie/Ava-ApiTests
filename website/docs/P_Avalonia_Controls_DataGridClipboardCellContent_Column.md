@@ -12,7 +12,7 @@ DataGridColumn containing the cell.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DataGridColumn Column \{ get; }
+public DataGridColumn Column { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member Column : DataGridColumn with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridClipboard.cs#L63" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridClipboard.cs#L64" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member Column : DataGridColumn with get
 #### Reference
 <a href="T_Avalonia_Controls_DataGridClipboardCellContent">DataGridClipboardCellContent Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

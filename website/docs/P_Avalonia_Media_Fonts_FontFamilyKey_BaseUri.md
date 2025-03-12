@@ -12,7 +12,7 @@ A base URI to use if <a href="P_Avalonia_Media_Fonts_FontFamilyKey_Source">Sourc
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Uri? BaseUri \{ get; }
+public Uri? BaseUri { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member BaseUri : Uri with get
 #### Reference
 <a href="T_Avalonia_Media_Fonts_FontFamilyKey">FontFamilyKey Class</a>  
 <a href="N_Avalonia_Media_Fonts">Avalonia.Media.Fonts Namespace</a>  
+

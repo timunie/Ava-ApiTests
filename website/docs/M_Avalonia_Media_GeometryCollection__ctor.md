@@ -40,3 +40,4 @@ new : unit -> GeometryCollection
 <a href="T_Avalonia_Media_GeometryCollection">GeometryCollection Class</a>  
 <a href="Overload_Avalonia_Media_GeometryCollection__ctor">GeometryCollection Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

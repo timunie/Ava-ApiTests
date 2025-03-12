@@ -12,7 +12,7 @@ Gets or sets the animation played when content appears and disappears.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IPageTransition? PageTransition \{ get; set; }
+public IPageTransition? PageTransition { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member PageTransition : IPageTransition with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TransitioningContentControl">TransitioningContentControl Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

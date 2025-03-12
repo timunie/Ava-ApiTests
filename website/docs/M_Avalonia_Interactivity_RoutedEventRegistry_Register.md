@@ -37,7 +37,7 @@ member Register :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Interactivity/RoutedEventRegistry.cs#L31" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Interactivity/RoutedEventRegistry.cs#L32" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ member Register :
 #### Reference
 <a href="T_Avalonia_Interactivity_RoutedEventRegistry">RoutedEventRegistry Class</a>  
 <a href="N_Avalonia_Interactivity">Avalonia.Interactivity Namespace</a>  
+

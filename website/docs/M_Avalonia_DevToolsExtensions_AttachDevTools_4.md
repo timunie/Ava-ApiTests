@@ -36,7 +36,7 @@ static member AttachDevTools :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Diagnostics/DevToolsExtensions.cs#L17" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Diagnostics/DevToolsExtensions.cs#L18" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 <a href="T_Avalonia_DevToolsExtensions">DevToolsExtensions Class</a>  
 <a href="Overload_Avalonia_DevToolsExtensions_AttachDevTools">AttachDevTools Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

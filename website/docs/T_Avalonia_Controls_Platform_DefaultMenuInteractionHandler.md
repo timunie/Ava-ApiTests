@@ -12,17 +12,20 @@ Provides the default keyboard and pointer interaction for menus.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public class DefaultMenuInteractionHandler : IMenuInteractionHandler
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Class DefaultMenuInteractionHandler
 	Implements IMenuInteractionHandler
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type DefaultMenuInteractionHandler = 
     class
         interface IMenuInteractionHandler
@@ -163,3 +166,4 @@ type DefaultMenuInteractionHandler =
 
 #### Reference
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

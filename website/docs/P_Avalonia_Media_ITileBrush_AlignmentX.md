@@ -12,7 +12,7 @@ Gets the horizontal alignment of a tile in the destination.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-AlignmentX AlignmentX \{ get; }
+AlignmentX AlignmentX { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract AlignmentX : AlignmentX with get
 #### Reference
 <a href="T_Avalonia_Media_ITileBrush">ITileBrush Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

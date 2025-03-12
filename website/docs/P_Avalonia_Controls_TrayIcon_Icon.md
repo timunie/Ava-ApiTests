@@ -12,7 +12,7 @@ Gets or sets the icon of the TrayIcon.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public WindowIcon? Icon \{ get; set; }
+public WindowIcon? Icon { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Icon : WindowIcon with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TrayIcon">TrayIcon Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

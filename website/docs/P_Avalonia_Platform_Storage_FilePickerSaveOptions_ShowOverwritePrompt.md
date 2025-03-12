@@ -12,7 +12,7 @@ Gets or sets a value indicating whether file open picker displays a warning if t
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool? ShowOverwritePrompt \{ get; set; }
+public bool? ShowOverwritePrompt { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ShowOverwritePrompt : Nullable<bool> with get, set
 #### Reference
 <a href="T_Avalonia_Platform_Storage_FilePickerSaveOptions">FilePickerSaveOptions Class</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

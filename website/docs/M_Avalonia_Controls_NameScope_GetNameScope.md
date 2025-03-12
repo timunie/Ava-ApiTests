@@ -34,7 +34,7 @@ static member GetNameScope :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/NameScope.cs#L34" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/NameScope.cs#L35" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The value of the NameScope attached property.
 #### Reference
 <a href="T_Avalonia_Controls_NameScope">NameScope Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets a dictionary of style resources.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IResourceDictionary Resources \{ get; set; }
+public IResourceDictionary Resources { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Resources : IResourceDictionary with get, set
 #### Reference
 <a href="T_Avalonia_Styling_Styles">Styles Class</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

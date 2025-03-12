@@ -40,3 +40,4 @@ abstract CreateContent : unit -> ISceneBrushContent
 #### Reference
 <a href="T_Avalonia_Media_ISceneBrush">ISceneBrush Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

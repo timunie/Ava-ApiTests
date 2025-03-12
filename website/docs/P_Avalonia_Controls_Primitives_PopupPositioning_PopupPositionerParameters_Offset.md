@@ -12,7 +12,7 @@ Specify the popup position offset relative to the position of the anchor on the 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Point Offset \{
+public Point Offset {
 	get;
  set; }
 ```
@@ -47,3 +47,4 @@ member Offset : Point with
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupPositionerParameters">PopupPositionerParameters Structure</a>  
 <a href="N_Avalonia_Controls_Primitives_PopupPositioning">Avalonia.Controls.Primitives.PopupPositioning Namespace</a>  
+

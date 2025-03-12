@@ -12,7 +12,7 @@ Gets the default binding mode for the property.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public BindingMode DefaultBindingMode \{ get; }
+public BindingMode DefaultBindingMode { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member DefaultBindingMode : BindingMode with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaPropertyMetadata.cs#L32" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaPropertyMetadata.cs#L33" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member DefaultBindingMode : BindingMode with get
 #### Reference
 <a href="T_Avalonia_AvaloniaPropertyMetadata">AvaloniaPropertyMetadata Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

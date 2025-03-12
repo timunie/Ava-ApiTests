@@ -29,7 +29,7 @@ member ClearDataContext : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L2100" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L2101" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ member ClearDataContext : unit -> unit
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox_BindingEvaluator_1">AutoCompleteBox.BindingEvaluator(T) Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

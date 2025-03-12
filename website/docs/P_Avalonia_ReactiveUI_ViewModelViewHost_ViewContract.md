@@ -12,7 +12,7 @@ Gets or sets the view contract.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? ViewContract \{ get; set; }
+public string? ViewContract { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ViewContract : string with get, set
 #### Reference
 <a href="T_Avalonia_ReactiveUI_ViewModelViewHost">ViewModelViewHost Class</a>  
 <a href="N_Avalonia_ReactiveUI">Avalonia.ReactiveUI Namespace</a>  
+

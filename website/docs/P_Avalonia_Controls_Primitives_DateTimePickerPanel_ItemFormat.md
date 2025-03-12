@@ -12,7 +12,7 @@ Gets or sets the string format for the items, using standard .net DateTime or Ti
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string ItemFormat \{ get; set; }
+public string ItemFormat { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ItemFormat : string with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_DateTimePickerPanel">DateTimePickerPanel Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

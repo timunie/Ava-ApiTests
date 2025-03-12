@@ -12,7 +12,7 @@ Gets the text run's text.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public override ReadOnlyMemory<char> Text \{ get; }
+public override ReadOnlyMemory<char> Text { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ override Text : ReadOnlyMemory<char> with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextCharacters">TextCharacters Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

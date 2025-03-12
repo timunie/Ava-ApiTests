@@ -44,3 +44,4 @@ type IVulkanKhrSurfacePlatformSurfaceFactory = interface end
 
 #### Reference
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

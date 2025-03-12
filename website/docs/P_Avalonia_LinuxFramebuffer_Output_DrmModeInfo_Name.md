@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string Name \{ get; }
+public string Name { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Name : string with get
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_Output_DrmModeInfo">DrmModeInfo Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer_Output">Avalonia.LinuxFramebuffer.Output Namespace</a>  
+

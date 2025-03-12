@@ -12,7 +12,7 @@ Gets or sets the maximum pickable year
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DateTimeOffset MaxYear \{ get; set; }
+public DateTimeOffset MaxYear { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member MaxYear : DateTimeOffset with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DatePickerPresenter">DatePickerPresenter Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

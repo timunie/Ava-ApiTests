@@ -12,7 +12,7 @@ Gets or sets a value that indicates whether the scrollbar should hide itself whe
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ScrollBarVisibility Visibility \{ get; set; }
+public ScrollBarVisibility Visibility { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Visibility : ScrollBarVisibility with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_ScrollBar">ScrollBar Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

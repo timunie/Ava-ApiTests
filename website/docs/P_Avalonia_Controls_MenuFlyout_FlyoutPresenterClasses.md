@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Classes FlyoutPresenterClasses \{ get; }
+public Classes FlyoutPresenterClasses { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member FlyoutPresenterClasses : Classes with get
 #### Reference
 <a href="T_Avalonia_Controls_MenuFlyout">MenuFlyout Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -88,3 +88,4 @@ type AngleOptions = class end
 
 #### Reference
 <a href="N_Avalonia_Win32">Avalonia.Win32 Namespace</a>  
+

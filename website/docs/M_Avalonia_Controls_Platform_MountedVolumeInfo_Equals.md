@@ -34,7 +34,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Platform/Dialogs/MountedDriveInfo.cs#L17" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Platform/Dialogs/MountedDriveInfo.cs#L18" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ override Equals :
 <a href="T_Avalonia_Controls_Platform_MountedVolumeInfo">MountedVolumeInfo Class</a>  
 <a href="Overload_Avalonia_Controls_Platform_MountedVolumeInfo_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

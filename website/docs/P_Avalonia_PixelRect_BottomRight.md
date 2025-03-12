@@ -12,7 +12,7 @@ Gets the bottom right point of the rectangle.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PixelPoint BottomRight \{ get; }
+public PixelPoint BottomRight { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member BottomRight : PixelPoint with get
 #### Reference
 <a href="T_Avalonia_PixelRect">PixelRect Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

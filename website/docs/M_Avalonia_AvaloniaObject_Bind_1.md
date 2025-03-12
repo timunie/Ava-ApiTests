@@ -62,3 +62,4 @@ A disposable which can be used to terminate the binding.
 <a href="T_Avalonia_AvaloniaObject">AvaloniaObject Class</a>  
 <a href="Overload_Avalonia_AvaloniaObject_Bind">Bind Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the total number of elements the internal data structure can hold w
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int Capacity \{ get; set; }
+public int Capacity { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Capacity : int with get, set
 #### Reference
 <a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList(T) Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

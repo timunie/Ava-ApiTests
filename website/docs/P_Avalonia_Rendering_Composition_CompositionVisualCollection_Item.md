@@ -12,7 +12,7 @@
 ```csharp
 public CompositionVisual this[
 	int index
-] \{ get; set; }
+] { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -54,3 +54,4 @@ override Item : CompositionVisual with get, set
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_CompositionVisualCollection">CompositionVisualCollection Class</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

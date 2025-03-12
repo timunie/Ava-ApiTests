@@ -34,7 +34,7 @@ override CreateTextLayout :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/SelectableTextBlock.cs#L184" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/SelectableTextBlock.cs#L185" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ override CreateTextLayout :
 #### Reference
 <a href="T_Avalonia_Controls_SelectableTextBlock">SelectableTextBlock Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the <a href="P_Avalonia_Controls_Hyperli
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsVisited \{ get; set; }
+public bool IsVisited { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member IsVisited : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_HyperlinkButton">HyperlinkButton Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

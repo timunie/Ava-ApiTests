@@ -12,7 +12,7 @@ Gets the name of the property.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string Name \{ get; }
+public string Name { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ override Name : string with get
 #### Reference
 <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -40,7 +40,7 @@ override PrepareCellForEdit :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridCheckBoxColumn.cs#L152" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridCheckBoxColumn.cs#L153" title="View the source code">View Source</a>
 
 
 
@@ -57,3 +57,4 @@ The unedited value.
 #### Reference
 <a href="T_Avalonia_Controls_DataGridCheckBoxColumn">DataGridCheckBoxColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

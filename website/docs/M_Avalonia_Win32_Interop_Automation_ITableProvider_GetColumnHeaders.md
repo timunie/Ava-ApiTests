@@ -40,3 +40,4 @@ abstract GetColumnHeaders : unit -> IRawElementProviderSimple[]
 #### Reference
 <a href="T_Avalonia_Win32_Interop_Automation_ITableProvider">ITableProvider Interface</a>  
 <a href="N_Avalonia_Win32_Interop_Automation">Avalonia.Win32.Interop.Automation Namespace</a>  
+

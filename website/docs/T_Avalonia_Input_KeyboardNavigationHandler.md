@@ -12,11 +12,13 @@ Handles keyboard navigation for a window.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public sealed class KeyboardNavigationHandler : IKeyboardNavigationHandler
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public NotInheritable Class KeyboardNavigationHandler
 	Implements IKeyboardNavigationHandler
 ```
@@ -24,6 +26,7 @@ Public NotInheritable Class KeyboardNavigationHandler
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<UnstableAttribute>]
 type KeyboardNavigationHandler = 
     class
         interface IKeyboardNavigationHandler
@@ -74,10 +77,6 @@ type KeyboardNavigationHandler =
 <td>Moves the focus in the specified direction.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Input_KeyboardNavigationHandler_SetOwner">SetOwner(IInputRoot)</a></td>
-<td>Sets the owner of the keyboard navigation handler.</td>
-</tr>
-<tr>
 <td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString()</a></td>
 <td>Returns a string that represents the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
@@ -88,3 +87,4 @@ type KeyboardNavigationHandler =
 
 #### Reference
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

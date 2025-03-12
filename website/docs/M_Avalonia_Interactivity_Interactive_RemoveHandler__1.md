@@ -39,7 +39,7 @@ member RemoveHandler :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Interactivity/Interactive.cs#L106" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Interactivity/Interactive.cs#L107" title="View the source code">View Source</a>
 
 
 
@@ -56,3 +56,4 @@ member RemoveHandler :
 <a href="T_Avalonia_Interactivity_Interactive">Interactive Class</a>  
 <a href="Overload_Avalonia_Interactivity_Interactive_RemoveHandler">RemoveHandler Overload</a>  
 <a href="N_Avalonia_Interactivity">Avalonia.Interactivity Namespace</a>  
+

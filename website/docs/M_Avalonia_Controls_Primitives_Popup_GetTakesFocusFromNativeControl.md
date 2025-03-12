@@ -34,7 +34,7 @@ static member GetTakesFocusFromNativeControl :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/Popup.cs#L570" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/Popup.cs#L571" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ static member GetTakesFocusFromNativeControl :
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_Popup">Popup Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

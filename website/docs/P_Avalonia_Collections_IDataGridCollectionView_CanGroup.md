@@ -12,7 +12,7 @@ Gets a value that indicates whether this view supports grouping by way of the <a
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool CanGroup \{ get; }
+bool CanGroup { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ true if this view supports grouping; otherwise, false.
 #### Reference
 <a href="T_Avalonia_Collections_IDataGridCollectionView">IDataGridCollectionView Interface</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

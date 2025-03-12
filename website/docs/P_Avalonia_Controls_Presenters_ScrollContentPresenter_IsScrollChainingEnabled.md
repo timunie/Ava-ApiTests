@@ -12,7 +12,7 @@ Gets or sets if scroll chaining is enabled. The default value is true.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsScrollChainingEnabled \{ get; set; }
+public bool IsScrollChainingEnabled { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member IsScrollChainingEnabled : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Presenters_ScrollContentPresenter">ScrollContentPresenter Class</a>  
 <a href="N_Avalonia_Controls_Presenters">Avalonia.Controls.Presenters Namespace</a>  
+

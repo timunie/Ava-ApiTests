@@ -12,7 +12,7 @@ Gets a value indicating whether <a href="P_Avalonia_Controls_Templates_IDataTemp
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool IsDataTemplatesInitialized \{ get; }
+bool IsDataTemplatesInitialized { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract IsDataTemplatesInitialized : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_Templates_IDataTemplateHost">IDataTemplateHost Interface</a>  
 <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates Namespace</a>  
+

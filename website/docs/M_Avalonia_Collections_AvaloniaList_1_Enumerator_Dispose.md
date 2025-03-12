@@ -30,7 +30,7 @@ override Dispose : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/AvaloniaList.cs#L798" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/AvaloniaList.cs#L799" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ override Dispose : unit -> unit
 #### Reference
 <a href="T_Avalonia_Collections_AvaloniaList_1_Enumerator">AvaloniaList(T).Enumerator Structure</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

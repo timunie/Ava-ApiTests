@@ -36,7 +36,7 @@ override OnPropertyChanged :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaObject.cs#L735" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaObject.cs#L736" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnPropertyChanged :
 #### Reference
 <a href="T_Avalonia_AvaloniaObject">AvaloniaObject Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

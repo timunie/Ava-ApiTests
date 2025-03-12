@@ -42,7 +42,7 @@ static member NthChild :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/Selectors.cs#L143" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/Selectors.cs#L144" title="View the source code">View Source</a>
 
 
 
@@ -62,3 +62,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 #### Reference
 <a href="T_Avalonia_Styling_Selectors">Selectors Class</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

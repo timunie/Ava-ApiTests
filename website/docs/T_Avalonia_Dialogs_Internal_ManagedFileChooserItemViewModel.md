@@ -132,3 +132,4 @@ type ManagedFileChooserItemViewModel =
 
 #### Reference
 <a href="N_Avalonia_Dialogs_Internal">Avalonia.Dialogs.Internal Namespace</a>  
+

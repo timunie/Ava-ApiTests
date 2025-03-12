@@ -12,7 +12,7 @@ Gets the control that is currently capturing by the pointer, if any.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IInputElement? Captured \{ get; }
+IInputElement? Captured { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Captured : IInputElement with get
 #### Reference
 <a href="T_Avalonia_Input_IPointer">IPointer Interface</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

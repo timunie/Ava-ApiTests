@@ -28,7 +28,7 @@ override RaiseSelectionChanged : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/TextInput/TextInputMethodClient.cs#L99" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/TextInput/TextInputMethodClient.cs#L100" title="View the source code">View Source</a>
 
 
 
@@ -38,3 +38,4 @@ override RaiseSelectionChanged : unit -> unit
 #### Reference
 <a href="T_Avalonia_Input_TextInput_TextInputMethodClient">TextInputMethodClient Class</a>  
 <a href="N_Avalonia_Input_TextInput">Avalonia.Input.TextInput Namespace</a>  
+

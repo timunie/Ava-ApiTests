@@ -12,7 +12,7 @@ Gets the root of the visual tree, if the control is attached to a visual tree.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected IRenderRoot? VisualRoot \{ get; }
+protected IRenderRoot? VisualRoot { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member VisualRoot : IRenderRoot with get
 #### Reference
 <a href="T_Avalonia_Visual">Visual Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

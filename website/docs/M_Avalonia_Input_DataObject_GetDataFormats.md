@@ -30,7 +30,7 @@ override GetDataFormats : unit -> IEnumerable<string>
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/DataObject.cs#L26" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/DataObject.cs#L27" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ override GetDataFormats : unit -> IEnumerable<string>
 <a href="T_Avalonia_Input_DataObject">DataObject Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
 <a href="T_Avalonia_Input_DataFormats">DataFormats</a>  
+

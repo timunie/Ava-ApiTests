@@ -12,7 +12,7 @@ Gets the unit.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RelativeUnit Unit \{ get; }
+public RelativeUnit Unit { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Unit : RelativeUnit with get
 #### Reference
 <a href="T_Avalonia_RelativeScalar">RelativeScalar Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Uri Uri \{ get; }
+public Uri Uri { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Uri : Uri with get
 #### Reference
 <a href="T_Avalonia_Controls_ApplicationLifetimes_ProtocolActivatedEventArgs">ProtocolActivatedEventArgs Class</a>  
 <a href="N_Avalonia_Controls_ApplicationLifetimes">Avalonia.Controls.ApplicationLifetimes Namespace</a>  
+

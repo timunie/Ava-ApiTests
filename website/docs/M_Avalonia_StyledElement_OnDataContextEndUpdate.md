@@ -30,7 +30,7 @@ override OnDataContextEndUpdate : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/StyledElement.cs#L602" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/StyledElement.cs#L603" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ override OnDataContextEndUpdate : unit -> unit
 #### Reference
 <a href="T_Avalonia_StyledElement">StyledElement Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

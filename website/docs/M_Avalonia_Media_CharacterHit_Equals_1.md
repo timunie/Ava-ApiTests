@@ -34,7 +34,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/CharacterHit.cs#L46" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/CharacterHit.cs#L47" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ override Equals :
 <a href="T_Avalonia_Media_CharacterHit">CharacterHit Structure</a>  
 <a href="Overload_Avalonia_Media_CharacterHit_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

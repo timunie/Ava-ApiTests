@@ -12,7 +12,7 @@ Gets the number of elements contained in the <a href="https://learn.microsoft.co
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int Count \{ get; }
+public int Count { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -51,3 +51,4 @@ The number of elements contained in the <a href="https://learn.microsoft.com/dot
 #### Reference
 <a href="T_Avalonia_Collections_AvaloniaDictionary_2">AvaloniaDictionary(TKey, TValue) Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

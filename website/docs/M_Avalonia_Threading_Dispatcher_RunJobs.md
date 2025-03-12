@@ -38,7 +38,7 @@ member RunJobs :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/Dispatcher.Queue.cs#L48" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/Dispatcher.Queue.cs#L49" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ member RunJobs :
 #### Reference
 <a href="T_Avalonia_Threading_Dispatcher">Dispatcher Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

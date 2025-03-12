@@ -40,7 +40,7 @@ static member RoundLayoutThickness :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Layout/LayoutHelper.cs#L190" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Layout/LayoutHelper.cs#L191" title="View the source code">View Source</a>
 
 
 
@@ -57,3 +57,4 @@ Value of thickness that will be rounded under screen DPI.This is a layout helper
 #### Reference
 <a href="T_Avalonia_Layout_LayoutHelper">LayoutHelper Class</a>  
 <a href="N_Avalonia_Layout">Avalonia.Layout Namespace</a>  
+

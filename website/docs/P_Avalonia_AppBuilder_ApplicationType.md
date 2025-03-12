@@ -12,7 +12,7 @@ Gets the type of the Instance (even if it's not created yet)
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Type? ApplicationType \{ get; }
+public Type? ApplicationType { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member ApplicationType : Type with get
 #### Reference
 <a href="T_Avalonia_AppBuilder">AppBuilder Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

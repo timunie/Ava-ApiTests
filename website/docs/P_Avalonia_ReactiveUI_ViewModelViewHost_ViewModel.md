@@ -12,7 +12,7 @@ Gets or sets the ViewModel to display.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? ViewModel \{ get; set; }
+public Object? ViewModel { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ IViewFor.ViewModel
 #### Reference
 <a href="T_Avalonia_ReactiveUI_ViewModelViewHost">ViewModelViewHost Class</a>  
 <a href="N_Avalonia_ReactiveUI">Avalonia.ReactiveUI Namespace</a>  
+

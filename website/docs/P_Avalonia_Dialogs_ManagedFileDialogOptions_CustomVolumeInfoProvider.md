@@ -12,7 +12,7 @@ Allows to redefine how root volumes are populated in the dialog.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IMountedVolumeInfoProvider? CustomVolumeInfoProvider \{ get; set; }
+public IMountedVolumeInfoProvider? CustomVolumeInfoProvider { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member CustomVolumeInfoProvider : IMountedVolumeInfoProvider with get, set
 #### Reference
 <a href="T_Avalonia_Dialogs_ManagedFileDialogOptions">ManagedFileDialogOptions Class</a>  
 <a href="N_Avalonia_Dialogs">Avalonia.Dialogs Namespace</a>  
+

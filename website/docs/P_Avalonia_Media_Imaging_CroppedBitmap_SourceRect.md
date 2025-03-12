@@ -12,7 +12,7 @@ Gets or sets the rectangular area that the bitmap is cropped to.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PixelRect SourceRect \{ get; set; }
+public PixelRect SourceRect { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member SourceRect : PixelRect with get, set
 #### Reference
 <a href="T_Avalonia_Media_Imaging_CroppedBitmap">CroppedBitmap Class</a>  
 <a href="N_Avalonia_Media_Imaging">Avalonia.Media.Imaging Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the location of the two-dimensional focal point that defines the beginning 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RelativePoint GradientOrigin \{ get; }
+public RelativePoint GradientOrigin { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ override GradientOrigin : RelativePoint with get
 #### Reference
 <a href="T_Avalonia_Media_Immutable_ImmutableRadialGradientBrush">ImmutableRadialGradientBrush Class</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

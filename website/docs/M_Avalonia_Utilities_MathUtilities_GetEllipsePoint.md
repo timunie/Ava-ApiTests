@@ -43,7 +43,7 @@ static member GetEllipsePoint :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/MathUtilities.cs#L341" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/MathUtilities.cs#L342" title="View the source code">View Source</a>
 
 
 
@@ -60,3 +60,4 @@ A point on the ellipse.
 #### Reference
 <a href="T_Avalonia_Utilities_MathUtilities">MathUtilities Class</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

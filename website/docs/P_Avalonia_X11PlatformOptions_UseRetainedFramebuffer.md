@@ -12,7 +12,7 @@ Retain window framebuffer contents if using CPU rendering mode. This will keep a
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool? UseRetainedFramebuffer \{ get; set; }
+public bool? UseRetainedFramebuffer { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member UseRetainedFramebuffer : Nullable<bool> with get, set
 #### Reference
 <a href="T_Avalonia_X11PlatformOptions">X11PlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

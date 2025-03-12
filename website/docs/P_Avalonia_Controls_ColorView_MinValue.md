@@ -12,7 +12,7 @@ Gets or sets the minimum value of the Value component in the range from 0..100. 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int MinValue \{ get; set; }
+public int MinValue { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member MinValue : int with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ColorView">ColorView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -32,7 +32,7 @@ static member GetCloseOnClick :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Notifications/NotificationCard.cs#L93" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Notifications/NotificationCard.cs#L94" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ static member GetCloseOnClick :
 #### Reference
 <a href="T_Avalonia_Controls_Notifications_NotificationCard">NotificationCard Class</a>  
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
+

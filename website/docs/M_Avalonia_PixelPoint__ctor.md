@@ -37,7 +37,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelPoint.cs#L23" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelPoint.cs#L24" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ new :
 #### Reference
 <a href="T_Avalonia_PixelPoint">PixelPoint Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

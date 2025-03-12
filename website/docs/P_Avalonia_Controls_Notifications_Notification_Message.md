@@ -12,7 +12,7 @@ Gets the notification message.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? Message \{ get; set; }
+public string? Message { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override Message : string with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Notifications_Notification">Notification Class</a>  
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
+

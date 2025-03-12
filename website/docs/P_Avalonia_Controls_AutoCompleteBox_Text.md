@@ -12,7 +12,7 @@ Gets or sets the text in the text box portion of the <a href="T_Avalonia_Control
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? Text \{ get; set; }
+public string? Text { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The text in the text box portion of the <a href="T_Avalonia_Controls_AutoComplet
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

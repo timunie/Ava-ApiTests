@@ -12,7 +12,7 @@ Gets the Sort criteria to sort items in collection.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DataGridSortDescriptionCollection SortDescriptions \{ get; }
+public DataGridSortDescriptionCollection SortDescriptions { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -31,7 +31,7 @@ override SortDescriptions : DataGridSortDescriptionCollection with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L942" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L943" title="View the source code">View Source</a>
 
 
 
@@ -60,3 +60,4 @@ Clear a sort criteria by assigning SortDescription.Empty to this property. One o
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
 <a href="T_Avalonia_Collections_DataGridSortDescription">DataGridSortDescription</a>  
 <a href="P_Avalonia_Collections_DataGridCollectionView_CanSort">CanSort</a>  
+

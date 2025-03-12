@@ -44,7 +44,7 @@ override TryGetResource :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/Styles.cs#L116" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/Styles.cs#L117" title="View the source code">View Source</a>
 
 
 
@@ -65,3 +65,4 @@ True if the resource if found, otherwise false.
 #### Reference
 <a href="T_Avalonia_Styling_Styles">Styles Class</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

@@ -46,7 +46,7 @@ override Convert :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Dialogs/Internal/FileSizeStringConverter.cs#L10" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Dialogs/Internal/FileSizeStringConverter.cs#L11" title="View the source code">View Source</a>
 
 
 
@@ -66,3 +66,4 @@ override Convert :
 #### Reference
 <a href="T_Avalonia_Dialogs_Internal_FileSizeStringConverter">FileSizeStringConverter Class</a>  
 <a href="N_Avalonia_Dialogs_Internal">Avalonia.Dialogs.Internal Namespace</a>  
+

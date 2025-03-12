@@ -12,7 +12,7 @@ Gets a value indicating whether the resulting (filtered) view is empty.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsEmpty \{ get; }
+public bool IsEmpty { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -31,7 +31,7 @@ override IsEmpty : bool with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L734" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L735" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ override IsEmpty : bool with get
 #### Reference
 <a href="T_Avalonia_Collections_DataGridCollectionView">DataGridCollectionView Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

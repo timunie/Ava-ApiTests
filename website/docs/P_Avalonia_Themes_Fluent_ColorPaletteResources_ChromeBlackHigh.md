@@ -12,7 +12,7 @@ Gets or sets the ChromeBlackHigh color value.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Color ChromeBlackHigh \{ get; set; }
+public Color ChromeBlackHigh { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ChromeBlackHigh : Color with get, set
 #### Reference
 <a href="T_Avalonia_Themes_Fluent_ColorPaletteResources">ColorPaletteResources Class</a>  
 <a href="N_Avalonia_Themes_Fluent">Avalonia.Themes.Fluent Namespace</a>  
+

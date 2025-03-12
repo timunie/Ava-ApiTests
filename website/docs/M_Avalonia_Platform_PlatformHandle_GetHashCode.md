@@ -30,7 +30,7 @@ override GetHashCode : unit -> int
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/PlatformHandle.cs#L58" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/PlatformHandle.cs#L59" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ A hash code for the current object.
 #### Reference
 <a href="T_Avalonia_Platform_PlatformHandle">PlatformHandle Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

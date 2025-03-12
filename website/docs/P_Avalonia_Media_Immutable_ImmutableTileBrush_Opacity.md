@@ -12,7 +12,7 @@ Gets the opacity of the brush.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Opacity \{ get; }
+public double Opacity { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ override Opacity : float with get
 #### Reference
 <a href="T_Avalonia_Media_Immutable_ImmutableTileBrush">ImmutableTileBrush Class</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

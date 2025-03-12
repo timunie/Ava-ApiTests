@@ -95,3 +95,4 @@ When creating a container for an item from a <a href="T_Avalonia_Controls_Virtua
 
 #### Reference
 <a href="N_Avalonia_Controls_Generators">Avalonia.Controls.Generators Namespace</a>  
+

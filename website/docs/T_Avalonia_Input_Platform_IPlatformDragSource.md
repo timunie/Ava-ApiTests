@@ -10,16 +10,19 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface IPlatformDragSource
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface IPlatformDragSource
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type IPlatformDragSource = interface end
 ```
 </TabItem>
@@ -44,3 +47,4 @@ type IPlatformDragSource = interface end
 
 #### Reference
 <a href="N_Avalonia_Input_Platform">Avalonia.Input.Platform Namespace</a>  
+

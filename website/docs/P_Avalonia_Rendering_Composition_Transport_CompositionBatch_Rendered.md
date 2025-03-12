@@ -12,7 +12,7 @@ Indicates that batch got rendered on the render thread. It's generally a good ti
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Task Rendered \{ get; }
+public Task Rendered { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Rendered : Task with get
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_Transport_CompositionBatch">CompositionBatch Class</a>  
 <a href="N_Avalonia_Rendering_Composition_Transport">Avalonia.Rendering.Composition.Transport Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets Culture to use during sorting.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public CultureInfo Culture \{ get; set; }
+public CultureInfo Culture { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -32,7 +32,7 @@ override Culture : CultureInfo with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L495" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L496" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override Culture : CultureInfo with get, set
 #### Reference
 <a href="T_Avalonia_Collections_DataGridCollectionView">DataGridCollectionView Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

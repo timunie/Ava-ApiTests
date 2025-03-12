@@ -17,3 +17,4 @@
 #### Reference
 <a href="T_Avalonia_Diagnostics_IScreenshotHandler">IScreenshotHandler Interface</a>  
 <a href="N_Avalonia_Diagnostics">Avalonia.Diagnostics Namespace</a>  
+

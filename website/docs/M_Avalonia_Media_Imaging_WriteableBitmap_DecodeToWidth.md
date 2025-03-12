@@ -44,7 +44,7 @@ static member DecodeToWidth :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Imaging/WriteableBitmap.cs#L103" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Imaging/WriteableBitmap.cs#L104" title="View the source code">View Source</a>
 
 
 
@@ -61,3 +61,4 @@ An instance of the <a href="T_Avalonia_Media_Imaging_WriteableBitmap">WriteableB
 #### Reference
 <a href="T_Avalonia_Media_Imaging_WriteableBitmap">WriteableBitmap Class</a>  
 <a href="N_Avalonia_Media_Imaging">Avalonia.Media.Imaging Namespace</a>  
+

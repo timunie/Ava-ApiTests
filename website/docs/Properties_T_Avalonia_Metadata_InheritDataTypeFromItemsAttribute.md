@@ -25,3 +25,4 @@
 #### Reference
 <a href="T_Avalonia_Metadata_InheritDataTypeFromItemsAttribute">InheritDataTypeFromItemsAttribute Class</a>  
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

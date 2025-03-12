@@ -12,6 +12,7 @@ Gets the value of the RelativePanel.RightOf XAML attached property for the targe
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[ResolveByNameAttribute]
 public static Object GetRightOf(
 	AvaloniaObject obj
 )
@@ -19,6 +20,7 @@ public static Object GetRightOf(
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ResolveByNameAttribute>
 Public Shared Function GetRightOf ( 
 	obj As AvaloniaObject
 ) As Object
@@ -26,6 +28,7 @@ Public Shared Function GetRightOf (
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ResolveByNameAttribute>]
 static member GetRightOf : 
         obj : AvaloniaObject -> Object 
 ```
@@ -34,7 +37,7 @@ static member GetRightOf :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RelativePanel.AttachedProperties.cs#L523" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RelativePanel.AttachedProperties.cs#L524" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +54,4 @@ The RelativePanel.RightOf XAML attached property value of the specified object. 
 #### Reference
 <a href="T_Avalonia_Controls_RelativePanel">RelativePanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

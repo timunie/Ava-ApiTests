@@ -40,3 +40,4 @@ new : unit -> PullGestureRecognizer
 <a href="T_Avalonia_Input_PullGestureRecognizer">PullGestureRecognizer Class</a>  
 <a href="Overload_Avalonia_Input_PullGestureRecognizer__ctor">PullGestureRecognizer Overload</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

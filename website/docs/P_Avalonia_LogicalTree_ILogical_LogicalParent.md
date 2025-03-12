@@ -12,7 +12,7 @@ Gets the logical parent.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-ILogical? LogicalParent \{ get; }
+ILogical? LogicalParent { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract LogicalParent : ILogical with get
 #### Reference
 <a href="T_Avalonia_LogicalTree_ILogical">ILogical Interface</a>  
 <a href="N_Avalonia_LogicalTree">Avalonia.LogicalTree Namespace</a>  
+

@@ -12,17 +12,20 @@ A brush which displays a repeating image.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface ITileBrush : IBrush
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface ITileBrush
 	Inherits IBrush
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type ITileBrush = 
     interface
         interface IBrush
@@ -94,3 +97,4 @@ type ITileBrush =
 
 #### Reference
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

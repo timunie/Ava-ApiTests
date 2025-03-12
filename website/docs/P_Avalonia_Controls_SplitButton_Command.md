@@ -12,7 +12,7 @@ Gets or sets the <a href="https://learn.microsoft.com/dotnet/api/system.windows.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ICommand? Command \{ get; set; }
+public ICommand? Command { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override Command : ICommand with get, set
 #### Reference
 <a href="T_Avalonia_Controls_SplitButton">SplitButton Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

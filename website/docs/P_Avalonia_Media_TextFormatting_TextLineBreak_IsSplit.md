@@ -12,7 +12,7 @@ Gets whether there were remaining runs after this line break, that were split up
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsSplit \{ get; }
+public bool IsSplit { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IsSplit : bool with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextLineBreak">TextLineBreak Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

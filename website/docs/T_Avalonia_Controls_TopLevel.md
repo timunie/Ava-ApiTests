@@ -12,6 +12,7 @@ Base class for top-level widgets.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_TransparencyFallback", typeof(Border))]
 public abstract class TopLevel : ContentControl, 
 	IInputRoot, IInputElement, ILayoutRoot, IRenderRoot, ICloseable, 
 	IStyleHost, ILogicalRoot, ILogical, ITextInputMethodRoot
@@ -19,6 +20,7 @@ public abstract class TopLevel : ContentControl,
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_TransparencyFallback", GetType(Border))>
 Public MustInherit Class TopLevel
 	Inherits ContentControl
 	Implements IInputRoot, IInputElement, ILayoutRoot, IRenderRoot, 
@@ -28,6 +30,7 @@ Public MustInherit Class TopLevel
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<AbstractClassAttribute>]
+[<TemplatePartAttribute("PART_TransparencyFallback", typeof(Border))>]
 type TopLevel = 
     class
         inherit ContentControl
@@ -56,18 +59,6 @@ type TopLevel =
 </table>
 
 This class acts as a base for top level widget. It handles scheduling layout, styling and rendering as well as tracking the widget's <a href="P_Avalonia_Controls_TopLevel_ClientSize">ClientSize</a>.
-
-## Constructors
-<table>
-<tr>
-<td><a href="M_Avalonia_Controls_TopLevel__ctor_1">TopLevel(ITopLevelImpl)</a></td>
-<td>Initializes a new instance of the TopLevel class.</td>
-</tr>
-<tr>
-<td><a href="M_Avalonia_Controls_TopLevel__ctor">TopLevel(ITopLevelImpl, IAvaloniaDependencyResolver)</a></td>
-<td>Initializes a new instance of the TopLevel class.</td>
-</tr>
-</table>
 
 ## Properties
 <table>
@@ -358,10 +349,6 @@ This class acts as a base for top level widget. It handles scheduling layout, st
 <tr>
 <td><a href="P_Avalonia_StyledElement_Parent">Parent</a></td>
 <td>Gets the styled element's logical parent.<br />(Inherited from <a href="T_Avalonia_StyledElement">StyledElement</a>)</td>
-</tr>
-<tr>
-<td><a href="P_Avalonia_Controls_TopLevel_PlatformImpl">PlatformImpl</a></td>
-<td>Gets the platform-specific window implementation.</td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_Controls_TopLevel_PlatformSettings">PlatformSettings</a></td>
@@ -1316,10 +1303,6 @@ This class acts as a base for top level widget. It handles scheduling layout, st
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1434,3 +1417,4 @@ This class acts as a base for top level widget. It handles scheduling layout, st
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

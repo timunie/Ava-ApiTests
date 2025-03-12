@@ -27,10 +27,6 @@
 <td><a href="T_Avalonia_Layout_LayoutInformation">LayoutInformation</a></td>
 <td>Provides access to layout information of a control.</td>
 </tr>
-<tr>
-<td><a href="T_Avalonia_Layout_LayoutManager">LayoutManager</a></td>
-<td>Manages measuring and arranging of controls.</td>
-</tr>
 </table>
 
 ## Interfaces
@@ -40,12 +36,8 @@
 <td>A special layout root with enforced size for Arrange pass</td>
 </tr>
 <tr>
-<td><a href="T_Avalonia_Layout_ILayoutManager">ILayoutManager</a></td>
-<td>Manages measuring and arranging of controls.</td>
-</tr>
-<tr>
 <td><a href="T_Avalonia_Layout_ILayoutRoot">ILayoutRoot</a></td>
-<td>Defines the root of a layoutable tree.</td>
+<td>Defines the root of a layoutable tree.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 </table>
 

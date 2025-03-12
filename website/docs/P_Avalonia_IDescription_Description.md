@@ -12,7 +12,7 @@ Gets the description of the object.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-string? Description \{ get; }
+string? Description { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The description of the object.
 #### Reference
 <a href="T_Avalonia_IDescription">IDescription Interface</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

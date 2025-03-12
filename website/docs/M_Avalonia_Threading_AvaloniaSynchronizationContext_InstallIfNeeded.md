@@ -29,7 +29,7 @@ static member InstallIfNeeded : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/AvaloniaSynchronizationContext.cs#L52" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/AvaloniaSynchronizationContext.cs#L53" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ static member InstallIfNeeded : unit -> unit
 #### Reference
 <a href="T_Avalonia_Threading_AvaloniaSynchronizationContext">AvaloniaSynchronizationContext Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

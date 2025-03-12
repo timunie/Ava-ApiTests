@@ -12,7 +12,7 @@ Gets or sets a control theme that is the basis of the current theme.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ControlTheme? BasedOn \{ get; set; }
+public ControlTheme? BasedOn { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member BasedOn : ControlTheme with get, set
 #### Reference
 <a href="T_Avalonia_Styling_ControlTheme">ControlTheme Class</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

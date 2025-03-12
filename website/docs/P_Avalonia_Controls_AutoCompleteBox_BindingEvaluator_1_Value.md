@@ -12,7 +12,7 @@ Gets or sets the data item value.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public T Value \{ get; set; }
+public T Value { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Value : 'T with get, set
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox_BindingEvaluator_1">AutoCompleteBox.BindingEvaluator(T) Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

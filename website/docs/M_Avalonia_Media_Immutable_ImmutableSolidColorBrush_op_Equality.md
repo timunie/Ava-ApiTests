@@ -35,7 +35,7 @@ static let inline (=)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Immutable/ImmutableSolidColorBrush.cs#L82" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Immutable/ImmutableSolidColorBrush.cs#L83" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ static let inline (=)
 #### Reference
 <a href="T_Avalonia_Media_Immutable_ImmutableSolidColorBrush">ImmutableSolidColorBrush Class</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

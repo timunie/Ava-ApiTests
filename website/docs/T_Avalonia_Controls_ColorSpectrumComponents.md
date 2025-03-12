@@ -72,3 +72,4 @@ Order of the color components is important and correspond with an X/Y axis in Bo
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

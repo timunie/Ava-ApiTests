@@ -12,7 +12,7 @@ Gets a value that indicates whether this view supports sorting by way of the <a 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool CanSort \{ get; }
+bool CanSort { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ true if this view supports sorting; otherwise, false.
 #### Reference
 <a href="T_Avalonia_Collections_IDataGridCollectionView">IDataGridCollectionView Interface</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

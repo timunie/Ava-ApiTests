@@ -34,7 +34,7 @@ override OnDetachedFromVisualTreeCore :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Control.cs#L395" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Control.cs#L396" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override OnDetachedFromVisualTreeCore :
 #### Reference
 <a href="T_Avalonia_Controls_Control">Control Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,6 +12,7 @@ Wrap Skia canvas in drawing context so we can use Avalonia api to render to exte
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute("IDrawingContextImpl usage is not supported in Avalonia 11.0.")]
 public static IDrawingContextImpl WrapSkiaCanvas(
 	SKCanvas canvas,
 	Vector dpi
@@ -20,6 +21,7 @@ public static IDrawingContextImpl WrapSkiaCanvas(
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute("IDrawingContextImpl usage is not supported in Avalonia 11.0.")>
 Public Shared Function WrapSkiaCanvas ( 
 	canvas As SKCanvas,
 	dpi As Vector
@@ -28,6 +30,7 @@ Public Shared Function WrapSkiaCanvas (
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute("IDrawingContextImpl usage is not supported in Avalonia 11.0.")>]
 static member WrapSkiaCanvas : 
         canvas : SKCanvas * 
         dpi : Vector -> IDrawingContextImpl 
@@ -37,7 +40,7 @@ static member WrapSkiaCanvas :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Skia/Avalonia.Skia/Helpers/DrawingContextHelper.cs#L46" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Skia/Avalonia.Skia/Helpers/DrawingContextHelper.cs#L47" title="View the source code">View Source</a>
 
 
 
@@ -45,7 +48,7 @@ static member WrapSkiaCanvas :
 <dl><dt>  SKCanvas</dt><dd>Skia canvas to render into.</dd><dt>  <a href="T_Avalonia_Vector">Vector</a></dt><dd /></dl>
 
 #### Return Value
-<a href="T_Avalonia_Platform_IDrawingContextImpl">IDrawingContextImpl</a>  
+IDrawingContextImpl  
 DrawingContext
 
 ## See Also
@@ -54,3 +57,4 @@ DrawingContext
 #### Reference
 <a href="T_Avalonia_Skia_Helpers_DrawingContextHelper">DrawingContextHelper Class</a>  
 <a href="N_Avalonia_Skia_Helpers">Avalonia.Skia.Helpers Namespace</a>  
+

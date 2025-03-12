@@ -10,11 +10,13 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Thumb? Thumb \{ get; set; }
+[ContentAttribute]
+public Thumb? Thumb { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public Property Thumb As Thumb
 	Get
 	Set
@@ -22,6 +24,7 @@ Public Property Thumb As Thumb
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Thumb : Thumb with get, set
 ```
 </TabItem>
@@ -42,3 +45,4 @@ member Thumb : Thumb with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_Track">Track Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

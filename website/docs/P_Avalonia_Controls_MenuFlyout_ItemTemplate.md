@@ -12,7 +12,7 @@ Gets or sets the template used for the items
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IDataTemplate? ItemTemplate \{ get; set; }
+public IDataTemplate? ItemTemplate { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ItemTemplate : IDataTemplate with get, set
 #### Reference
 <a href="T_Avalonia_Controls_MenuFlyout">MenuFlyout Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

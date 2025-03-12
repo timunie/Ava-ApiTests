@@ -12,7 +12,7 @@ Gets or sets a parameter to pass to <a href="P_Avalonia_Data_TemplateBinding_Con
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? ConverterParameter \{ get; set; }
+public Object? ConverterParameter { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ConverterParameter : Object with get, set
 #### Reference
 <a href="T_Avalonia_Data_TemplateBinding">TemplateBinding Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

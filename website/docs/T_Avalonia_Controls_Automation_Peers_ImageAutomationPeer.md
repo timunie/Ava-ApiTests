@@ -328,3 +328,4 @@ type ImageAutomationPeer =
 
 #### Reference
 <a href="N_Avalonia_Controls_Automation_Peers">Avalonia.Controls.Automation.Peers Namespace</a>  
+

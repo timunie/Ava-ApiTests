@@ -12,7 +12,7 @@ Get or set whether the spin event originated from a mouse wheel event.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool UsingMouseWheel \{ get; }
+public bool UsingMouseWheel { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member UsingMouseWheel : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_SpinEventArgs">SpinEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

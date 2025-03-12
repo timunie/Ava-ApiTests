@@ -12,7 +12,7 @@
 ```csharp
 public BoxShadow this[
 	int c
-] \{ get; }
+] { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -32,7 +32,7 @@ member Item : BoxShadow with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/BoxShadows.cs#L31" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/BoxShadows.cs#L32" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ member Item : BoxShadow with get
 #### Reference
 <a href="T_Avalonia_Media_BoxShadows">BoxShadows Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

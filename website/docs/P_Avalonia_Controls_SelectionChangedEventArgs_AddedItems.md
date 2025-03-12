@@ -12,7 +12,7 @@ Gets the items that were added to the selection.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IList AddedItems \{ get; }
+public IList AddedItems { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member AddedItems : IList with get
 #### Reference
 <a href="T_Avalonia_Controls_SelectionChangedEventArgs">SelectionChangedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

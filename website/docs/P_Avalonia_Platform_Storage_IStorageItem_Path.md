@@ -12,7 +12,7 @@ Gets the file-system path of the item.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Uri Path \{ get; }
+Uri Path { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Path : Uri with get
 #### Reference
 <a href="T_Avalonia_Platform_Storage_IStorageItem">IStorageItem Interface</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

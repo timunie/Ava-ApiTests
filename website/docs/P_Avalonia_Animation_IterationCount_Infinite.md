@@ -12,7 +12,7 @@ Gets an instance of <a href="T_Avalonia_Animation_IterationCount">IterationCount
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static IterationCount Infinite \{ get; }
+public static IterationCount Infinite { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member Infinite : IterationCount with get
 #### Reference
 <a href="T_Avalonia_Animation_IterationCount">IterationCount Structure</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

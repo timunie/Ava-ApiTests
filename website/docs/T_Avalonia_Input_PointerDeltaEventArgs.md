@@ -43,7 +43,7 @@ type PointerDeltaEventArgs =
 <table>
 <tr>
 <td><a href="M_Avalonia_Input_PointerDeltaEventArgs__ctor">PointerDeltaEventArgs(RoutedEvent, Object, IPointer, Visual, Point, UInt64, PointerPointProperties, KeyModifiers, Vector)</a></td>
-<td>Initializes a new instance of the PointerDeltaEventArgs class</td>
+<td>Initializes a new instance of the PointerDeltaEventArgs class<br /><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 </table>
 
@@ -136,3 +136,4 @@ type PointerDeltaEventArgs =
 
 #### Reference
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

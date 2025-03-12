@@ -50,3 +50,4 @@ abstract OpenReadAsync : unit -> Task<Stream>
 #### Reference
 <a href="T_Avalonia_Platform_Storage_IStorageFile">IStorageFile Interface</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

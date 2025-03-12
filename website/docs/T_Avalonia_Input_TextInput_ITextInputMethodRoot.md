@@ -10,18 +10,21 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface ITextInputMethodRoot : IInputRoot, 
 	IInputElement
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface ITextInputMethodRoot
 	Inherits IInputRoot, IInputElement
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type ITextInputMethodRoot = 
     interface
         interface IInputRoot
@@ -206,3 +209,4 @@ type ITextInputMethodRoot =
 
 #### Reference
 <a href="N_Avalonia_Input_TextInput">Avalonia.Input.TextInput Namespace</a>  
+

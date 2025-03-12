@@ -27,7 +27,7 @@ member StartTrackingFocus : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/WindowBaseAutomationPeer.cs#L54" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/WindowBaseAutomationPeer.cs#L55" title="View the source code">View Source</a>
 
 
 
@@ -37,3 +37,4 @@ member StartTrackingFocus : unit -> unit
 #### Reference
 <a href="T_Avalonia_Automation_Peers_WindowBaseAutomationPeer">WindowBaseAutomationPeer Class</a>  
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

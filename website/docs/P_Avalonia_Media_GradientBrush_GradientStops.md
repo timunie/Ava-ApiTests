@@ -10,11 +10,13 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public GradientStops GradientStops \{ get; set; }
+[ContentAttribute]
+public GradientStops GradientStops { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public Property GradientStops As GradientStops
 	Get
 	Set
@@ -22,6 +24,7 @@ Public Property GradientStops As GradientStops
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member GradientStops : GradientStops with get, set
 ```
 </TabItem>
@@ -42,3 +45,4 @@ member GradientStops : GradientStops with get, set
 #### Reference
 <a href="T_Avalonia_Media_GradientBrush">GradientBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

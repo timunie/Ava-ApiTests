@@ -12,11 +12,23 @@ Represents the currently displayed month or year on a <a href="T_Avalonia_Contro
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_HeaderButton", typeof(Button))]
+[TemplatePartAttribute("PART_MonthView", typeof(Grid))]
+[TemplatePartAttribute("PART_NextButton", typeof(Button))]
+[TemplatePartAttribute("PART_PreviousButton", typeof(Button))]
+[TemplatePartAttribute("PART_YearView", typeof(Grid))]
+[PseudoClassesAttribute(new string[] { ... })]
 public sealed class CalendarItem : TemplatedControl
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_HeaderButton", GetType(Button))>
+<TemplatePartAttribute("PART_MonthView", GetType(Grid))>
+<TemplatePartAttribute("PART_NextButton", GetType(Button))>
+<TemplatePartAttribute("PART_PreviousButton", GetType(Button))>
+<TemplatePartAttribute("PART_YearView", GetType(Grid))>
+<PseudoClassesAttribute(New String() { ... })>
 Public NotInheritable Class CalendarItem
 	Inherits TemplatedControl
 ```
@@ -24,6 +36,12 @@ Public NotInheritable Class CalendarItem
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<TemplatePartAttribute("PART_HeaderButton", typeof(Button))>]
+[<TemplatePartAttribute("PART_MonthView", typeof(Grid))>]
+[<TemplatePartAttribute("PART_NextButton", typeof(Button))>]
+[<TemplatePartAttribute("PART_PreviousButton", typeof(Button))>]
+[<TemplatePartAttribute("PART_YearView", typeof(Grid))>]
+[<PseudoClassesAttribute(new string[] { ... })>]
 type CalendarItem = 
     class
         inherit TemplatedControl
@@ -821,10 +839,6 @@ type CalendarItem =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -919,3 +933,4 @@ type CalendarItem =
 
 #### Reference
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

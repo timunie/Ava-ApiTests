@@ -12,7 +12,7 @@ Gets the time when the input occurred.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ulong Timestamp \{ get; }
+public ulong Timestamp { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Timestamp : uint64 with get
 #### Reference
 <a href="T_Avalonia_Input_PointerEventArgs">PointerEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

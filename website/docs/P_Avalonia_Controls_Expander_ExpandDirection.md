@@ -12,7 +12,7 @@ Gets or sets the direction in which the <a href="T_Avalonia_Controls_Expander">E
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ExpandDirection ExpandDirection \{ get; set; }
+public ExpandDirection ExpandDirection { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ExpandDirection : ExpandDirection with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Expander">Expander Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

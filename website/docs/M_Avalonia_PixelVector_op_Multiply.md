@@ -37,7 +37,7 @@ static let inline (*)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelVector.cs#L59" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelVector.cs#L60" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ The dot product
 <a href="T_Avalonia_PixelVector">PixelVector Structure</a>  
 <a href="Overload_Avalonia_PixelVector_op_Multiply">Multiply Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

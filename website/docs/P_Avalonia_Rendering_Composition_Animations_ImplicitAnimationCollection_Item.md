@@ -12,7 +12,7 @@
 ```csharp
 public ICompositionAnimationBase this[
 	string key
-] \{ get; set; }
+] { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -54,3 +54,4 @@ override Item : ICompositionAnimationBase with get, set
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_Animations_ImplicitAnimationCollection">ImplicitAnimationCollection Class</a>  
 <a href="N_Avalonia_Rendering_Composition_Animations">Avalonia.Rendering.Composition.Animations Namespace</a>  
+

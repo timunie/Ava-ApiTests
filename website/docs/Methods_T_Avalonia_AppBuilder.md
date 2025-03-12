@@ -6,10 +6,6 @@
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_AppBuilder_AfterApplicationSetup">AfterApplicationSetup(Action(AppBuilder))</a></td>
-<td> </td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_AppBuilder_AfterPlatformServicesSetup">AfterPlatformServicesSetup(Action(AppBuilder))</a></td>
 <td> </td>
 </tr>
@@ -169,3 +165,4 @@
 #### Reference
 <a href="T_Avalonia_AppBuilder">AppBuilder Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

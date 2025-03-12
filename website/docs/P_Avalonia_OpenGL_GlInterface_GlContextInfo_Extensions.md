@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public HashSet<string> Extensions \{ get; }
+public HashSet<string> Extensions { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Extensions : HashSet<string> with get
 #### Reference
 <a href="T_Avalonia_OpenGL_GlInterface_GlContextInfo">GlInterface.GlContextInfo Class</a>  
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

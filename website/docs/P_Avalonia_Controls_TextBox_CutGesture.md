@@ -12,7 +12,7 @@ Gets a platform-specific <a href="T_Avalonia_Input_KeyGesture">KeyGesture</a> fo
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static KeyGesture? CutGesture \{ get; }
+public static KeyGesture? CutGesture { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member CutGesture : KeyGesture with get
 #### Reference
 <a href="T_Avalonia_Controls_TextBox">TextBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -29,7 +29,7 @@ member UpdateChild : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Presenters/ContentPresenter.cs#L446" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Presenters/ContentPresenter.cs#L447" title="View the source code">View Source</a>
 
 Usually the <a href="P_Avalonia_Controls_Presenters_ContentPresenter_Child">Child</a> control is created automatically when <a href="M_Avalonia_Controls_Presenters_ContentPresenter_ApplyTemplate">ApplyTemplate()</a> is called; however for this to happen, the control needs to be attached to a logical tree (if the control is not attached to the logical tree, it is reasonable to expect that the DataTemplates needed for the child are not yet available). This method forces the <a href="P_Avalonia_Controls_Presenters_ContentPresenter_Child">Child</a> control's creation at any point, and is particularly useful in unit tests.
 
@@ -39,3 +39,4 @@ Usually the <a href="P_Avalonia_Controls_Presenters_ContentPresenter_Child">Chil
 #### Reference
 <a href="T_Avalonia_Controls_Presenters_ContentPresenter">ContentPresenter Class</a>  
 <a href="N_Avalonia_Controls_Presenters">Avalonia.Controls.Presenters Namespace</a>  
+

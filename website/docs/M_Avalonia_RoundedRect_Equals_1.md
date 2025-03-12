@@ -34,7 +34,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/RoundedRect.cs#L13" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/RoundedRect.cs#L14" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ override Equals :
 <a href="T_Avalonia_RoundedRect">RoundedRect Structure</a>  
 <a href="Overload_Avalonia_RoundedRect_Equals">Equals Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Point ScaleOrigin \{ get; }
+public Point ScaleOrigin { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member ScaleOrigin : Point with get
 #### Reference
 <a href="T_Avalonia_Input_PinchEventArgs">PinchEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

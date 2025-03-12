@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsLost \{ get; }
+public bool IsLost { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -28,7 +28,7 @@ member IsLost : bool with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Egl/EglDisplay.cs#L157" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Egl/EglDisplay.cs#L158" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ member IsLost : bool with get
 #### Reference
 <a href="T_Avalonia_OpenGL_Egl_EglDisplay">EglDisplay Class</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

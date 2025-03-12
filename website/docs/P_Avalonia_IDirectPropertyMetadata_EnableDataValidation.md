@@ -12,7 +12,7 @@ Gets a value indicating whether the property is interested in data validation.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool? EnableDataValidation \{ get; }
+bool? EnableDataValidation { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract EnableDataValidation : Nullable<bool> with get
 #### Reference
 <a href="T_Avalonia_IDirectPropertyMetadata">IDirectPropertyMetadata Interface</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -41,7 +41,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TextBlock.cs#L928" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TextBlock.cs#L929" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Controls_TextBlock_InlinesTextSource">TextBlock.InlinesTextSource Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

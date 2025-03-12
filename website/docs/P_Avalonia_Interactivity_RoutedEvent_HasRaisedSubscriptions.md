@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool HasRaisedSubscriptions \{ get; }
+public bool HasRaisedSubscriptions { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member HasRaisedSubscriptions : bool with get
 #### Reference
 <a href="T_Avalonia_Interactivity_RoutedEvent">RoutedEvent Class</a>  
 <a href="N_Avalonia_Interactivity">Avalonia.Interactivity Namespace</a>  
+

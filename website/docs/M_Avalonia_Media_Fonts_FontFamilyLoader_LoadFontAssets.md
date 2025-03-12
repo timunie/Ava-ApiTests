@@ -34,7 +34,7 @@ static member LoadFontAssets :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Fonts/FontFamilyLoader.cs#L17" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Fonts/FontFamilyLoader.cs#L18" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ static member LoadFontAssets :
 #### Reference
 <a href="T_Avalonia_Media_Fonts_FontFamilyLoader">FontFamilyLoader Class</a>  
 <a href="N_Avalonia_Media_Fonts">Avalonia.Media.Fonts Namespace</a>  
+

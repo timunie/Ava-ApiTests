@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected virtual IScrollProvider? Scroller \{ get; }
+protected virtual IScrollProvider? Scroller { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -29,7 +29,7 @@ override Scroller : IScrollProvider with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ItemsControlAutomationPeer.cs#L27" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ItemsControlAutomationPeer.cs#L28" title="View the source code">View Source</a>
 
 
 
@@ -42,3 +42,4 @@ override Scroller : IScrollProvider with get
 #### Reference
 <a href="T_Avalonia_Automation_Peers_ItemsControlAutomationPeer">ItemsControlAutomationPeer Class</a>  
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

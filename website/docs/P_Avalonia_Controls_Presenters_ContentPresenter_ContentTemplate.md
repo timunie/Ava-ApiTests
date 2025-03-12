@@ -12,7 +12,7 @@ Gets or sets the data template used to display the content of the control.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IDataTemplate? ContentTemplate \{ get; set; }
+public IDataTemplate? ContentTemplate { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ContentTemplate : IDataTemplate with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Presenters_ContentPresenter">ContentPresenter Class</a>  
 <a href="N_Avalonia_Controls_Presenters">Avalonia.Controls.Presenters Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the height of the content.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double ContentHeight \{ get; set; }
+public double ContentHeight { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The height of the content.
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_DataGridDetailsPresenter">DataGridDetailsPresenter Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

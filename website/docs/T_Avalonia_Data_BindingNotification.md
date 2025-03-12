@@ -158,3 +158,4 @@ This class is very similar to <a href="T_Avalonia_Data_BindingValue_1">BindingVa
 
 #### Reference
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the key for associated assets.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public FontFamilyKey? Key \{ get; }
+public FontFamilyKey? Key { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The family key.Key is only used for custom fonts.
 #### Reference
 <a href="T_Avalonia_Media_FontFamily">FontFamily Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

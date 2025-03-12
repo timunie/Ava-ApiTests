@@ -12,11 +12,13 @@ Label focus Target
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IInputElement? Target \{ get; set; }
+[ResolveByNameAttribute]
+public IInputElement? Target { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ResolveByNameAttribute>
 Public Property Target As IInputElement
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property Target As IInputElement
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ResolveByNameAttribute>]
 member Target : IInputElement with get, set
 ```
 </TabItem>
@@ -44,3 +47,4 @@ member Target : IInputElement with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Label">Label Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

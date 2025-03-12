@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the dropdown is currently open.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsDropDownOpen \{ get; set; }
+public bool IsDropDownOpen { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member IsDropDownOpen : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ComboBox">ComboBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

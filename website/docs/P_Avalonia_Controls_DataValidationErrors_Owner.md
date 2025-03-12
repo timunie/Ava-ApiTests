@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Control? Owner \{ get; set; }
+public Control? Owner { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member Owner : Control with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataValidationErrors">DataValidationErrors Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

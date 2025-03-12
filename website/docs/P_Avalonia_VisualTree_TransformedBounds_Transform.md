@@ -12,7 +12,7 @@ Gets the transform from local to global coordinate space.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Matrix Transform \{ get; }
+public Matrix Transform { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Transform : Matrix with get
 #### Reference
 <a href="T_Avalonia_VisualTree_TransformedBounds">TransformedBounds Structure</a>  
 <a href="N_Avalonia_VisualTree">Avalonia.VisualTree Namespace</a>  
+

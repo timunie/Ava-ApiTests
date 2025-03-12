@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Input_Cursor">Cursor Class</a>  
 <a href="Overload_Avalonia_Input_Cursor__ctor">Cursor Overload</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

@@ -37,7 +37,7 @@ static member SetIsTabStop :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/KeyboardNavigation.cs#L120" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/KeyboardNavigation.cs#L121" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ static member SetIsTabStop :
 #### Reference
 <a href="T_Avalonia_Input_KeyboardNavigation">KeyboardNavigation Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

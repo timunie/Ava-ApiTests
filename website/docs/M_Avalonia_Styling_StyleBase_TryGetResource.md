@@ -42,7 +42,7 @@ override TryGetResource :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/StyleBase.cs#L78" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/StyleBase.cs#L79" title="View the source code">View Source</a>
 
 
 
@@ -62,3 +62,4 @@ override TryGetResource :
 #### Reference
 <a href="T_Avalonia_Styling_StyleBase">StyleBase Class</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

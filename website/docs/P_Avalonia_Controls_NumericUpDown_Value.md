@@ -12,7 +12,7 @@ Gets or sets the value.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public decimal? Value \{ get; set; }
+public decimal? Value { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Value : Nullable<decimal> with get, set
 #### Reference
 <a href="T_Avalonia_Controls_NumericUpDown">NumericUpDown Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

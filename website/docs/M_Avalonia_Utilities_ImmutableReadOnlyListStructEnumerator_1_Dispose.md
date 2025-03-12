@@ -44,3 +44,4 @@ override Dispose : unit -> unit
 #### Reference
 <a href="T_Avalonia_Utilities_ImmutableReadOnlyListStructEnumerator_1">ImmutableReadOnlyListStructEnumerator(T) Structure</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

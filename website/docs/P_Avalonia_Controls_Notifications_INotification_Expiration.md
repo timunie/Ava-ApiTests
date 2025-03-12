@@ -12,7 +12,7 @@ Gets the expiration time of the notification after which it will automatically c
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-TimeSpan Expiration \{ get; }
+TimeSpan Expiration { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Expiration : TimeSpan with get
 #### Reference
 <a href="T_Avalonia_Controls_Notifications_INotification">INotification Interface</a>  
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
+

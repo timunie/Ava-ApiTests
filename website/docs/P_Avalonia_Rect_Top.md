@@ -12,7 +12,7 @@ Gets the top position.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Top \{ get; }
+public double Top { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Top : float with get
 #### Reference
 <a href="T_Avalonia_Rect">Rect Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

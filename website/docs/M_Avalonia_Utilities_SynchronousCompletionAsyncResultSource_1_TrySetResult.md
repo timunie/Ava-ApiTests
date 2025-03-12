@@ -32,7 +32,7 @@ member TrySetResult :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/SynchronousCompletionAsyncResult.cs#L100" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/SynchronousCompletionAsyncResult.cs#L101" title="View the source code">View Source</a>
 
 
 
@@ -45,3 +45,4 @@ member TrySetResult :
 #### Reference
 <a href="T_Avalonia_Utilities_SynchronousCompletionAsyncResultSource_1">SynchronousCompletionAsyncResultSource(T) Class</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

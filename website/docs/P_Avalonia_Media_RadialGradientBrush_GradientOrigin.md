@@ -12,7 +12,7 @@ Gets or sets the location of the two-dimensional focal point that defines the be
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RelativePoint GradientOrigin \{ get; set; }
+public RelativePoint GradientOrigin { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override GradientOrigin : RelativePoint with get, set
 #### Reference
 <a href="T_Avalonia_Media_RadialGradientBrush">RadialGradientBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

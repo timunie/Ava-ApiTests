@@ -12,16 +12,19 @@ Defines the interface for easing classes.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IEasing
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IEasing
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IEasing = interface end
 ```
 </TabItem>
@@ -46,3 +49,4 @@ type IEasing = interface end
 
 #### Reference
 <a href="N_Avalonia_Animation_Easings">Avalonia.Animation.Easings Namespace</a>  
+

@@ -90,3 +90,4 @@ type LinuxFramebufferPlatformOptions = class end
 
 #### Reference
 <a href="N_Avalonia_LinuxFramebuffer">Avalonia.LinuxFramebuffer Namespace</a>  
+

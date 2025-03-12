@@ -12,7 +12,7 @@ Gets or sets a brush used to paint the text.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IBrush? Foreground \{ get; set; }
+public IBrush? Foreground { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Foreground : IBrush with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Presenters_ContentPresenter">ContentPresenter Class</a>  
 <a href="N_Avalonia_Controls_Presenters">Avalonia.Controls.Presenters Namespace</a>  
+

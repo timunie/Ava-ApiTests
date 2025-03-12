@@ -12,7 +12,7 @@ Gets the current <a href="T_Avalonia_Media_TextFormatting_TextFormatter">TextFor
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static TextFormatter Current \{ get; }
+public static TextFormatter Current { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ static member Current : TextFormatter with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextFormatter.cs#L14" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextFormatter.cs#L15" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ static member Current : TextFormatter with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextFormatter">TextFormatter Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

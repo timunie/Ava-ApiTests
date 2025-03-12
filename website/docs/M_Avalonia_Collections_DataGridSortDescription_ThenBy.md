@@ -34,7 +34,7 @@ override ThenBy :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridSortDescription.cs#L24" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridSortDescription.cs#L25" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ override ThenBy :
 #### Reference
 <a href="T_Avalonia_Collections_DataGridSortDescription">DataGridSortDescription Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

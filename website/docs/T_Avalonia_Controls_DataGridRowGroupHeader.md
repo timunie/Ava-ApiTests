@@ -10,17 +10,38 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_ExpanderButton", typeof(ToggleButton))]
+[TemplatePartAttribute("PART_IndentSpacer", typeof(Control))]
+[TemplatePartAttribute("PART_ItemCountElement", typeof(TextBlock))]
+[TemplatePartAttribute("PART_PropertyNameElement", typeof(TextBlock))]
+[TemplatePartAttribute("PART_Root", typeof(Panel))]
+[TemplatePartAttribute("PART_RowHeader", typeof(DataGridRowHeader))]
+[PseudoClassesAttribute(new string[] { ... })]
 public class DataGridRowGroupHeader : TemplatedControl
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_ExpanderButton", GetType(ToggleButton))>
+<TemplatePartAttribute("PART_IndentSpacer", GetType(Control))>
+<TemplatePartAttribute("PART_ItemCountElement", GetType(TextBlock))>
+<TemplatePartAttribute("PART_PropertyNameElement", GetType(TextBlock))>
+<TemplatePartAttribute("PART_Root", GetType(Panel))>
+<TemplatePartAttribute("PART_RowHeader", GetType(DataGridRowHeader))>
+<PseudoClassesAttribute(New String() { ... })>
 Public Class DataGridRowGroupHeader
 	Inherits TemplatedControl
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_ExpanderButton", typeof(ToggleButton))>]
+[<TemplatePartAttribute("PART_IndentSpacer", typeof(Control))>]
+[<TemplatePartAttribute("PART_ItemCountElement", typeof(TextBlock))>]
+[<TemplatePartAttribute("PART_PropertyNameElement", typeof(TextBlock))>]
+[<TemplatePartAttribute("PART_Root", typeof(Panel))>]
+[<TemplatePartAttribute("PART_RowHeader", typeof(DataGridRowHeader))>]
+[<PseudoClassesAttribute(new string[] { ... })>]
 type DataGridRowGroupHeader = 
     class
         inherit TemplatedControl
@@ -1062,10 +1083,6 @@ type DataGridRowGroupHeader =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1160,3 +1177,4 @@ type DataGridRowGroupHeader =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

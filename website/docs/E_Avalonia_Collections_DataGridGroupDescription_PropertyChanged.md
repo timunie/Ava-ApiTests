@@ -43,3 +43,4 @@ override PropertyChanged : IEvent<PropertyChangedEventHandler,
 #### Reference
 <a href="T_Avalonia_Collections_DataGridGroupDescription">DataGridGroupDescription Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

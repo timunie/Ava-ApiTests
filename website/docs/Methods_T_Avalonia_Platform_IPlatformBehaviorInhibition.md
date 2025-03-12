@@ -17,3 +17,4 @@
 #### Reference
 <a href="T_Avalonia_Platform_IPlatformBehaviorInhibition">IPlatformBehaviorInhibition Interface</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

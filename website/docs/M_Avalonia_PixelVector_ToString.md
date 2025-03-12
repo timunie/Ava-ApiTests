@@ -30,7 +30,7 @@ override ToString : unit -> string
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelVector.cs#L174" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelVector.cs#L175" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ The string representation of the point.
 #### Reference
 <a href="T_Avalonia_PixelVector">PixelVector Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

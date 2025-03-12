@@ -32,7 +32,7 @@ member Unregister :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaProperty.cs#L230" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaProperty.cs#L231" title="View the source code">View Source</a>
 
 
 
@@ -45,3 +45,4 @@ member Unregister :
 #### Reference
 <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

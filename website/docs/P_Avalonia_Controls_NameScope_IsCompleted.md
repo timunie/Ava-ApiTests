@@ -12,7 +12,7 @@ Returns whether further registrations are allowed on the scope
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsCompleted \{ get; }
+public bool IsCompleted { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ override IsCompleted : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_NameScope">NameScope Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

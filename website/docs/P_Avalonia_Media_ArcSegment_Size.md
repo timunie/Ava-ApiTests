@@ -12,7 +12,7 @@ Gets or sets the size.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Size Size \{ get; set; }
+public Size Size { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The size.
 #### Reference
 <a href="T_Avalonia_Media_ArcSegment">ArcSegment Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

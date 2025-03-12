@@ -34,7 +34,7 @@ member WithY :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rect.cs#L549" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rect.cs#L550" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The new <a href="T_Avalonia_Rect">Rect</a>.
 #### Reference
 <a href="T_Avalonia_Rect">Rect Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

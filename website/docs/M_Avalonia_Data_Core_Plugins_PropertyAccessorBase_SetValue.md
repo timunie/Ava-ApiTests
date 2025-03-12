@@ -58,3 +58,4 @@ True if the property was set; false if the property could not be set.
 #### Reference
 <a href="T_Avalonia_Data_Core_Plugins_PropertyAccessorBase">PropertyAccessorBase Class</a>  
 <a href="N_Avalonia_Data_Core_Plugins">Avalonia.Data.Core.Plugins Namespace</a>  
+

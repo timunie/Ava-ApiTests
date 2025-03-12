@@ -12,7 +12,7 @@ Gets or sets a method to call the initialize the windowing subsystem.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Action? RenderingSubsystemInitializer \{ get; }
+public Action? RenderingSubsystemInitializer { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member RenderingSubsystemInitializer : Action with get
 #### Reference
 <a href="T_Avalonia_AppBuilder">AppBuilder Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

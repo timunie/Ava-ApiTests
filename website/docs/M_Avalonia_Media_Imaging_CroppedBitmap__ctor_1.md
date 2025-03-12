@@ -51,3 +51,4 @@ new :
 <a href="T_Avalonia_Media_Imaging_CroppedBitmap">CroppedBitmap Class</a>  
 <a href="Overload_Avalonia_Media_Imaging_CroppedBitmap__ctor">CroppedBitmap Overload</a>  
 <a href="N_Avalonia_Media_Imaging">Avalonia.Media.Imaging Namespace</a>  
+

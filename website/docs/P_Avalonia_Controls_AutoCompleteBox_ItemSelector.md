@@ -12,7 +12,7 @@ Gets or sets the custom method that combines the user-entered text and one of th
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public AutoCompleteSelector<Object>? ItemSelector \{ get; set; }
+public AutoCompleteSelector<Object>? ItemSelector { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The custom method that combines the user-entered text and one of the items speci
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

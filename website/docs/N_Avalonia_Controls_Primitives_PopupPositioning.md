@@ -11,41 +11,21 @@
 <td><a href="T_Avalonia_Controls_Primitives_PopupPositioning_CustomPopupPlacement">CustomPopupPlacement</a></td>
 <td>Defines custom placement parameters for a <a href="T_Avalonia_Controls_Primitives_PopupPositioning_CustomPopupPlacementCallback">CustomPopupPlacementCallback</a> callback.</td>
 </tr>
-<tr>
-<td><a href="T_Avalonia_Controls_Primitives_PopupPositioning_ManagedPopupPositioner">ManagedPopupPositioner</a></td>
-<td>An <a href="T_Avalonia_Controls_Primitives_PopupPositioning_IPopupPositioner">IPopupPositioner</a> implementation for platforms on which a popup can be arbitrarily positioned.</td>
-</tr>
-<tr>
-<td><a href="T_Avalonia_Controls_Primitives_PopupPositioning_ManagedPopupPositionerPopupImplHelper">ManagedPopupPositionerPopupImplHelper</a></td>
-<td>This class is used to simplify integration of IPopupImpl implementations with popup positioner</td>
-</tr>
-<tr>
-<td><a href="T_Avalonia_Controls_Primitives_PopupPositioning_ManagedPopupPositionerScreenInfo">ManagedPopupPositionerScreenInfo</a></td>
-<td> </td>
-</tr>
-<tr>
-<td><a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupPositionRequest">PopupPositionRequest</a></td>
-<td> </td>
-</tr>
 </table>
 
 ## Structures
 <table>
 <tr>
 <td><a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupPositionerParameters">PopupPositionerParameters</a></td>
-<td>Provides positioning parameters to <a href="T_Avalonia_Controls_Primitives_PopupPositioning_IPopupPositioner">IPopupPositioner</a>.</td>
+<td>Provides positioning parameters to <a href="T_Avalonia_Controls_Primitives_PopupPositioning_IPopupPositioner">IPopupPositioner</a>.<br /><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 </table>
 
 ## Interfaces
 <table>
 <tr>
-<td><a href="T_Avalonia_Controls_Primitives_PopupPositioning_IManagedPopupPositionerPopup">IManagedPopupPositionerPopup</a></td>
-<td> </td>
-</tr>
-<tr>
 <td><a href="T_Avalonia_Controls_Primitives_PopupPositioning_IPopupPositioner">IPopupPositioner</a></td>
-<td>Positions an <a href="T_Avalonia_Controls_Primitives_IPopupHost">IPopupHost</a>.</td>
+<td>Positions an <a href="T_Avalonia_Controls_Primitives_IPopupHost">IPopupHost</a>.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 </table>
 
@@ -54,10 +34,6 @@
 <tr>
 <td><a href="T_Avalonia_Controls_Primitives_PopupPositioning_CustomPopupPlacementCallback">CustomPopupPlacementCallback</a></td>
 <td>Represents a method that provides custom positioning for a <a href="T_Avalonia_Controls_Primitives_Popup">Popup</a> control.</td>
-</tr>
-<tr>
-<td><a href="T_Avalonia_Controls_Primitives_PopupPositioning_ManagedPopupPositionerPopupImplHelper_MoveResizeDelegate">ManagedPopupPositionerPopupImplHelper.MoveResizeDelegate</a></td>
-<td> </td>
 </tr>
 </table>
 

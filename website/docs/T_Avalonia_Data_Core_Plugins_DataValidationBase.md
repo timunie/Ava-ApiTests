@@ -131,3 +131,4 @@ Data validators are <a href="T_Avalonia_Data_Core_Plugins_IPropertyAccessor">IPr
 
 #### Reference
 <a href="N_Avalonia_Data_Core_Plugins">Avalonia.Data.Core.Plugins Namespace</a>  
+

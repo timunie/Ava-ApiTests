@@ -12,7 +12,7 @@ The string used to represent Alt on the appropriate platform. Defaults to "Alt".
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string Alt \{ get; }
+public string Alt { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Alt : string with get
 #### Reference
 <a href="T_Avalonia_Input_Platform_KeyGestureFormatInfo">KeyGestureFormatInfo Class</a>  
 <a href="N_Avalonia_Input_Platform">Avalonia.Input.Platform Namespace</a>  
+

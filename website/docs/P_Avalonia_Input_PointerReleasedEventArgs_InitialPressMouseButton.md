@@ -12,7 +12,7 @@ Gets the mouse button that triggered the corresponding PointerPressed event
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public MouseButton InitialPressMouseButton \{ get; }
+public MouseButton InitialPressMouseButton { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member InitialPressMouseButton : MouseButton with get
 #### Reference
 <a href="T_Avalonia_Input_PointerReleasedEventArgs">PointerReleasedEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

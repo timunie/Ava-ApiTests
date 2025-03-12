@@ -37,7 +37,7 @@ static let inline (<>)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridClipboard.cs#L134" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridClipboard.cs#L135" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ True iff clipboardCellContent1 and clipboardCellContent2 are NOT equal.
 #### Reference
 <a href="T_Avalonia_Controls_DataGridClipboardCellContent">DataGridClipboardCellContent Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -32,7 +32,7 @@ static member Main :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.DesignerSupport/Remote/RemoteDesignerEntryPoint.cs#L170" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.DesignerSupport/Remote/RemoteDesignerEntryPoint.cs#L171" title="View the source code">View Source</a>
 
 
 
@@ -45,3 +45,4 @@ static member Main :
 #### Reference
 <a href="T_Avalonia_DesignerSupport_Remote_RemoteDesignerEntryPoint">RemoteDesignerEntryPoint Class</a>  
 <a href="N_Avalonia_DesignerSupport_Remote">Avalonia.DesignerSupport.Remote Namespace</a>  
+

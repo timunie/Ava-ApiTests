@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int BitsPerPixel \{ get; }
+public int BitsPerPixel { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -28,7 +28,7 @@ member BitsPerPixel : int with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/PixelFormat.cs#L32" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/PixelFormat.cs#L33" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ member BitsPerPixel : int with get
 #### Reference
 <a href="T_Avalonia_Platform_PixelFormat">PixelFormat Structure</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

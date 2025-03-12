@@ -12,7 +12,7 @@ The current input pane bounds.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Rect OccludedRect \{ get; }
+Rect OccludedRect { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract OccludedRect : Rect with get
 #### Reference
 <a href="T_Avalonia_Controls_Platform_IInputPane">IInputPane Interface</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

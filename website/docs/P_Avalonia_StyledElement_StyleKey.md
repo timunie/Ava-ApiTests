@@ -12,7 +12,7 @@ Gets the type by which the element is styled.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Type StyleKey \{ get; }
+public Type StyleKey { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ Usually controls are styled by their own type, but there are instances where you
 #### Reference
 <a href="T_Avalonia_StyledElement">StyledElement Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

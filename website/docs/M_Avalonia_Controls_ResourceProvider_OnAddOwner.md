@@ -36,7 +36,7 @@ override OnAddOwner :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/ResourceProvider.cs#L57" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/ResourceProvider.cs#L58" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnAddOwner :
 #### Reference
 <a href="T_Avalonia_Controls_ResourceProvider">ResourceProvider Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

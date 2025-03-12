@@ -12,7 +12,7 @@ Gets or sets the minimized/maximized state of the window.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public WindowState WindowState \{ get; set; }
+public WindowState WindowState { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member WindowState : WindowState with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Window">Window Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

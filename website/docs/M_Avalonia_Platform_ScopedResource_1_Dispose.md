@@ -30,7 +30,7 @@ override Dispose : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/IScopedResource.cs#L25" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/IScopedResource.cs#L26" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ override Dispose : unit -> unit
 #### Reference
 <a href="T_Avalonia_Platform_ScopedResource_1">ScopedResource(T) Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

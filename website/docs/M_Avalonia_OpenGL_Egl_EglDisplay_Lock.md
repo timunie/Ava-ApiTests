@@ -27,7 +27,7 @@ member Lock : unit -> IDisposable
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Egl/EglDisplay.cs#L167" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Egl/EglDisplay.cs#L168" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ member Lock : unit -> IDisposable
 #### Reference
 <a href="T_Avalonia_OpenGL_Egl_EglDisplay">EglDisplay Class</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

@@ -77,3 +77,4 @@
 #### Reference
 <a href="T_Avalonia_Logging_LogArea">LogArea Class</a>  
 <a href="N_Avalonia_Logging">Avalonia.Logging Namespace</a>  
+

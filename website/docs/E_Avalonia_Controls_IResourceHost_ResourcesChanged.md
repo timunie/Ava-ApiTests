@@ -43,3 +43,4 @@ abstract ResourcesChanged : IEvent<EventHandler<ResourcesChangedEventArgs>,
 #### Reference
 <a href="T_Avalonia_Controls_IResourceHost">IResourceHost Interface</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

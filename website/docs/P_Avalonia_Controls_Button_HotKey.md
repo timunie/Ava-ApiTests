@@ -12,7 +12,7 @@ Gets or sets an <a href="T_Avalonia_Input_KeyGesture">KeyGesture</a> associated 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public KeyGesture? HotKey \{ get; set; }
+public KeyGesture? HotKey { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member HotKey : KeyGesture with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Button">Button Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

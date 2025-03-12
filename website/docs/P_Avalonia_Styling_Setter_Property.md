@@ -12,7 +12,7 @@ Gets or sets the property to set.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public AvaloniaProperty? Property \{ get; set; }
+public AvaloniaProperty? Property { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -40,7 +40,7 @@ override Property : AvaloniaProperty with get, set
 <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>
 
 #### Implements
-<a href="P_Avalonia_Animation_IAnimationSetter_Property">IAnimationSetter.Property</a>  
+IAnimationSetter.Property  
 
 
 ## See Also
@@ -49,3 +49,4 @@ override Property : AvaloniaProperty with get, set
 #### Reference
 <a href="T_Avalonia_Styling_Setter">Setter Class</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

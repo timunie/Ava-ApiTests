@@ -12,7 +12,7 @@ Gets or sets the value of the selected item, obtained using <a href="P_Avalonia_
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? SelectedValue \{ get; set; }
+public Object? SelectedValue { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member SelectedValue : Object with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

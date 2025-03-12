@@ -48,7 +48,7 @@ override OpenAndGetAssembly :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/StandardAssetLoader.cs#L86" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/StandardAssetLoader.cs#L87" title="View the source code">View Source</a>
 
 
 
@@ -77,3 +77,4 @@ The stream containing the resource contents together with the assembly.
 #### Reference
 <a href="T_Avalonia_Platform_StandardAssetLoader">StandardAssetLoader Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

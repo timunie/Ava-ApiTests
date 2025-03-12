@@ -10,11 +10,13 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AttributeUsageAttribute(AttributeTargets.Class|AttributeTargets.Struct|AttributeTargets.Constructor|AttributeTargets.Method|AttributeTargets.Property|AttributeTargets.Field|AttributeTargets.Interface)]
 public sealed class PrivateApiAttribute : Attribute
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AttributeUsageAttribute(AttributeTargets.Class Or AttributeTargets.Struct Or AttributeTargets.Constructor Or AttributeTargets.Method Or AttributeTargets.Property Or AttributeTargets.Field Or AttributeTargets.Interface)>
 Public NotInheritable Class PrivateApiAttribute
 	Inherits Attribute
 ```
@@ -22,6 +24,7 @@ Public NotInheritable Class PrivateApiAttribute
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<AttributeUsageAttribute(AttributeTargets.Class|AttributeTargets.Struct|AttributeTargets.Constructor|AttributeTargets.Method|AttributeTargets.Property|AttributeTargets.Field|AttributeTargets.Interface)>]
 type PrivateApiAttribute = 
     class
         inherit Attribute
@@ -89,3 +92,4 @@ type PrivateApiAttribute =
 
 #### Reference
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

@@ -46,7 +46,7 @@ override CubicBezierTo :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/StreamGeometryContext.cs#L128" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/StreamGeometryContext.cs#L129" title="View the source code">View Source</a>
 
 
 
@@ -64,3 +64,4 @@ override CubicBezierTo :
 <a href="T_Avalonia_Media_StreamGeometryContext">StreamGeometryContext Class</a>  
 <a href="Overload_Avalonia_Media_StreamGeometryContext_CubicBezierTo">CubicBezierTo Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

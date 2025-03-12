@@ -12,16 +12,19 @@ Untyped interface to <a href="T_Avalonia_DirectPropertyMetadata_1">DirectPropert
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IDirectPropertyMetadata
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IDirectPropertyMetadata
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IDirectPropertyMetadata = interface end
 ```
 </TabItem>
@@ -50,3 +53,4 @@ type IDirectPropertyMetadata = interface end
 
 #### Reference
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

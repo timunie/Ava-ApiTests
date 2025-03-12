@@ -101,3 +101,4 @@ type GestureRecognizerCollection =
 
 #### Reference
 <a href="N_Avalonia_Input_GestureRecognizers">Avalonia.Input.GestureRecognizers Namespace</a>  
+

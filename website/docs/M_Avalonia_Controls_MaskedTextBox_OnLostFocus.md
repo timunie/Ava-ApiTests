@@ -34,7 +34,7 @@ override OnLostFocus :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/MaskedTextBox.cs#L285" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/MaskedTextBox.cs#L286" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override OnLostFocus :
 #### Reference
 <a href="T_Avalonia_Controls_MaskedTextBox">MaskedTextBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

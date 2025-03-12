@@ -80,3 +80,4 @@ type ScrollPatternIdentifiers = class end
 
 #### Reference
 <a href="N_Avalonia_Automation">Avalonia.Automation Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the number of columns that the user cannot scroll horizontally.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int FrozenColumnCount \{ get; set; }
+public int FrozenColumnCount { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member FrozenColumnCount : int with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGrid">DataGrid Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

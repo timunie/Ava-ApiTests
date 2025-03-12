@@ -12,7 +12,7 @@ Gets the rectangle of the source image that will be displayed.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-RelativeRect SourceRect \{ get; }
+RelativeRect SourceRect { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract SourceRect : RelativeRect with get
 #### Reference
 <a href="T_Avalonia_Media_ITileBrush">ITileBrush Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

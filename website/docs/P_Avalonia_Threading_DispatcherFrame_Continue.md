@@ -12,7 +12,7 @@ Indicates that this dispatcher frame should exit.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool Continue \{ get; set; }
+public bool Continue { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -31,7 +31,7 @@ member Continue : bool with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherFrame.cs#L59" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherFrame.cs#L63" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ member Continue : bool with get, set
 #### Reference
 <a href="T_Avalonia_Threading_DispatcherFrame">DispatcherFrame Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

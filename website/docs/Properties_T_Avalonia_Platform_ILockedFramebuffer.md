@@ -33,3 +33,4 @@
 #### Reference
 <a href="T_Avalonia_Platform_ILockedFramebuffer">ILockedFramebuffer Interface</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

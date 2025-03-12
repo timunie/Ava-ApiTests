@@ -12,7 +12,7 @@ List of extensions in GLOB format. I.e. "*.png" or "*.*".
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IReadOnlyList<string>? Patterns \{ get; set; }
+public IReadOnlyList<string>? Patterns { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Patterns : IReadOnlyList<string> with get, set
 #### Reference
 <a href="T_Avalonia_Platform_Storage_FilePickerFileType">FilePickerFileType Class</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

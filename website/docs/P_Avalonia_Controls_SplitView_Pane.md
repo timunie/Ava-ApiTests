@@ -12,11 +12,13 @@ Gets or sets the Pane for the SplitView
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? Pane \{ get; set; }
+[DependsOnAttribute("PaneTemplate")]
+public Object? Pane { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<DependsOnAttribute("PaneTemplate")>
 Public Property Pane As Object
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property Pane As Object
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<DependsOnAttribute("PaneTemplate")>]
 member Pane : Object with get, set
 ```
 </TabItem>
@@ -44,3 +47,4 @@ member Pane : Object with get, set
 #### Reference
 <a href="T_Avalonia_Controls_SplitView">SplitView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

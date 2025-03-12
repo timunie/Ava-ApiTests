@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the <a href="T_Avalonia_Controls_ButtonS
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool AllowSpin \{ get; set; }
+public bool AllowSpin { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member AllowSpin : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ButtonSpinner">ButtonSpinner Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

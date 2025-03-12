@@ -12,7 +12,7 @@ Gets or sets the data template used to display the header content of the control
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IDataTemplate PaneTemplate \{ get; set; }
+public IDataTemplate PaneTemplate { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member PaneTemplate : IDataTemplate with get, set
 #### Reference
 <a href="T_Avalonia_Controls_SplitView">SplitView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

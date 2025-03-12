@@ -12,7 +12,7 @@ Gets the Track part of the <a href="T_Avalonia_Controls_Slider">Slider</a>.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected Track? Track \{ get; }
+protected Track? Track { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Track : Track with get
 #### Reference
 <a href="T_Avalonia_Controls_Slider">Slider Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

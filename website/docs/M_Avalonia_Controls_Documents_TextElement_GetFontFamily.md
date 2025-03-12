@@ -34,7 +34,7 @@ static member GetFontFamily :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Documents/TextElement.cs#L158" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Documents/TextElement.cs#L159" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The font family.
 #### Reference
 <a href="T_Avalonia_Controls_Documents_TextElement">TextElement Class</a>  
 <a href="N_Avalonia_Controls_Documents">Avalonia.Controls.Documents Namespace</a>  
+

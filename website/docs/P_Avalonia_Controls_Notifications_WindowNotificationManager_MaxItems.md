@@ -12,7 +12,7 @@ Defines the maximum number of notifications visible at once.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int MaxItems \{ get; set; }
+public int MaxItems { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member MaxItems : int with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Notifications_WindowNotificationManager">WindowNotificationManager Class</a>  
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
+

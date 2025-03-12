@@ -37,7 +37,7 @@ static let inline (=)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelRect.cs#L137" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelRect.cs#L138" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ True if the rects are equal; otherwise false.
 #### Reference
 <a href="T_Avalonia_PixelRect">PixelRect Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

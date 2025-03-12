@@ -37,7 +37,7 @@ static member GetMinMax :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/MathUtilities.cs#L352" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/MathUtilities.cs#L353" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ A tuple containing the minimum and maximum of the two specified numbers.
 #### Reference
 <a href="T_Avalonia_Utilities_MathUtilities">MathUtilities Class</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

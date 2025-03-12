@@ -20,7 +20,7 @@ For example, when pressing the key located at the `Z` position on standard US En
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? KeySymbol \{ get; init; }
+public string? KeySymbol { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -52,3 +52,4 @@ member KeySymbol : string with get, set
 #### Reference
 <a href="T_Avalonia_Input_KeyEventArgs">KeyEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

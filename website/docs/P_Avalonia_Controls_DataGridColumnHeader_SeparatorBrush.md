@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IBrush SeparatorBrush \{ get; set; }
+public IBrush SeparatorBrush { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member SeparatorBrush : IBrush with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGridColumnHeader">DataGridColumnHeader Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets a value that indicates which key modifiers were active at the time that the
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public KeyModifiers KeyModifiers \{ get; }
+public KeyModifiers KeyModifiers { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member KeyModifiers : KeyModifiers with get
 #### Reference
 <a href="T_Avalonia_Input_PointerEventArgs">PointerEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

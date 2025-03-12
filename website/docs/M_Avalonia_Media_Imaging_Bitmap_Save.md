@@ -48,7 +48,7 @@ override Save :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Imaging/Bitmap.cs#L174" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Imaging/Bitmap.cs#L175" title="View the source code">View Source</a>
 
 
 
@@ -62,3 +62,4 @@ override Save :
 <a href="T_Avalonia_Media_Imaging_Bitmap">Bitmap Class</a>  
 <a href="Overload_Avalonia_Media_Imaging_Bitmap_Save">Save Overload</a>  
 <a href="N_Avalonia_Media_Imaging">Avalonia.Media.Imaging Namespace</a>  
+

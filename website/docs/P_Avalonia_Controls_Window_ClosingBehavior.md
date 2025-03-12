@@ -12,7 +12,7 @@ Gets or sets a value indicating how the <a href="E_Avalonia_Controls_Window_Clos
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public WindowClosingBehavior ClosingBehavior \{ get; set; }
+public WindowClosingBehavior ClosingBehavior { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ClosingBehavior : WindowClosingBehavior with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Window">Window Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

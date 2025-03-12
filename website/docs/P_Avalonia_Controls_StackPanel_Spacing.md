@@ -12,7 +12,7 @@ Gets or sets the size of the spacing to place between child controls.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Spacing \{ get; set; }
+public double Spacing { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Spacing : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_StackPanel">StackPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

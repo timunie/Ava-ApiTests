@@ -36,7 +36,7 @@ override OnApplyTemplate :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridRow.cs#L564" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridRow.cs#L565" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnApplyTemplate :
 #### Reference
 <a href="T_Avalonia_Controls_DataGridRow">DataGridRow Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

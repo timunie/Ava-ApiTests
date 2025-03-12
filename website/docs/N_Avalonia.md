@@ -40,14 +40,6 @@
 <td>Exception signifying an internal logic error in Avalonia.</td>
 </tr>
 <tr>
-<td><a href="T_Avalonia_AvaloniaLocator">AvaloniaLocator</a></td>
-<td> </td>
-</tr>
-<tr>
-<td><a href="T_Avalonia_AvaloniaLocator_RegistrationHelper_1">AvaloniaLocator.RegistrationHelper(TService)</a></td>
-<td> </td>
-</tr>
-<tr>
 <td><a href="T_Avalonia_AvaloniaNativePlatformExtensions">AvaloniaNativePlatformExtensions</a></td>
 <td> </td>
 </tr>
@@ -126,10 +118,6 @@
 <tr>
 <td><a href="T_Avalonia_iOSPlatformOptions">iOSPlatformOptions</a></td>
 <td>iOS backend options.</td>
-</tr>
-<tr>
-<td><a href="T_Avalonia_LocatorExtensions">LocatorExtensions</a></td>
-<td> </td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_LoggingExtensions">LoggingExtensions</a></td>
@@ -292,12 +280,8 @@
 ## Interfaces
 <table>
 <tr>
-<td><a href="T_Avalonia_IAvaloniaDependencyResolver">IAvaloniaDependencyResolver</a></td>
-<td> </td>
-</tr>
-<tr>
 <td><a href="T_Avalonia_IDataContextProvider">IDataContextProvider</a></td>
-<td>Defines an element with a data context that can be used for binding.</td>
+<td>Defines an element with a data context that can be used for binding.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_IDescription">IDescription</a></td>
@@ -305,7 +289,7 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_IDirectPropertyMetadata">IDirectPropertyMetadata</a></td>
-<td>Untyped interface to <a href="T_Avalonia_DirectPropertyMetadata_1">DirectPropertyMetadata(TValue)</a></td>
+<td>Untyped interface to <a href="T_Avalonia_DirectPropertyMetadata_1">DirectPropertyMetadata(TValue)</a><br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_INamed">INamed</a></td>
@@ -313,7 +297,7 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_IStyledPropertyMetadata">IStyledPropertyMetadata</a></td>
-<td>Untyped interface to <a href="T_Avalonia_StyledPropertyMetadata_1">StyledPropertyMetadata(TValue)</a></td>
+<td>Untyped interface to <a href="T_Avalonia_StyledPropertyMetadata_1">StyledPropertyMetadata(TValue)</a><br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 </table>
 

@@ -36,7 +36,7 @@ static member Attach :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Mixins/SelectableMixin.cs#L42" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Mixins/SelectableMixin.cs#L43" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ static member Attach :
 #### Reference
 <a href="T_Avalonia_Controls_Mixins_SelectableMixin">SelectableMixin Class</a>  
 <a href="N_Avalonia_Controls_Mixins">Avalonia.Controls.Mixins Namespace</a>  
+

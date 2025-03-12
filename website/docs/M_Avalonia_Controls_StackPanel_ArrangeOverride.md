@@ -36,7 +36,7 @@ override ArrangeOverride :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/StackPanel.cs#L305" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/StackPanel.cs#L306" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ override ArrangeOverride :
 #### Reference
 <a href="T_Avalonia_Controls_StackPanel">StackPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

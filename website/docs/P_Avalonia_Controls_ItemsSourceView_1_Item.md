@@ -14,7 +14,7 @@ Retrieves the item at the specified index.
 ```csharp
 public T this[
 	int index
-] \{ get; }
+] { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -56,3 +56,4 @@ The item.
 #### Reference
 <a href="T_Avalonia_Controls_ItemsSourceView_1">ItemsSourceView(T) Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

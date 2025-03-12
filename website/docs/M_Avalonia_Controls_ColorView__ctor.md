@@ -29,7 +29,7 @@ new : unit -> ColorView
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/ColorView/ColorView.cs#L27" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/ColorView/ColorView.cs#L32" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ new : unit -> ColorView
 #### Reference
 <a href="T_Avalonia_Controls_ColorView">ColorView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

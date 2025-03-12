@@ -37,7 +37,7 @@ static let inline (=)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Matrix.cs#L190" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Matrix.cs#L191" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ True if the matrices are equal; False otherwise.
 #### Reference
 <a href="T_Avalonia_Matrix">Matrix Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

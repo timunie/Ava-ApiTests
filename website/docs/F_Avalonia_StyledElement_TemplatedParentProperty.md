@@ -42,3 +42,4 @@ static val TemplatedParentProperty: DirectProperty<StyledElement, AvaloniaObject
 #### Reference
 <a href="T_Avalonia_StyledElement">StyledElement Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

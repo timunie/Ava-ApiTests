@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public CompositionVisualCollection Children \{ get; }
+public CompositionVisualCollection Children { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Children : CompositionVisualCollection with get
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_CompositionContainerVisual">CompositionContainerVisual Class</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

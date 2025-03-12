@@ -35,7 +35,7 @@ member GetAttribLocation :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/obj/Debug/net8.0/DevGenerators/Generator.GetProcAddressInitializationGenerator/globalAvalonia.OpenGL.GlInterface.cs#L311" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/obj/Release/net8.0/DevGenerators/Generator.GetProcAddressInitializationGenerator/globalAvalonia.OpenGL.GlInterface.cs#L312" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ member GetAttribLocation :
 #### Reference
 <a href="T_Avalonia_OpenGL_GlInterface">GlInterface Class</a>  
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

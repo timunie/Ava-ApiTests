@@ -39,3 +39,4 @@ new : unit -> VirtualizingCarouselPanel
 #### Reference
 <a href="T_Avalonia_Controls_VirtualizingCarouselPanel">VirtualizingCarouselPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

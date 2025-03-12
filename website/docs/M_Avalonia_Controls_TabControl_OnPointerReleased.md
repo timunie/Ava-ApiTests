@@ -34,7 +34,7 @@ override OnPointerReleased :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TabControl.cs#L288" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TabControl.cs#L289" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override OnPointerReleased :
 #### Reference
 <a href="T_Avalonia_Controls_TabControl">TabControl Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

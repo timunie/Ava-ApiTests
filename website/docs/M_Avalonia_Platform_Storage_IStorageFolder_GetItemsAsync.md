@@ -43,3 +43,4 @@ When this method completes successfully, it returns a list of the files and fold
 #### Reference
 <a href="T_Avalonia_Platform_Storage_IStorageFolder">IStorageFolder Interface</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

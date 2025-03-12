@@ -38,14 +38,6 @@ type FontManager = class end
 
 
 
-## Constructors
-<table>
-<tr>
-<td><a href="M_Avalonia_Media_FontManager__ctor">FontManager(IFontManagerImpl)</a></td>
-<td>Initializes a new instance of the FontManager class</td>
-</tr>
-</table>
-
 ## Properties
 <table>
 <tr>
@@ -119,3 +111,4 @@ type FontManager = class end
 
 #### Reference
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

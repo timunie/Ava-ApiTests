@@ -37,7 +37,7 @@ static let inline (=)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/Optional.cs#L131" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/Optional.cs#L132" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ True if the values are equal; otherwise false.
 #### Reference
 <a href="T_Avalonia_Data_Optional_1">Optional(T) Structure</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

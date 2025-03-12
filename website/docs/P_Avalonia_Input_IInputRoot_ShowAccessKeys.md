@@ -12,7 +12,7 @@ Gets or sets a value indicating whether access keys are shown in the window.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool ShowAccessKeys \{ get; set; }
+bool ShowAccessKeys { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ abstract ShowAccessKeys : bool with get, set
 #### Reference
 <a href="T_Avalonia_Input_IInputRoot">IInputRoot Interface</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

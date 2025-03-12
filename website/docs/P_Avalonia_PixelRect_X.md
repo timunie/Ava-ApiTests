@@ -12,7 +12,7 @@ Gets the X position.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int X \{ get; }
+public int X { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member X : int with get
 #### Reference
 <a href="T_Avalonia_PixelRect">PixelRect Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

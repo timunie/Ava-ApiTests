@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Threading_AvaloniaSynchronizationContext">AvaloniaSynchronizationContext Class</a>  
 <a href="Overload_Avalonia_Threading_AvaloniaSynchronizationContext__ctor">AvaloniaSynchronizationContext Overload</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

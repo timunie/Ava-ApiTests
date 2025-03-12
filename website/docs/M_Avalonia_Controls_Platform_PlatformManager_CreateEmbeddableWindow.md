@@ -27,12 +27,12 @@ static member CreateEmbeddableWindow : unit -> IWindowImpl
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Platform/PlatformManager.cs#L35" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Platform/PlatformManager.cs#L36" title="View the source code">View Source</a>
 
 
 
 #### Return Value
-<a href="T_Avalonia_Platform_IWindowImpl">IWindowImpl</a>
+IWindowImpl
 
 ## See Also
 
@@ -40,3 +40,4 @@ static member CreateEmbeddableWindow : unit -> IWindowImpl
 #### Reference
 <a href="T_Avalonia_Controls_Platform_PlatformManager">PlatformManager Class</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

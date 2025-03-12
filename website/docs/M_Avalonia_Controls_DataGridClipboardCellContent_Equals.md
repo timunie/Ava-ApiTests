@@ -36,7 +36,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridClipboard.cs#L96" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridClipboard.cs#L97" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ True iff this and data are equal
 #### Reference
 <a href="T_Avalonia_Controls_DataGridClipboardCellContent">DataGridClipboardCellContent Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

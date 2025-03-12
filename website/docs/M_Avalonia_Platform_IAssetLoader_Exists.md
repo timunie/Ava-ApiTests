@@ -58,3 +58,4 @@ True if the asset could be found; otherwise false.
 #### Reference
 <a href="T_Avalonia_Platform_IAssetLoader">IAssetLoader Interface</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

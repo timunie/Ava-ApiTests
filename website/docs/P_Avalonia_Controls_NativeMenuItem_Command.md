@@ -12,7 +12,7 @@ Gets or sets the command associated with the menu item.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ICommand? Command \{ get; set; }
+public ICommand? Command { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Command : ICommand with get, set
 #### Reference
 <a href="T_Avalonia_Controls_NativeMenuItem">NativeMenuItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

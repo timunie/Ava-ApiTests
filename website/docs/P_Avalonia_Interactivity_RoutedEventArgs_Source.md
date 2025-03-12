@@ -12,7 +12,7 @@ Gets or sets the source object that raised the routed event.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? Source \{ get; set; }
+public Object? Source { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Source : Object with get, set
 #### Reference
 <a href="T_Avalonia_Interactivity_RoutedEventArgs">RoutedEventArgs Class</a>  
 <a href="N_Avalonia_Interactivity">Avalonia.Interactivity Namespace</a>  
+

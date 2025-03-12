@@ -12,7 +12,7 @@ Gets the content that was transitioned from.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? From \{ get; }
+public Object? From { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member From : Object with get
 #### Reference
 <a href="T_Avalonia_Controls_TransitionCompletedEventArgs">TransitionCompletedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

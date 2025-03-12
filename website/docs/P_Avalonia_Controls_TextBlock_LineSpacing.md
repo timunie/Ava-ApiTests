@@ -12,7 +12,7 @@ Gets or sets the extra distance of each line to the next line.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double LineSpacing \{ get; set; }
+public double LineSpacing { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member LineSpacing : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TextBlock">TextBlock Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

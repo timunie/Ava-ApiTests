@@ -30,7 +30,7 @@ override Clear : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/AvaloniaDictionary.cs#L121" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/AvaloniaDictionary.cs#L122" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ override Clear : unit -> unit
 #### Reference
 <a href="T_Avalonia_Collections_AvaloniaDictionary_2">AvaloniaDictionary(TKey, TValue) Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

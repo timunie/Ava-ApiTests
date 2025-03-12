@@ -40,3 +40,4 @@ new : unit -> ImageBrush
 <a href="T_Avalonia_Media_ImageBrush">ImageBrush Class</a>  
 <a href="Overload_Avalonia_Media_ImageBrush__ctor">ImageBrush Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -37,7 +37,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/SplitResult.cs#L8" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/SplitResult.cs#L9" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_SplitResult_1">SplitResult(T) Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

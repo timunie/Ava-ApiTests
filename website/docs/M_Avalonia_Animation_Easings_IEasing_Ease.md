@@ -50,3 +50,4 @@ abstract Ease :
 #### Reference
 <a href="T_Avalonia_Animation_Easings_IEasing">IEasing Interface</a>  
 <a href="N_Avalonia_Animation_Easings">Avalonia.Animation.Easings Namespace</a>  
+

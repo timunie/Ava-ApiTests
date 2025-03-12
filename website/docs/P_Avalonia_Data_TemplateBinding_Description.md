@@ -12,7 +12,7 @@ Gets a description of the binding expression.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public override string Description \{ get; }
+public override string Description { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -50,3 +50,4 @@ The description of the object.
 #### Reference
 <a href="T_Avalonia_Data_TemplateBinding">TemplateBinding Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

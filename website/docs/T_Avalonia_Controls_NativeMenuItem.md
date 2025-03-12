@@ -39,7 +39,7 @@ type NativeMenuItem =
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a>  →  <a href="T_Avalonia_Controls_NativeMenuItemBase">NativeMenuItemBase</a>  →  NativeMenuItem</td></tr>
 <tr><td><strong>Derived</strong></td><td><a href="T_Avalonia_Controls_NativeMenuItemSeparator">Avalonia.Controls.NativeMenuItemSeparator</a></td></tr>
-<tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_INativeMenuItemExporterEventsImplBridge">INativeMenuItemExporterEventsImplBridge</a></td></tr>
+<tr><td><strong>Implements</strong></td><td>INativeMenuItemExporterEventsImplBridge</td></tr>
 </table>
 
 
@@ -429,3 +429,4 @@ type NativeMenuItem =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

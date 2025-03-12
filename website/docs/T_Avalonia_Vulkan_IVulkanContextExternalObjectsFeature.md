@@ -10,16 +10,19 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface IVulkanContextExternalObjectsFeature
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface IVulkanContextExternalObjectsFeature
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type IVulkanContextExternalObjectsFeature = interface end
 ```
 </TabItem>
@@ -72,3 +75,4 @@ type IVulkanContextExternalObjectsFeature = interface end
 
 #### Reference
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

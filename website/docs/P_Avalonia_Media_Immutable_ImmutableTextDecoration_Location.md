@@ -12,7 +12,7 @@ Gets or sets the location.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TextDecorationLocation Location \{ get; }
+public TextDecorationLocation Location { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The location.
 #### Reference
 <a href="T_Avalonia_Media_Immutable_ImmutableTextDecoration">ImmutableTextDecoration Class</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

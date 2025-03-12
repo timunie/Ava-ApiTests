@@ -1,7 +1,7 @@
 # Transitions Class
 
 
-A collection of <a href="T_Avalonia_Animation_ITransition">ITransition</a> definitions.
+A collection of ITransition definitions.
 
 
 
@@ -37,7 +37,7 @@ type Transitions =
 <a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/Transitions.cs" title="View the source code">View Source</a>
 
 <table>
-<tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList</a>(<a href="T_Avalonia_Animation_ITransition">ITransition</a>)  →  Transitions</td></tr>
+<tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList</a>(ITransition)  →  Transitions</td></tr>
 </table>
 
 
@@ -179,3 +179,4 @@ type Transitions =
 
 #### Reference
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

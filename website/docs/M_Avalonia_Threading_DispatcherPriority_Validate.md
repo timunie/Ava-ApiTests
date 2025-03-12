@@ -35,7 +35,7 @@ static member Validate :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherPriority.cs#L171" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherPriority.cs#L172" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ static member Validate :
 #### Reference
 <a href="T_Avalonia_Threading_DispatcherPriority">DispatcherPriority Structure</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

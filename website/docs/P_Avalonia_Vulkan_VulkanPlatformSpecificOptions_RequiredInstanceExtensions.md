@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IList<string> RequiredInstanceExtensions \{ get; set; }
+public IList<string> RequiredInstanceExtensions { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member RequiredInstanceExtensions : IList<string> with get, set
 #### Reference
 <a href="T_Avalonia_Vulkan_VulkanPlatformSpecificOptions">VulkanPlatformSpecificOptions Class</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

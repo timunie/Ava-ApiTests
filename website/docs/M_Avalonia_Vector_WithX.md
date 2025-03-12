@@ -34,7 +34,7 @@ member WithX :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Vector.cs#L207" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Vector.cs#L208" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The new vector.
 #### Reference
 <a href="T_Avalonia_Vector">Vector Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

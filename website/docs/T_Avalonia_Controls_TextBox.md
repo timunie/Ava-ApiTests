@@ -12,17 +12,26 @@ Represents a control that can be used to display or edit unformatted text.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_TextPresenter", typeof(TextPresenter), IsRequired = true)]
+[TemplatePartAttribute("PART_ScrollViewer", typeof(ScrollViewer))]
+[PseudoClassesAttribute(new string[] { ... })]
 public class TextBox : TemplatedControl
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_TextPresenter", GetType(TextPresenter), IsRequired := true)>
+<TemplatePartAttribute("PART_ScrollViewer", GetType(ScrollViewer))>
+<PseudoClassesAttribute(New String() { ... })>
 Public Class TextBox
 	Inherits TemplatedControl
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_TextPresenter", typeof(TextPresenter), IsRequired = true)>]
+[<TemplatePartAttribute("PART_ScrollViewer", typeof(ScrollViewer))>]
+[<PseudoClassesAttribute(new string[] { ... })>]
 type TextBox = 
     class
         inherit TemplatedControl
@@ -1409,10 +1418,6 @@ type TextBox =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1507,3 +1512,4 @@ type TextBox =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

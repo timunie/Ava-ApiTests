@@ -1,4 +1,4 @@
-# Equals(Screen) Method
+# Equals Method
 
 
 Indicates whether the current object is equal to another object of the same type.
@@ -56,5 +56,5 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 
 #### Reference
 <a href="T_Avalonia_Platform_Screen">Screen Class</a>  
-<a href="Overload_Avalonia_Platform_Screen_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

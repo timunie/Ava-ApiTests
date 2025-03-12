@@ -29,7 +29,7 @@ member Reverse : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/ShapedBuffer.cs#L68" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/ShapedBuffer.cs#L69" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ member Reverse : unit -> unit
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_ShapedBuffer">ShapedBuffer Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

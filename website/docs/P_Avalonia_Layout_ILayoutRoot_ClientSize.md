@@ -12,7 +12,7 @@ The size available to lay out the controls.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Size ClientSize \{ get; }
+Size ClientSize { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract ClientSize : Size with get
 #### Reference
 <a href="T_Avalonia_Layout_ILayoutRoot">ILayoutRoot Interface</a>  
 <a href="N_Avalonia_Layout">Avalonia.Layout Namespace</a>  
+

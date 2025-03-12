@@ -12,7 +12,7 @@ Gets or sets the text that is displayed by the <a href="T_Avalonia_Controls_Cale
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? Text \{ get; set; }
+public string? Text { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -57,3 +57,4 @@ The text displayed by the <a href="T_Avalonia_Controls_CalendarDatePicker">Calen
 #### Reference
 <a href="T_Avalonia_Controls_CalendarDatePicker">CalendarDatePicker Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

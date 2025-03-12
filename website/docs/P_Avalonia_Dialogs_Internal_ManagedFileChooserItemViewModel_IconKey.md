@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string IconKey \{ get; }
+public string IconKey { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -28,7 +28,7 @@ member IconKey : string with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Dialogs/Internal/ManagedFileChooserItemViewModel.cs#L53" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Dialogs/Internal/ManagedFileChooserItemViewModel.cs#L54" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ member IconKey : string with get
 #### Reference
 <a href="T_Avalonia_Dialogs_Internal_ManagedFileChooserItemViewModel">ManagedFileChooserItemViewModel Class</a>  
 <a href="N_Avalonia_Dialogs_Internal">Avalonia.Dialogs.Internal Namespace</a>  
+

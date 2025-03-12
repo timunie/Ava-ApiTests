@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td><a href="M_Avalonia_AvaloniaObjectExtensions_Bind">Bind(AvaloniaObject, AvaloniaProperty, IBinding, Object)</a></td>
-<td>Binds a property on an <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a> to an <a href="T_Avalonia_Data_IBinding">IBinding</a>.<br />Obsolete.</td>
+<td>Binds a property on an <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a> to an <a href="T_Avalonia_Data_IBinding">IBinding</a>.<br /><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 <tr>
 <td><a href="M_Avalonia_AvaloniaObjectExtensions_Bind__1_1">Bind(T)(AvaloniaObject, AvaloniaProperty(T), IObservable(T), BindingPriority)</a></td>
@@ -23,3 +23,4 @@
 #### Reference
 <a href="T_Avalonia_AvaloniaObjectExtensions">AvaloniaObjectExtensions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

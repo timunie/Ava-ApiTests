@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool Handled \{ get; set; }
+public bool Handled { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member Handled : bool with get, set
 #### Reference
 <a href="T_Avalonia_Android_AndroidBackRequestedEventArgs">AndroidBackRequestedEventArgs Class</a>  
 <a href="N_Avalonia_Android">Avalonia.Android Namespace</a>  
+

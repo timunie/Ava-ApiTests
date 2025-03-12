@@ -12,7 +12,7 @@ TickBar parent's orientation.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Orientation Orientation \{ get; set; }
+public Orientation Orientation { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Orientation : Orientation with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TickBar">TickBar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

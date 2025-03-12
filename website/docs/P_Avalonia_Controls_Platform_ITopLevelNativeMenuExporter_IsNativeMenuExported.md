@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool IsNativeMenuExported \{ get; }
+bool IsNativeMenuExported { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ abstract IsNativeMenuExported : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_Platform_ITopLevelNativeMenuExporter">ITopLevelNativeMenuExporter Interface</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

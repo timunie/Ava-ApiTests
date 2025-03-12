@@ -48,3 +48,4 @@ abstract Close :
 <a href="T_Avalonia_Controls_Notifications_IManagedNotificationManager">IManagedNotificationManager Interface</a>  
 <a href="Overload_Avalonia_Controls_Notifications_IManagedNotificationManager_Close">Close Overload</a>  
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
+

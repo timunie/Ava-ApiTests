@@ -40,7 +40,7 @@ override ToString :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/KeyGesture.cs#L113" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/KeyGesture.cs#L114" title="View the source code">View Source</a>
 
 
 
@@ -70,3 +70,4 @@ The formatted string.
 <a href="T_Avalonia_Input_KeyGesture">KeyGesture Class</a>  
 <a href="Overload_Avalonia_Input_KeyGesture_ToString">ToString Overload</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

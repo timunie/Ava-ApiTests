@@ -36,7 +36,7 @@ override SetDefaultAssembly :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/StandardAssetLoader.cs#L41" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/StandardAssetLoader.cs#L42" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ override SetDefaultAssembly :
 #### Reference
 <a href="T_Avalonia_Platform_StandardAssetLoader">StandardAssetLoader Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

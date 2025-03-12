@@ -12,7 +12,7 @@ The text that is represended by this buffer.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ReadOnlyMemory<char> Text \{ get; }
+public ReadOnlyMemory<char> Text { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Text : ReadOnlyMemory<char> with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_ShapedBuffer">ShapedBuffer Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

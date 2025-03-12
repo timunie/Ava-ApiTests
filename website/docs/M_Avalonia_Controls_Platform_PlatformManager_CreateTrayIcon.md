@@ -32,7 +32,7 @@ static member CreateTrayIcon : unit -> ITrayIconImpl
 
 
 #### Return Value
-<a href="T_Avalonia_Platform_ITrayIconImpl">ITrayIconImpl</a>
+ITrayIconImpl
 
 ## See Also
 
@@ -40,3 +40,4 @@ static member CreateTrayIcon : unit -> ITrayIconImpl
 #### Reference
 <a href="T_Avalonia_Controls_Platform_PlatformManager">PlatformManager Class</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

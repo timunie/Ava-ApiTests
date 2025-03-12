@@ -12,7 +12,7 @@ Gets or sets the initial size of the DevTools window. The default value is 1280x
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Size Size \{ get; set; }
+public Size Size { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Size : Size with get, set
 #### Reference
 <a href="T_Avalonia_Diagnostics_DevToolsOptions">DevToolsOptions Class</a>  
 <a href="N_Avalonia_Diagnostics">Avalonia.Diagnostics Namespace</a>  
+

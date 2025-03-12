@@ -12,17 +12,29 @@ A control that lets the user select from a range of values by moving a Thumb con
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_DecreaseButton", typeof(Button))]
+[TemplatePartAttribute("PART_IncreaseButton", typeof(Button))]
+[TemplatePartAttribute("PART_Track", typeof(Track))]
+[PseudoClassesAttribute(new string[] { ... })]
 public class Slider : RangeBase
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_DecreaseButton", GetType(Button))>
+<TemplatePartAttribute("PART_IncreaseButton", GetType(Button))>
+<TemplatePartAttribute("PART_Track", GetType(Track))>
+<PseudoClassesAttribute(New String() { ... })>
 Public Class Slider
 	Inherits RangeBase
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_DecreaseButton", typeof(Button))>]
+[<TemplatePartAttribute("PART_IncreaseButton", typeof(Button))>]
+[<TemplatePartAttribute("PART_Track", typeof(Track))>]
+[<PseudoClassesAttribute(new string[] { ... })>]
 type Slider = 
     class
         inherit RangeBase
@@ -1113,10 +1125,6 @@ type Slider =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1211,3 +1219,4 @@ type Slider =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

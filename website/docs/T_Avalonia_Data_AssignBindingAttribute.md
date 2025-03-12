@@ -12,11 +12,13 @@ Signifies that a binding can be assigned to a property.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AttributeUsageAttribute(AttributeTargets.Property)]
 public sealed class AssignBindingAttribute : Attribute
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AttributeUsageAttribute(AttributeTargets.Property)>
 Public NotInheritable Class AssignBindingAttribute
 	Inherits Attribute
 ```
@@ -24,6 +26,7 @@ Public NotInheritable Class AssignBindingAttribute
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<AttributeUsageAttribute(AttributeTargets.Property)>]
 type AssignBindingAttribute = 
     class
         inherit Attribute
@@ -91,3 +94,4 @@ Usually in markup, when a binding is set for a property that property will be bo
 
 #### Reference
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets a value indicating whether keyboard focus is anywhere within the element or
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsKeyboardFocusWithin \{ get; }
+public bool IsKeyboardFocusWithin { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ override IsKeyboardFocusWithin : bool with get
 #### Reference
 <a href="T_Avalonia_Input_InputElement">InputElement Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

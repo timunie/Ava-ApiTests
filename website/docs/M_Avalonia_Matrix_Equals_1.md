@@ -54,3 +54,4 @@ True if the Object is equal to this matrix; False otherwise.
 <a href="T_Avalonia_Matrix">Matrix Structure</a>  
 <a href="Overload_Avalonia_Matrix_Equals">Equals Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

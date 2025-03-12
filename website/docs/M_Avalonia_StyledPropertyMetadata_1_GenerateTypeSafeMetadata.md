@@ -30,7 +30,7 @@ override GenerateTypeSafeMetadata : unit -> AvaloniaPropertyMetadata
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/StyledPropertyMetadata%601.cs#L69" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/StyledPropertyMetadata%601.cs#L70" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ override GenerateTypeSafeMetadata : unit -> AvaloniaPropertyMetadata
 #### Reference
 <a href="T_Avalonia_StyledPropertyMetadata_1">StyledPropertyMetadata(TValue) Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

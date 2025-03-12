@@ -12,7 +12,7 @@ The delay behavior of the key frame animation.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public AnimationDelayBehavior DelayBehavior \{ get; set; }
+public AnimationDelayBehavior DelayBehavior { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DelayBehavior : AnimationDelayBehavior with get, set
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_Animations_KeyFrameAnimation">KeyFrameAnimation Class</a>  
 <a href="N_Avalonia_Rendering_Composition_Animations">Avalonia.Rendering.Composition.Animations Namespace</a>  
+

@@ -12,17 +12,20 @@ Describes a Drive's properties.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public class MountedVolumeInfo : IEquatable<MountedVolumeInfo>
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Class MountedVolumeInfo
 	Implements IEquatable(Of MountedVolumeInfo)
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type MountedVolumeInfo = 
     class
         interface IEquatable<MountedVolumeInfo>
@@ -103,3 +106,4 @@ type MountedVolumeInfo =
 
 #### Reference
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

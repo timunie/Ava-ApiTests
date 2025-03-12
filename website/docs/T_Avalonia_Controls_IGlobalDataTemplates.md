@@ -12,17 +12,20 @@ Defines the application-global data templates.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IGlobalDataTemplates : IDataTemplateHost
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IGlobalDataTemplates
 	Inherits IDataTemplateHost
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IGlobalDataTemplates = 
     interface
         interface IDataTemplateHost
@@ -58,3 +61,4 @@ type IGlobalDataTemplates =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

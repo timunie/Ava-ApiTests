@@ -12,7 +12,7 @@ Gets or sets a value indicating how the indexes after <a href="P_Avalonia_Contro
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int ShiftDelta \{ get; set; }
+public int ShiftDelta { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ShiftDelta : int with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Selection_SelectionNodeBase_1_CollectionChangeState">SelectionNodeBase(T).CollectionChangeState Class</a>  
 <a href="N_Avalonia_Controls_Selection">Avalonia.Controls.Selection Namespace</a>  
+

@@ -39,3 +39,4 @@ member Freeze : unit -> unit
 #### Reference
 <a href="T_Avalonia_AvaloniaPropertyMetadata">AvaloniaPropertyMetadata Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

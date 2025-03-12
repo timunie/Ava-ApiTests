@@ -36,7 +36,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/IterationCount.cs#L121" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/IterationCount.cs#L122" title="View the source code">View Source</a>
 
 
 
@@ -58,3 +58,4 @@ True if the structures are equal, otherwise false.
 <a href="T_Avalonia_Animation_IterationCount">IterationCount Structure</a>  
 <a href="Overload_Avalonia_Animation_IterationCount_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

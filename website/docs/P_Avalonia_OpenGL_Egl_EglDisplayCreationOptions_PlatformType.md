@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int? PlatformType \{ get; set; }
+public int? PlatformType { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member PlatformType : Nullable<int> with get, set
 #### Reference
 <a href="T_Avalonia_OpenGL_Egl_EglDisplayCreationOptions">EglDisplayCreationOptions Class</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

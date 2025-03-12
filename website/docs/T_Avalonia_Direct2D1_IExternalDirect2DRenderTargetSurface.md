@@ -56,3 +56,4 @@ type IExternalDirect2DRenderTargetSurface = interface end
 
 #### Reference
 <a href="N_Avalonia_Direct2D1">Avalonia.Direct2D1 Namespace</a>  
+

@@ -36,7 +36,7 @@ override ArrangeOverride :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Presenters/ScrollContentPresenter.cs#L395" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Presenters/ScrollContentPresenter.cs#L396" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ The actual size used.
 #### Reference
 <a href="T_Avalonia_Controls_Presenters_ScrollContentPresenter">ScrollContentPresenter Class</a>  
 <a href="N_Avalonia_Controls_Presenters">Avalonia.Controls.Presenters Namespace</a>  
+

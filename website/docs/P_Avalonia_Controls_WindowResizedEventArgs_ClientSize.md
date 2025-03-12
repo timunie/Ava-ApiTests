@@ -12,7 +12,7 @@ Gets the new client size of the window in device-independent pixels.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Size ClientSize \{ get; }
+public Size ClientSize { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member ClientSize : Size with get
 #### Reference
 <a href="T_Avalonia_Controls_WindowResizedEventArgs">WindowResizedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

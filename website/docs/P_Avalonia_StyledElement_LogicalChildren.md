@@ -12,7 +12,7 @@ Gets the styled element's logical children.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected IAvaloniaList<ILogical> LogicalChildren \{ get; }
+protected IAvaloniaList<ILogical> LogicalChildren { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member LogicalChildren : IAvaloniaList<ILogical> with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/StyledElement.cs#L275" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/StyledElement.cs#L276" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member LogicalChildren : IAvaloniaList<ILogical> with get
 #### Reference
 <a href="T_Avalonia_StyledElement">StyledElement Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

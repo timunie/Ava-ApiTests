@@ -12,7 +12,7 @@ Provides a way to use a custom-implemented graphics context such as a custom ISk
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IPlatformGraphics? CustomPlatformGraphics \{ get; set; }
+public IPlatformGraphics? CustomPlatformGraphics { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member CustomPlatformGraphics : IPlatformGraphics with get, set
 #### Reference
 <a href="T_Avalonia_Win32PlatformOptions">Win32PlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

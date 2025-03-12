@@ -12,7 +12,7 @@ Gets the units in which the Thickness of the text decoration's <a href="P_Avalon
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TextDecorationUnit PenThicknessUnit \{ get; }
+public TextDecorationUnit PenThicknessUnit { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member PenThicknessUnit : TextDecorationUnit with get
 #### Reference
 <a href="T_Avalonia_Media_Immutable_ImmutableTextDecoration">ImmutableTextDecoration Class</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

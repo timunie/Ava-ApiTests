@@ -28,7 +28,7 @@ override Start : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.DesignerSupport/Remote/HtmlTransport/HtmlTransport.cs#L234" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.DesignerSupport/Remote/HtmlTransport/HtmlTransport.cs#L235" title="View the source code">View Source</a>
 
 
 
@@ -42,3 +42,4 @@ IAvaloniaRemoteTransportConnection.Start()
 #### Reference
 <a href="T_Avalonia_DesignerSupport_Remote_HtmlTransport_HtmlWebSocketTransport">HtmlWebSocketTransport Class</a>  
 <a href="N_Avalonia_DesignerSupport_Remote_HtmlTransport">Avalonia.DesignerSupport.Remote.HtmlTransport Namespace</a>  
+

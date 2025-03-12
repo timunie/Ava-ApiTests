@@ -12,7 +12,7 @@ Gets or sets the currently selected color in the HSV color model.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public HsvColor HsvColor \{ get; set; }
+public HsvColor HsvColor { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member HsvColor : HsvColor with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ColorView">ColorView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

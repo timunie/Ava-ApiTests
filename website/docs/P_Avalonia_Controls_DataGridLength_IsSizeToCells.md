@@ -12,7 +12,7 @@ Returns `true` if this instance is to size to the cells of a column or row.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsSizeToCells \{ get; }
+public bool IsSizeToCells { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member IsSizeToCells : bool with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridLength.cs#L199" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridLength.cs#L200" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member IsSizeToCells : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_DataGridLength">DataGridLength Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

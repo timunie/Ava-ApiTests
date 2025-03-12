@@ -42,7 +42,7 @@ override GenerateEditingElement :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridBoundColumn.cs#L99" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridBoundColumn.cs#L100" title="View the source code">View Source</a>
 
 
 
@@ -58,3 +58,4 @@ override GenerateEditingElement :
 #### Reference
 <a href="T_Avalonia_Controls_DataGridBoundColumn">DataGridBoundColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

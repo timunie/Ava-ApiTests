@@ -36,7 +36,7 @@ override OnAttachedToLogicalTree :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Button.cs#L247" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Button.cs#L248" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnAttachedToLogicalTree :
 #### Reference
 <a href="T_Avalonia_Controls_Button">Button Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

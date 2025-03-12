@@ -12,7 +12,7 @@ Gets the <a href="T_Avalonia_Interactivity_RoutedEventRegistry">RoutedEventRegis
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static RoutedEventRegistry Instance \{ get; }
+public static RoutedEventRegistry Instance { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member Instance : RoutedEventRegistry with get
 #### Reference
 <a href="T_Avalonia_Interactivity_RoutedEventRegistry">RoutedEventRegistry Class</a>  
 <a href="N_Avalonia_Interactivity">Avalonia.Interactivity Namespace</a>  
+

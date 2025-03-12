@@ -34,7 +34,7 @@ override OnPropertyChanged :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/GeometryGroup.cs#L89" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/GeometryGroup.cs#L90" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override OnPropertyChanged :
 #### Reference
 <a href="T_Avalonia_Media_GeometryGroup">GeometryGroup Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

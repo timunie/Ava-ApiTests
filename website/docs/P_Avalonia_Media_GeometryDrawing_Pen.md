@@ -12,7 +12,7 @@ Gets or sets the <a href="T_Avalonia_Media_IPen">IPen</a> used to stroke this <a
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IPen? Pen \{ get; set; }
+public IPen? Pen { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Pen : IPen with get, set
 #### Reference
 <a href="T_Avalonia_Media_GeometryDrawing">GeometryDrawing Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

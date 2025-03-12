@@ -45,3 +45,4 @@ member Add :
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_Animations_CompositionAnimationGroup">CompositionAnimationGroup Class</a>  
 <a href="N_Avalonia_Rendering_Composition_Animations">Avalonia.Rendering.Composition.Animations Namespace</a>  
+

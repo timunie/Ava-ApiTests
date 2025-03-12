@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IntPtr Handle \{ get; }
+public IntPtr Handle { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Handle : IntPtr with get
 #### Reference
 <a href="T_Avalonia_OpenGL_Egl_EglDisplay">EglDisplay Class</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

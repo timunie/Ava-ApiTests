@@ -12,7 +12,7 @@ Gets or sets the center point of the gradient.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RelativePoint Center \{ get; set; }
+public RelativePoint Center { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override Center : RelativePoint with get, set
 #### Reference
 <a href="T_Avalonia_Media_ConicGradientBrush">ConicGradientBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

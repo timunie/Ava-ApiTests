@@ -39,7 +39,7 @@ member NeedsContainer :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ItemsControl.cs#L523" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ItemsControl.cs#L524" title="View the source code">View Source</a>
 
 
 
@@ -59,3 +59,4 @@ true if *item* is of type *T*; otherwise false.
 #### Reference
 <a href="T_Avalonia_Controls_ItemsControl">ItemsControl Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

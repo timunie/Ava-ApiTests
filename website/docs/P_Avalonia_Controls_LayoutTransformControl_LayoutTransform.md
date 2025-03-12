@@ -12,7 +12,7 @@ Gets or sets a graphics transformation that should apply to this element when la
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ITransform? LayoutTransform \{ get; set; }
+public ITransform? LayoutTransform { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member LayoutTransform : ITransform with get, set
 #### Reference
 <a href="T_Avalonia_Controls_LayoutTransformControl">LayoutTransformControl Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets a value indicating whether the control's layout measure is valid.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsMeasureValid \{ get; }
+public bool IsMeasureValid { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IsMeasureValid : bool with get
 #### Reference
 <a href="T_Avalonia_Layout_Layoutable">Layoutable Class</a>  
 <a href="N_Avalonia_Layout">Avalonia.Layout Namespace</a>  
+

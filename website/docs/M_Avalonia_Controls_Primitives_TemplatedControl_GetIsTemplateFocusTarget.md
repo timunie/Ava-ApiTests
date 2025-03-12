@@ -34,7 +34,7 @@ static member GetIsTemplateFocusTarget :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/TemplatedControl.cs#L270" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/TemplatedControl.cs#L271" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The property value.
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

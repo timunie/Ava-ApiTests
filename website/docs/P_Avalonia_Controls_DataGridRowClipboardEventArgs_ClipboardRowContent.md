@@ -12,7 +12,7 @@ This list should be used to modify, add ot remove a cell content before it gets 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public List<DataGridClipboardCellContent> ClipboardRowContent \{ get; }
+public List<DataGridClipboardCellContent> ClipboardRowContent { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member ClipboardRowContent : List<DataGridClipboardCellContent> with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridClipboard.cs#L171" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridClipboard.cs#L172" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member ClipboardRowContent : List<DataGridClipboardCellContent> with get
 #### Reference
 <a href="T_Avalonia_Controls_DataGridRowClipboardEventArgs">DataGridRowClipboardEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets a value indicating whether this is a direct property.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsDirect \{ get; }
+public bool IsDirect { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IsDirect : bool with get
 #### Reference
 <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

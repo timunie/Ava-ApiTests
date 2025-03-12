@@ -10,17 +10,20 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface IGlyphTypeface : IDisposable
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface IGlyphTypeface
 	Inherits IDisposable
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type IGlyphTypeface = 
     interface
         interface IDisposable
@@ -112,3 +115,4 @@ type IGlyphTypeface =
 
 #### Reference
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

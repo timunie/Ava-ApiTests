@@ -12,7 +12,7 @@ Gets or sets the underlying <a href="T_Avalonia_Controls_Primitives_SelectingIte
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public SelectingItemsControl? SelectorControl \{ get; set; }
+public SelectingItemsControl? SelectorControl { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The underlying <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">Se
 #### Reference
 <a href="T_Avalonia_Controls_Utils_SelectingItemsControlSelectionAdapter">SelectingItemsControlSelectionAdapter Class</a>  
 <a href="N_Avalonia_Controls_Utils">Avalonia.Controls.Utils Namespace</a>  
+

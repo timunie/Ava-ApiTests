@@ -11,18 +11,21 @@
 <TabItem value="csharp" label="C#">
 ```csharp
 [TypeConverterAttribute(typeof(EffectConverter))]
+[NotClientImplementableAttribute]
 public interface IEffect
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
 <TypeConverterAttribute(GetType(EffectConverter))>
+<NotClientImplementableAttribute>
 Public Interface IEffect
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<TypeConverterAttribute(typeof(EffectConverter))>]
+[<NotClientImplementableAttribute>]
 type IEffect = interface end
 ```
 </TabItem>
@@ -39,3 +42,4 @@ type IEffect = interface end
 
 #### Reference
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

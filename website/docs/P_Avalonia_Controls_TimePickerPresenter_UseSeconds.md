@@ -12,7 +12,7 @@ Gets or sets the current clock identifier, either 12HourClock or 24HourClock
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool UseSeconds \{ get; set; }
+public bool UseSeconds { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member UseSeconds : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TimePickerPresenter">TimePickerPresenter Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

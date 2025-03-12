@@ -40,3 +40,4 @@ new : unit -> Rotate3DTransform
 <a href="T_Avalonia_Media_Rotate3DTransform">Rotate3DTransform Class</a>  
 <a href="Overload_Avalonia_Media_Rotate3DTransform__ctor">Rotate3DTransform Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

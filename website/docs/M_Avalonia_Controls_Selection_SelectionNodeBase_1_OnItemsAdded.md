@@ -40,7 +40,7 @@ override OnItemsAdded :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Selection/SelectionNodeBase.cs#L250" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Selection/SelectionNodeBase.cs#L251" title="View the source code">View Source</a>
 
 
 
@@ -57,3 +57,4 @@ A <a href="T_Avalonia_Controls_Selection_SelectionNodeBase_1_CollectionChangeSta
 #### Reference
 <a href="T_Avalonia_Controls_Selection_SelectionNodeBase_1">SelectionNodeBase(T) Class</a>  
 <a href="N_Avalonia_Controls_Selection">Avalonia.Controls.Selection Namespace</a>  
+

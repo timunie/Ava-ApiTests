@@ -12,7 +12,7 @@ Gets a value indicating whether the element is attached to a rooted logical tree
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool IsAttachedToLogicalTree \{ get; }
+bool IsAttachedToLogicalTree { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract IsAttachedToLogicalTree : bool with get
 #### Reference
 <a href="T_Avalonia_LogicalTree_ILogical">ILogical Interface</a>  
 <a href="N_Avalonia_LogicalTree">Avalonia.LogicalTree Namespace</a>  
+

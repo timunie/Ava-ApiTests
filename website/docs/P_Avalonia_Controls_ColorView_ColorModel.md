@@ -12,7 +12,7 @@ Gets or sets the active color model used by the slider.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ColorModel ColorModel \{ get; set; }
+public ColorModel ColorModel { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ColorModel : ColorModel with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ColorView">ColorView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

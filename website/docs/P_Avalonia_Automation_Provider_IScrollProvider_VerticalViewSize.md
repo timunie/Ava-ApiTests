@@ -12,7 +12,7 @@ Gets the vertical view size.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-double VerticalViewSize \{ get; }
+double VerticalViewSize { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract VerticalViewSize : float with get
 #### Reference
 <a href="T_Avalonia_Automation_Provider_IScrollProvider">IScrollProvider Interface</a>  
 <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider Namespace</a>  
+

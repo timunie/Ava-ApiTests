@@ -30,7 +30,7 @@ override GetHashCode : unit -> int
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FontFamily.cs#L213" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FontFamily.cs#L216" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 #### Reference
 <a href="T_Avalonia_Media_FontFamily">FontFamily Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

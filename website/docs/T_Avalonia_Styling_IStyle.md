@@ -12,17 +12,20 @@ Defines the interface for styles.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IStyle : IResourceNode
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IStyle
 	Inherits IResourceNode
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IStyle = 
     interface
         interface IResourceNode
@@ -66,3 +69,4 @@ type IStyle =
 
 #### Reference
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

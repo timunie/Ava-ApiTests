@@ -12,7 +12,7 @@ The ancestor type to be used in a lookup for the <a href="P_Avalonia_Metadata_In
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Type? AncestorType \{ get; set; }
+public Type? AncestorType { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member AncestorType : Type with get, set
 #### Reference
 <a href="T_Avalonia_Metadata_InheritDataTypeFromItemsAttribute">InheritDataTypeFromItemsAttribute Class</a>  
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

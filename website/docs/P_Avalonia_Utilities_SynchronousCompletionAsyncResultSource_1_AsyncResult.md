@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public SynchronousCompletionAsyncResult<T> AsyncResult \{ get; }
+public SynchronousCompletionAsyncResult<T> AsyncResult { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member AsyncResult : SynchronousCompletionAsyncResult<'T> with get
 #### Reference
 <a href="T_Avalonia_Utilities_SynchronousCompletionAsyncResultSource_1">SynchronousCompletionAsyncResultSource(T) Class</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

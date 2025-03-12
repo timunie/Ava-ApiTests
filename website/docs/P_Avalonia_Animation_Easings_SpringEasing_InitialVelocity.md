@@ -12,7 +12,7 @@ The spring initial velocity.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double InitialVelocity \{ get; set; }
+public double InitialVelocity { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member InitialVelocity : float with get, set
 #### Reference
 <a href="T_Avalonia_Animation_Easings_SpringEasing">SpringEasing Class</a>  
 <a href="N_Avalonia_Animation_Easings">Avalonia.Animation.Easings Namespace</a>  
+

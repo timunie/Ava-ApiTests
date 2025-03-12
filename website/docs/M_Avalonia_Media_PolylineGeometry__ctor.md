@@ -40,3 +40,4 @@ new : unit -> PolylineGeometry
 <a href="T_Avalonia_Media_PolylineGeometry">PolylineGeometry Class</a>  
 <a href="Overload_Avalonia_Media_PolylineGeometry__ctor">PolylineGeometry Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

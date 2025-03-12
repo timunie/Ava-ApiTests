@@ -32,7 +32,7 @@ member OnScroll :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/ScrollBar.cs#L500" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/ScrollBar.cs#L501" title="View the source code">View Source</a>
 
 
 
@@ -45,3 +45,4 @@ member OnScroll :
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_ScrollBar">ScrollBar Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

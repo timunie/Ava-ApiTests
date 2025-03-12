@@ -12,7 +12,7 @@ Gets or sets how the control's background is drawn relative to the control's bor
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public BackgroundSizing BackgroundSizing \{ get; set; }
+public BackgroundSizing BackgroundSizing { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member BackgroundSizing : BackgroundSizing with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

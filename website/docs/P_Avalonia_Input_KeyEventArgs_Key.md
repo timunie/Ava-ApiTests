@@ -22,7 +22,7 @@ For example, when pressing the key located at the `Z` position on standard US En
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Key Key \{ get; init; }
+public Key Key { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -58,3 +58,4 @@ member Key : Key with get, set
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
 <a href="P_Avalonia_Input_KeyEventArgs_PhysicalKey">PhysicalKey</a>  
 <a href="P_Avalonia_Input_KeyEventArgs_KeySymbol">KeySymbol</a>  
+

@@ -12,17 +12,32 @@ A date selection control that allows the user to select dates from a drop down c
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_Button", typeof(Button))]
+[TemplatePartAttribute("PART_Calendar", typeof(Calendar))]
+[TemplatePartAttribute("PART_Popup", typeof(Popup))]
+[TemplatePartAttribute("PART_TextBox", typeof(TextBox))]
+[PseudoClassesAttribute(new string[] { ... })]
 public class CalendarDatePicker : TemplatedControl
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_Button", GetType(Button))>
+<TemplatePartAttribute("PART_Calendar", GetType(Calendar))>
+<TemplatePartAttribute("PART_Popup", GetType(Popup))>
+<TemplatePartAttribute("PART_TextBox", GetType(TextBox))>
+<PseudoClassesAttribute(New String() { ... })>
 Public Class CalendarDatePicker
 	Inherits TemplatedControl
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_Button", typeof(Button))>]
+[<TemplatePartAttribute("PART_Calendar", typeof(Calendar))>]
+[<TemplatePartAttribute("PART_Popup", typeof(Popup))>]
+[<TemplatePartAttribute("PART_TextBox", typeof(TextBox))>]
+[<PseudoClassesAttribute(new string[] { ... })>]
 type CalendarDatePicker = 
     class
         inherit TemplatedControl
@@ -1168,10 +1183,6 @@ The control class extends <a href="T_Avalonia_Input_InputElement">InputElement</
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1266,3 +1277,4 @@ The control class extends <a href="T_Avalonia_Input_InputElement">InputElement</
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

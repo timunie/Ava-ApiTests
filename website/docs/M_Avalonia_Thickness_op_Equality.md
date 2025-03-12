@@ -37,7 +37,7 @@ static let inline (=)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Thickness.cs#L105" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Thickness.cs#L106" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ The equality.
 #### Reference
 <a href="T_Avalonia_Thickness">Thickness Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

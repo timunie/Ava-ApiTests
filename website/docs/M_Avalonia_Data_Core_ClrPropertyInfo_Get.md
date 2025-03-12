@@ -34,7 +34,7 @@ override Get :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/Core/ClrPropertyInfo.cs#L23" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/Core/ClrPropertyInfo.cs#L24" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ override Get :
 #### Reference
 <a href="T_Avalonia_Data_Core_ClrPropertyInfo">ClrPropertyInfo Class</a>  
 <a href="N_Avalonia_Data_Core">Avalonia.Data.Core Namespace</a>  
+

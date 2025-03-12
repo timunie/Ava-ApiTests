@@ -320,3 +320,4 @@ This class is analogous to DependencyObject in WPF.
 
 #### Reference
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

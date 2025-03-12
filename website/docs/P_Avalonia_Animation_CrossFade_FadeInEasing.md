@@ -12,7 +12,7 @@ Gets or sets element entrance easing.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Easing FadeInEasing \{ get; set; }
+public Easing FadeInEasing { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member FadeInEasing : Easing with get, set
 #### Reference
 <a href="T_Avalonia_Animation_CrossFade">CrossFade Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

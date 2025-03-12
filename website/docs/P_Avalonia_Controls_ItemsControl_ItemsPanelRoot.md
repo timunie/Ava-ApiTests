@@ -12,7 +12,7 @@ Gets the <a href="T_Avalonia_Controls_Panel">Panel</a> specified by <a href="P_A
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Panel? ItemsPanelRoot \{ get; }
+public Panel? ItemsPanelRoot { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member ItemsPanelRoot : Panel with get
 #### Reference
 <a href="T_Avalonia_Controls_ItemsControl">ItemsControl Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

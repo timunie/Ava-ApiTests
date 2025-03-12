@@ -37,7 +37,7 @@ static member Track :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/NameScopeLocator.cs#L15" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/NameScopeLocator.cs#L16" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ static member Track :
 #### Reference
 <a href="T_Avalonia_Controls_NameScopeLocator">NameScopeLocator Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets a value indicating whether the object has resources.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool HasResources \{ get; }
+bool HasResources { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract HasResources : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_IResourceNode">IResourceNode Interface</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

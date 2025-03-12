@@ -10,16 +10,19 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute("This interface will be removed in 12.0.")]
 public interface IApplicationPlatformEvents
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute("This interface will be removed in 12.0.")>
 Public Interface IApplicationPlatformEvents
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute("This interface will be removed in 12.0.")>]
 type IApplicationPlatformEvents = interface end
 ```
 </TabItem>
@@ -44,3 +47,4 @@ type IApplicationPlatformEvents = interface end
 
 #### Reference
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

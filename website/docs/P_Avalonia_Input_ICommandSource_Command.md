@@ -12,7 +12,7 @@ The command that will be executed when the class is "invoked." Classes that impl
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-ICommand? Command \{ get; }
+ICommand? Command { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Command : ICommand with get
 #### Reference
 <a href="T_Avalonia_Input_ICommandSource">ICommandSource Interface</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

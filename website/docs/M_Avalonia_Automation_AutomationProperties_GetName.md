@@ -34,7 +34,7 @@ static member GetName :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/AutomationProperties.cs#L456" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/AutomationProperties.cs#L457" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ static member GetName :
 #### Reference
 <a href="T_Avalonia_Automation_AutomationProperties">AutomationProperties Class</a>  
 <a href="N_Avalonia_Automation">Avalonia.Automation Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the generated column.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DataGridColumn Column \{ get; set; }
+public DataGridColumn Column { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Column : DataGridColumn with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGridAutoGeneratingColumnEventArgs">DataGridAutoGeneratingColumnEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

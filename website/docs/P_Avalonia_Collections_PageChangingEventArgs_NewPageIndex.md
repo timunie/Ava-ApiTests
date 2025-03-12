@@ -12,7 +12,7 @@ Gets the index of the requested page
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int NewPageIndex \{ get; }
+public int NewPageIndex { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member NewPageIndex : int with get
 #### Reference
 <a href="T_Avalonia_Collections_PageChangingEventArgs">PageChangingEventArgs Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

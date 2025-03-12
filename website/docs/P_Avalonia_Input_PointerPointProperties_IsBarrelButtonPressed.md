@@ -12,7 +12,7 @@ Gets a value that indicates whether the barrel button of the pen/stylus device i
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsBarrelButtonPressed \{
+public bool IsBarrelButtonPressed {
 	get;
  }
 ```
@@ -46,3 +46,4 @@ member IsBarrelButtonPressed : bool with
 #### Reference
 <a href="T_Avalonia_Input_PointerPointProperties">PointerPointProperties Structure</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

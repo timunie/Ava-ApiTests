@@ -40,7 +40,7 @@ override ArrangeChild :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Canvas.cs#L165" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Canvas.cs#L166" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ override ArrangeChild :
 #### Reference
 <a href="T_Avalonia_Controls_Canvas">Canvas Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

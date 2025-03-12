@@ -12,7 +12,7 @@ Gets or sets the background of the pane
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IBrush? PaneBackground \{ get; set; }
+public IBrush? PaneBackground { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member PaneBackground : IBrush with get, set
 #### Reference
 <a href="T_Avalonia_Controls_SplitView">SplitView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

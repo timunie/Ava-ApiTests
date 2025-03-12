@@ -12,7 +12,7 @@ The distance from the top of the first line to the baseline of the first line.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Baseline \{ get; }
+public double Baseline { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member Baseline : float with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L1281" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L1282" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member Baseline : float with get
 #### Reference
 <a href="T_Avalonia_Media_FormattedText">FormattedText Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

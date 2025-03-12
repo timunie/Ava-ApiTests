@@ -12,11 +12,13 @@ Gets or sets the transitions to be executed. Can be defined from XAML.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public List<IPageTransition> PageTransitions \{ get; set; }
+[ContentAttribute]
+public List<IPageTransition> PageTransitions { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public Property PageTransitions As List(Of IPageTransition)
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property PageTransitions As List(Of IPageTransition)
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member PageTransitions : List<IPageTransition> with get, set
 ```
 </TabItem>
@@ -44,3 +47,4 @@ member PageTransitions : List<IPageTransition> with get, set
 #### Reference
 <a href="T_Avalonia_Animation_CompositePageTransition">CompositePageTransition Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

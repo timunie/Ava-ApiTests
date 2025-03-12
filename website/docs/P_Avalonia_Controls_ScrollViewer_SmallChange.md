@@ -12,7 +12,7 @@ Gets the small (line) change value for the scroll viewer.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Size SmallChange \{ get; }
+public Size SmallChange { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member SmallChange : Size with get
 #### Reference
 <a href="T_Avalonia_Controls_ScrollViewer">ScrollViewer Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

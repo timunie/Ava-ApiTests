@@ -28,7 +28,7 @@ override ToString : unit -> string
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextTrailingTrimming.cs#L27" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextTrailingTrimming.cs#L28" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override ToString : unit -> string
 #### Reference
 <a href="T_Avalonia_Media_TextTrailingTrimming">TextTrailingTrimming Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -38,7 +38,7 @@ override CanConvertFrom :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/BrushConverter.cs#L13" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/BrushConverter.cs#L14" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ override CanConvertFrom :
 <a href="T_Avalonia_Media_BrushConverter">BrushConverter Class</a>  
 <a href="Overload_Avalonia_Media_BrushConverter_CanConvertFrom">CanConvertFrom Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

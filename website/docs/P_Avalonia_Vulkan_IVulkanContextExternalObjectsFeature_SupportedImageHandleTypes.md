@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IReadOnlyList<string> SupportedImageHandleTypes \{ get; }
+IReadOnlyList<string> SupportedImageHandleTypes { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ abstract SupportedImageHandleTypes : IReadOnlyList<string> with get
 #### Reference
 <a href="T_Avalonia_Vulkan_IVulkanContextExternalObjectsFeature">IVulkanContextExternalObjectsFeature Interface</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

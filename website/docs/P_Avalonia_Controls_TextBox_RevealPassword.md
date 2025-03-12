@@ -12,7 +12,7 @@ Gets or sets whether text masked by <a href="P_Avalonia_Controls_TextBox_Passwor
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool RevealPassword \{ get; set; }
+public bool RevealPassword { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member RevealPassword : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TextBox">TextBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

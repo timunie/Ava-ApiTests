@@ -34,7 +34,7 @@ static member Parse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelPoint.cs#L119" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelPoint.cs#L120" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The <a href="T_Avalonia_PixelPoint">PixelPoint</a>.
 #### Reference
 <a href="T_Avalonia_PixelPoint">PixelPoint Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

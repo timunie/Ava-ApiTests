@@ -12,7 +12,7 @@ Represents a contract for accessing global platform-specific settings.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IPlatformSettings? PlatformSettings \{ get; }
+public IPlatformSettings? PlatformSettings { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member PlatformSettings : IPlatformSettings with get
 #### Reference
 <a href="T_Avalonia_Application">Application Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

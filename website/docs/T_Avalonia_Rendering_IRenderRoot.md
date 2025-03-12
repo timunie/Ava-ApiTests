@@ -12,16 +12,19 @@ Represents the root of a renderable tree.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IRenderRoot
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IRenderRoot
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IRenderRoot = interface end
 ```
 </TabItem>
@@ -70,3 +73,4 @@ type IRenderRoot = interface end
 
 #### Reference
 <a href="N_Avalonia_Rendering">Avalonia.Rendering Namespace</a>  
+

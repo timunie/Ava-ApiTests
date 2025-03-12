@@ -12,7 +12,7 @@ Gets a value indicating whether <a href="P_Avalonia_Styling_IStyleHost_Styles">S
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool IsStylesInitialized \{ get; }
+bool IsStylesInitialized { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract IsStylesInitialized : bool with get
 #### Reference
 <a href="T_Avalonia_Styling_IStyleHost">IStyleHost Interface</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

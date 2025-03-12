@@ -12,7 +12,7 @@ Gets the old value of the range value property.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double OldValue \{ get; init; }
+public double OldValue { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member OldValue : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_RangeBaseValueChangedEventArgs">RangeBaseValueChangedEventArgs Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

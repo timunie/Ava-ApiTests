@@ -45,7 +45,7 @@ member AddClassHandler :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Interactivity/RoutedEvent.cs#L120" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Interactivity/RoutedEvent.cs#L129" title="View the source code">View Source</a>
 
 
 
@@ -65,3 +65,4 @@ member AddClassHandler :
 <a href="T_Avalonia_Interactivity_RoutedEvent_1">RoutedEvent(TEventArgs) Class</a>  
 <a href="Overload_Avalonia_Interactivity_RoutedEvent_1_AddClassHandler">AddClassHandler Overload</a>  
 <a href="N_Avalonia_Interactivity">Avalonia.Interactivity Namespace</a>  
+

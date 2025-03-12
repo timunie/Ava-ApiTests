@@ -43,3 +43,4 @@ The immutable clone.
 #### Reference
 <a href="T_Avalonia_Media_IMutableExperimentalAcrylicMaterial">IMutableExperimentalAcrylicMaterial Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the text that caused the <a href="E_Avalonia_Controls_CalendarDatePicker_Da
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string Text \{ get; }
+public string Text { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The text that caused the validation failure.
 #### Reference
 <a href="T_Avalonia_Controls_CalendarDatePickerDateValidationErrorEventArgs">CalendarDatePickerDateValidationErrorEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

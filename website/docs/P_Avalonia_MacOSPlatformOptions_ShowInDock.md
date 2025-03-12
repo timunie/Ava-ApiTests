@@ -12,7 +12,7 @@ Determines whether to show your application in the dock when it runs. The defaul
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool ShowInDock \{ get; set; }
+public bool ShowInDock { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ShowInDock : bool with get, set
 #### Reference
 <a href="T_Avalonia_MacOSPlatformOptions">MacOSPlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

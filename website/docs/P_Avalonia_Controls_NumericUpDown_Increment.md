@@ -12,7 +12,7 @@ Gets or sets the amount in which to increment the <a href="P_Avalonia_Controls_N
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public decimal Increment \{ get; set; }
+public decimal Increment { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Increment : decimal with get, set
 #### Reference
 <a href="T_Avalonia_Controls_NumericUpDown">NumericUpDown Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

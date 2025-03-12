@@ -12,7 +12,7 @@ Gets or sets the maximum width of columns in the <a href="T_Avalonia_Controls_Da
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double MaxColumnWidth \{ get; set; }
+public double MaxColumnWidth { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member MaxColumnWidth : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGrid">DataGrid Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

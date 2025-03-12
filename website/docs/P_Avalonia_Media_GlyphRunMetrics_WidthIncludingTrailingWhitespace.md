@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double WidthIncludingTrailingWhitespace \{ get; init; }
+public double WidthIncludingTrailingWhitespace { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member WidthIncludingTrailingWhitespace : float with get, set
 #### Reference
 <a href="T_Avalonia_Media_GlyphRunMetrics">GlyphRunMetrics Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

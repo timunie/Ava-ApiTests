@@ -34,7 +34,7 @@ member ItemFromContainer :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ItemsControl.cs#L291" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ItemsControl.cs#L292" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The contained item, or the container if it does not contain an item.
 #### Reference
 <a href="T_Avalonia_Controls_ItemsControl">ItemsControl Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

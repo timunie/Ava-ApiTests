@@ -39,3 +39,4 @@ new : unit -> NativeMenuItemSeparator
 #### Reference
 <a href="T_Avalonia_Controls_NativeMenuItemSeparator">NativeMenuItemSeparator Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

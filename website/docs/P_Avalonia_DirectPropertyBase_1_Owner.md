@@ -12,7 +12,7 @@ Gets the type that registered the property.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Type Owner \{ get; }
+public Type Owner { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ override Owner : Type with get
 #### Reference
 <a href="T_Avalonia_DirectPropertyBase_1">DirectPropertyBase(TValue) Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

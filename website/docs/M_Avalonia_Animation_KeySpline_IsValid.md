@@ -29,7 +29,7 @@ member IsValid : unit -> bool
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/KeySpline.cs#L187" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/KeySpline.cs#L188" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ true if the X values for this <a href="T_Avalonia_Animation_KeySpline">KeySpline
 #### Reference
 <a href="T_Avalonia_Animation_KeySpline">KeySpline Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

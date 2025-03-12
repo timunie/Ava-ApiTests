@@ -12,7 +12,7 @@ Gets the font metrics.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-FontMetrics Metrics \{ get; }
+FontMetrics Metrics { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The font metrics.
 #### Reference
 <a href="T_Avalonia_Media_IGlyphTypeface">IGlyphTypeface Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

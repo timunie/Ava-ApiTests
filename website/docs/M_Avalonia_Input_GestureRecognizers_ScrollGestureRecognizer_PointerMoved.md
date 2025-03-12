@@ -34,7 +34,7 @@ override PointerMoved :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/GestureRecognizers/ScrollGestureRecognizer.cs#L112" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/GestureRecognizers/ScrollGestureRecognizer.cs#L113" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override PointerMoved :
 #### Reference
 <a href="T_Avalonia_Input_GestureRecognizers_ScrollGestureRecognizer">ScrollGestureRecognizer Class</a>  
 <a href="N_Avalonia_Input_GestureRecognizers">Avalonia.Input.GestureRecognizers Namespace</a>  
+

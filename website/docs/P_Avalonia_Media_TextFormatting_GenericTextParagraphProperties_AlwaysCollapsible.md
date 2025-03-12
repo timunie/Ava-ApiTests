@@ -12,7 +12,7 @@ If true, the formatted line may always be collapsed. If false (the default), onl
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public override bool AlwaysCollapsible \{ get; }
+public override bool AlwaysCollapsible { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ override AlwaysCollapsible : bool with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_GenericTextParagraphProperties">GenericTextParagraphProperties Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

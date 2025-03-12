@@ -34,7 +34,7 @@ member SetTextDecorations :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L650" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L651" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ member SetTextDecorations :
 <a href="T_Avalonia_Media_FormattedText">FormattedText Class</a>  
 <a href="Overload_Avalonia_Media_FormattedText_SetTextDecorations">SetTextDecorations Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -36,7 +36,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/Cue.cs#L59" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/Cue.cs#L60" title="View the source code">View Source</a>
 
 
 
@@ -57,3 +57,4 @@ override Equals :
 #### Reference
 <a href="T_Avalonia_Animation_Cue">Cue Structure</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

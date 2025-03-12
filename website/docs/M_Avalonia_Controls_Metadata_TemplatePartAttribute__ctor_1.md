@@ -51,3 +51,4 @@ new :
 <a href="T_Avalonia_Controls_Metadata_TemplatePartAttribute">TemplatePartAttribute Class</a>  
 <a href="Overload_Avalonia_Controls_Metadata_TemplatePartAttribute__ctor">TemplatePartAttribute Overload</a>  
 <a href="N_Avalonia_Controls_Metadata">Avalonia.Controls.Metadata Namespace</a>  
+

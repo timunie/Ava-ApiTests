@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IEnumerable? Source \{ get; set; }
+public IEnumerable? Source { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member Source : IEnumerable with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Selection_SelectionModel_1">SelectionModel(T) Class</a>  
 <a href="N_Avalonia_Controls_Selection">Avalonia.Controls.Selection Namespace</a>  
+

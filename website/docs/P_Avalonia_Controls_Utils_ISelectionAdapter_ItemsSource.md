@@ -12,7 +12,7 @@ Gets or sets a collection that is used to generate content for the selection ada
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IEnumerable? ItemsSource \{ get; set; }
+IEnumerable? ItemsSource { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The collection that is used to generate content for the selection adapter.
 #### Reference
 <a href="T_Avalonia_Controls_Utils_ISelectionAdapter">ISelectionAdapter Interface</a>  
 <a href="N_Avalonia_Controls_Utils">Avalonia.Controls.Utils Namespace</a>  
+

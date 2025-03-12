@@ -12,7 +12,7 @@ Gets or sets the minimum number of characters required to be entered in the text
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int MinimumPrefixLength \{ get; set; }
+public int MinimumPrefixLength { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The minimum number of characters to be entered in the text box before the <a hre
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

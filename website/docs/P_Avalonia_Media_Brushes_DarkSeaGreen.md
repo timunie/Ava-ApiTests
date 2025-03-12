@@ -12,7 +12,7 @@ Gets an <a href="P_Avalonia_Media_Colors_DarkSeaGreen">DarkSeaGreen</a> colored 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static IImmutableSolidColorBrush DarkSeaGreen \{ get; }
+public static IImmutableSolidColorBrush DarkSeaGreen { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member DarkSeaGreen : IImmutableSolidColorBrush with get
 #### Reference
 <a href="T_Avalonia_Media_Brushes">Brushes Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

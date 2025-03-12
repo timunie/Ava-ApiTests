@@ -12,7 +12,7 @@ Gets the priority of the binding that produced the value.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public BindingPriority Priority \{ get; }
+public BindingPriority Priority { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The priority of the new value.
 #### Reference
 <a href="T_Avalonia_AvaloniaPropertyChangedEventArgs">AvaloniaPropertyChangedEventArgs Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

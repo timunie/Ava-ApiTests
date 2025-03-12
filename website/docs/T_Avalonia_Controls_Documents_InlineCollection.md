@@ -12,17 +12,20 @@ A collection of <a href="T_Avalonia_Controls_Documents_Inline">Inline</a>s.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[WhitespaceSignificantCollectionAttribute]
 public class InlineCollection : AvaloniaList<Inline>
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<WhitespaceSignificantCollectionAttribute>
 Public Class InlineCollection
 	Inherits AvaloniaList(Of Inline)
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<WhitespaceSignificantCollectionAttribute>]
 type InlineCollection = 
     class
         inherit AvaloniaList<Inline>
@@ -206,3 +209,4 @@ type InlineCollection =
 
 #### Reference
 <a href="N_Avalonia_Controls_Documents">Avalonia.Controls.Documents Namespace</a>  
+

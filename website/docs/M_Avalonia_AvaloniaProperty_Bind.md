@@ -29,7 +29,7 @@ member Bind : unit -> IndexerDescriptor
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaProperty.cs#L446" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaProperty.cs#L447" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ A <a href="T_Avalonia_Data_IndexerDescriptor">IndexerDescriptor</a>.The ! and ~ 
 #### Reference
 <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

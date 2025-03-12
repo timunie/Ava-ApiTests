@@ -12,7 +12,7 @@ Property for determining if the Copy command can be executed.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool CanCopy \{ get; }
+public bool CanCopy { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member CanCopy : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_SelectableTextBlock">SelectableTextBlock Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

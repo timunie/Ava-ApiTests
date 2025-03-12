@@ -12,7 +12,7 @@ The limit on the ratio of the miter length to half this pen's Thickness.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double MiterLimit \{ get; }
+public double MiterLimit { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ override MiterLimit : float with get
 #### Reference
 <a href="T_Avalonia_Media_Immutable_ImmutablePen">ImmutablePen Class</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

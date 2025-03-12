@@ -12,6 +12,7 @@ Gets the value of the RelativePanel.LeftOf XAML attached property for the target
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[ResolveByNameAttribute]
 public static Object GetLeftOf(
 	AvaloniaObject obj
 )
@@ -19,6 +20,7 @@ public static Object GetLeftOf(
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ResolveByNameAttribute>
 Public Shared Function GetLeftOf ( 
 	obj As AvaloniaObject
 ) As Object
@@ -26,6 +28,7 @@ Public Shared Function GetLeftOf (
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ResolveByNameAttribute>]
 static member GetLeftOf : 
         obj : AvaloniaObject -> Object 
 ```
@@ -34,7 +37,7 @@ static member GetLeftOf :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RelativePanel.AttachedProperties.cs#L491" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RelativePanel.AttachedProperties.cs#L492" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +54,4 @@ The RelativePanel.LeftOf XAML attached property value of the specified object. (
 #### Reference
 <a href="T_Avalonia_Controls_RelativePanel">RelativePanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

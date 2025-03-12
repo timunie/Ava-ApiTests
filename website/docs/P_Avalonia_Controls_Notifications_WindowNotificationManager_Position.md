@@ -12,7 +12,7 @@ Defines which corner of the screen notifications can be displayed in.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public NotificationPosition Position \{ get; set; }
+public NotificationPosition Position { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ member Position : NotificationPosition with get, set
 <a href="T_Avalonia_Controls_Notifications_WindowNotificationManager">WindowNotificationManager Class</a>  
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
 <a href="T_Avalonia_Controls_Notifications_NotificationPosition">NotificationPosition</a>  
+

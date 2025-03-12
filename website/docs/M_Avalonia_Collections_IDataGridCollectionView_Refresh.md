@@ -39,3 +39,4 @@ abstract Refresh : unit -> unit
 #### Reference
 <a href="T_Avalonia_Collections_IDataGridCollectionView">IDataGridCollectionView Interface</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

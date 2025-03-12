@@ -12,7 +12,7 @@ Gets the total number of shades for each color in this palette. Shades are usual
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-int ShadeCount \{ get; }
+int ShadeCount { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract ShadeCount : int with get
 #### Reference
 <a href="T_Avalonia_Controls_IColorPalette">IColorPalette Interface</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

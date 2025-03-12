@@ -12,7 +12,7 @@ Gets the length.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Value \{ get; }
+public double Value { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Value : float with get
 #### Reference
 <a href="T_Avalonia_Controls_GridLength">GridLength Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

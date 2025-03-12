@@ -44,3 +44,4 @@ type IGlPlatformSurface = interface end
 
 #### Reference
 <a href="N_Avalonia_OpenGL_Surfaces">Avalonia.OpenGL.Surfaces Namespace</a>  
+

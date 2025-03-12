@@ -12,7 +12,7 @@ Gets an instance of the <a href="T_Avalonia_LogicalTree_ChildIndexChangedEventAr
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static ChildIndexChangedEventArgs ChildIndexesReset \{ get; }
+public static ChildIndexChangedEventArgs ChildIndexesReset { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member ChildIndexesReset : ChildIndexChangedEventArgs with get
 #### Reference
 <a href="T_Avalonia_LogicalTree_ChildIndexChangedEventArgs">ChildIndexChangedEventArgs Class</a>  
 <a href="N_Avalonia_LogicalTree">Avalonia.LogicalTree Namespace</a>  
+

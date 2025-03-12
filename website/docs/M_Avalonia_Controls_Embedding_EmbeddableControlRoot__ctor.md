@@ -38,5 +38,5 @@ new : unit -> EmbeddableControlRoot
 
 #### Reference
 <a href="T_Avalonia_Controls_Embedding_EmbeddableControlRoot">EmbeddableControlRoot Class</a>  
-<a href="Overload_Avalonia_Controls_Embedding_EmbeddableControlRoot__ctor">EmbeddableControlRoot Overload</a>  
 <a href="N_Avalonia_Controls_Embedding">Avalonia.Controls.Embedding Namespace</a>  
+

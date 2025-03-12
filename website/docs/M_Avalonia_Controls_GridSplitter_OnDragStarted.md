@@ -34,7 +34,7 @@ override OnDragStarted :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/GridSplitter.cs#L382" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/GridSplitter.cs#L383" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override OnDragStarted :
 #### Reference
 <a href="T_Avalonia_Controls_GridSplitter">GridSplitter Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

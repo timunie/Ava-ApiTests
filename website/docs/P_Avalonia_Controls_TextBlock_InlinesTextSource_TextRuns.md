@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IReadOnlyList<TextRun> TextRuns \{ get; }
+public IReadOnlyList<TextRun> TextRuns { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member TextRuns : IReadOnlyList<TextRun> with get
 #### Reference
 <a href="T_Avalonia_Controls_TextBlock_InlinesTextSource">TextBlock.InlinesTextSource Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@
 ```csharp
 public IStyle this[
 	int index
-] \{ get; set; }
+] { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -56,3 +56,4 @@ override Item : IStyle with get, set
 <a href="T_Avalonia_Styling_Styles">Styles Class</a>  
 <a href="Overload_Avalonia_Styling_Styles_Item">Item Overload</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

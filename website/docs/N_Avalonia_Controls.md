@@ -781,23 +781,15 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_IGlobalDataTemplates">IGlobalDataTemplates</a></td>
-<td>Defines the application-global data templates.</td>
+<td>Defines the application-global data templates.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_INameScope">INameScope</a></td>
-<td>Defines a name scope.</td>
-</tr>
-<tr>
-<td><a href="T_Avalonia_Controls_INativeMenuExporterEventsImplBridge">INativeMenuExporterEventsImplBridge</a></td>
-<td> </td>
-</tr>
-<tr>
-<td><a href="T_Avalonia_Controls_INativeMenuItemExporterEventsImplBridge">INativeMenuItemExporterEventsImplBridge</a></td>
-<td> </td>
+<td>Defines a name scope.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_IPseudoClasses">IPseudoClasses</a></td>
-<td>Exposes an interface for setting pseudoclasses on a <a href="T_Avalonia_Controls_Classes">Classes</a> collection.</td>
+<td>Exposes an interface for setting pseudoclasses on a <a href="T_Avalonia_Controls_Classes">Classes</a> collection.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_IResourceDictionary">IResourceDictionary</a></td>
@@ -805,11 +797,11 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_IResourceHost">IResourceHost</a></td>
-<td>Represents an element which hosts resources.</td>
+<td>Represents an element which hosts resources.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_IResourceNode">IResourceNode</a></td>
-<td>Represents an object that can be queried for resources.</td>
+<td>Represents an object that can be queried for resources.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_IResourceProvider">IResourceProvider</a></td>
@@ -825,11 +817,11 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_ISetInheritanceParent">ISetInheritanceParent</a></td>
-<td>Defines an interface through which a <a href="T_Avalonia_StyledElement">StyledElement</a>'s inheritance parent can be set.</td>
+<td>Defines an interface through which a <a href="T_Avalonia_StyledElement">StyledElement</a>'s inheritance parent can be set.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_ISetLogicalParent">ISetLogicalParent</a></td>
-<td>Defines an interface through which a <a href="T_Avalonia_StyledElement">StyledElement</a>'s logical parent can be set.</td>
+<td>Defines an interface through which a <a href="T_Avalonia_StyledElement">StyledElement</a>'s logical parent can be set.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_ITemplate_1">ITemplate(TControl)</a></td>

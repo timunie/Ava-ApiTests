@@ -54,3 +54,4 @@ True if the objects are equal, otherwise false.
 <a href="T_Avalonia_RelativeRect">RelativeRect Structure</a>  
 <a href="Overload_Avalonia_RelativeRect_Equals">Equals Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

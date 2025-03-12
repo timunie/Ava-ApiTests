@@ -12,17 +12,20 @@ An GPU semaphore descriptor obtained from a context from the same share group as
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface ICompositionImportableSharedGpuContextSemaphore : IDisposable
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface ICompositionImportableSharedGpuContextSemaphore
 	Inherits IDisposable
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type ICompositionImportableSharedGpuContextSemaphore = 
     interface
         interface IDisposable
@@ -50,3 +53,4 @@ type ICompositionImportableSharedGpuContextSemaphore =
 
 #### Reference
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

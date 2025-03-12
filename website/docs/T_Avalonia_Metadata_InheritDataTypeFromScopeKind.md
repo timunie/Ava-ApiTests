@@ -48,3 +48,4 @@ type InheritDataTypeFromScopeKind
 
 #### Reference
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets what this panel displays in date or time units
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DateTimePickerPanelType PanelType \{ get; set; }
+public DateTimePickerPanelType PanelType { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member PanelType : DateTimePickerPanelType with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_DateTimePickerPanel">DateTimePickerPanel Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

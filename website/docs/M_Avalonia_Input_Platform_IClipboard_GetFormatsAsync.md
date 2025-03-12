@@ -40,3 +40,4 @@ abstract GetFormatsAsync : unit -> Task<string[]>
 #### Reference
 <a href="T_Avalonia_Input_Platform_IClipboard">IClipboard Interface</a>  
 <a href="N_Avalonia_Input_Platform">Avalonia.Input.Platform Namespace</a>  
+

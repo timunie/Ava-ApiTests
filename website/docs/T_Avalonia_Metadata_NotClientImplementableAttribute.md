@@ -12,11 +12,13 @@ This interface is not intended to be implemented outside of the core Avalonia fr
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AttributeUsageAttribute(AttributeTargets.Interface)]
 public sealed class NotClientImplementableAttribute : Attribute
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AttributeUsageAttribute(AttributeTargets.Interface)>
 Public NotInheritable Class NotClientImplementableAttribute
 	Inherits Attribute
 ```
@@ -24,6 +26,7 @@ Public NotInheritable Class NotClientImplementableAttribute
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<AttributeUsageAttribute(AttributeTargets.Interface)>]
 type NotClientImplementableAttribute = 
     class
         inherit Attribute
@@ -91,3 +94,4 @@ This interface is stable for consumption by a client, but should not be implemen
 
 #### Reference
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

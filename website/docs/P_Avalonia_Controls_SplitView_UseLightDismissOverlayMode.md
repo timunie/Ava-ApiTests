@@ -14,7 +14,7 @@ When enabled, and the pane is open in Overlay or CompactOverlay mode, the conten
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool UseLightDismissOverlayMode \{ get; set; }
+public bool UseLightDismissOverlayMode { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -46,3 +46,4 @@ member UseLightDismissOverlayMode : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_SplitView">SplitView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

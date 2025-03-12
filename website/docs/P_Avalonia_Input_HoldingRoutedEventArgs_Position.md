@@ -12,7 +12,7 @@ Gets the location of the touch, mouse, or pen/stylus contact.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Point Position \{ get; }
+public Point Position { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Position : Point with get
 #### Reference
 <a href="T_Avalonia_Input_HoldingRoutedEventArgs">HoldingRoutedEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

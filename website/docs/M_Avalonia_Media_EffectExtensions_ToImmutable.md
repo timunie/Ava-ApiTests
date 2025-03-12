@@ -36,7 +36,7 @@ static member ToImmutable :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Effects/EffectExtesions.cs#L42" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Effects/EffectExtesions.cs#L43" title="View the source code">View Source</a>
 
 
 
@@ -56,3 +56,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 #### Reference
 <a href="T_Avalonia_Media_EffectExtensions">EffectExtensions Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

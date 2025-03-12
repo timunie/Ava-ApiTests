@@ -30,7 +30,7 @@ override GetHashCode : unit -> int
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridLength.cs#L342" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridLength.cs#L343" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ hash code
 #### Reference
 <a href="T_Avalonia_Controls_DataGridLength">DataGridLength Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

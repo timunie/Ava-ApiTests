@@ -43,3 +43,4 @@ abstract DetachedFromLogicalTree : IEvent<EventHandler<LogicalTreeAttachmentEven
 #### Reference
 <a href="T_Avalonia_LogicalTree_ILogical">ILogical Interface</a>  
 <a href="N_Avalonia_LogicalTree">Avalonia.LogicalTree Namespace</a>  
+

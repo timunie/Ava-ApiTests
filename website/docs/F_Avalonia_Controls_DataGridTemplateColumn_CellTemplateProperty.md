@@ -40,3 +40,4 @@ static val CellTemplateProperty: DirectProperty<DataGridTemplateColumn, IDataTem
 #### Reference
 <a href="T_Avalonia_Controls_DataGridTemplateColumn">DataGridTemplateColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

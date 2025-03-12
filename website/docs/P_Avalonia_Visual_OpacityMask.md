@@ -12,7 +12,7 @@ Gets or sets the opacity mask of the control.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IBrush? OpacityMask \{ get; set; }
+public IBrush? OpacityMask { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member OpacityMask : IBrush with get, set
 #### Reference
 <a href="T_Avalonia_Visual">Visual Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

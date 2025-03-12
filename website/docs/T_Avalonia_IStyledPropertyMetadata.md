@@ -12,16 +12,19 @@ Untyped interface to <a href="T_Avalonia_StyledPropertyMetadata_1">StyledPropert
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IStyledPropertyMetadata
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IStyledPropertyMetadata
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IStyledPropertyMetadata = interface end
 ```
 </TabItem>
@@ -46,3 +49,4 @@ type IStyledPropertyMetadata = interface end
 
 #### Reference
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

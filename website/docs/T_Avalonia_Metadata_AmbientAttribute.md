@@ -12,11 +12,13 @@ Defines the ambient class/property
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AttributeUsageAttribute(AttributeTargets.Class|AttributeTargets.Property, Inherited = true)]
 public sealed class AmbientAttribute : Attribute
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AttributeUsageAttribute(AttributeTargets.Class Or AttributeTargets.Property, Inherited := true)>
 Public NotInheritable Class AmbientAttribute
 	Inherits Attribute
 ```
@@ -24,6 +26,7 @@ Public NotInheritable Class AmbientAttribute
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<AttributeUsageAttribute(AttributeTargets.Class|AttributeTargets.Property, Inherited = true)>]
 type AmbientAttribute = 
     class
         inherit Attribute
@@ -91,3 +94,4 @@ type AmbientAttribute =
 
 #### Reference
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

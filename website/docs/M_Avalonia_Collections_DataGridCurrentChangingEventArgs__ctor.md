@@ -40,3 +40,4 @@ new : unit -> DataGridCurrentChangingEventArgs
 <a href="T_Avalonia_Collections_DataGridCurrentChangingEventArgs">DataGridCurrentChangingEventArgs Class</a>  
 <a href="Overload_Avalonia_Collections_DataGridCurrentChangingEventArgs__ctor">DataGridCurrentChangingEventArgs Overload</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

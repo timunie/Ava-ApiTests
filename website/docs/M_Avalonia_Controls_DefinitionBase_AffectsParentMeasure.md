@@ -34,7 +34,7 @@ static member AffectsParentMeasure :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/DefinitionBase.cs#L781" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/DefinitionBase.cs#L782" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ static member AffectsParentMeasure :
 #### Reference
 <a href="T_Avalonia_Controls_DefinitionBase">DefinitionBase Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

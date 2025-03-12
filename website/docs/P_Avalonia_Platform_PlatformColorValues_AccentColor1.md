@@ -12,7 +12,7 @@ Primary system accent color.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Color AccentColor1 \{ get; init; }
+public Color AccentColor1 { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member AccentColor1 : Color with get, set
 #### Reference
 <a href="T_Avalonia_Platform_PlatformColorValues">PlatformColorValues Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

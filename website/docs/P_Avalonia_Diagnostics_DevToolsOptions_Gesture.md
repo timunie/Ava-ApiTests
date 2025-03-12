@@ -12,7 +12,7 @@ Gets or sets the key gesture used to open DevTools.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public KeyGesture Gesture \{ get; set; }
+public KeyGesture Gesture { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Gesture : KeyGesture with get, set
 #### Reference
 <a href="T_Avalonia_Diagnostics_DevToolsOptions">DevToolsOptions Class</a>  
 <a href="N_Avalonia_Diagnostics">Avalonia.Diagnostics Namespace</a>  
+

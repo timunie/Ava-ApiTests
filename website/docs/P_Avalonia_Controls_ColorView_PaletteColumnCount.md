@@ -12,7 +12,7 @@ Gets or sets the number of colors in each row (section) of the color palette. Wi
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int PaletteColumnCount \{ get; set; }
+public int PaletteColumnCount { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -46,3 +46,4 @@ member PaletteColumnCount : int with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ColorView">ColorView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,16 +12,19 @@ Defines the interface for classes that handle keyboard navigation for a window.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface IKeyboardNavigationHandler
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface IKeyboardNavigationHandler
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type IKeyboardNavigationHandler = interface end
 ```
 </TabItem>
@@ -39,10 +42,6 @@ type IKeyboardNavigationHandler = interface end
 <td><a href="M_Avalonia_Input_IKeyboardNavigationHandler_Move">Move(IInputElement, NavigationDirection, KeyModifiers)</a></td>
 <td>Moves the focus in the specified direction.</td>
 </tr>
-<tr>
-<td><a href="M_Avalonia_Input_IKeyboardNavigationHandler_SetOwner">SetOwner(IInputRoot)</a></td>
-<td>Sets the owner of the keyboard navigation handler.</td>
-</tr>
 </table>
 
 ## See Also
@@ -50,3 +49,4 @@ type IKeyboardNavigationHandler = interface end
 
 #### Reference
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the current horizontal scroll position.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-double HorizontalScrollPercent \{ get; }
+double HorizontalScrollPercent { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract HorizontalScrollPercent : float with get
 #### Reference
 <a href="T_Avalonia_Automation_Provider_IScrollProvider">IScrollProvider Interface</a>  
 <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider Namespace</a>  
+

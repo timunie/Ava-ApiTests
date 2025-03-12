@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-INativeMenuExporter? NativeMenuExporter \{ get; }
+INativeMenuExporter? NativeMenuExporter { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -37,3 +37,4 @@ abstract NativeMenuExporter : INativeMenuExporter with get
 #### Reference
 <a href="T_Avalonia_Controls_Platform_INativeMenuExporterProvider">INativeMenuExporterProvider Interface</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

@@ -28,7 +28,7 @@ override StopCore : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/TemplateBinding.cs#L119" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/TemplateBinding.cs#L120" title="View the source code">View Source</a>
 
 
 
@@ -38,3 +38,4 @@ override StopCore : unit -> unit
 #### Reference
 <a href="T_Avalonia_Data_TemplateBinding">TemplateBinding Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

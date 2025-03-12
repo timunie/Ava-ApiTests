@@ -34,7 +34,7 @@ static member GetTip :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ToolTip.cs#L131" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ToolTip.cs#L132" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The content to be displayed in the control's tooltip.
 #### Reference
 <a href="T_Avalonia_Controls_ToolTip">ToolTip Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

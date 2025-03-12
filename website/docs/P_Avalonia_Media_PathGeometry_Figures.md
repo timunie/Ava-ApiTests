@@ -12,11 +12,13 @@ Gets or sets the figures.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PathFigures? Figures \{ get; set; }
+[ContentAttribute]
+public PathFigures? Figures { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public Property Figures As PathFigures
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property Figures As PathFigures
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Figures : PathFigures with get, set
 ```
 </TabItem>
@@ -45,3 +48,4 @@ The figures.
 #### Reference
 <a href="T_Avalonia_Media_PathGeometry">PathGeometry Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

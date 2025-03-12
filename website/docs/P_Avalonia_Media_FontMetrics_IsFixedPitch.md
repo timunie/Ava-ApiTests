@@ -12,7 +12,7 @@ A <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsFixedPitch \{ get; init; }
+public bool IsFixedPitch { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member IsFixedPitch : bool with get, set
 #### Reference
 <a href="T_Avalonia_Media_FontMetrics">FontMetrics Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the toggle state of the control.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-ToggleState ToggleState \{ get; }
+ToggleState ToggleState { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract ToggleState : ToggleState with get
 #### Reference
 <a href="T_Avalonia_Automation_Provider_IToggleProvider">IToggleProvider Interface</a>  
 <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider Namespace</a>  
+

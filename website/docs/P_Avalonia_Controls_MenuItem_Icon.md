@@ -12,7 +12,7 @@ Gets or sets the icon that appears in a <a href="T_Avalonia_Controls_MenuItem">M
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? Icon \{ get; set; }
+public Object? Icon { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Icon : Object with get, set
 #### Reference
 <a href="T_Avalonia_Controls_MenuItem">MenuItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

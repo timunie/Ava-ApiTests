@@ -12,7 +12,7 @@ Gets or sets the selected item in the drop-down.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? SelectedItem \{ get; set; }
+public Object? SelectedItem { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The selected item in the drop-down.If the IsTextCompletionEnabled property is tr
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

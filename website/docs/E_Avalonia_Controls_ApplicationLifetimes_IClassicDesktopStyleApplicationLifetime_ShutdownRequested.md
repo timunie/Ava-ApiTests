@@ -43,3 +43,4 @@ abstract ShutdownRequested : IEvent<EventHandler<ShutdownRequestedEventArgs>,
 #### Reference
 <a href="T_Avalonia_Controls_ApplicationLifetimes_IClassicDesktopStyleApplicationLifetime">IClassicDesktopStyleApplicationLifetime Interface</a>  
 <a href="N_Avalonia_Controls_ApplicationLifetimes">Avalonia.Controls.ApplicationLifetimes Namespace</a>  
+

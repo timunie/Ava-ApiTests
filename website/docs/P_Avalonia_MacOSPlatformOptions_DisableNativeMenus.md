@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the native macOS menu bar will be enable
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool DisableNativeMenus \{ get; set; }
+public bool DisableNativeMenus { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DisableNativeMenus : bool with get, set
 #### Reference
 <a href="T_Avalonia_MacOSPlatformOptions">MacOSPlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

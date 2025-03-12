@@ -10,16 +10,19 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface IFramebufferPlatformSurface
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface IFramebufferPlatformSurface
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type IFramebufferPlatformSurface = interface end
 ```
 </TabItem>
@@ -44,3 +47,4 @@ type IFramebufferPlatformSurface = interface end
 
 #### Reference
 <a href="N_Avalonia_Controls_Platform_Surfaces">Avalonia.Controls.Platform.Surfaces Namespace</a>  
+

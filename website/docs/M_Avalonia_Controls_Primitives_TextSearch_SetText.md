@@ -37,7 +37,7 @@ static member SetText :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/TextSearch.cs#L23" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/TextSearch.cs#L24" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ static member SetText :
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_TextSearch">TextSearch Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

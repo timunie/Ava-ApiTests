@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Media_TextFormatting_TextEndOfParagraph">TextEndOfParagraph Class</a>  
 <a href="Overload_Avalonia_Media_TextFormatting_TextEndOfParagraph__ctor">TextEndOfParagraph Overload</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets a value indicating if the masked text box is restricted to accept o
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool AsciiOnly \{ get; set; }
+public bool AsciiOnly { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member AsciiOnly : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_MaskedTextBox">MaskedTextBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

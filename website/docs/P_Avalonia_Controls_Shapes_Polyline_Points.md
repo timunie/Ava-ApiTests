@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IList<Point> Points \{ get; set; }
+public IList<Point> Points { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member Points : IList<Point> with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Shapes_Polyline">Polyline Class</a>  
 <a href="N_Avalonia_Controls_Shapes">Avalonia.Controls.Shapes Namespace</a>  
+

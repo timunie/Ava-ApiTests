@@ -12,7 +12,7 @@ Gets or sets the control that is used to determine the popup's position.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Control? PlacementTarget \{ get; set; }
+public Control? PlacementTarget { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member PlacementTarget : Control with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ContextMenu">ContextMenu Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

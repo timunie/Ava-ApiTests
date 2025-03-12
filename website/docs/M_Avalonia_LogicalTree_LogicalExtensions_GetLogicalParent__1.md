@@ -38,7 +38,7 @@ static member GetLogicalParent :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/LogicalTree/LogicalExtensions.cs#L157" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/LogicalTree/LogicalExtensions.cs#L158" title="View the source code">View Source</a>
 
 
 
@@ -62,3 +62,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 <a href="T_Avalonia_LogicalTree_LogicalExtensions">LogicalExtensions Class</a>  
 <a href="Overload_Avalonia_LogicalTree_LogicalExtensions_GetLogicalParent">GetLogicalParent Overload</a>  
 <a href="N_Avalonia_LogicalTree">Avalonia.LogicalTree Namespace</a>  
+

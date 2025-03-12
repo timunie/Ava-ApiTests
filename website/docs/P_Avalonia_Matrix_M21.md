@@ -12,7 +12,7 @@ The first element of the second row (skewX).
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double M21 \{ get; }
+public double M21 { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member M21 : float with get
 #### Reference
 <a href="T_Avalonia_Matrix">Matrix Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

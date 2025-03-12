@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsLogicalScrollEnabled \{ get; }
+public bool IsLogicalScrollEnabled { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -46,3 +46,4 @@ override IsLogicalScrollEnabled : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_DateTimePickerPanel">DateTimePickerPanel Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

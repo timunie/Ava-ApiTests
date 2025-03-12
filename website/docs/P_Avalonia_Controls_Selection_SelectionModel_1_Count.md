@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int Count \{ get; }
+public int Count { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -29,7 +29,7 @@ override Count : int with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Selection/SelectionModel.cs#L149" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Selection/SelectionModel.cs#L150" title="View the source code">View Source</a>
 
 
 
@@ -46,3 +46,4 @@ override Count : int with get
 #### Reference
 <a href="T_Avalonia_Controls_Selection_SelectionModel_1">SelectionModel(T) Class</a>  
 <a href="N_Avalonia_Controls_Selection">Avalonia.Controls.Selection Namespace</a>  
+

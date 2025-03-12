@@ -12,7 +12,7 @@ Gets or sets a value which defines in what direction the popup should open when 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PopupGravity PlacementGravity \{ get; set; }
+public PopupGravity PlacementGravity { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member PlacementGravity : PopupGravity with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ContextMenu">ContextMenu Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

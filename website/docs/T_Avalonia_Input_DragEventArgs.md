@@ -43,7 +43,7 @@ type DragEventArgs =
 <table>
 <tr>
 <td><a href="M_Avalonia_Input_DragEventArgs__ctor">DragEventArgs(RoutedEvent(DragEventArgs), IDataObject, Interactive, Point, KeyModifiers)</a></td>
-<td>Initializes a new instance of the DragEventArgs class</td>
+<td>Initializes a new instance of the DragEventArgs class<br /><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 </table>
 
@@ -116,3 +116,4 @@ type DragEventArgs =
 
 #### Reference
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

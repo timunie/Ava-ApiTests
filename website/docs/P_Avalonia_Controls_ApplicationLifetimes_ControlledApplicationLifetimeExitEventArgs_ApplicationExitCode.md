@@ -12,7 +12,7 @@ Gets or sets the exit code that an application returns to the operating system w
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int ApplicationExitCode \{ get; set; }
+public int ApplicationExitCode { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ApplicationExitCode : int with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ApplicationLifetimes_ControlledApplicationLifetimeExitEventArgs">ControlledApplicationLifetimeExitEventArgs Class</a>  
 <a href="N_Avalonia_Controls_ApplicationLifetimes">Avalonia.Controls.ApplicationLifetimes Namespace</a>  
+

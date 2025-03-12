@@ -34,7 +34,7 @@ static member Parse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Thickness.cs#L197" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Thickness.cs#L200" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The <a href="T_Avalonia_Thickness">Thickness</a>.
 #### Reference
 <a href="T_Avalonia_Thickness">Thickness Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

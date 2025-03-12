@@ -29,7 +29,7 @@ member Activate : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/WindowBase.cs#L142" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/WindowBase.cs#L143" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ member Activate : unit -> unit
 #### Reference
 <a href="T_Avalonia_Controls_WindowBase">WindowBase Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

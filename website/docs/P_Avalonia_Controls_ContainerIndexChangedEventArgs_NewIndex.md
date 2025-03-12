@@ -12,7 +12,7 @@ Gets the index of the container after the change.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int NewIndex \{ get; }
+public int NewIndex { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member NewIndex : int with get
 #### Reference
 <a href="T_Avalonia_Controls_ContainerIndexChangedEventArgs">ContainerIndexChangedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

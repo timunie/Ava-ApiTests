@@ -36,7 +36,7 @@ override IndexOf :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/AvaloniaList.cs#L322" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/AvaloniaList.cs#L323" title="View the source code">View Source</a>
 
 
 
@@ -57,3 +57,4 @@ The index of the item or -1 if the item is not contained in the collection.
 #### Reference
 <a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList(T) Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

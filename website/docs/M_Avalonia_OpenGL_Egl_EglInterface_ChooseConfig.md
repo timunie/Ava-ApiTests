@@ -44,7 +44,7 @@ member ChooseConfig :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/obj/Debug/net8.0/DevGenerators/Generator.GetProcAddressInitializationGenerator/globalAvalonia.OpenGL.Egl.EglInterface.cs#L63" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/obj/Release/net8.0/DevGenerators/Generator.GetProcAddressInitializationGenerator/globalAvalonia.OpenGL.Egl.EglInterface.cs#L64" title="View the source code">View Source</a>
 
 
 
@@ -60,3 +60,4 @@ member ChooseConfig :
 #### Reference
 <a href="T_Avalonia_OpenGL_Egl_EglInterface">EglInterface Class</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

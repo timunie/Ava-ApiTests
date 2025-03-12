@@ -12,7 +12,7 @@ Gets a <a href="T_Avalonia_Controls_DataGridLength">DataGridLength</a> structure
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static DataGridLength Auto \{ get; }
+public static DataGridLength Auto { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ static member Auto : DataGridLength with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridLength.cs#L142" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridLength.cs#L143" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ A <a href="T_Avalonia_Controls_DataGridLength">DataGridLength</a> structure that
 #### Reference
 <a href="T_Avalonia_Controls_DataGridLength">DataGridLength Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

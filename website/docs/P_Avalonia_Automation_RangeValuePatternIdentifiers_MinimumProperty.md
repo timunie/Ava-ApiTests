@@ -12,7 +12,7 @@ Identifies <a href="P_Avalonia_Automation_Provider_IRangeValueProvider_Minimum">
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static AutomationProperty MinimumProperty \{ get; }
+public static AutomationProperty MinimumProperty { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member MinimumProperty : AutomationProperty with get
 #### Reference
 <a href="T_Avalonia_Automation_RangeValuePatternIdentifiers">RangeValuePatternIdentifiers Class</a>  
 <a href="N_Avalonia_Automation">Avalonia.Automation Namespace</a>  
+

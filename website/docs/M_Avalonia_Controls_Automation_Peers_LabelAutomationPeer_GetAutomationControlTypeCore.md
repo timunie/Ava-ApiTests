@@ -28,7 +28,7 @@ override GetAutomationControlTypeCore : unit -> AutomationControlType
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/LabelAutomationPeer.cs#L18" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/LabelAutomationPeer.cs#L19" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override GetAutomationControlTypeCore : unit -> AutomationControlType
 #### Reference
 <a href="T_Avalonia_Controls_Automation_Peers_LabelAutomationPeer">LabelAutomationPeer Class</a>  
 <a href="N_Avalonia_Controls_Automation_Peers">Avalonia.Controls.Automation.Peers Namespace</a>  
+

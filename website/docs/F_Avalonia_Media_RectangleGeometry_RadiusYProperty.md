@@ -42,3 +42,4 @@ static val RadiusYProperty: StyledProperty<float>
 #### Reference
 <a href="T_Avalonia_Media_RectangleGeometry">RectangleGeometry Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -12,17 +12,20 @@ A control which displays an error notifier when there is a DataValidationError. 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[PseudoClassesAttribute(new string[] { ... })]
 public class DataValidationErrors : ContentControl
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<PseudoClassesAttribute(New String() { ... })>
 Public Class DataValidationErrors
 	Inherits ContentControl
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<PseudoClassesAttribute(new string[] { ... })>]
 type DataValidationErrors = 
     class
         inherit ContentControl
@@ -1104,10 +1107,6 @@ You will probably only want to create instances inside of control templates.
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1202,3 +1201,4 @@ You will probably only want to create instances inside of control templates.
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

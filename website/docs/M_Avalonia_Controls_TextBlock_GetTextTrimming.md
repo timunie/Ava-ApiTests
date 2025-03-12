@@ -34,7 +34,7 @@ static member GetTextTrimming :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TextBlock.cs#L470" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TextBlock.cs#L471" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ static member GetTextTrimming :
 #### Reference
 <a href="T_Avalonia_Controls_TextBlock">TextBlock Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

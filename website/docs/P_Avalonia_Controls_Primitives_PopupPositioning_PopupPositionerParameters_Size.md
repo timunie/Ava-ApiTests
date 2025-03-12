@@ -12,7 +12,7 @@ Set the size of the popup that is to be positioned with the positioner object, i
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Size Size \{
+public Size Size {
 	get;
  set; }
 ```
@@ -47,3 +47,4 @@ member Size : Size with
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupPositionerParameters">PopupPositionerParameters Structure</a>  
 <a href="N_Avalonia_Controls_Primitives_PopupPositioning">Avalonia.Controls.Primitives.PopupPositioning Namespace</a>  
+

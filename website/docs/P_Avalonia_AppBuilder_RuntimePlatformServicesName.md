@@ -12,7 +12,7 @@ Gets the name of the currently selected windowing subsystem.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? RuntimePlatformServicesName \{ get; }
+public string? RuntimePlatformServicesName { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member RuntimePlatformServicesName : string with get
 #### Reference
 <a href="T_Avalonia_AppBuilder">AppBuilder Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

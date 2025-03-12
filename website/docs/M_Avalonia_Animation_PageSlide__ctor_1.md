@@ -55,3 +55,4 @@ new :
 <a href="T_Avalonia_Animation_PageSlide">PageSlide Class</a>  
 <a href="Overload_Avalonia_Animation_PageSlide__ctor">PageSlide Overload</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

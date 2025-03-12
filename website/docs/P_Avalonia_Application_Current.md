@@ -12,7 +12,7 @@ Gets the current instance of the <a href="T_Avalonia_Application">Application</a
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static Application? Current \{ get; }
+public static Application? Current { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The current instance of the <a href="T_Avalonia_Application">Application</a> cla
 #### Reference
 <a href="T_Avalonia_Application">Application Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

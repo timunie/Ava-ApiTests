@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public virtual bool IsReadOnly \{ get; set; }
+public virtual bool IsReadOnly { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ override IsReadOnly : bool with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridColumn.cs#L505" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridColumn.cs#L506" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ override IsReadOnly : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGridColumn">DataGridColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

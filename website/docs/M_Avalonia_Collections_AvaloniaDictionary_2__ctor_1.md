@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Collections_AvaloniaDictionary_2">AvaloniaDictionary(TKey, TValue) Class</a>  
 <a href="Overload_Avalonia_Collections_AvaloniaDictionary_2__ctor">AvaloniaDictionary(TKey, TValue) Overload</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

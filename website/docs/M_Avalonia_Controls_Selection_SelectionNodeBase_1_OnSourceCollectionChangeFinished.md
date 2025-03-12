@@ -30,7 +30,7 @@ override OnSourceCollectionChangeFinished : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Selection/SelectionNodeBase.cs#L173" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Selection/SelectionNodeBase.cs#L174" title="View the source code">View Source</a>
 
 Override this method to respond to the end of a collection change instead of acting at the end of <a href="M_Avalonia_Controls_Selection_SelectionNodeBase_1_OnSourceCollectionChanged">OnSourceCollectionChanged(NotifyCollectionChangedEventArgs)</a> in order to ensure that all UI subscribers to the source collection change event have had chance to run.
 
@@ -40,3 +40,4 @@ Override this method to respond to the end of a collection change instead of act
 #### Reference
 <a href="T_Avalonia_Controls_Selection_SelectionNodeBase_1">SelectionNodeBase(T) Class</a>  
 <a href="N_Avalonia_Controls_Selection">Avalonia.Controls.Selection Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the <a href="T_Avalonia_Data_Converters_IValueConverter">IValueConv
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IValueConverter? Converter \{ get; set; }
+public IValueConverter? Converter { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Converter : IValueConverter with get, set
 #### Reference
 <a href="T_Avalonia_Data_TemplateBinding">TemplateBinding Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

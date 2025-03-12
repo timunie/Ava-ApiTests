@@ -40,3 +40,4 @@ new : unit -> RowDefinition
 <a href="T_Avalonia_Controls_RowDefinition">RowDefinition Class</a>  
 <a href="Overload_Avalonia_Controls_RowDefinition__ctor">RowDefinition Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

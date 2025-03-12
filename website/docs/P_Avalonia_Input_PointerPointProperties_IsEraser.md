@@ -12,7 +12,7 @@ Gets a value that indicates whether the input is from a pen eraser.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsEraser \{
+public bool IsEraser {
 	get;
  }
 ```
@@ -46,3 +46,4 @@ member IsEraser : bool with
 #### Reference
 <a href="T_Avalonia_Input_PointerPointProperties">PointerPointProperties Structure</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

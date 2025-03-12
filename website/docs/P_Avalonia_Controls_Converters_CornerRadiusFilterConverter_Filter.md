@@ -12,7 +12,7 @@ Gets or sets the corners to filter by. Only the specified corners will be includ
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Corners Filter \{ get; set; }
+public Corners Filter { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Filter : Corners with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Converters_CornerRadiusFilterConverter">CornerRadiusFilterConverter Class</a>  
 <a href="N_Avalonia_Controls_Converters">Avalonia.Controls.Converters Namespace</a>  
+

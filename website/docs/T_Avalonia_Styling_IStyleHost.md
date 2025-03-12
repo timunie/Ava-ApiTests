@@ -12,16 +12,19 @@ Defines an element that has a <a href="P_Avalonia_Styling_IStyleHost_Styles">Sty
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IStyleHost
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IStyleHost
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IStyleHost = interface end
 ```
 </TabItem>
@@ -66,3 +69,4 @@ type IStyleHost = interface end
 
 #### Reference
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

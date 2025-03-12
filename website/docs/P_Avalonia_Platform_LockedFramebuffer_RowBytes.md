@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int RowBytes \{ get; }
+public int RowBytes { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -46,3 +46,4 @@ override RowBytes : int with get
 #### Reference
 <a href="T_Avalonia_Platform_LockedFramebuffer">LockedFramebuffer Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

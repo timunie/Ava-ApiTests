@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Size AllocatedSize \{ get; }
+Size AllocatedSize { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ abstract AllocatedSize : Size with get
 #### Reference
 <a href="T_Avalonia_Layout_IEmbeddedLayoutRoot">IEmbeddedLayoutRoot Interface</a>  
 <a href="N_Avalonia_Layout">Avalonia.Layout Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the indexes of the items that were added to the selection.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public override IReadOnlyList<int> SelectedIndexes \{ get; }
+public override IReadOnlyList<int> SelectedIndexes { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ override SelectedIndexes : IReadOnlyList<int> with get
 #### Reference
 <a href="T_Avalonia_Controls_Selection_SelectionModelSelectionChangedEventArgs_1">SelectionModelSelectionChangedEventArgs(T) Class</a>  
 <a href="N_Avalonia_Controls_Selection">Avalonia.Controls.Selection Namespace</a>  
+

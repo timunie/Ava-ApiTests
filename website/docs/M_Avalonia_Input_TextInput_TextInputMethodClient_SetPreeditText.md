@@ -40,7 +40,7 @@ override SetPreeditText :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/TextInput/TextInputMethodClient.cs#L77" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/TextInput/TextInputMethodClient.cs#L78" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ override SetPreeditText :
 <a href="T_Avalonia_Input_TextInput_TextInputMethodClient">TextInputMethodClient Class</a>  
 <a href="Overload_Avalonia_Input_TextInput_TextInputMethodClient_SetPreeditText">SetPreeditText Overload</a>  
 <a href="N_Avalonia_Input_TextInput">Avalonia.Input.TextInput Namespace</a>  
+

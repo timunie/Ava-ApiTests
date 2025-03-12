@@ -12,7 +12,7 @@ Gets the access key.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public char AccessKey \{ get; }
+public char AccessKey { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member AccessKey : char with get
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_AccessText">AccessText Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

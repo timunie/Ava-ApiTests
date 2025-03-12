@@ -12,7 +12,7 @@ Gets or sets the repeat count for this animation.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IterationCount IterationCount \{ get; set; }
+public IterationCount IterationCount { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member IterationCount : IterationCount with get, set
 #### Reference
 <a href="T_Avalonia_Animation_Animation">Animation Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

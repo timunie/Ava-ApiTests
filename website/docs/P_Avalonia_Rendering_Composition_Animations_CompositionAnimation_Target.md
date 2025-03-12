@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? Target \{ get; set; }
+public string? Target { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member Target : string with get, set
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_Animations_CompositionAnimation">CompositionAnimation Class</a>  
 <a href="N_Avalonia_Rendering_Composition_Animations">Avalonia.Rendering.Composition.Animations Namespace</a>  
+

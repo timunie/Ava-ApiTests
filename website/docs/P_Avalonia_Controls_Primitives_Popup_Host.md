@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IPopupHost? Host \{ get; }
+public IPopupHost? Host { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Host : IPopupHost with get
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_Popup">Popup Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

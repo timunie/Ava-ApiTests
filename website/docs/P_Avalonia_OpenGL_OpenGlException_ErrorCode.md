@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int? ErrorCode \{ get; }
+public int? ErrorCode { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member ErrorCode : Nullable<int> with get
 #### Reference
 <a href="T_Avalonia_OpenGL_OpenGlException">OpenGlException Class</a>  
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

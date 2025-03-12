@@ -12,7 +12,7 @@ Get the typeface.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IGlyphTypeface Typeface \{ get; }
+public IGlyphTypeface Typeface { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Typeface : IGlyphTypeface with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextShaperOptions">TextShaperOptions Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

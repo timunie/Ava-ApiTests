@@ -39,3 +39,4 @@ new : unit -> FolderPickerOpenOptions
 #### Reference
 <a href="T_Avalonia_Platform_Storage_FolderPickerOpenOptions">FolderPickerOpenOptions Class</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

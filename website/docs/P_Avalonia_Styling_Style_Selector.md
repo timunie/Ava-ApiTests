@@ -12,7 +12,7 @@ Gets or sets the style's selector.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Selector? Selector \{ get; set; }
+public Selector? Selector { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Selector : Selector with get, set
 #### Reference
 <a href="T_Avalonia_Styling_Style">Style Class</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

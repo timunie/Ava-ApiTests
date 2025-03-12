@@ -71,3 +71,4 @@ type BatchStreamSegment<'TData> =
 
 #### Reference
 <a href="N_Avalonia_Rendering_Composition_Transport">Avalonia.Rendering.Composition.Transport Namespace</a>  
+

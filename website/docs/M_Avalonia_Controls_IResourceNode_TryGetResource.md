@@ -57,3 +57,4 @@ True if the resource if found, otherwise false.
 #### Reference
 <a href="T_Avalonia_Controls_IResourceNode">IResourceNode Interface</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

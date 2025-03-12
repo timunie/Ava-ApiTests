@@ -12,7 +12,7 @@ X coordinate of the second control point
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double ControlPointX2 \{ get; set; }
+public double ControlPointX2 { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ControlPointX2 : float with get, set
 #### Reference
 <a href="T_Avalonia_Animation_KeySpline">KeySpline Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

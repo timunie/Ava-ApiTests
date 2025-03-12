@@ -39,3 +39,4 @@ new : unit -> BoolTransition
 #### Reference
 <a href="T_Avalonia_Animation_BoolTransition">BoolTransition Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

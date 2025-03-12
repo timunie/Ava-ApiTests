@@ -10,16 +10,19 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface IPlatformGraphicsReadyStateFeature
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface IPlatformGraphicsReadyStateFeature
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type IPlatformGraphicsReadyStateFeature = interface end
 ```
 </TabItem>
@@ -44,3 +47,4 @@ type IPlatformGraphicsReadyStateFeature = interface end
 
 #### Reference
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

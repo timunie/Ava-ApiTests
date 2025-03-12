@@ -37,7 +37,7 @@ static member SetLeft :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Canvas.cs#L65" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Canvas.cs#L66" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ static member SetLeft :
 #### Reference
 <a href="T_Avalonia_Controls_Canvas">Canvas Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

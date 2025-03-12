@@ -12,7 +12,7 @@ Gets the brush's tile mode.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TileMode TileMode \{ get; }
+public TileMode TileMode { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ override TileMode : TileMode with get
 #### Reference
 <a href="T_Avalonia_Media_Immutable_ImmutableTileBrush">ImmutableTileBrush Class</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

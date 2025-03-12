@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int Count \{
+public int Count {
 	get;
  }
 ```
@@ -44,3 +44,4 @@ member Count : int with
 #### Reference
 <a href="T_Avalonia_Media_BoxShadows">BoxShadows Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

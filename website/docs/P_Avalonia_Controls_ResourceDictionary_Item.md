@@ -12,7 +12,7 @@
 ```csharp
 public Object? this[
 	Object key
-] \{ get; set; }
+] { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -34,7 +34,7 @@ override Item : Object with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/ResourceDictionary.cs#L36" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/ResourceDictionary.cs#L37" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ override Item : Object with get, set
 <a href="T_Avalonia_Controls_ResourceDictionary">ResourceDictionary Class</a>  
 <a href="Overload_Avalonia_Controls_ResourceDictionary_Item">Item Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

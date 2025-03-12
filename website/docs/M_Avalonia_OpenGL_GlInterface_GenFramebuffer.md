@@ -27,7 +27,7 @@ member GenFramebuffer : unit -> int
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/GlInterface.cs#L97" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/GlInterface.cs#L98" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ member GenFramebuffer : unit -> int
 #### Reference
 <a href="T_Avalonia_OpenGL_GlInterface">GlInterface Class</a>  
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

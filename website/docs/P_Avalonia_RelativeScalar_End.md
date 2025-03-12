@@ -12,7 +12,7 @@ The value at the end of the range
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static RelativeScalar End \{ get; }
+public static RelativeScalar End { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member End : RelativeScalar with get
 #### Reference
 <a href="T_Avalonia_RelativeScalar">RelativeScalar Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

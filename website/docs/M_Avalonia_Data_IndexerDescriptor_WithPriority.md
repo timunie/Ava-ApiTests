@@ -34,7 +34,7 @@ member WithPriority :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/IndexerDescriptor.cs#L100" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/IndexerDescriptor.cs#L101" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The object that the method was called on.
 #### Reference
 <a href="T_Avalonia_Data_IndexerDescriptor">IndexerDescriptor Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

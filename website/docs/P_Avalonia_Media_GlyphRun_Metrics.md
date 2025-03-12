@@ -12,7 +12,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public GlyphRunMetrics Metrics \{ get; }
+public GlyphRunMetrics Metrics { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Metrics : GlyphRunMetrics with get
 #### Reference
 <a href="T_Avalonia_Media_GlyphRun">GlyphRun Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

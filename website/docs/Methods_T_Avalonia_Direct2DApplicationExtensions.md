@@ -17,3 +17,4 @@
 #### Reference
 <a href="T_Avalonia_Direct2DApplicationExtensions">Direct2DApplicationExtensions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

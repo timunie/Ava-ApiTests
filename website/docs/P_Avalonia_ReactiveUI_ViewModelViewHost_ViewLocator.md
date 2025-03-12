@@ -12,7 +12,7 @@ Gets or sets the view locator.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IViewLocator? ViewLocator \{ get; set; }
+public IViewLocator? ViewLocator { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ IViewLocator
 #### Reference
 <a href="T_Avalonia_ReactiveUI_ViewModelViewHost">ViewModelViewHost Class</a>  
 <a href="N_Avalonia_ReactiveUI">Avalonia.ReactiveUI Namespace</a>  
+

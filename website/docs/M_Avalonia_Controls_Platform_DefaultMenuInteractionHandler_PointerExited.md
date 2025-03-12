@@ -38,7 +38,7 @@ override PointerExited :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Platform/DefaultMenuInteractionHandler.cs#L168" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Platform/DefaultMenuInteractionHandler.cs#L169" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ override PointerExited :
 #### Reference
 <a href="T_Avalonia_Controls_Platform_DefaultMenuInteractionHandler">DefaultMenuInteractionHandler Class</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

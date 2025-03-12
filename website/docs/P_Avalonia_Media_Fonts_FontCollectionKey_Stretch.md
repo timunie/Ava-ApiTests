@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public FontStretch Stretch \{ get; init; }
+public FontStretch Stretch { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member Stretch : FontStretch with get, set
 #### Reference
 <a href="T_Avalonia_Media_Fonts_FontCollectionKey">FontCollectionKey Structure</a>  
 <a href="N_Avalonia_Media_Fonts">Avalonia.Media.Fonts Namespace</a>  
+

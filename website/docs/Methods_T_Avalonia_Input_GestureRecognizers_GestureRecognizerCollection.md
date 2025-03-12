@@ -45,3 +45,4 @@
 #### Reference
 <a href="T_Avalonia_Input_GestureRecognizers_GestureRecognizerCollection">GestureRecognizerCollection Class</a>  
 <a href="N_Avalonia_Input_GestureRecognizers">Avalonia.Input.GestureRecognizers Namespace</a>  
+

@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-double OffsetX \{ get; }
+double OffsetX { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ abstract OffsetX : float with get
 #### Reference
 <a href="T_Avalonia_Media_IDropShadowEffect">IDropShadowEffect Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

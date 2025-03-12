@@ -45,7 +45,7 @@ type OverlayPopupHost =
 
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a>  →  <a href="T_Avalonia_Animation_Animatable">Animatable</a>  →  <a href="T_Avalonia_StyledElement">StyledElement</a>  →  <a href="T_Avalonia_Visual">Visual</a>  →  <a href="T_Avalonia_Layout_Layoutable">Layoutable</a>  →  <a href="T_Avalonia_Interactivity_Interactive">Interactive</a>  →  <a href="T_Avalonia_Input_InputElement">InputElement</a>  →  <a href="T_Avalonia_Controls_Control">Control</a>  →  <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl</a>  →  <a href="T_Avalonia_Controls_ContentControl">ContentControl</a>  →  OverlayPopupHost</td></tr>
-<tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_Primitives_IPopupHost">IPopupHost</a>, <a href="T_Avalonia_Controls_Primitives_PopupPositioning_IManagedPopupPositionerPopup">IManagedPopupPositionerPopup</a>, <a href="T_Avalonia_Input_IFocusScope">IFocusScope</a>, <a href="T_Avalonia_Input_IInputElement">IInputElement</a>, <a href="T_Avalonia_Input_IInputRoot">IInputRoot</a>, <a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_blank" rel="noopener noreferrer">IDisposable</a></td></tr>
+<tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_Primitives_IPopupHost">IPopupHost</a>, IManagedPopupPositionerPopup, <a href="T_Avalonia_Input_IFocusScope">IFocusScope</a>, <a href="T_Avalonia_Input_IInputElement">IInputElement</a>, <a href="T_Avalonia_Input_IInputRoot">IInputRoot</a>, <a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_blank" rel="noopener noreferrer">IDisposable</a></td></tr>
 </table>
 
 
@@ -506,11 +506,11 @@ type OverlayPopupHost =
 </tr>
 <tr>
 <td><a href="M_Avalonia_Controls_Primitives_OverlayPopupHost_ConfigurePosition">ConfigurePosition(Visual, PlacementMode, Point, PopupAnchor, PopupGravity, PopupPositionerConstraintAdjustment, Nullable(Rect))</a></td>
-<td> </td>
+<td><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 <tr>
 <td><a href="M_Avalonia_Controls_Primitives_OverlayPopupHost_CreatePopupHost">CreatePopupHost(Visual, IAvaloniaDependencyResolver)</a></td>
-<td> </td>
+<td><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 <tr>
 <td><a href="M_Avalonia_Controls_Primitives_OverlayPopupHost_Dispose">Dispose()</a></td>
@@ -1105,10 +1105,6 @@ type OverlayPopupHost =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1219,3 +1215,4 @@ type OverlayPopupHost =
 
 #### Reference
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

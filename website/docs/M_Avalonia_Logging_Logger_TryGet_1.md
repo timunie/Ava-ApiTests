@@ -37,7 +37,7 @@ static member TryGet :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Logging/Logger.cs#L31" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Logging/Logger.cs#L32" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ Log sink or null if log level is not enabled.
 <a href="T_Avalonia_Logging_Logger">Logger Class</a>  
 <a href="Overload_Avalonia_Logging_Logger_TryGet">TryGet Overload</a>  
 <a href="N_Avalonia_Logging">Avalonia.Logging Namespace</a>  
+

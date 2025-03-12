@@ -63,3 +63,4 @@ new :
 <a href="T_Avalonia_Media_Imaging_WriteableBitmap">WriteableBitmap Class</a>  
 <a href="Overload_Avalonia_Media_Imaging_WriteableBitmap__ctor">WriteableBitmap Overload</a>  
 <a href="N_Avalonia_Media_Imaging">Avalonia.Media.Imaging Namespace</a>  
+

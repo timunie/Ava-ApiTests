@@ -34,7 +34,7 @@ member Show :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Window.cs#L663" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Window.cs#L664" title="View the source code">View Source</a>
 
 
 
@@ -56,3 +56,4 @@ member Show :
 <a href="T_Avalonia_Controls_Window">Window Class</a>  
 <a href="Overload_Avalonia_Controls_Window_Show">Show Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

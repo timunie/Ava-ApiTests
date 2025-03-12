@@ -39,7 +39,7 @@ static member RegisterInNameScope :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Templates/FuncTemplateNameScopeExtensions.cs#L9" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Templates/FuncTemplateNameScopeExtensions.cs#L10" title="View the source code">View Source</a>
 
 
 
@@ -61,3 +61,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 #### Reference
 <a href="T_Avalonia_Controls_Templates_FuncTemplateNameScopeExtensions">FuncTemplateNameScopeExtensions Class</a>  
 <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates Namespace</a>  
+

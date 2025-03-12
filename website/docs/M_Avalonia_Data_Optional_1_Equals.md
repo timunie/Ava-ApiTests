@@ -58,3 +58,4 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 <a href="T_Avalonia_Data_Optional_1">Optional(T) Structure</a>  
 <a href="Overload_Avalonia_Data_Optional_1_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

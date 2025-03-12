@@ -12,7 +12,7 @@ Gets or sets the parent object that inherited <a href="T_Avalonia_AvaloniaProper
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected AvaloniaObject? InheritanceParent \{ get; set; }
+protected AvaloniaObject? InheritanceParent { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -31,7 +31,7 @@ member InheritanceParent : AvaloniaObject with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaObject.cs#L69" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaObject.cs#L70" title="View the source code">View Source</a>
 
 
 
@@ -45,3 +45,4 @@ The inheritance parent.
 #### Reference
 <a href="T_Avalonia_AvaloniaObject">AvaloniaObject Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

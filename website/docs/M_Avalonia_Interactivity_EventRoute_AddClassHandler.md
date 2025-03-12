@@ -34,7 +34,7 @@ member AddClassHandler :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Interactivity/EventRoute.cs#L64" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Interactivity/EventRoute.cs#L65" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ member AddClassHandler :
 #### Reference
 <a href="T_Avalonia_Interactivity_EventRoute">EventRoute Class</a>  
 <a href="N_Avalonia_Interactivity">Avalonia.Interactivity Namespace</a>  
+

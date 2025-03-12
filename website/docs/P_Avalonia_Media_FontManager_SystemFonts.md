@@ -12,7 +12,7 @@ Get all system fonts.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IFontCollection SystemFonts \{ get; }
+public IFontCollection SystemFonts { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member SystemFonts : IFontCollection with get
 #### Reference
 <a href="T_Avalonia_Media_FontManager">FontManager Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

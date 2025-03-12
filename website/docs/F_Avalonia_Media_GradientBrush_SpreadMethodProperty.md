@@ -42,3 +42,4 @@ static val SpreadMethodProperty: StyledProperty<GradientSpreadMethod>
 #### Reference
 <a href="T_Avalonia_Media_GradientBrush">GradientBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

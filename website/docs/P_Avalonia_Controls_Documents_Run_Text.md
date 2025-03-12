@@ -12,11 +12,13 @@ The content spanned by this TextElement.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? Text \{ get; set; }
+[ContentAttribute]
+public string? Text { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public Property Text As String
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property Text As String
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Text : string with get, set
 ```
 </TabItem>
@@ -44,3 +47,4 @@ member Text : string with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Documents_Run">Run Class</a>  
 <a href="N_Avalonia_Controls_Documents">Avalonia.Controls.Documents Namespace</a>  
+

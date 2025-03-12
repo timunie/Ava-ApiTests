@@ -34,7 +34,7 @@ member RequestAnimationFrame :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TopLevel.cs#L623" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TopLevel.cs#L624" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ member RequestAnimationFrame :
 #### Reference
 <a href="T_Avalonia_Controls_TopLevel">TopLevel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

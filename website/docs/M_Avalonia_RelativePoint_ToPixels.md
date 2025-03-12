@@ -34,7 +34,7 @@ member ToPixels :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/RelativePoint.cs#L159" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/RelativePoint.cs#L160" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ The origin point in pixels.
 <a href="T_Avalonia_RelativePoint">RelativePoint Structure</a>  
 <a href="Overload_Avalonia_RelativePoint_ToPixels">ToPixels Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

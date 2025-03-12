@@ -76,24 +76,8 @@
 ## Interfaces
 <table>
 <tr>
-<td><a href="T_Avalonia_Threading_IControlledDispatcherImpl">IControlledDispatcherImpl</a></td>
-<td> </td>
-</tr>
-<tr>
 <td><a href="T_Avalonia_Threading_IDispatcher">IDispatcher</a></td>
 <td>Dispatches jobs to a thread.</td>
-</tr>
-<tr>
-<td><a href="T_Avalonia_Threading_IDispatcherImpl">IDispatcherImpl</a></td>
-<td> </td>
-</tr>
-<tr>
-<td><a href="T_Avalonia_Threading_IDispatcherImplWithExplicitBackgroundProcessing">IDispatcherImplWithExplicitBackgroundProcessing</a></td>
-<td> </td>
-</tr>
-<tr>
-<td><a href="T_Avalonia_Threading_IDispatcherImplWithPendingInput">IDispatcherImplWithPendingInput</a></td>
-<td> </td>
 </tr>
 </table>
 

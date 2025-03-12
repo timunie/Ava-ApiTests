@@ -12,7 +12,7 @@ Gets the font weight.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public FontWeight Weight \{ get; }
+public FontWeight Weight { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Weight : FontWeight with get
 #### Reference
 <a href="T_Avalonia_Media_Typeface">Typeface Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

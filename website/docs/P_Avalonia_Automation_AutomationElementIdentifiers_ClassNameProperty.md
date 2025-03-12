@@ -12,7 +12,7 @@ Identifies the class name automation property. The class name property value is 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static AutomationProperty ClassNameProperty \{ get; }
+public static AutomationProperty ClassNameProperty { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member ClassNameProperty : AutomationProperty with get
 #### Reference
 <a href="T_Avalonia_Automation_AutomationElementIdentifiers">AutomationElementIdentifiers Class</a>  
 <a href="N_Avalonia_Automation">Avalonia.Automation Namespace</a>  
+

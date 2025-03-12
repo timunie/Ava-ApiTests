@@ -34,7 +34,7 @@ member RemoveInternalChild :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/VirtualizingPanel.cs#L168" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/VirtualizingPanel.cs#L169" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ member RemoveInternalChild :
 #### Reference
 <a href="T_Avalonia_Controls_VirtualizingPanel">VirtualizingPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

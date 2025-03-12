@@ -10,18 +10,27 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[ComVisibleAttribute(true)]
+[GuidAttribute("620ce2a5-ab8f-40a9-86cb-de3c75599b58")]
+[InterfaceTypeAttribute(ComInterfaceType.InterfaceIsIUnknown)]
 public interface IRawElementProviderFragmentRoot : IRawElementProviderFragment, 
 	IRawElementProviderSimple
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ComVisibleAttribute(true)>
+<GuidAttribute("620ce2a5-ab8f-40a9-86cb-de3c75599b58")>
+<InterfaceTypeAttribute(ComInterfaceType.InterfaceIsIUnknown)>
 Public Interface IRawElementProviderFragmentRoot
 	Inherits IRawElementProviderFragment, IRawElementProviderSimple
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ComVisibleAttribute(true)>]
+[<GuidAttribute("620ce2a5-ab8f-40a9-86cb-de3c75599b58")>]
+[<InterfaceTypeAttribute(ComInterfaceType.InterfaceIsIUnknown)>]
 type IRawElementProviderFragmentRoot = 
     interface
         interface IRawElementProviderFragment
@@ -102,3 +111,4 @@ type IRawElementProviderFragmentRoot =
 
 #### Reference
 <a href="N_Avalonia_Win32_Interop_Automation">Avalonia.Win32.Interop.Automation Namespace</a>  
+

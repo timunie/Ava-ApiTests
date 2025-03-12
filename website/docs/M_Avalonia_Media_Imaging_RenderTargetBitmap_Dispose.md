@@ -30,7 +30,7 @@ override Dispose : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Imaging/RenderTargetBitmap.cs#L87" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Imaging/RenderTargetBitmap.cs#L88" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ override Dispose : unit -> unit
 #### Reference
 <a href="T_Avalonia_Media_Imaging_RenderTargetBitmap">RenderTargetBitmap Class</a>  
 <a href="N_Avalonia_Media_Imaging">Avalonia.Media.Imaging Namespace</a>  
+

@@ -12,7 +12,7 @@ Determines if the notification is closed.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsClosed \{ get; set; }
+public bool IsClosed { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member IsClosed : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Notifications_NotificationCard">NotificationCard Class</a>  
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
+

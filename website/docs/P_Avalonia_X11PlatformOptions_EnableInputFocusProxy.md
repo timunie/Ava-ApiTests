@@ -12,7 +12,7 @@ Determines whether to use Input Focus Proxy. The default value is false.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool EnableInputFocusProxy \{ get; set; }
+public bool EnableInputFocusProxy { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member EnableInputFocusProxy : bool with get, set
 #### Reference
 <a href="T_Avalonia_X11PlatformOptions">X11PlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

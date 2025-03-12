@@ -39,3 +39,4 @@ new : unit -> ReactiveUserControl
 #### Reference
 <a href="T_Avalonia_ReactiveUI_ReactiveUserControl_1">ReactiveUserControl(TViewModel) Class</a>  
 <a href="N_Avalonia_ReactiveUI">Avalonia.ReactiveUI Namespace</a>  
+

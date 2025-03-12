@@ -27,7 +27,7 @@ member CreateContext : unit -> IGlContext
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Linux/Avalonia.LinuxFramebuffer/Output/DrmOutput.cs#L343" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Linux/Avalonia.LinuxFramebuffer/Output/DrmOutput.cs#L344" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ member CreateContext : unit -> IGlContext
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_Output_DrmOutput">DrmOutput Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer_Output">Avalonia.LinuxFramebuffer.Output Namespace</a>  
+

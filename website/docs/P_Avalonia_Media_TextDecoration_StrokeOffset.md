@@ -12,7 +12,7 @@ The stroke's offset.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double StrokeOffset \{ get; set; }
+public double StrokeOffset { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The pen offset.
 #### Reference
 <a href="T_Avalonia_Media_TextDecoration">TextDecoration Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

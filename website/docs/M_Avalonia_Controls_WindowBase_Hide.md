@@ -30,7 +30,7 @@ override Hide : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/WindowBase.cs#L150" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/WindowBase.cs#L151" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ override Hide : unit -> unit
 #### Reference
 <a href="T_Avalonia_Controls_WindowBase">WindowBase Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

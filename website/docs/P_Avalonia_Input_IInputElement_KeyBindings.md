@@ -12,7 +12,7 @@ Gets the key bindings for the element.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-List<KeyBinding> KeyBindings \{ get; }
+List<KeyBinding> KeyBindings { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract KeyBindings : List<KeyBinding> with get
 #### Reference
 <a href="T_Avalonia_Input_IInputElement">IInputElement Interface</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

@@ -51,3 +51,4 @@ type IWeakEventSubscriber<'TEventArgs when 'TEventArgs : EventArgs> = interface 
 
 #### Reference
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

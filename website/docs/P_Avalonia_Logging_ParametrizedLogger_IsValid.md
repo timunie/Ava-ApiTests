@@ -12,7 +12,7 @@ Checks if this logger can be used.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsValid \{ get; }
+public bool IsValid { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IsValid : bool with get
 #### Reference
 <a href="T_Avalonia_Logging_ParametrizedLogger">ParametrizedLogger Structure</a>  
 <a href="N_Avalonia_Logging">Avalonia.Logging Namespace</a>  
+

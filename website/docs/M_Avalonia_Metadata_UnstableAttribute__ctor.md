@@ -40,3 +40,4 @@ new : unit -> UnstableAttribute
 <a href="T_Avalonia_Metadata_UnstableAttribute">UnstableAttribute Class</a>  
 <a href="Overload_Avalonia_Metadata_UnstableAttribute__ctor">UnstableAttribute Overload</a>  
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

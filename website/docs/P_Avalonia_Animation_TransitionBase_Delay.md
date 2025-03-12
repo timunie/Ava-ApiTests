@@ -12,7 +12,7 @@ Gets or sets delay before starting the transition.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TimeSpan Delay \{ get; set; }
+public TimeSpan Delay { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Delay : TimeSpan with get, set
 #### Reference
 <a href="T_Avalonia_Animation_TransitionBase">TransitionBase Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

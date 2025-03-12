@@ -12,7 +12,7 @@ Gets or sets the x-coordinate of the rotation center point. The default is 0.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double CenterX \{ get; set; }
+public double CenterX { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member CenterX : float with get, set
 #### Reference
 <a href="T_Avalonia_Media_RotateTransform">RotateTransform Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -39,7 +39,7 @@ static member CalculateDistanceFromAncestor :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/VisualTree/VisualExtensions.cs#L26" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/VisualTree/VisualExtensions.cs#L27" title="View the source code">View Source</a>
 
 
 
@@ -59,3 +59,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 #### Reference
 <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions Class</a>  
 <a href="N_Avalonia_VisualTree">Avalonia.VisualTree Namespace</a>  
+

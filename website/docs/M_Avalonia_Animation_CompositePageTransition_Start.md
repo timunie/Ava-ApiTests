@@ -48,7 +48,7 @@ override Start :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/CompositePageTransition.cs#L41" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/CompositePageTransition.cs#L42" title="View the source code">View Source</a>
 
 
 
@@ -69,3 +69,4 @@ A <a href="https://learn.microsoft.com/dotnet/api/system.threading.tasks.task" t
 #### Reference
 <a href="T_Avalonia_Animation_CompositePageTransition">CompositePageTransition Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

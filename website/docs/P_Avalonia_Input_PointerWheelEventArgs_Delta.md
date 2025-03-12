@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Vector Delta \{ get; }
+public Vector Delta { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Delta : Vector with get
 #### Reference
 <a href="T_Avalonia_Input_PointerWheelEventArgs">PointerWheelEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

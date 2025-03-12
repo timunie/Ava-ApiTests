@@ -32,7 +32,7 @@ member Lookup :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rendering/Composition/Animations/ImplicitAnimationCollection.cs#L77" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rendering/Composition/Animations/ImplicitAnimationCollection.cs#L78" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ member Lookup :
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_Animations_ImplicitAnimationCollection">ImplicitAnimationCollection Class</a>  
 <a href="N_Avalonia_Rendering_Composition_Animations">Avalonia.Rendering.Composition.Animations Namespace</a>  
+

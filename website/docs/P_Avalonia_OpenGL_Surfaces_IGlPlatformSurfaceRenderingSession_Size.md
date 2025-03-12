@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-PixelSize Size \{ get; }
+PixelSize Size { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ abstract Size : PixelSize with get
 #### Reference
 <a href="T_Avalonia_OpenGL_Surfaces_IGlPlatformSurfaceRenderingSession">IGlPlatformSurfaceRenderingSession Interface</a>  
 <a href="N_Avalonia_OpenGL_Surfaces">Avalonia.OpenGL.Surfaces Namespace</a>  
+

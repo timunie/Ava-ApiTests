@@ -39,3 +39,4 @@ new : unit -> VulkanDeviceCreationOptions
 #### Reference
 <a href="T_Avalonia_Vulkan_VulkanDeviceCreationOptions">VulkanDeviceCreationOptions Class</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

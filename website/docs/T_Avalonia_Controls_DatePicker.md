@@ -12,17 +12,47 @@ A control to allow the user to select a date
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_ButtonContentGrid", typeof(Grid))]
+[TemplatePartAttribute("PART_DayTextBlock", typeof(TextBlock))]
+[TemplatePartAttribute("PART_FirstSpacer", typeof(Rectangle))]
+[TemplatePartAttribute("PART_FlyoutButton", typeof(Button))]
+[TemplatePartAttribute("PART_MonthTextBlock", typeof(TextBlock))]
+[TemplatePartAttribute("PART_PickerPresenter", typeof(DatePickerPresenter))]
+[TemplatePartAttribute("PART_Popup", typeof(Popup))]
+[TemplatePartAttribute("PART_SecondSpacer", typeof(Rectangle))]
+[TemplatePartAttribute("PART_YearTextBlock", typeof(TextBlock))]
+[PseudoClassesAttribute(new string[] { ... })]
 public class DatePicker : TemplatedControl
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_ButtonContentGrid", GetType(Grid))>
+<TemplatePartAttribute("PART_DayTextBlock", GetType(TextBlock))>
+<TemplatePartAttribute("PART_FirstSpacer", GetType(Rectangle))>
+<TemplatePartAttribute("PART_FlyoutButton", GetType(Button))>
+<TemplatePartAttribute("PART_MonthTextBlock", GetType(TextBlock))>
+<TemplatePartAttribute("PART_PickerPresenter", GetType(DatePickerPresenter))>
+<TemplatePartAttribute("PART_Popup", GetType(Popup))>
+<TemplatePartAttribute("PART_SecondSpacer", GetType(Rectangle))>
+<TemplatePartAttribute("PART_YearTextBlock", GetType(TextBlock))>
+<PseudoClassesAttribute(New String() { ... })>
 Public Class DatePicker
 	Inherits TemplatedControl
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_ButtonContentGrid", typeof(Grid))>]
+[<TemplatePartAttribute("PART_DayTextBlock", typeof(TextBlock))>]
+[<TemplatePartAttribute("PART_FirstSpacer", typeof(Rectangle))>]
+[<TemplatePartAttribute("PART_FlyoutButton", typeof(Button))>]
+[<TemplatePartAttribute("PART_MonthTextBlock", typeof(TextBlock))>]
+[<TemplatePartAttribute("PART_PickerPresenter", typeof(DatePickerPresenter))>]
+[<TemplatePartAttribute("PART_Popup", typeof(Popup))>]
+[<TemplatePartAttribute("PART_SecondSpacer", typeof(Rectangle))>]
+[<TemplatePartAttribute("PART_YearTextBlock", typeof(TextBlock))>]
+[<PseudoClassesAttribute(new string[] { ... })>]
 type DatePicker = 
     class
         inherit TemplatedControl
@@ -1108,10 +1138,6 @@ type DatePicker =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1206,3 +1232,4 @@ type DatePicker =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -73,10 +73,6 @@ type IFontCollection =
 <td>Returns an enumerator that iterates through the collection.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_blank" rel="noopener noreferrer">IEnumerable</a>(<a href="T_Avalonia_Media_FontFamily">FontFamily</a>))</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Media_Fonts_IFontCollection_Initialize">Initialize(IFontManagerImpl)</a></td>
-<td>Initializes the font collection.</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_Media_Fonts_IFontCollection_TryGetGlyphTypeface">TryGetGlyphTypeface(String, FontStyle, FontWeight, FontStretch, IGlyphTypeface)</a></td>
 <td>Try to get a glyph typeface for given parameters.</td>
 </tr>
@@ -91,3 +87,4 @@ type IFontCollection =
 
 #### Reference
 <a href="N_Avalonia_Media_Fonts">Avalonia.Media.Fonts Namespace</a>  
+

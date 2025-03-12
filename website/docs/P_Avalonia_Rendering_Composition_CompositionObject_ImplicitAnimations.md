@@ -12,7 +12,7 @@ The collection of implicit animations attached to this object.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ImplicitAnimationCollection? ImplicitAnimations \{ get; set; }
+public ImplicitAnimationCollection? ImplicitAnimations { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ImplicitAnimations : ImplicitAnimationCollection with get, set
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_CompositionObject">CompositionObject Class</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

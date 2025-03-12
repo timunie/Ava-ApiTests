@@ -36,7 +36,7 @@ override OnCoerceIsExpanded :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Expander.cs#L297" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Expander.cs#L300" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ override OnCoerceIsExpanded :
 #### Reference
 <a href="T_Avalonia_Controls_Expander">Expander Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

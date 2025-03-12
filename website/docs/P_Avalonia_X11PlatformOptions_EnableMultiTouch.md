@@ -12,7 +12,7 @@ Enables multitouch support. The default value is true.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool? EnableMultiTouch \{ get; set; }
+public bool? EnableMultiTouch { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member EnableMultiTouch : Nullable<bool> with get, set
 #### Reference
 <a href="T_Avalonia_X11PlatformOptions">X11PlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

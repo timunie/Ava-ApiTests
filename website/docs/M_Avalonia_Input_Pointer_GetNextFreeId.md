@@ -40,3 +40,4 @@ static member GetNextFreeId : unit -> int
 #### Reference
 <a href="T_Avalonia_Input_Pointer">Pointer Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

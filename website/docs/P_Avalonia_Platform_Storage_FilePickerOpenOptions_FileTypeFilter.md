@@ -12,7 +12,7 @@ Gets or sets the collection of file types that the file open picker displays.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IReadOnlyList<FilePickerFileType>? FileTypeFilter \{ get; set; }
+public IReadOnlyList<FilePickerFileType>? FileTypeFilter { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member FileTypeFilter : IReadOnlyList<FilePickerFileType> with get, set
 #### Reference
 <a href="T_Avalonia_Platform_Storage_FilePickerOpenOptions">FilePickerOpenOptions Class</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

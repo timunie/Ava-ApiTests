@@ -34,7 +34,7 @@ member FormatKey :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/Platform/KeyGestureFormatInfo.cs#L117" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/Platform/KeyGestureFormatInfo.cs#L122" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The appropriate platform specific or common override if present, key.ToString() 
 #### Reference
 <a href="T_Avalonia_Input_Platform_KeyGestureFormatInfo">KeyGestureFormatInfo Class</a>  
 <a href="N_Avalonia_Input_Platform">Avalonia.Input.Platform Namespace</a>  
+

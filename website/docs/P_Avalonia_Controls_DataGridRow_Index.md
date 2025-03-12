@@ -12,7 +12,7 @@ Index of the row
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int Index \{ get; }
+public int Index { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Index : int with get
 #### Reference
 <a href="T_Avalonia_Controls_DataGridRow">DataGridRow Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

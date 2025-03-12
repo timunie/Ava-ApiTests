@@ -12,7 +12,7 @@ HasInverse Property - returns true if this matrix is invertible, false otherwise
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool HasInverse \{ get; }
+public bool HasInverse { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member HasInverse : bool with get
 #### Reference
 <a href="T_Avalonia_Matrix">Matrix Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

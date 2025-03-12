@@ -28,7 +28,7 @@ override BeginDraw : unit -> IGlPlatformSurfaceRenderingSession
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Egl/EglGlPlatformSurfaceBase.cs#L26" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Egl/EglGlPlatformSurfaceBase.cs#L27" title="View the source code">View Source</a>
 
 
 
@@ -46,3 +46,4 @@ override BeginDraw : unit -> IGlPlatformSurfaceRenderingSession
 <a href="T_Avalonia_OpenGL_Egl_EglPlatformSurfaceRenderTargetBase">EglPlatformSurfaceRenderTargetBase Class</a>  
 <a href="Overload_Avalonia_OpenGL_Egl_EglPlatformSurfaceRenderTargetBase_BeginDraw">BeginDraw Overload</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the height of the row.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public GridLength Height \{ get; set; }
+public GridLength Height { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Height : GridLength with get, set
 #### Reference
 <a href="T_Avalonia_Controls_RowDefinition">RowDefinition Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

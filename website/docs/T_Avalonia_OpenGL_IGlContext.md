@@ -53,10 +53,6 @@ type IGlContext =
 <td> </td>
 </tr>
 <tr>
-<td><a href="P_Avalonia_Platform_IPlatformGraphicsContext_IsLost">IsLost</a></td>
-<td><br />(Inherited from <a href="T_Avalonia_Platform_IPlatformGraphicsContext">IPlatformGraphicsContext</a>)</td>
-</tr>
-<tr>
 <td><a href="P_Avalonia_OpenGL_IGlContext_SampleCount">SampleCount</a></td>
 <td> </td>
 </tr>
@@ -81,32 +77,12 @@ type IGlContext =
 <td>Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_blank" rel="noopener noreferrer">IDisposable</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Platform_IPlatformGraphicsContext_EnsureCurrent">EnsureCurrent()</a></td>
-<td><br />(Inherited from <a href="T_Avalonia_Platform_IPlatformGraphicsContext">IPlatformGraphicsContext</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_OpenGL_IGlContext_IsSharedWith">IsSharedWith(IGlContext)</a></td>
 <td> </td>
 </tr>
 <tr>
 <td><a href="M_Avalonia_OpenGL_IGlContext_MakeCurrent">MakeCurrent()</a></td>
 <td> </td>
-</tr>
-<tr>
-<td><a href="M_Avalonia_Platform_IOptionalFeatureProvider_TryGetFeature">TryGetFeature(Type)</a></td>
-<td>Queries for an optional feature.<br />(Inherited from <a href="T_Avalonia_Platform_IOptionalFeatureProvider">IOptionalFeatureProvider</a>)</td>
-</tr>
-</table>
-
-## Extension Methods
-<table>
-<tr>
-<td><a href="M_Avalonia_Platform_OptionalFeatureProviderExtensions_TryGetFeature__1_1">TryGetFeature(T)()</a></td>
-<td>Queries for an optional feature.<br />(Defined by <a href="T_Avalonia_Platform_OptionalFeatureProviderExtensions">OptionalFeatureProviderExtensions</a>)</td>
-</tr>
-<tr>
-<td><a href="M_Avalonia_Platform_OptionalFeatureProviderExtensions_TryGetFeature__1">TryGetFeature(T)(T)</a></td>
-<td>Queries for an optional feature.<br />(Defined by <a href="T_Avalonia_Platform_OptionalFeatureProviderExtensions">OptionalFeatureProviderExtensions</a>)</td>
 </tr>
 </table>
 
@@ -115,3 +91,4 @@ type IGlContext =
 
 #### Reference
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

@@ -12,6 +12,7 @@ Initializes a new instance of the <a href="T_Avalonia_Platform_Screen">Screen</a
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute("This API may be removed in Avalonia 12. If you depend on this API, please open an issue with details of your use-case.")]
 public Screen(
 	double scaling,
 	PixelRect bounds,
@@ -22,6 +23,7 @@ public Screen(
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute("This API may be removed in Avalonia 12. If you depend on this API, please open an issue with details of your use-case.")>
 Public Sub New ( 
 	scaling As Double,
 	bounds As PixelRect,
@@ -32,6 +34,7 @@ Public Sub New (
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute("This API may be removed in Avalonia 12. If you depend on this API, please open an issue with details of your use-case.")>]
 new : 
         scaling : float * 
         bounds : PixelRect * 
@@ -56,3 +59,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Platform_Screen">Screen Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

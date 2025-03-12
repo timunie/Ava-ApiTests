@@ -42,3 +42,4 @@ static val NameProperty: DirectProperty<Application, string>
 #### Reference
 <a href="T_Avalonia_Application">Application Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

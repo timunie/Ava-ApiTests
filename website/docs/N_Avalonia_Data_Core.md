@@ -43,17 +43,13 @@
 <td><a href="T_Avalonia_Data_Core_ReflectionClrPropertyInfo">ReflectionClrPropertyInfo</a></td>
 <td> </td>
 </tr>
-<tr>
-<td><a href="T_Avalonia_Data_Core_UntypedBindingExpressionBase">UntypedBindingExpressionBase</a></td>
-<td>Base class for binding expressions which produce untyped values.</td>
-</tr>
 </table>
 
 ## Interfaces
 <table>
 <tr>
 <td><a href="T_Avalonia_Data_Core_IPropertyInfo">IPropertyInfo</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Data_Core_IPropertyPathElement">IPropertyPathElement</a></td>

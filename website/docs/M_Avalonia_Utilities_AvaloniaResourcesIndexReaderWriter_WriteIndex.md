@@ -35,7 +35,7 @@ static member WriteIndex :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/AvaloniaResourcesIndex.cs#L51" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/AvaloniaResourcesIndex.cs#L52" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ static member WriteIndex :
 #### Reference
 <a href="T_Avalonia_Utilities_AvaloniaResourcesIndexReaderWriter">AvaloniaResourcesIndexReaderWriter Class</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

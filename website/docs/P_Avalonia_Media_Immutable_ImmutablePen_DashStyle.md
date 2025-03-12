@@ -12,7 +12,7 @@ Specifies the style of dashed lines drawn with a <a href="T_Avalonia_Media_Pen">
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IDashStyle? DashStyle \{ get; }
+public IDashStyle? DashStyle { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ override DashStyle : IDashStyle with get
 #### Reference
 <a href="T_Avalonia_Media_Immutable_ImmutablePen">ImmutablePen Class</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

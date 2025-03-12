@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public VkGetInstanceProcAddressDelegate? CustomGetProcAddressDelegate \{ get; set; }
+public VkGetInstanceProcAddressDelegate? CustomGetProcAddressDelegate { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member CustomGetProcAddressDelegate : VkGetInstanceProcAddressDelegate with get,
 #### Reference
 <a href="T_Avalonia_Vulkan_VulkanInstanceCreationOptions">VulkanInstanceCreationOptions Class</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

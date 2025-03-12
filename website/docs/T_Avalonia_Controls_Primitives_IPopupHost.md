@@ -12,18 +12,24 @@ Represents the top-level control opened by a <a href="T_Avalonia_Controls_Primit
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
+[UnstableAttribute("This API may be removed in Avalonia 12. If you depend on this API, please open an issue with details of your use-case.")]
 public interface IPopupHost : IDisposable, 
 	IFocusScope
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
+<UnstableAttribute("This API may be removed in Avalonia 12. If you depend on this API, please open an issue with details of your use-case.")>
 Public Interface IPopupHost
 	Inherits IDisposable, IFocusScope
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
+[<UnstableAttribute("This API may be removed in Avalonia 12. If you depend on this API, please open an issue with details of your use-case.")>]
 type IPopupHost = 
     interface
         interface IDisposable
@@ -128,3 +134,4 @@ A popup host can be either be a popup window created by the operating system (<a
 
 #### Reference
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

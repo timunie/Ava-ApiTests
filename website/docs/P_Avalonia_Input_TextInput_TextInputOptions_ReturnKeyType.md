@@ -12,7 +12,7 @@ Determines what the Return key says and how it behaves.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TextInputReturnKeyType ReturnKeyType \{ get; set; }
+public TextInputReturnKeyType ReturnKeyType { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ReturnKeyType : TextInputReturnKeyType with get, set
 #### Reference
 <a href="T_Avalonia_Input_TextInput_TextInputOptions">TextInputOptions Class</a>  
 <a href="N_Avalonia_Input_TextInput">Avalonia.Input.TextInput Namespace</a>  
+

@@ -12,7 +12,7 @@ DataGrid row item used for preparing the ClipboardRowContent.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object Item \{ get; }
+public Object Item { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member Item : Object with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridClipboard.cs#L197" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridClipboard.cs#L198" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member Item : Object with get
 #### Reference
 <a href="T_Avalonia_Controls_DataGridRowClipboardEventArgs">DataGridRowClipboardEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

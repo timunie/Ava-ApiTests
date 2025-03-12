@@ -12,7 +12,7 @@ Gets if the ClientArea is Extended into the Window Decorations.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsExtendedIntoWindowDecorations \{ get; }
+public bool IsExtendedIntoWindowDecorations { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IsExtendedIntoWindowDecorations : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_Window">Window Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

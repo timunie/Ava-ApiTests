@@ -12,7 +12,7 @@ Gets or sets the tabstrip placement of the TabControl.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Dock TabStripPlacement \{ get; set; }
+public Dock TabStripPlacement { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member TabStripPlacement : Dock with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TabControl">TabControl Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

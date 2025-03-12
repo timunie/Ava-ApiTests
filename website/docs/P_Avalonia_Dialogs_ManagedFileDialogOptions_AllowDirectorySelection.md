@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool AllowDirectorySelection \{ get; set; }
+public bool AllowDirectorySelection { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member AllowDirectorySelection : bool with get, set
 #### Reference
 <a href="T_Avalonia_Dialogs_ManagedFileDialogOptions">ManagedFileDialogOptions Class</a>  
 <a href="N_Avalonia_Dialogs">Avalonia.Dialogs Namespace</a>  
+

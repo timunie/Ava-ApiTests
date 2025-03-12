@@ -37,7 +37,7 @@ static let inline (<>)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridLength.cs#L303" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridLength.cs#L304" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ true if specified DataGridLength have either different value, unit type, desired
 #### Reference
 <a href="T_Avalonia_Controls_DataGridLength">DataGridLength Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

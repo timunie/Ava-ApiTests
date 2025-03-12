@@ -58,7 +58,7 @@ type AppBuilder = class end
 </tr>
 <tr>
 <td><a href="P_Avalonia_AppBuilder_LifetimeOverride">LifetimeOverride</a></td>
-<td>Gets a method to override a lifetime factory.<br />Obsolete.</td>
+<td>Gets a method to override a lifetime factory.<br /><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_AppBuilder_RenderingSubsystemInitializer">RenderingSubsystemInitializer</a></td>
@@ -88,10 +88,6 @@ type AppBuilder = class end
 
 ## Methods
 <table>
-<tr>
-<td><a href="M_Avalonia_AppBuilder_AfterApplicationSetup">AfterApplicationSetup(Action(AppBuilder))</a></td>
-<td> </td>
-</tr>
 <tr>
 <td><a href="M_Avalonia_AppBuilder_AfterPlatformServicesSetup">AfterPlatformServicesSetup(Action(AppBuilder))</a></td>
 <td> </td>
@@ -251,3 +247,4 @@ type AppBuilder = class end
 
 #### Reference
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

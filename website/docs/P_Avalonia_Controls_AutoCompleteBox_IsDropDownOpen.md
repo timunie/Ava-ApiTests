@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the drop-down portion of the control is 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsDropDownOpen \{ get; set; }
+public bool IsDropDownOpen { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ True if the drop-down is open; otherwise, false. The default is false.
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

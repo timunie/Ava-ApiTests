@@ -37,7 +37,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Size.cs#L39" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Size.cs#L40" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ new :
 <a href="T_Avalonia_Size">Size Structure</a>  
 <a href="Overload_Avalonia_Size__ctor">Size Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

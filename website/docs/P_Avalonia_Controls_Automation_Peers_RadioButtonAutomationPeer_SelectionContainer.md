@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ISelectionProvider? SelectionContainer \{ get; }
+public ISelectionProvider? SelectionContainer { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -46,3 +46,4 @@ override SelectionContainer : ISelectionProvider with get
 #### Reference
 <a href="T_Avalonia_Controls_Automation_Peers_RadioButtonAutomationPeer">RadioButtonAutomationPeer Class</a>  
 <a href="N_Avalonia_Controls_Automation_Peers">Avalonia.Controls.Automation.Peers Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the amount of the scrollable content that is currently visible.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double ViewportSize \{ get; set; }
+public double ViewportSize { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ViewportSize : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_ScrollBar">ScrollBar Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

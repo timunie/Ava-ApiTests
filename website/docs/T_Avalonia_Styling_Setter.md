@@ -41,7 +41,7 @@ type Setter =
 
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="T_Avalonia_Styling_SetterBase">SetterBase</a>  →  Setter</td></tr>
-<tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Animation_IAnimationSetter">IAnimationSetter</a>, <a href="T_Avalonia_Styling_ISetterInstance">ISetterInstance</a></td></tr>
+<tr><td><strong>Implements</strong></td><td>IAnimationSetter, <a href="T_Avalonia_Styling_ISetterInstance">ISetterInstance</a></td></tr>
 </table>
 
 A Setter is used to set a <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a> value on a <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a> depending on a condition.
@@ -103,3 +103,4 @@ A Setter is used to set a <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty
 
 #### Reference
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

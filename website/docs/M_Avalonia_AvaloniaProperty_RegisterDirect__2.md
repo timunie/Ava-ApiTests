@@ -58,7 +58,7 @@ static member RegisterDirect :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaProperty.cs#L419" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaProperty.cs#L420" title="View the source code">View Source</a>
 
 
 
@@ -78,3 +78,4 @@ A <a href="T_Avalonia_AvaloniaProperty_1">AvaloniaProperty(TValue)</a>
 #### Reference
 <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the access key should be underlined.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool ShowAccessKey \{ get; set; }
+public bool ShowAccessKey { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ShowAccessKey : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_AccessText">AccessText Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

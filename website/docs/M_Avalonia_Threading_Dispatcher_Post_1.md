@@ -44,7 +44,7 @@ member Post :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/Dispatcher.Invoke.cs#L624" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/Dispatcher.Invoke.cs#L625" title="View the source code">View Source</a>
 
 
 
@@ -58,3 +58,4 @@ member Post :
 <a href="T_Avalonia_Threading_Dispatcher">Dispatcher Class</a>  
 <a href="Overload_Avalonia_Threading_Dispatcher_Post">Post Overload</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

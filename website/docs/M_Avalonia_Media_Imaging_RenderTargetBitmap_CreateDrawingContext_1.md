@@ -34,7 +34,7 @@ member CreateDrawingContext :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Imaging/RenderTargetBitmap.cs#L79" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Imaging/RenderTargetBitmap.cs#L80" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ The drawing context.
 <a href="T_Avalonia_Media_Imaging_RenderTargetBitmap">RenderTargetBitmap Class</a>  
 <a href="Overload_Avalonia_Media_Imaging_RenderTargetBitmap_CreateDrawingContext">CreateDrawingContext Overload</a>  
 <a href="N_Avalonia_Media_Imaging">Avalonia.Media.Imaging Namespace</a>  
+

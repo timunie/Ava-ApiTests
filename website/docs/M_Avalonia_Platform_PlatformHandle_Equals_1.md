@@ -36,7 +36,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/PlatformHandle.cs#L49" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/PlatformHandle.cs#L50" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ true if the specified object is equal to the current object; otherwise, false.
 <a href="T_Avalonia_Platform_PlatformHandle">PlatformHandle Class</a>  
 <a href="Overload_Avalonia_Platform_PlatformHandle_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or Sets the <a href="T_Avalonia_Platform_ExtendClientAreaChromeHints">Exten
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ExtendClientAreaChromeHints ExtendClientAreaChromeHints \{ get; set; }
+public ExtendClientAreaChromeHints ExtendClientAreaChromeHints { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ExtendClientAreaChromeHints : ExtendClientAreaChromeHints with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Window">Window Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

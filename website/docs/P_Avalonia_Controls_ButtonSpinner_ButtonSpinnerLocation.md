@@ -12,7 +12,7 @@ Gets or sets current location of the <a href="T_Avalonia_Controls_ButtonSpinner"
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Location ButtonSpinnerLocation \{ get; set; }
+public Location ButtonSpinnerLocation { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ButtonSpinnerLocation : Location with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ButtonSpinner">ButtonSpinner Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

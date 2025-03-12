@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool IsLost \{ get; }
+bool IsLost { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ abstract IsLost : bool with get
 #### Reference
 <a href="T_Avalonia_Vulkan_IVulkanDevice">IVulkanDevice Interface</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

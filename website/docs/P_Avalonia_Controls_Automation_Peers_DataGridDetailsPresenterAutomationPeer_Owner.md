@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DataGridDetailsPresenter Owner \{ get; }
+public DataGridDetailsPresenter Owner { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Owner : DataGridDetailsPresenter with get
 #### Reference
 <a href="T_Avalonia_Controls_Automation_Peers_DataGridDetailsPresenterAutomationPeer">DataGridDetailsPresenterAutomationPeer Class</a>  
 <a href="N_Avalonia_Controls_Automation_Peers">Avalonia.Controls.Automation.Peers Namespace</a>  
+

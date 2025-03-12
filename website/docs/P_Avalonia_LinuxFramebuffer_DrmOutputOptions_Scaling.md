@@ -12,7 +12,7 @@ Scaling factor. Default: 1.0
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Scaling \{ get; set; }
+public double Scaling { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Scaling : float with get, set
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_DrmOutputOptions">DrmOutputOptions Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer">Avalonia.LinuxFramebuffer Namespace</a>  
+

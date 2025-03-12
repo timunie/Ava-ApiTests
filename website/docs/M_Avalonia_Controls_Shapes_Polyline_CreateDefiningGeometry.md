@@ -28,7 +28,7 @@ override CreateDefiningGeometry : unit -> Geometry
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Shapes/Polyline.cs#L31" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Shapes/Polyline.cs#L32" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override CreateDefiningGeometry : unit -> Geometry
 #### Reference
 <a href="T_Avalonia_Controls_Shapes_Polyline">Polyline Class</a>  
 <a href="N_Avalonia_Controls_Shapes">Avalonia.Controls.Shapes Namespace</a>  
+

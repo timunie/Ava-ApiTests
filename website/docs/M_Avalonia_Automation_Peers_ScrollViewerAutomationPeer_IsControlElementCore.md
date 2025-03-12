@@ -28,7 +28,7 @@ override IsControlElementCore : unit -> bool
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ScrollViewerAutomationPeer.cs#L75" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ScrollViewerAutomationPeer.cs#L77" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override IsControlElementCore : unit -> bool
 #### Reference
 <a href="T_Avalonia_Automation_Peers_ScrollViewerAutomationPeer">ScrollViewerAutomationPeer Class</a>  
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

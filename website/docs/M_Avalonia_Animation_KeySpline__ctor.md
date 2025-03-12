@@ -40,3 +40,4 @@ new : unit -> KeySpline
 <a href="T_Avalonia_Animation_KeySpline">KeySpline Class</a>  
 <a href="Overload_Avalonia_Animation_KeySpline__ctor">KeySpline Overload</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

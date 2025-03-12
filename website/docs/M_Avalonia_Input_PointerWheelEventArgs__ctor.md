@@ -12,6 +12,7 @@ Initializes a new instance of the <a href="T_Avalonia_Input_PointerWheelEventArg
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute("This constructor might be removed in 12.0. For unit testing, consider using IHeadlessWindow.MouseWheel.")]
 public PointerWheelEventArgs(
 	Object source,
 	IPointer pointer,
@@ -26,6 +27,7 @@ public PointerWheelEventArgs(
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute("This constructor might be removed in 12.0. For unit testing, consider using IHeadlessWindow.MouseWheel.")>
 Public Sub New ( 
 	source As Object,
 	pointer As IPointer,
@@ -40,6 +42,7 @@ Public Sub New (
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute("This constructor might be removed in 12.0. For unit testing, consider using IHeadlessWindow.MouseWheel.")>]
 new : 
         source : Object * 
         pointer : IPointer * 
@@ -68,3 +71,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Input_PointerWheelEventArgs">PointerWheelEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

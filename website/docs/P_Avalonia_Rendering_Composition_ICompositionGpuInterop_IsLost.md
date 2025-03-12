@@ -12,7 +12,7 @@ Indicates if the device context this instance is associated with is no longer av
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool IsLost \{ get; }
+bool IsLost { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -39,3 +39,4 @@ abstract IsLost : bool with get
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_ICompositionGpuInterop">ICompositionGpuInterop Interface</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

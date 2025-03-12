@@ -12,17 +12,35 @@ Represents a <a href="T_Avalonia_Controls_DataGrid">DataGrid</a> row.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_BottomGridLine", typeof(Rectangle))]
+[TemplatePartAttribute("PART_CellsPresenter", typeof(DataGridCellsPresenter))]
+[TemplatePartAttribute("PART_DetailsPresenter", typeof(DataGridDetailsPresenter))]
+[TemplatePartAttribute("PART_Root", typeof(Panel))]
+[TemplatePartAttribute("PART_RowHeader", typeof(DataGridRowHeader))]
+[PseudoClassesAttribute(new string[] { ... })]
 public class DataGridRow : TemplatedControl
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_BottomGridLine", GetType(Rectangle))>
+<TemplatePartAttribute("PART_CellsPresenter", GetType(DataGridCellsPresenter))>
+<TemplatePartAttribute("PART_DetailsPresenter", GetType(DataGridDetailsPresenter))>
+<TemplatePartAttribute("PART_Root", GetType(Panel))>
+<TemplatePartAttribute("PART_RowHeader", GetType(DataGridRowHeader))>
+<PseudoClassesAttribute(New String() { ... })>
 Public Class DataGridRow
 	Inherits TemplatedControl
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_BottomGridLine", typeof(Rectangle))>]
+[<TemplatePartAttribute("PART_CellsPresenter", typeof(DataGridCellsPresenter))>]
+[<TemplatePartAttribute("PART_DetailsPresenter", typeof(DataGridDetailsPresenter))>]
+[<TemplatePartAttribute("PART_Root", typeof(Panel))>]
+[<TemplatePartAttribute("PART_RowHeader", typeof(DataGridRowHeader))>]
+[<PseudoClassesAttribute(new string[] { ... })>]
 type DataGridRow = 
     class
         inherit TemplatedControl
@@ -517,7 +535,7 @@ type DataGridRow =
 </tr>
 <tr>
 <td><a href="M_Avalonia_Controls_DataGridRow_GetIndex">GetIndex()</a></td>
-<td>Returns the index of the current row.<br />Obsolete.</td>
+<td>Returns the index of the current row.<br /><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 <tr>
 <td><a href="M_Avalonia_Controls_DataGridRow_GetRowContainingElement">GetRowContainingElement(Control)</a></td>
@@ -1080,10 +1098,6 @@ type DataGridRow =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1178,3 +1192,4 @@ type DataGridRow =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ The currently chosen anchor element to use for scroll anchoring.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Control? CurrentAnchor \{ get; }
+Control? CurrentAnchor { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract CurrentAnchor : Control with get
 #### Reference
 <a href="T_Avalonia_Controls_IScrollAnchorProvider">IScrollAnchorProvider Interface</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

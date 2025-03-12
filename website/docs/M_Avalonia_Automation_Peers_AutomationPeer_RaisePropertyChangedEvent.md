@@ -40,7 +40,7 @@ member RaisePropertyChangedEvent :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/AutomationPeer.cs#L215" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/AutomationPeer.cs#L216" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ member RaisePropertyChangedEvent :
 #### Reference
 <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer Class</a>  
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

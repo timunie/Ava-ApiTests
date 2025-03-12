@@ -55,3 +55,4 @@ static member LoadDesignerWindow :
 <a href="T_Avalonia_DesignerSupport_DesignWindowLoader">DesignWindowLoader Class</a>  
 <a href="Overload_Avalonia_DesignerSupport_DesignWindowLoader_LoadDesignerWindow">LoadDesignerWindow Overload</a>  
 <a href="N_Avalonia_DesignerSupport">Avalonia.DesignerSupport Namespace</a>  
+

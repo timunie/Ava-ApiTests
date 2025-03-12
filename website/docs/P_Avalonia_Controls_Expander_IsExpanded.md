@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the <a href="T_Avalonia_Controls_Expande
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsExpanded \{ get; set; }
+public bool IsExpanded { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member IsExpanded : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Expander">Expander Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

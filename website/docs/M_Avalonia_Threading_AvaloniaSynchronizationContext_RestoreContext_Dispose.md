@@ -30,7 +30,7 @@ override Dispose : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/AvaloniaSynchronizationContext.cs#L102" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/AvaloniaSynchronizationContext.cs#L103" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ override Dispose : unit -> unit
 #### Reference
 <a href="T_Avalonia_Threading_AvaloniaSynchronizationContext_RestoreContext">AvaloniaSynchronizationContext.RestoreContext Structure</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

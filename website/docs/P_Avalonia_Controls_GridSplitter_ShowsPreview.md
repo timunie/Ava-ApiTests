@@ -12,7 +12,7 @@ Indicates whether to Preview the column resizing without updating layout.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool ShowsPreview \{ get; set; }
+public bool ShowsPreview { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ShowsPreview : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_GridSplitter">GridSplitter Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

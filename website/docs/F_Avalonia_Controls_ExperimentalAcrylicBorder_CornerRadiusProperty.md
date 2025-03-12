@@ -40,3 +40,4 @@ static val CornerRadiusProperty: StyledProperty<CornerRadius>
 #### Reference
 <a href="T_Avalonia_Controls_ExperimentalAcrylicBorder">ExperimentalAcrylicBorder Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

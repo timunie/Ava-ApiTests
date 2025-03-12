@@ -34,7 +34,7 @@ member GetDefaultValue :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/StyledProperty.cs#L97" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/StyledProperty.cs#L98" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ The default value.For performance, prefer the <a href="M_Avalonia_StyledProperty
 <a href="T_Avalonia_StyledProperty_1">StyledProperty(TValue) Class</a>  
 <a href="Overload_Avalonia_StyledProperty_1_GetDefaultValue">GetDefaultValue Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

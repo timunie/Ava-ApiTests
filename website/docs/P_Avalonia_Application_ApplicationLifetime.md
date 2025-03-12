@@ -12,7 +12,7 @@ Application lifetime, use it for things like setting the main window and exiting
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IApplicationLifetime? ApplicationLifetime \{ get; set; }
+public IApplicationLifetime? ApplicationLifetime { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ApplicationLifetime : IApplicationLifetime with get, set
 #### Reference
 <a href="T_Avalonia_Application">Application Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

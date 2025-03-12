@@ -12,7 +12,7 @@ Gets or sets the position of the alpha component in the hexadecimal input box re
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public AlphaComponentPosition HexInputAlphaPosition \{ get; set; }
+public AlphaComponentPosition HexInputAlphaPosition { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member HexInputAlphaPosition : AlphaComponentPosition with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ColorView">ColorView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Inherit theme variant from the parent. If set on Application, system theme is in
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static ThemeVariant Default \{ get; }
+public static ThemeVariant Default { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member Default : ThemeVariant with get
 #### Reference
 <a href="T_Avalonia_Styling_ThemeVariant">ThemeVariant Class</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

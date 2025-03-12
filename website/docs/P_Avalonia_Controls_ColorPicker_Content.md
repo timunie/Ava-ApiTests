@@ -12,11 +12,15 @@ Gets or sets any content displayed in the ColorPicker's preview content area.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? Content \{ get; set; }
+[ContentAttribute]
+[DependsOnAttribute("ContentTemplate")]
+public Object? Content { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
+<DependsOnAttribute("ContentTemplate")>
 Public Property Content As Object
 	Get
 	Set
@@ -24,6 +28,8 @@ Public Property Content As Object
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
+[<DependsOnAttribute("ContentTemplate")>]
 member Content : Object with get, set
 ```
 </TabItem>
@@ -44,3 +50,4 @@ member Content : Object with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ColorPicker">ColorPicker Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

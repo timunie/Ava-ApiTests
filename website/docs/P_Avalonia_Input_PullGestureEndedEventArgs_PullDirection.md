@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PullDirection PullDirection \{ get; }
+public PullDirection PullDirection { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member PullDirection : PullDirection with get
 #### Reference
 <a href="T_Avalonia_Input_PullGestureEndedEventArgs">PullGestureEndedEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

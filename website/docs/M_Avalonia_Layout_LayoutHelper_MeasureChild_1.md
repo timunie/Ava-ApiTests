@@ -38,7 +38,7 @@ static member MeasureChild :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Layout/LayoutHelper.cs#L55" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Layout/LayoutHelper.cs#L56" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ static member MeasureChild :
 <a href="T_Avalonia_Layout_LayoutHelper">LayoutHelper Class</a>  
 <a href="Overload_Avalonia_Layout_LayoutHelper_MeasureChild">MeasureChild Overload</a>  
 <a href="N_Avalonia_Layout">Avalonia.Layout Namespace</a>  
+

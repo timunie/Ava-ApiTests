@@ -12,7 +12,7 @@ Holds the name of the member to use for sorting, if not using the default.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string SortMemberPath \{ get; set; }
+public string SortMemberPath { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member SortMemberPath : string with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGridColumn">DataGridColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

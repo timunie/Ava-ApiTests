@@ -12,7 +12,7 @@ Gets or sets a transform to apply to the geometry.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Transform? Transform \{ get; set; }
+public Transform? Transform { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Transform : Transform with get, set
 #### Reference
 <a href="T_Avalonia_Media_Geometry">Geometry Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

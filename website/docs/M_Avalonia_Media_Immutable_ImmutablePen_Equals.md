@@ -36,7 +36,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Immutable/ImmutablePen.cs#L92" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Immutable/ImmutablePen.cs#L93" title="View the source code">View Source</a>
 
 
 
@@ -58,3 +58,4 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 <a href="T_Avalonia_Media_Immutable_ImmutablePen">ImmutablePen Class</a>  
 <a href="Overload_Avalonia_Media_Immutable_ImmutablePen_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

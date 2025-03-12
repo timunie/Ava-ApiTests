@@ -34,7 +34,7 @@ override OnAttachedToLogicalTree :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/MenuItem.cs#L415" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/MenuItem.cs#L416" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override OnAttachedToLogicalTree :
 #### Reference
 <a href="T_Avalonia_Controls_MenuItem">MenuItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

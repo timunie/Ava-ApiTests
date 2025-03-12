@@ -34,7 +34,7 @@ member Contains :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelRect.cs#L180" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelRect.cs#L181" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ true if the rectangle is fully contained; otherwise false.
 <a href="T_Avalonia_PixelRect">PixelRect Structure</a>  
 <a href="Overload_Avalonia_PixelRect_Contains">Contains Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

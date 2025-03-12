@@ -12,7 +12,7 @@ Gets the expression that could not be evaluated.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? Expression \{ get; protected set; }
+public string? Expression { get; protected set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Expression : string with get, set
 #### Reference
 <a href="T_Avalonia_Data_BindingChainException">BindingChainException Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

@@ -47,3 +47,4 @@ abstract ImportSemaphore :
 <a href="T_Avalonia_Rendering_Composition_ICompositionGpuInterop">ICompositionGpuInterop Interface</a>  
 <a href="Overload_Avalonia_Rendering_Composition_ICompositionGpuInterop_ImportSemaphore">ImportSemaphore Overload</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

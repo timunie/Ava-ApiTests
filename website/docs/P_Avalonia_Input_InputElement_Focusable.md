@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the control can receive focus.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool Focusable \{ get; set; }
+public bool Focusable { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override Focusable : bool with get, set
 #### Reference
 <a href="T_Avalonia_Input_InputElement">InputElement Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

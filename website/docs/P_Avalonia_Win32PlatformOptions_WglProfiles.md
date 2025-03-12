@@ -12,7 +12,7 @@ Windows OpenGL profiles used when <a href="P_Avalonia_Win32PlatformOptions_Rende
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IList<GlVersion> WglProfiles \{ get; set; }
+public IList<GlVersion> WglProfiles { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member WglProfiles : IList<GlVersion> with get, set
 #### Reference
 <a href="T_Avalonia_Win32PlatformOptions">Win32PlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the text flow direction.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public FlowDirection FlowDirection \{ get; set; }
+public FlowDirection FlowDirection { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member FlowDirection : FlowDirection with get, set
 #### Reference
 <a href="T_Avalonia_Visual">Visual Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

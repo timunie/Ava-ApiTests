@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the content can be scrolled horizontally
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool CanHorizontallyScroll \{ get; set; }
+bool CanHorizontallyScroll { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ abstract CanHorizontallyScroll : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_ILogicalScrollable">ILogicalScrollable Interface</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

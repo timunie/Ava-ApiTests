@@ -96,3 +96,4 @@ type InputMethod = class end
 
 #### Reference
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

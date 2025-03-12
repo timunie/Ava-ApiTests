@@ -12,7 +12,7 @@ Gets a value that determines how long will be the show delay when user starts in
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TimeSpan ShowDelay \{ get; set; }
+public TimeSpan ShowDelay { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ShowDelay : TimeSpan with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_ScrollBar">ScrollBar Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

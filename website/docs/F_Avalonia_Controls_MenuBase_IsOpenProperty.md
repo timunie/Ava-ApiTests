@@ -42,3 +42,4 @@ static val IsOpenProperty: DirectProperty<MenuBase, bool>
 #### Reference
 <a href="T_Avalonia_Controls_MenuBase">MenuBase Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

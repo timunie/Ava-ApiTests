@@ -34,7 +34,7 @@ static member UseAndroid :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Android/Avalonia.Android/AndroidPlatform.cs#L22" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Android/Avalonia.Android/AndroidPlatform.cs#L23" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 #### Reference
 <a href="T_Avalonia_AndroidApplicationExtensions">AndroidApplicationExtensions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

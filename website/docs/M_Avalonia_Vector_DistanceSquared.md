@@ -37,7 +37,7 @@ static member DistanceSquared :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Vector.cs#L404" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Vector.cs#L405" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ The Euclidean distance squared.
 #### Reference
 <a href="T_Avalonia_Vector">Vector Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

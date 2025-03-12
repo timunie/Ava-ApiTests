@@ -29,7 +29,7 @@ member SelectAll : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TreeView.cs#L218" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TreeView.cs#L219" title="View the source code">View Source</a>
 
 Note that this method only selects nodes currently visible due to their parent nodes being expanded: it does not expand nodes.
 
@@ -39,3 +39,4 @@ Note that this method only selects nodes currently visible due to their parent n
 #### Reference
 <a href="T_Avalonia_Controls_TreeView">TreeView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

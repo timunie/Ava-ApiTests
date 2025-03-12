@@ -23,7 +23,7 @@
 </tr>
 <tr>
 <td><a href="P_Avalonia_Media_IRadialGradientBrush_Radius">Radius</a></td>
-<td>Obsolete.</td>
+<td><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_Media_IRadialGradientBrush_RadiusX">RadiusX</a></td>
@@ -53,3 +53,4 @@
 #### Reference
 <a href="T_Avalonia_Media_IRadialGradientBrush">IRadialGradientBrush Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

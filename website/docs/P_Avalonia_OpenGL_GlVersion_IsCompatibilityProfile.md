@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsCompatibilityProfile \{
+public bool IsCompatibilityProfile {
 	get;
  }
 ```
@@ -44,3 +44,4 @@ member IsCompatibilityProfile : bool with
 #### Reference
 <a href="T_Avalonia_OpenGL_GlVersion">GlVersion Structure</a>  
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

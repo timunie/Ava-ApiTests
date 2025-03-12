@@ -12,7 +12,7 @@ Gets a value that indicates whether the <a href="https://learn.microsoft.com/dot
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsCancelable \{ get; }
+public bool IsCancelable { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member IsCancelable : bool with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/IDataGridCollectionView.cs#L44" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/IDataGridCollectionView.cs#L45" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ true if the event can be canceled; false if the event cannot be canceled.
 #### Reference
 <a href="T_Avalonia_Collections_DataGridCurrentChangingEventArgs">DataGridCurrentChangingEventArgs Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

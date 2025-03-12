@@ -40,3 +40,4 @@ new : unit -> EllipseGeometry
 <a href="T_Avalonia_Media_EllipseGeometry">EllipseGeometry Class</a>  
 <a href="Overload_Avalonia_Media_EllipseGeometry__ctor">EllipseGeometry Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

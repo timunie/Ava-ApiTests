@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IStyle? Parent \{ get; }
+public IStyle? Parent { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Parent : IStyle with get
 #### Reference
 <a href="T_Avalonia_Styling_StyleBase">StyleBase Class</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

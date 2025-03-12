@@ -12,7 +12,7 @@ Gets the current item in the view.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Object CurrentItem \{ get; }
+Object CurrentItem { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The current item in the view or null if there is no current item.
 #### Reference
 <a href="T_Avalonia_Collections_IDataGridCollectionView">IDataGridCollectionView Interface</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

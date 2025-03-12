@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected Vector EffectiveSize \{ get; }
+protected Vector EffectiveSize { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -28,7 +28,7 @@ member EffectiveSize : Vector with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rendering/Composition/CompositionCustomVisualHandler.cs#L59" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rendering/Composition/CompositionCustomVisualHandler.cs#L60" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ member EffectiveSize : Vector with get
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_CompositionCustomVisualHandler">CompositionCustomVisualHandler Class</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

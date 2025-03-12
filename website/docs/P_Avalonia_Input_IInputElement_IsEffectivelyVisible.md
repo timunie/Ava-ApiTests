@@ -12,7 +12,7 @@ Gets a value indicating whether this control and all its parents are visible.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool IsEffectivelyVisible \{ get; }
+bool IsEffectivelyVisible { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract IsEffectivelyVisible : bool with get
 #### Reference
 <a href="T_Avalonia_Input_IInputElement">IInputElement Interface</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

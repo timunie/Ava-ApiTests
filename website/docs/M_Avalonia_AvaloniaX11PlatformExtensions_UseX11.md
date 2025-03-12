@@ -34,7 +34,7 @@ static member UseX11 :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.X11/X11Platform.cs#L406" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.X11/X11Platform.cs#L407" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 #### Reference
 <a href="T_Avalonia_AvaloniaX11PlatformExtensions">AvaloniaX11PlatformExtensions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

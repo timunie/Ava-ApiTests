@@ -12,7 +12,7 @@ Placement target of the popup.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Visual Target \{ get; }
+public Visual Target { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Target : Visual with get
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_PopupPositioning_CustomPopupPlacement">CustomPopupPlacement Class</a>  
 <a href="N_Avalonia_Controls_Primitives_PopupPositioning">Avalonia.Controls.Primitives.PopupPositioning Namespace</a>  
+

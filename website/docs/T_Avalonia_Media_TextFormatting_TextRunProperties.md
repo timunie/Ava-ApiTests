@@ -137,3 +137,4 @@ The text layout client provides a concrete implementation of this abstract class
 
 #### Reference
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

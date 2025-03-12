@@ -57,3 +57,4 @@ The distance between the equidistant snap points. Returns 0 when no snap points 
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_IScrollSnapPointsInfo">IScrollSnapPointsInfo Interface</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

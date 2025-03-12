@@ -49,3 +49,4 @@ member AddDeferred :
 <a href="T_Avalonia_Controls_ResourceDictionary">ResourceDictionary Class</a>  
 <a href="Overload_Avalonia_Controls_ResourceDictionary_AddDeferred">AddDeferred Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

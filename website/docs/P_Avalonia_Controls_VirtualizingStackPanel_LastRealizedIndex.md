@@ -12,7 +12,7 @@ Gets the index of the last realized element, or -1 if no elements are realized.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int LastRealizedIndex \{ get; }
+public int LastRealizedIndex { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member LastRealizedIndex : int with get
 #### Reference
 <a href="T_Avalonia_Controls_VirtualizingStackPanel">VirtualizingStackPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

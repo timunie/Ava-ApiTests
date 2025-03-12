@@ -15,7 +15,7 @@
 </tr>
 <tr>
 <td><a href="F_Avalonia_Media_RadialGradientBrush_RadiusProperty">RadiusProperty</a></td>
-<td>Defines the <a href="P_Avalonia_Media_RadialGradientBrush_Radius">Radius</a> property.<br />Obsolete.</td>
+<td>Defines the <a href="P_Avalonia_Media_RadialGradientBrush_Radius">Radius</a> property.<br /><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 <tr>
 <td><a href="F_Avalonia_Media_RadialGradientBrush_RadiusXProperty">RadiusXProperty</a></td>
@@ -33,3 +33,4 @@
 #### Reference
 <a href="T_Avalonia_Media_RadialGradientBrush">RadialGradientBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

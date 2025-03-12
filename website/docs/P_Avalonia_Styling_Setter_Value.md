@@ -12,11 +12,17 @@ Gets or sets the property value.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? Value \{ get; set; }
+[ContentAttribute]
+[AssignBindingAttribute]
+[DependsOnAttribute("Property")]
+public Object? Value { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
+<AssignBindingAttribute>
+<DependsOnAttribute("Property")>
 Public Property Value As Object
 	Get
 	Set
@@ -24,7 +30,13 @@ Public Property Value As Object
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
+[<AssignBindingAttribute>]
+[<DependsOnAttribute("Property")>]
 abstract Value : Object with get, set
+[<ContentAttribute>]
+[<AssignBindingAttribute>]
+[<DependsOnAttribute("Property")>]
 override Value : Object with get, set
 ```
 </TabItem>
@@ -40,7 +52,7 @@ override Value : Object with get, set
 <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>
 
 #### Implements
-<a href="P_Avalonia_Animation_IAnimationSetter_Value">IAnimationSetter.Value</a>  
+IAnimationSetter.Value  
 
 
 ## See Also
@@ -49,3 +61,4 @@ override Value : Object with get, set
 #### Reference
 <a href="T_Avalonia_Styling_Setter">Setter Class</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

@@ -15,7 +15,7 @@
 </tr>
 <tr>
 <td><a href="P_Avalonia_Styling_IStyleable_StyleKey">StyleKey</a></td>
-<td>Gets the type by which the control is styled.<br />Obsolete.</td>
+<td>Gets the type by which the control is styled.<br /><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_Styling_IStyleable_TemplatedParent">TemplatedParent</a></td>
@@ -29,3 +29,4 @@
 #### Reference
 <a href="T_Avalonia_Styling_IStyleable">IStyleable Interface</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

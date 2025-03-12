@@ -35,7 +35,7 @@ static member TryCreateDashEffect :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Skia/Avalonia.Skia/Helpers/DrawingContextHelper.cs#L58" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Skia/Avalonia.Skia/Helpers/DrawingContextHelper.cs#L59" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ static member TryCreateDashEffect :
 #### Reference
 <a href="T_Avalonia_Skia_Helpers_DrawingContextHelper">DrawingContextHelper Class</a>  
 <a href="N_Avalonia_Skia_Helpers">Avalonia.Skia.Helpers Namespace</a>  
+

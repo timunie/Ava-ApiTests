@@ -36,7 +36,7 @@ override OnAttachedToLogicalTree :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/StyledElement.cs#L571" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/StyledElement.cs#L572" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnAttachedToLogicalTree :
 #### Reference
 <a href="T_Avalonia_StyledElement">StyledElement Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

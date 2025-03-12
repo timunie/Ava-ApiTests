@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static PixelFormat Bgr565 \{ get; }
+public static PixelFormat Bgr565 { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ static member Bgr565 : PixelFormat with get
 #### Reference
 <a href="T_Avalonia_Platform_PixelFormats">PixelFormats Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

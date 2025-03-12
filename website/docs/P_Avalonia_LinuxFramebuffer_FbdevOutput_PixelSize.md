@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PixelSize PixelSize \{ get; }
+public PixelSize PixelSize { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -29,7 +29,7 @@ override PixelSize : PixelSize with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Linux/Avalonia.LinuxFramebuffer/Output/FbdevOutput.cs#L155" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Linux/Avalonia.LinuxFramebuffer/Output/FbdevOutput.cs#L157" title="View the source code">View Source</a>
 
 
 
@@ -46,3 +46,4 @@ override PixelSize : PixelSize with get
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_FbdevOutput">FbdevOutput Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer">Avalonia.LinuxFramebuffer Namespace</a>  
+

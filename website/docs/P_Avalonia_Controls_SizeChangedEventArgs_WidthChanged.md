@@ -12,7 +12,7 @@ Gets a value indicating whether the width of the new size is considered differen
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool WidthChanged \{ get; }
+public bool WidthChanged { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member WidthChanged : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_SizeChangedEventArgs">SizeChangedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

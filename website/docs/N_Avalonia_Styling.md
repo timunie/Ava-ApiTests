@@ -53,11 +53,11 @@
 <table>
 <tr>
 <td><a href="T_Avalonia_Styling_IGlobalStyles">IGlobalStyles</a></td>
-<td>Defines the style host that provides styles global to the application.</td>
+<td>Defines the style host that provides styles global to the application.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Styling_ISetterInstance">ISetterInstance</a></td>
-<td>Represents a <a href="T_Avalonia_Styling_Setter">Setter</a> that has been instanced on a control.</td>
+<td>Represents a <a href="T_Avalonia_Styling_Setter">Setter</a> that has been instanced on a control.<br /><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Styling_ISetterValue">ISetterValue</a></td>
@@ -65,15 +65,15 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Styling_IStyle">IStyle</a></td>
-<td>Defines the interface for styles.</td>
+<td>Defines the interface for styles.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Styling_IStyleable">IStyleable</a></td>
-<td>Interface for styleable elements.<br />Obsolete.</td>
+<td>Interface for styleable elements.<br /><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Styling_IStyleHost">IStyleHost</a></td>
-<td>Defines an element that has a <a href="P_Avalonia_Styling_IStyleHost_Styles">Styles</a> collection.</td>
+<td>Defines an element that has a <a href="P_Avalonia_Styling_IStyleHost_Styles">Styles</a> collection.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Styling_ITemplate">ITemplate</a></td>

@@ -32,7 +32,7 @@ static member PrintVisualTree :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Diagnostics/Diagnostics/VisualTreeDebug.cs#L13" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Diagnostics/Diagnostics/VisualTreeDebug.cs#L14" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ static member PrintVisualTree :
 #### Reference
 <a href="T_Avalonia_Diagnostics_VisualTreeDebug">VisualTreeDebug Class</a>  
 <a href="N_Avalonia_Diagnostics">Avalonia.Diagnostics Namespace</a>  
+

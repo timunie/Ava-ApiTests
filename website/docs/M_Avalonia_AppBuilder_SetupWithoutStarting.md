@@ -29,7 +29,7 @@ member SetupWithoutStarting : unit -> AppBuilder
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AppBuilder.cs#L193" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AppBuilder.cs#L194" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member SetupWithoutStarting : unit -> AppBuilder
 #### Reference
 <a href="T_Avalonia_AppBuilder">AppBuilder Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

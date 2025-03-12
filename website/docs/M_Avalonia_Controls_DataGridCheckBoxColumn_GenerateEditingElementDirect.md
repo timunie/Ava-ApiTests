@@ -40,7 +40,7 @@ override GenerateEditingElementDirect :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridCheckBoxColumn.cs#L89" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridCheckBoxColumn.cs#L90" title="View the source code">View Source</a>
 
 
 
@@ -57,3 +57,4 @@ A new <a href="https://learn.microsoft.com/dotnet/api/system.windows.controls.ch
 #### Reference
 <a href="T_Avalonia_Controls_DataGridCheckBoxColumn">DataGridCheckBoxColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

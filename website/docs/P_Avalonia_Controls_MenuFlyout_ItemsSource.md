@@ -12,7 +12,7 @@ Gets or sets the items of the MenuFlyout
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IEnumerable? ItemsSource \{ get; set; }
+public IEnumerable? ItemsSource { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ItemsSource : IEnumerable with get, set
 #### Reference
 <a href="T_Avalonia_Controls_MenuFlyout">MenuFlyout Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,18 +12,21 @@ An imported GPU semaphore object that's usable by composition APIs
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface ICompositionImportedGpuSemaphore : ICompositionGpuImportedObject, 
 	IAsyncDisposable
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface ICompositionImportedGpuSemaphore
 	Inherits ICompositionGpuImportedObject, IAsyncDisposable
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type ICompositionImportedGpuSemaphore = 
     interface
         interface ICompositionGpuImportedObject
@@ -64,3 +67,4 @@ type ICompositionImportedGpuSemaphore =
 
 #### Reference
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

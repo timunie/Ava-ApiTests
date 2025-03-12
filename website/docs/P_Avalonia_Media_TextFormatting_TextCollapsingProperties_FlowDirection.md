@@ -12,7 +12,7 @@ Gets the flow direction that is used for collapsing.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract FlowDirection FlowDirection \{ get; }
+public abstract FlowDirection FlowDirection { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract FlowDirection : FlowDirection with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextCollapsingProperties">TextCollapsingProperties Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

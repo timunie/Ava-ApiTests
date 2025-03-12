@@ -12,17 +12,20 @@ Gets the children of the <a href="T_Avalonia_Animation_Animation">Animation</a>.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public KeyFrames Children \{ get; }
+[ContentAttribute]
+public KeyFrames Children { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public ReadOnly Property Children As KeyFrames
 	Get
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Children : KeyFrames with get
 ```
 </TabItem>
@@ -43,3 +46,4 @@ member Children : KeyFrames with get
 #### Reference
 <a href="T_Avalonia_Animation_Animation">Animation Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

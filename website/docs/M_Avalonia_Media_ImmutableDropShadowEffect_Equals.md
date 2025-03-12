@@ -34,7 +34,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Effects/IDropShadowEffect.cs#L45" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Effects/IDropShadowEffect.cs#L46" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ override Equals :
 <a href="T_Avalonia_Media_ImmutableDropShadowEffect">ImmutableDropShadowEffect Class</a>  
 <a href="Overload_Avalonia_Media_ImmutableDropShadowEffect_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public MenuItem Owner \{ get; }
+public MenuItem Owner { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Owner : MenuItem with get
 #### Reference
 <a href="T_Avalonia_Automation_Peers_MenuItemAutomationPeer">MenuItemAutomationPeer Class</a>  
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

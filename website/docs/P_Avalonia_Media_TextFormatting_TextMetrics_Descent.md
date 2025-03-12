@@ -12,7 +12,7 @@ Gets the recommended distance under the baseline.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Descent \{ get; }
+public double Descent { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Descent : float with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextMetrics">TextMetrics Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

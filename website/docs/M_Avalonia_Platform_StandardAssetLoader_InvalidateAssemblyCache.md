@@ -28,7 +28,7 @@ override InvalidateAssemblyCache : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/StandardAssetLoader.cs#L164" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/StandardAssetLoader.cs#L165" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ override InvalidateAssemblyCache : unit -> unit
 <a href="T_Avalonia_Platform_StandardAssetLoader">StandardAssetLoader Class</a>  
 <a href="Overload_Avalonia_Platform_StandardAssetLoader_InvalidateAssemblyCache">InvalidateAssemblyCache Overload</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

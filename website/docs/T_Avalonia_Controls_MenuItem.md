@@ -12,12 +12,16 @@ A menu item control.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_Popup", typeof(Popup))]
+[PseudoClassesAttribute(new string[] { ... })]
 public class MenuItem : HeaderedSelectingItemsControl, IInputElement, 
 	ILogical, ISelectable, ICommandSource
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_Popup", GetType(Popup))>
+<PseudoClassesAttribute(New String() { ... })>
 Public Class MenuItem
 	Inherits HeaderedSelectingItemsControl
 	Implements IInputElement, ILogical, ISelectable, ICommandSource
@@ -25,6 +29,8 @@ Public Class MenuItem
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_Popup", typeof(Popup))>]
+[<PseudoClassesAttribute(new string[] { ... })>]
 type MenuItem = 
     class
         inherit HeaderedSelectingItemsControl
@@ -1435,10 +1441,6 @@ type MenuItem =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1553,3 +1555,4 @@ type MenuItem =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

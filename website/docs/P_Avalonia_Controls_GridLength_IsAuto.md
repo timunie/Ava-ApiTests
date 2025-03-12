@@ -12,7 +12,7 @@ Gets a value that indicates whether the <a href="T_Avalonia_Controls_GridLength"
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsAuto \{ get; }
+public bool IsAuto { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IsAuto : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_GridLength">GridLength Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected bool EnforceClientSize \{ get; set; }
+protected bool EnforceClientSize { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member EnforceClientSize : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Embedding_EmbeddableControlRoot">EmbeddableControlRoot Class</a>  
 <a href="N_Avalonia_Controls_Embedding">Avalonia.Controls.Embedding Namespace</a>  
+

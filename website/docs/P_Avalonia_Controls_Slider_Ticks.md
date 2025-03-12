@@ -12,7 +12,7 @@ Defines the ticks to be drawn on the tick bar.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public AvaloniaList<double>? Ticks \{ get; set; }
+public AvaloniaList<double>? Ticks { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Ticks : AvaloniaList<float> with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Slider">Slider Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

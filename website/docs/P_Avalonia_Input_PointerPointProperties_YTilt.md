@@ -12,7 +12,7 @@ Gets the plane angle between the X-Z plane and the plane that contains the X axi
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public float YTilt \{
+public float YTilt {
 	get;
  }
 ```
@@ -47,3 +47,4 @@ The value is 0.0 when the finger or pen is perpendicular to the digitizer surfac
 #### Reference
 <a href="T_Avalonia_Input_PointerPointProperties">PointerPointProperties Structure</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

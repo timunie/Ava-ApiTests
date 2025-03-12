@@ -12,7 +12,7 @@ Gets or sets the Filter, which is a callback set by the consumer of the ICollect
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Func<Object, bool> Filter \{ get; set; }
+public Func<Object, bool> Filter { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -32,7 +32,7 @@ override Filter : Func<Object, bool> with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L619" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L620" title="View the source code">View Source</a>
 
 
 
@@ -58,3 +58,4 @@ override Filter : Func<Object, bool> with get, set
 <a href="T_Avalonia_Collections_DataGridCollectionView">DataGridCollectionView Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
 <a href="P_Avalonia_Collections_DataGridCollectionView_CanFilter">CanFilter</a>  
+

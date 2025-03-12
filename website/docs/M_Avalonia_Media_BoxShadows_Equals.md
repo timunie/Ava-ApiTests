@@ -32,7 +32,7 @@ member Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/BoxShadows.cs#L124" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/BoxShadows.cs#L125" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ member Equals :
 <a href="T_Avalonia_Media_BoxShadows">BoxShadows Structure</a>  
 <a href="Overload_Avalonia_Media_BoxShadows_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -12,7 +12,7 @@ If set to true, FBIO_WAITFORVSYNC ioctl and following memcpy call will run on a 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool? UseAsyncFrontBufferBlit \{ get; set; }
+public bool? UseAsyncFrontBufferBlit { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member UseAsyncFrontBufferBlit : Nullable<bool> with get, set
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_Output_FbDevOutputOptions">FbDevOutputOptions Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer_Output">Avalonia.LinuxFramebuffer.Output Namespace</a>  
+

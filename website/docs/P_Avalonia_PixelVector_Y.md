@@ -12,7 +12,7 @@ Gets the Y vector.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int Y \{ get; }
+public int Y { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Y : int with get
 #### Reference
 <a href="T_Avalonia_PixelVector">PixelVector Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

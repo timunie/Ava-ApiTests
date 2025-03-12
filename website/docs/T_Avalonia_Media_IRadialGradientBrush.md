@@ -12,18 +12,21 @@ Paints an area with a radial gradient.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IRadialGradientBrush : IGradientBrush, 
 	IBrush
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IRadialGradientBrush
 	Inherits IGradientBrush, IBrush
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IRadialGradientBrush = 
     interface
         interface IGradientBrush
@@ -63,7 +66,7 @@ type IRadialGradientBrush =
 </tr>
 <tr>
 <td><a href="P_Avalonia_Media_IRadialGradientBrush_Radius">Radius</a></td>
-<td>Obsolete.</td>
+<td><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_Media_IRadialGradientBrush_RadiusX">RadiusX</a></td>
@@ -100,3 +103,4 @@ type IRadialGradientBrush =
 
 #### Reference
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

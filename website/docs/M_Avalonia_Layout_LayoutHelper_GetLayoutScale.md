@@ -34,7 +34,7 @@ static member GetLayoutScale :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Layout/LayoutHelper.cs#L143" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Layout/LayoutHelper.cs#L144" title="View the source code">View Source</a>
 
 
 
@@ -58,3 +58,4 @@ static member GetLayoutScale :
 #### Reference
 <a href="T_Avalonia_Layout_LayoutHelper">LayoutHelper Class</a>  
 <a href="N_Avalonia_Layout">Avalonia.Layout Namespace</a>  
+

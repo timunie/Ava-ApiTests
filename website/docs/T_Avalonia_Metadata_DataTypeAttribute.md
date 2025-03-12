@@ -12,11 +12,13 @@ Defines the property that contains type that should be used as a type informatio
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AttributeUsageAttribute(AttributeTargets.Property)]
 public sealed class DataTypeAttribute : Attribute
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AttributeUsageAttribute(AttributeTargets.Property)>
 Public NotInheritable Class DataTypeAttribute
 	Inherits Attribute
 ```
@@ -24,6 +26,7 @@ Public NotInheritable Class DataTypeAttribute
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<AttributeUsageAttribute(AttributeTargets.Property)>]
 type DataTypeAttribute = 
     class
         inherit Attribute
@@ -91,3 +94,4 @@ Used on DataTemplate.DataType property so it can be inherited in compiled bindin
 
 #### Reference
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

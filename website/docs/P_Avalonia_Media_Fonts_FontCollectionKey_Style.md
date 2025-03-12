@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public FontStyle Style \{ get; init; }
+public FontStyle Style { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member Style : FontStyle with get, set
 #### Reference
 <a href="T_Avalonia_Media_Fonts_FontCollectionKey">FontCollectionKey Structure</a>  
 <a href="N_Avalonia_Media_Fonts">Avalonia.Media.Fonts Namespace</a>  
+

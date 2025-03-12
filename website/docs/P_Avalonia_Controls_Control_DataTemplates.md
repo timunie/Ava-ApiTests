@@ -12,7 +12,7 @@ Gets or sets the data templates for the control.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DataTemplates DataTemplates \{ get; }
+public DataTemplates DataTemplates { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ Each control may define data templates which are applied to the control itself a
 #### Reference
 <a href="T_Avalonia_Controls_Control">Control Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

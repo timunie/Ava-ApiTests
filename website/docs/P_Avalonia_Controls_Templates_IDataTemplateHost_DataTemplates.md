@@ -12,7 +12,7 @@ Gets the data templates for the element.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-DataTemplates DataTemplates \{ get; }
+DataTemplates DataTemplates { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract DataTemplates : DataTemplates with get
 #### Reference
 <a href="T_Avalonia_Controls_Templates_IDataTemplateHost">IDataTemplateHost Interface</a>  
 <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates Namespace</a>  
+

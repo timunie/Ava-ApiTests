@@ -12,7 +12,7 @@ Gets a collection of child windows owned by this window.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IReadOnlyList<Window> OwnedWindows \{ get; }
+public IReadOnlyList<Window> OwnedWindows { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member OwnedWindows : IReadOnlyList<Window> with get
 #### Reference
 <a href="T_Avalonia_Controls_Window">Window Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

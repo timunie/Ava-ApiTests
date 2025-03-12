@@ -12,7 +12,7 @@ Gets the logical child whose index was changed or null if all children should be
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ILogical? Child \{ get; }
+public ILogical? Child { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Child : ILogical with get
 #### Reference
 <a href="T_Avalonia_LogicalTree_ChildIndexChangedEventArgs">ChildIndexChangedEventArgs Class</a>  
 <a href="N_Avalonia_LogicalTree">Avalonia.LogicalTree Namespace</a>  
+

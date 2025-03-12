@@ -36,7 +36,7 @@ override OnColorChanged :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/ColorSlider/ColorSlider.cs#L482" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/ColorSlider/ColorSlider.cs#L483" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnColorChanged :
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_ColorSlider">ColorSlider Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

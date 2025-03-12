@@ -42,7 +42,7 @@ override OnSelectionRemoved :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Selection/SelectionModel.cs#L361" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Selection/SelectionModel.cs#L364" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ override OnSelectionRemoved :
 #### Reference
 <a href="T_Avalonia_Controls_Selection_SelectionModel_1">SelectionModel(T) Class</a>  
 <a href="N_Avalonia_Controls_Selection">Avalonia.Controls.Selection Namespace</a>  
+

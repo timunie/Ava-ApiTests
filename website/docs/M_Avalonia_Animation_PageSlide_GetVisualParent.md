@@ -37,7 +37,7 @@ static member GetVisualParent :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/PageSlide.cs#L159" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/PageSlide.cs#L160" title="View the source code">View Source</a>
 
 
 
@@ -62,3 +62,4 @@ The common parent.Any one of the parameters may be null, but not both.
 #### Reference
 <a href="T_Avalonia_Animation_PageSlide">PageSlide Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

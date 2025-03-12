@@ -12,7 +12,7 @@ Gets or sets the padding to place around the <a href="P_Avalonia_Controls_Decora
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Thickness Padding \{ get; set; }
+public Thickness Padding { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Padding : Thickness with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Decorator">Decorator Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -53,3 +53,4 @@
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_CompositionSolidColorVisual">CompositionSolidColorVisual Class</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

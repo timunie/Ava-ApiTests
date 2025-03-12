@@ -12,7 +12,7 @@ Gets or sets a value controlling how the source rectangle will be stretched to f
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Stretch Stretch \{ get; set; }
+public Stretch Stretch { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override Stretch : Stretch with get, set
 #### Reference
 <a href="T_Avalonia_Media_TileBrush">TileBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

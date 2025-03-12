@@ -28,7 +28,7 @@ override ToString : unit -> string
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/BoxShadow.cs#L73" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/BoxShadow.cs#L74" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override ToString : unit -> string
 #### Reference
 <a href="T_Avalonia_Media_BoxShadow">BoxShadow Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

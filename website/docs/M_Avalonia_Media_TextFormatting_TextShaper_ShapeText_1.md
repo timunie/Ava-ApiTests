@@ -39,7 +39,7 @@ member ShapeText :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextShaper.cs#L49" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextShaper.cs#L50" title="View the source code">View Source</a>
 
 
 
@@ -56,3 +56,4 @@ member ShapeText :
 <a href="T_Avalonia_Media_TextFormatting_TextShaper">TextShaper Class</a>  
 <a href="Overload_Avalonia_Media_TextFormatting_TextShaper_ShapeText">ShapeText Overload</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

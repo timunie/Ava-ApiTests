@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Vector3D CenterPoint \{ get; set; }
+public Vector3D CenterPoint { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -29,7 +29,7 @@ member CenterPoint : Vector3D with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/obj/GeneratedFiles/DevGenerators/Avalonia.SourceGenerator.CompositionGenerator.CompositionRoslynGenerator/CompositionVisual.generated.cs#L415" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/obj/GeneratedFiles/DevGenerators/Avalonia.SourceGenerator.CompositionGenerator.CompositionRoslynGenerator/CompositionVisual.generated.cs#L416" title="View the source code">View Source</a>
 
 
 
@@ -42,3 +42,4 @@ member CenterPoint : Vector3D with get, set
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_CompositionVisual">CompositionVisual Class</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

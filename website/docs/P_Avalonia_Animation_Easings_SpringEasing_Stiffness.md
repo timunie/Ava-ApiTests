@@ -12,7 +12,7 @@ The spring stiffness.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Stiffness \{ get; set; }
+public double Stiffness { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Stiffness : float with get, set
 #### Reference
 <a href="T_Avalonia_Animation_Easings_SpringEasing">SpringEasing Class</a>  
 <a href="N_Avalonia_Animation_Easings">Avalonia.Animation.Easings Namespace</a>  
+

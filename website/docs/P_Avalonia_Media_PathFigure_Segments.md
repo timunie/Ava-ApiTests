@@ -12,11 +12,13 @@ Gets or sets the segments.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PathSegments? Segments \{ get; set; }
+[ContentAttribute]
+public PathSegments? Segments { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public Property Segments As PathSegments
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property Segments As PathSegments
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Segments : PathSegments with get, set
 ```
 </TabItem>
@@ -45,3 +48,4 @@ The segments.
 #### Reference
 <a href="T_Avalonia_Media_PathFigure">PathFigure Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

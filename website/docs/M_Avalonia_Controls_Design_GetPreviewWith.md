@@ -32,7 +32,7 @@ static member GetPreviewWith :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Design.cs#L68" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Design.cs#L69" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ static member GetPreviewWith :
 <a href="T_Avalonia_Controls_Design">Design Class</a>  
 <a href="Overload_Avalonia_Controls_Design_GetPreviewWith">GetPreviewWith Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

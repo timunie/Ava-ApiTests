@@ -43,7 +43,7 @@ abstract ImportImage :
 <dl><dt>  <a href="T_Avalonia_Platform_IPlatformHandle">IPlatformHandle</a></dt><dd> </dd><dt>  <a href="T_Avalonia_Platform_PlatformGraphicsExternalImageProperties">PlatformGraphicsExternalImageProperties</a></dt><dd> </dd></dl>
 
 #### Return Value
-<a href="T_Avalonia_Platform_IPlatformRenderInterfaceImportedImage">IPlatformRenderInterfaceImportedImage</a>
+IPlatformRenderInterfaceImportedImage
 
 ## See Also
 
@@ -52,3 +52,4 @@ abstract ImportImage :
 <a href="T_Avalonia_Platform_IExternalObjectsRenderInterfaceContextFeature">IExternalObjectsRenderInterfaceContextFeature Interface</a>  
 <a href="Overload_Avalonia_Platform_IExternalObjectsRenderInterfaceContextFeature_ImportImage">ImportImage Overload</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

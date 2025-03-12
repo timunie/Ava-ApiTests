@@ -27,7 +27,7 @@ member GetResult : unit -> 'T
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/SynchronousCompletionAsyncResult.cs#L44" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/SynchronousCompletionAsyncResult.cs#L45" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ member GetResult : unit -> 'T
 #### Reference
 <a href="T_Avalonia_Utilities_SynchronousCompletionAsyncResult_1">SynchronousCompletionAsyncResult(T) Structure</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

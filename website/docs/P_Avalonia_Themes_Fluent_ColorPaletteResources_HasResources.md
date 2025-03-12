@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public override bool HasResources \{ get; }
+public override bool HasResources { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -46,3 +46,4 @@ override HasResources : bool with get
 #### Reference
 <a href="T_Avalonia_Themes_Fluent_ColorPaletteResources">ColorPaletteResources Class</a>  
 <a href="N_Avalonia_Themes_Fluent">Avalonia.Themes.Fluent Namespace</a>  
+

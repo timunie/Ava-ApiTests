@@ -12,16 +12,19 @@ Represents a node in the logical tree.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface ILogical
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface ILogical
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type ILogical = interface end
 ```
 </TabItem>
@@ -142,3 +145,4 @@ type ILogical = interface end
 
 #### Reference
 <a href="N_Avalonia_LogicalTree">Avalonia.LogicalTree Namespace</a>  
+

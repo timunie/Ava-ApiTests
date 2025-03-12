@@ -12,7 +12,7 @@ Gets or sets the value binding.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IBinding? ValueBinding \{ get; set; }
+public IBinding? ValueBinding { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ValueBinding : IBinding with get, set
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox_BindingEvaluator_1">AutoCompleteBox.BindingEvaluator(T) Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

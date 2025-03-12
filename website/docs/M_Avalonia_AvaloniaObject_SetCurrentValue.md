@@ -51,3 +51,4 @@ member SetCurrentValue :
 <a href="T_Avalonia_AvaloniaObject">AvaloniaObject Class</a>  
 <a href="Overload_Avalonia_AvaloniaObject_SetCurrentValue">SetCurrentValue Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

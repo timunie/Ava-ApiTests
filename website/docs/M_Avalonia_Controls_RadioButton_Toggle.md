@@ -28,7 +28,7 @@ override Toggle : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RadioButton.cs#L45" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RadioButton.cs#L46" title="View the source code">View Source</a>
 
 
 
@@ -38,3 +38,4 @@ override Toggle : unit -> unit
 #### Reference
 <a href="T_Avalonia_Controls_RadioButton">RadioButton Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -39,3 +39,4 @@ new : unit -> TransformOperationsTransition
 #### Reference
 <a href="T_Avalonia_Animation_TransformOperationsTransition">TransformOperationsTransition Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

@@ -37,7 +37,7 @@ static member SetHorizontalSnapPointsType :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ScrollViewer.cs#L499" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ScrollViewer.cs#L500" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ static member SetHorizontalSnapPointsType :
 #### Reference
 <a href="T_Avalonia_Controls_ScrollViewer">ScrollViewer Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

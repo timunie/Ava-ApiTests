@@ -29,7 +29,7 @@ member InvalidateMeasure : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Layout/Layoutable.cs#L432" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Layout/Layoutable.cs#L433" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ member InvalidateMeasure : unit -> unit
 #### Reference
 <a href="T_Avalonia_Layout_Layoutable">Layoutable Class</a>  
 <a href="N_Avalonia_Layout">Avalonia.Layout Namespace</a>  
+

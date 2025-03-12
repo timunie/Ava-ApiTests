@@ -12,7 +12,7 @@ Gets or sets the first date to be displayed.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DateTime? DisplayDateStart \{ get; set; }
+public DateTime? DisplayDateStart { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The first date to display.
 #### Reference
 <a href="T_Avalonia_Controls_CalendarDatePicker">CalendarDatePicker Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

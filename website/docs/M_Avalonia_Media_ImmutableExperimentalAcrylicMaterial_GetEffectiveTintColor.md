@@ -27,7 +27,7 @@ member GetEffectiveTintColor : unit -> Color
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/ImmutableExperimentalAcrylicMaterial.cs#L43" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/ImmutableExperimentalAcrylicMaterial.cs#L44" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ member GetEffectiveTintColor : unit -> Color
 #### Reference
 <a href="T_Avalonia_Media_ImmutableExperimentalAcrylicMaterial">ImmutableExperimentalAcrylicMaterial Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

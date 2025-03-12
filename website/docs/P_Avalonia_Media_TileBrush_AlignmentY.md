@@ -12,7 +12,7 @@ Gets or sets the horizontal alignment of a tile in the destination.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public AlignmentY AlignmentY \{ get; set; }
+public AlignmentY AlignmentY { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override AlignmentY : AlignmentY with get, set
 #### Reference
 <a href="T_Avalonia_Media_TileBrush">TileBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

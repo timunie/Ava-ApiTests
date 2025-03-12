@@ -12,7 +12,7 @@ Optional features of used font.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public virtual FontFeatureCollection? FontFeatures \{ get; }
+public virtual FontFeatureCollection? FontFeatures { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ override FontFeatures : FontFeatureCollection with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextRunProperties">TextRunProperties Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

@@ -12,16 +12,19 @@ Experimental Interface for producing Acrylic-like materials.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IExperimentalAcrylicMaterial
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IExperimentalAcrylicMaterial
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IExperimentalAcrylicMaterial = interface end
 ```
 </TabItem>
@@ -70,3 +73,4 @@ type IExperimentalAcrylicMaterial = interface end
 
 #### Reference
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

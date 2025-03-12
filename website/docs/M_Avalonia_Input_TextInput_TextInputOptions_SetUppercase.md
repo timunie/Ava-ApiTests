@@ -37,7 +37,7 @@ static member SetUppercase :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/TextInput/TextInputOptions.cs#L172" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/TextInput/TextInputOptions.cs#L173" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ static member SetUppercase :
 #### Reference
 <a href="T_Avalonia_Input_TextInput_TextInputOptions">TextInputOptions Class</a>  
 <a href="N_Avalonia_Input_TextInput">Avalonia.Input.TextInput Namespace</a>  
+

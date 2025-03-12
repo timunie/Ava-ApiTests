@@ -12,7 +12,7 @@ Gets or sets whether the vertical snap points for the <a href="T_Avalonia_Contro
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool AreVerticalSnapPointsRegular \{ get; set; }
+public bool AreVerticalSnapPointsRegular { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override AreVerticalSnapPointsRegular : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_StackPanel">StackPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

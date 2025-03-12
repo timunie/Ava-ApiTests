@@ -12,7 +12,7 @@ Gets or sets the cue of this <a href="T_Avalonia_Animation_KeyFrame">KeyFrame</a
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Cue Cue \{ get; set; }
+public Cue Cue { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -31,7 +31,7 @@ member Cue : Cue with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/KeyFrame.cs#L65" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/KeyFrame.cs#L66" title="View the source code">View Source</a>
 
 
 
@@ -45,3 +45,4 @@ The cue.
 #### Reference
 <a href="T_Avalonia_Animation_KeyFrame">KeyFrame Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

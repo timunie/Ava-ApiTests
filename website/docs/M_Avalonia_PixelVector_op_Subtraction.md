@@ -37,7 +37,7 @@ static let inline (-)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelVector.cs#L118" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelVector.cs#L119" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ A vector that is the result of the subtraction.
 #### Reference
 <a href="T_Avalonia_PixelVector">PixelVector Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

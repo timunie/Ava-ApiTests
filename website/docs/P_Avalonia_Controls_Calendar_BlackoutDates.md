@@ -12,7 +12,7 @@ Gets a collection of dates that are marked as not selectable.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public CalendarBlackoutDatesCollection BlackoutDates \{ get; }
+public CalendarBlackoutDatesCollection BlackoutDates { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -56,3 +56,4 @@ To make all past dates not selectable, you can use the AddDatesInPast method pro
 #### Reference
 <a href="T_Avalonia_Controls_Calendar">Calendar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

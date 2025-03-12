@@ -12,7 +12,7 @@ Indicates if TextViewVisual is capable of displaying non-committed input on the 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract bool SupportsPreedit \{ get; }
+public abstract bool SupportsPreedit { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract SupportsPreedit : bool with get
 #### Reference
 <a href="T_Avalonia_Input_TextInput_TextInputMethodClient">TextInputMethodClient Class</a>  
 <a href="N_Avalonia_Input_TextInput">Avalonia.Input.TextInput Namespace</a>  
+

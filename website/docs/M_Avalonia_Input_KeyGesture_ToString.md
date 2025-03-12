@@ -42,3 +42,4 @@ override ToString : unit -> string
 <a href="T_Avalonia_Input_KeyGesture">KeyGesture Class</a>  
 <a href="Overload_Avalonia_Input_KeyGesture_ToString">ToString Overload</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

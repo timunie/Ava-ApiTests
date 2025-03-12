@@ -34,7 +34,7 @@ override ArrangeOverride :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Presenters/TextPresenter.cs#L636" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Presenters/TextPresenter.cs#L637" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ override ArrangeOverride :
 #### Reference
 <a href="T_Avalonia_Controls_Presenters_TextPresenter">TextPresenter Class</a>  
 <a href="N_Avalonia_Controls_Presenters">Avalonia.Controls.Presenters Namespace</a>  
+

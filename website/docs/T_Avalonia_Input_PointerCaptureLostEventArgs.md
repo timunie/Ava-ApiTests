@@ -43,7 +43,7 @@ type PointerCaptureLostEventArgs =
 <table>
 <tr>
 <td><a href="M_Avalonia_Input_PointerCaptureLostEventArgs__ctor">PointerCaptureLostEventArgs(Object, IPointer)</a></td>
-<td>Initializes a new instance of the PointerCaptureLostEventArgs class</td>
+<td>Initializes a new instance of the PointerCaptureLostEventArgs class<br /><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 </table>
 
@@ -104,3 +104,4 @@ type PointerCaptureLostEventArgs =
 
 #### Reference
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

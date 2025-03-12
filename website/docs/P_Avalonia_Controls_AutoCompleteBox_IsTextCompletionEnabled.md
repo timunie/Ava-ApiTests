@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the first possible match found during th
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsTextCompletionEnabled \{ get; set; }
+public bool IsTextCompletionEnabled { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ True if the first possible match found will be displayed automatically in the te
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IVulkanDevice Device \{ get; }
+IVulkanDevice Device { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -37,3 +37,4 @@ abstract Device : IVulkanDevice with get
 #### Reference
 <a href="T_Avalonia_Vulkan_IVulkanPlatformGraphicsContext">IVulkanPlatformGraphicsContext Interface</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int SelectedIndex \{ get; set; }
+public int SelectedIndex { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -47,3 +47,4 @@ override SelectedIndex : int with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Selection_SelectionModel_1">SelectionModel(T) Class</a>  
 <a href="N_Avalonia_Controls_Selection">Avalonia.Controls.Selection Namespace</a>  
+

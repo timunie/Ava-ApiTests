@@ -12,7 +12,7 @@ New Xml Namespace
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string Prefix \{ get; }
+public string Prefix { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Prefix : string with get
 #### Reference
 <a href="T_Avalonia_Metadata_XmlnsPrefixAttribute">XmlnsPrefixAttribute Class</a>  
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the type of the element that should be used as a part with name spe
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Type Type \{ get; set; }
+public Type Type { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Type : Type with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Metadata_TemplatePartAttribute">TemplatePartAttribute Class</a>  
 <a href="N_Avalonia_Controls_Metadata">Avalonia.Controls.Metadata Namespace</a>  
+

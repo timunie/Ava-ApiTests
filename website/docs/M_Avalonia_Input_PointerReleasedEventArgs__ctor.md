@@ -12,6 +12,7 @@ Initializes a new instance of the <a href="T_Avalonia_Input_PointerReleasedEvent
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute("This constructor might be removed in 12.0. For unit testing, consider using IHeadlessWindow mouse methods.")]
 public PointerReleasedEventArgs(
 	Object source,
 	IPointer pointer,
@@ -26,6 +27,7 @@ public PointerReleasedEventArgs(
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute("This constructor might be removed in 12.0. For unit testing, consider using IHeadlessWindow mouse methods.")>
 Public Sub New ( 
 	source As Object,
 	pointer As IPointer,
@@ -40,6 +42,7 @@ Public Sub New (
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute("This constructor might be removed in 12.0. For unit testing, consider using IHeadlessWindow mouse methods.")>]
 new : 
         source : Object * 
         pointer : IPointer * 
@@ -68,3 +71,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Input_PointerReleasedEventArgs">PointerReleasedEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

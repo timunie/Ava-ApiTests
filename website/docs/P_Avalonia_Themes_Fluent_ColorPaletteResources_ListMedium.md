@@ -12,7 +12,7 @@ Gets or sets the ListMedium color value.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Color ListMedium \{ get; set; }
+public Color ListMedium { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ListMedium : Color with get, set
 #### Reference
 <a href="T_Avalonia_Themes_Fluent_ColorPaletteResources">ColorPaletteResources Class</a>  
 <a href="N_Avalonia_Themes_Fluent">Avalonia.Themes.Fluent Namespace</a>  
+

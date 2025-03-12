@@ -36,7 +36,7 @@ static member Configure :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AppBuilder.cs#L114" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AppBuilder.cs#L115" title="View the source code">View Source</a>
 
 
 
@@ -57,3 +57,4 @@ An <a href="T_Avalonia_AppBuilder">AppBuilder</a> instance.*appFactory* is usefu
 <a href="T_Avalonia_AppBuilder">AppBuilder Class</a>  
 <a href="Overload_Avalonia_AppBuilder_Configure">Configure Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

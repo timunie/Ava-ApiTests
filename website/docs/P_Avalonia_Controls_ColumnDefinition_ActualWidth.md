@@ -12,7 +12,7 @@ Gets the actual calculated width of the column.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double ActualWidth \{ get; }
+public double ActualWidth { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member ActualWidth : float with get
 #### Reference
 <a href="T_Avalonia_Controls_ColumnDefinition">ColumnDefinition Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

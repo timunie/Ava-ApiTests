@@ -69,3 +69,4 @@
 #### Reference
 <a href="T_Avalonia_Visuals_Platform_PathGeometryContext">PathGeometryContext Class</a>  
 <a href="N_Avalonia_Visuals_Platform">Avalonia.Visuals.Platform Namespace</a>  
+

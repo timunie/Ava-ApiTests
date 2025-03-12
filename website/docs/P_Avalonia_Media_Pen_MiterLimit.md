@@ -12,7 +12,7 @@ Gets or sets the limit of the thickness of the join on a mitered corner.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double MiterLimit \{ get; set; }
+public double MiterLimit { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override MiterLimit : float with get, set
 #### Reference
 <a href="T_Avalonia_Media_Pen">Pen Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

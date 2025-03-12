@@ -12,11 +12,15 @@ Gets or sets the content to display.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? Content \{ get; set; }
+[ContentAttribute]
+[DependsOnAttribute("ContentTemplate")]
+public Object? Content { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
+<DependsOnAttribute("ContentTemplate")>
 Public Property Content As Object
 	Get
 	Set
@@ -24,7 +28,11 @@ Public Property Content As Object
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
+[<DependsOnAttribute("ContentTemplate")>]
 abstract Content : Object with get, set
+[<ContentAttribute>]
+[<DependsOnAttribute("ContentTemplate")>]
 override Content : Object with get, set
 ```
 </TabItem>
@@ -45,3 +53,4 @@ override Content : Object with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ContentControl">ContentControl Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

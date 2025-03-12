@@ -12,7 +12,7 @@ Gets the change to the value of <a href="P_Avalonia_Controls_ScrollViewer_Extent
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Vector ExtentDelta \{ get; }
+public Vector ExtentDelta { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member ExtentDelta : Vector with get
 #### Reference
 <a href="T_Avalonia_Controls_ScrollChangedEventArgs">ScrollChangedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the points.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IList<Point> Points \{ get; set; }
+public IList<Point> Points { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The points.
 #### Reference
 <a href="T_Avalonia_Media_PolyLineSegment">PolyLineSegment Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

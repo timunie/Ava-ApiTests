@@ -13,21 +13,21 @@ Initializes a new instance of the <a href="T_Avalonia_Data_TemplateBinding">Temp
 <TabItem value="csharp" label="C#">
 ```csharp
 public TemplateBinding(
-	AvaloniaProperty property
+	[InheritDataTypeFromAttribute(InheritDataTypeFromScopeKind.ControlTemplate)] AvaloniaProperty property
 )
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
 Public Sub New ( 
-	property As AvaloniaProperty
+	<InheritDataTypeFromAttribute(InheritDataTypeFromScopeKind.ControlTemplate)> property As AvaloniaProperty
 )
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
 new : 
-        property : AvaloniaProperty -> TemplateBinding
+        [<InheritDataTypeFromAttribute(InheritDataTypeFromScopeKind.ControlTemplate)>] property : AvaloniaProperty -> TemplateBinding
 ```
 </TabItem>
 </Tabs>
@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Data_TemplateBinding">TemplateBinding Class</a>  
 <a href="Overload_Avalonia_Data_TemplateBinding__ctor">TemplateBinding Overload</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

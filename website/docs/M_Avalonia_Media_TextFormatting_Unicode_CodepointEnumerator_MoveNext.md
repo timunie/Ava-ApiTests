@@ -34,7 +34,7 @@ member MoveNext :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/Unicode/CodepointEnumerator.cs#L18" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/Unicode/CodepointEnumerator.cs#L19" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ member MoveNext :
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_Unicode_CodepointEnumerator">CodepointEnumerator Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting_Unicode">Avalonia.Media.TextFormatting.Unicode Namespace</a>  
+

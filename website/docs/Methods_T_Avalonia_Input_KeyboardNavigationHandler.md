@@ -26,10 +26,6 @@
 <td>Moves the focus in the specified direction.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Input_KeyboardNavigationHandler_SetOwner">SetOwner(IInputRoot)</a></td>
-<td>Sets the owner of the keyboard navigation handler.</td>
-</tr>
-<tr>
 <td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString()</a></td>
 <td>Returns a string that represents the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
@@ -41,3 +37,4 @@
 #### Reference
 <a href="T_Avalonia_Input_KeyboardNavigationHandler">KeyboardNavigationHandler Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

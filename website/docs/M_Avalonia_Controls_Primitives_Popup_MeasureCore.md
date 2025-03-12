@@ -36,7 +36,7 @@ override MeasureCore :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/Popup.cs#L591" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/Popup.cs#L592" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ A size of 0,0 as Popup itself takes up no space.
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_Popup">Popup Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

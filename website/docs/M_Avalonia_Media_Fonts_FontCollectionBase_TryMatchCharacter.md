@@ -58,7 +58,7 @@ override TryMatchCharacter :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Fonts/FontCollectionBase.cs#L27" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Fonts/FontCollectionBase.cs#L28" title="View the source code">View Source</a>
 
 
 
@@ -78,3 +78,4 @@ override TryMatchCharacter :
 #### Reference
 <a href="T_Avalonia_Media_Fonts_FontCollectionBase">FontCollectionBase Class</a>  
 <a href="N_Avalonia_Media_Fonts">Avalonia.Media.Fonts Namespace</a>  
+

@@ -44,7 +44,7 @@ type PointerEventArgs =
 <table>
 <tr>
 <td><a href="M_Avalonia_Input_PointerEventArgs__ctor">PointerEventArgs(RoutedEvent, Object, IPointer, Visual, Point, UInt64, PointerPointProperties, KeyModifiers)</a></td>
-<td>Initializes a new instance of the PointerEventArgs class</td>
+<td>Initializes a new instance of the PointerEventArgs class<br /><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 </table>
 
@@ -133,3 +133,4 @@ type PointerEventArgs =
 
 #### Reference
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

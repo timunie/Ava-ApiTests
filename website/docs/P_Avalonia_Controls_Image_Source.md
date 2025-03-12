@@ -12,11 +12,13 @@ Gets or sets the image that will be displayed.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IImage? Source \{ get; set; }
+[ContentAttribute]
+public IImage? Source { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public Property Source As IImage
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property Source As IImage
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Source : IImage with get, set
 ```
 </TabItem>
@@ -44,3 +47,4 @@ member Source : IImage with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Image">Image Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

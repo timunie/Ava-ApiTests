@@ -12,7 +12,7 @@ Gets or sets custom content that is positioned on the left side of the text layo
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? InnerLeftContent \{ get; set; }
+public Object? InnerLeftContent { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member InnerLeftContent : Object with get, set
 #### Reference
 <a href="T_Avalonia_Controls_NumericUpDown">NumericUpDown Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

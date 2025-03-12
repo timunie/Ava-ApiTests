@@ -44,3 +44,4 @@ A string representation of the style.
 #### Reference
 <a href="T_Avalonia_Styling_Style">Style Class</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

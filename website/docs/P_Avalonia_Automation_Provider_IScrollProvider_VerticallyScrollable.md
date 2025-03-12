@@ -12,7 +12,7 @@ Gets a value that indicates whether the control can scroll vertically.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool VerticallyScrollable \{ get; }
+bool VerticallyScrollable { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract VerticallyScrollable : bool with get
 #### Reference
 <a href="T_Avalonia_Automation_Provider_IScrollProvider">IScrollProvider Interface</a>  
 <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider Namespace</a>  
+

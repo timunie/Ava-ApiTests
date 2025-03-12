@@ -51,3 +51,4 @@ The index to the item that corresponds to the specified realized container, or -
 #### Reference
 <a href="T_Avalonia_Controls_VirtualizingPanel">VirtualizingPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

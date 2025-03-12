@@ -12,7 +12,7 @@
 ```csharp
 public override FontFamily this[
 	int index
-] \{ get; }
+] { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -53,3 +53,4 @@ override Item : FontFamily with get
 #### Reference
 <a href="T_Avalonia_Media_Fonts_EmbeddedFontCollection">EmbeddedFontCollection Class</a>  
 <a href="N_Avalonia_Media_Fonts">Avalonia.Media.Fonts Namespace</a>  
+

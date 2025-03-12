@@ -12,7 +12,7 @@ Gets the date to be newly displayed.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DateTime? AddedDate \{ get; }
+public DateTime? AddedDate { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The new date to display.
 #### Reference
 <a href="T_Avalonia_Controls_CalendarDateChangedEventArgs">CalendarDateChangedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

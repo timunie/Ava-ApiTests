@@ -40,3 +40,4 @@ new : unit -> DispatcherTimer
 <a href="T_Avalonia_Threading_DispatcherTimer">DispatcherTimer Class</a>  
 <a href="Overload_Avalonia_Threading_DispatcherTimer__ctor">DispatcherTimer Overload</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

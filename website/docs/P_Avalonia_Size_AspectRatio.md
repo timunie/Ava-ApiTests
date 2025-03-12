@@ -12,7 +12,7 @@ Gets the aspect ratio of the size.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double AspectRatio \{ get; }
+public double AspectRatio { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member AspectRatio : float with get
 #### Reference
 <a href="T_Avalonia_Size">Size Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

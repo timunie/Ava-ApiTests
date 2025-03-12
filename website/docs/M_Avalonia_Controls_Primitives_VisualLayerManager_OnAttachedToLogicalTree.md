@@ -36,7 +36,7 @@ override OnAttachedToLogicalTree :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/VisualLayerManager.cs#L131" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/VisualLayerManager.cs#L132" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnAttachedToLogicalTree :
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_VisualLayerManager">VisualLayerManager Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

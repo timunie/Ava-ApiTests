@@ -40,7 +40,7 @@ member SetCulture :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L424" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L425" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ member SetCulture :
 <a href="T_Avalonia_Media_FormattedText">FormattedText Class</a>  
 <a href="Overload_Avalonia_Media_FormattedText_SetCulture">SetCulture Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

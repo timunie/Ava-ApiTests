@@ -12,7 +12,7 @@ The window background is a blur-behind with a high blur radius. This level may f
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static WindowTransparencyLevel AcrylicBlur \{ get; }
+public static WindowTransparencyLevel AcrylicBlur { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member AcrylicBlur : WindowTransparencyLevel with get
 #### Reference
 <a href="T_Avalonia_Controls_WindowTransparencyLevel">WindowTransparencyLevel Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -37,7 +37,7 @@ member GetDynamicValue :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L2114" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AutoCompleteBox/AutoCompleteBox.cs#L2115" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ Returns the evaluated T value of the bound dependency property.
 <a href="T_Avalonia_Controls_AutoCompleteBox_BindingEvaluator_1">AutoCompleteBox.BindingEvaluator(T) Class</a>  
 <a href="Overload_Avalonia_Controls_AutoCompleteBox_BindingEvaluator_1_GetDynamicValue">GetDynamicValue Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

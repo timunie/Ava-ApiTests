@@ -12,7 +12,7 @@ Gets an <a href="https://learn.microsoft.com/dotnet/api/system.collections.gener
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ICollection<TValue> Values \{ get; }
+public ICollection<TValue> Values { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ An <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ic
 #### Reference
 <a href="T_Avalonia_Collections_AvaloniaDictionary_2">AvaloniaDictionary(TKey, TValue) Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

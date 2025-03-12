@@ -12,7 +12,7 @@ Gets the binding source observable.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IObservable<Object?> Source \{ get; }
+public IObservable<Object?> Source { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Source : IObservable<Object> with get
 #### Reference
 <a href="T_Avalonia_Data_InstancedBinding">InstancedBinding Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

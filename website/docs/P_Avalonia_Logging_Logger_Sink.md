@@ -12,7 +12,7 @@ Gets or sets the application-defined sink that receives the messages.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static ILogSink? Sink \{ get; set; }
+public static ILogSink? Sink { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ static member Sink : ILogSink with get, set
 #### Reference
 <a href="T_Avalonia_Logging_Logger">Logger Class</a>  
 <a href="N_Avalonia_Logging">Avalonia.Logging Namespace</a>  
+

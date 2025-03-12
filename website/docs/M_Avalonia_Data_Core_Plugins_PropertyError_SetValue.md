@@ -40,7 +40,7 @@ override SetValue :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/Core/Plugins/PropertyError.cs#L34" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/Core/Plugins/PropertyError.cs#L35" title="View the source code">View Source</a>
 
 
 
@@ -61,3 +61,4 @@ True if the property was set; false if the property could not be set.
 #### Reference
 <a href="T_Avalonia_Data_Core_Plugins_PropertyError">PropertyError Class</a>  
 <a href="N_Avalonia_Data_Core_Plugins">Avalonia.Data.Core.Plugins Namespace</a>  
+

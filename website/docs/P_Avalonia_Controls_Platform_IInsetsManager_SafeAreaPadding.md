@@ -12,7 +12,7 @@ Gets the current safe area padding.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Thickness SafeAreaPadding \{ get; }
+Thickness SafeAreaPadding { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract SafeAreaPadding : Thickness with get
 #### Reference
 <a href="T_Avalonia_Controls_Platform_IInsetsManager">IInsetsManager Interface</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

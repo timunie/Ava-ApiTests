@@ -27,7 +27,7 @@ member PeekWhitespace : unit -> ReadOnlySpan<char>
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/CharacterReader.cs#L91" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/CharacterReader.cs#L92" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ member PeekWhitespace : unit -> ReadOnlySpan<char>
 #### Reference
 <a href="T_Avalonia_Utilities_CharacterReader">CharacterReader Structure</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

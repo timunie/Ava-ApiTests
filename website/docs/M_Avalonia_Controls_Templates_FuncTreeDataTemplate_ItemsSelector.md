@@ -36,7 +36,7 @@ override ItemsSelector :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Templates/FuncTreeDataTemplate.cs#L60" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Templates/FuncTreeDataTemplate.cs#L61" title="View the source code">View Source</a>
 
 
 
@@ -57,3 +57,4 @@ The child items, or null if no child items.
 #### Reference
 <a href="T_Avalonia_Controls_Templates_FuncTreeDataTemplate">FuncTreeDataTemplate Class</a>  
 <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates Namespace</a>  
+

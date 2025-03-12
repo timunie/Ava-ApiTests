@@ -34,7 +34,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Selection/SelectionModel.cs#L776" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Selection/SelectionModel.cs#L777" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Controls_Selection_SelectionModel_1_BatchUpdateOperation">SelectionModel(T).BatchUpdateOperation Structure</a>  
 <a href="N_Avalonia_Controls_Selection">Avalonia.Controls.Selection Namespace</a>  
+

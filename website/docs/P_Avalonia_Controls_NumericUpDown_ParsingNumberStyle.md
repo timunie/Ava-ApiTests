@@ -12,7 +12,7 @@ Gets or sets the parsing style (AllowLeadingWhite, Float, AllowHexSpecifier, ...
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public NumberStyles ParsingNumberStyle \{ get; set; }
+public NumberStyles ParsingNumberStyle { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ParsingNumberStyle : NumberStyles with get, set
 #### Reference
 <a href="T_Avalonia_Controls_NumericUpDown">NumericUpDown Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

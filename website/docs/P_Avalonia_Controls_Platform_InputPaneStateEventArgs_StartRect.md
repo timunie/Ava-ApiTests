@@ -12,7 +12,7 @@ The initial bounds of the input pane.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Rect? StartRect \{ get; }
+public Rect? StartRect { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member StartRect : Nullable<Rect> with get
 #### Reference
 <a href="T_Avalonia_Controls_Platform_InputPaneStateEventArgs">InputPaneStateEventArgs Class</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

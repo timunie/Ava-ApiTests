@@ -27,7 +27,7 @@ member RaiseResourcesChanged : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/ResourceProvider.cs#L47" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/ResourceProvider.cs#L48" title="View the source code">View Source</a>
 
 
 
@@ -37,3 +37,4 @@ member RaiseResourcesChanged : unit -> unit
 #### Reference
 <a href="T_Avalonia_Controls_ResourceProvider">ResourceProvider Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

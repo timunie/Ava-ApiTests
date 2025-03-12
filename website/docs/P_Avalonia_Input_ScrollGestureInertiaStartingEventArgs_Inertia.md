@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Vector Inertia \{ get; }
+public Vector Inertia { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Inertia : Vector with get
 #### Reference
 <a href="T_Avalonia_Input_ScrollGestureInertiaStartingEventArgs">ScrollGestureInertiaStartingEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

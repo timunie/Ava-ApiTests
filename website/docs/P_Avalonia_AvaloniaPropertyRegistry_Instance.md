@@ -12,7 +12,7 @@ Gets the <a href="T_Avalonia_AvaloniaPropertyRegistry">AvaloniaPropertyRegistry<
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static AvaloniaPropertyRegistry Instance \{ get; }
+public static AvaloniaPropertyRegistry Instance { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member Instance : AvaloniaPropertyRegistry with get
 #### Reference
 <a href="T_Avalonia_AvaloniaPropertyRegistry">AvaloniaPropertyRegistry Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

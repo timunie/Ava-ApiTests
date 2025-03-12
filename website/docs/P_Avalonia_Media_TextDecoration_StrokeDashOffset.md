@@ -12,7 +12,7 @@ Gets or sets a value that specifies the distance within the dash pattern where a
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double StrokeDashOffset \{ get; set; }
+public double StrokeDashOffset { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member StrokeDashOffset : float with get, set
 #### Reference
 <a href="T_Avalonia_Media_TextDecoration">TextDecoration Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

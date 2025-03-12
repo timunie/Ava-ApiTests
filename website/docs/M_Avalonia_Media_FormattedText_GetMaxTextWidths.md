@@ -29,7 +29,7 @@ member GetMaxTextWidths : unit -> float[]
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L1131" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L1132" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ The copy of max text width array
 #### Reference
 <a href="T_Avalonia_Media_FormattedText">FormattedText Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

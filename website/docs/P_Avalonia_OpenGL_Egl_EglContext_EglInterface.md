@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public EglInterface EglInterface \{ get; }
+public EglInterface EglInterface { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member EglInterface : EglInterface with get
 #### Reference
 <a href="T_Avalonia_OpenGL_Egl_EglContext">EglContext Class</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

@@ -43,3 +43,4 @@ abstract OwnerChanged : IEvent<EventHandler,
 #### Reference
 <a href="T_Avalonia_Controls_IResourceProvider">IResourceProvider Interface</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

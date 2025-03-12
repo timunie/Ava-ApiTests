@@ -12,7 +12,7 @@ Gets or sets the height of the column headers row.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double ColumnHeaderHeight \{ get; set; }
+public double ColumnHeaderHeight { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ColumnHeaderHeight : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGrid">DataGrid Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

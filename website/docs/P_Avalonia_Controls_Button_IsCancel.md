@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the button is the Cancel button for the 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsCancel \{ get; set; }
+public bool IsCancel { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member IsCancel : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Button">Button Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

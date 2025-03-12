@@ -12,7 +12,7 @@ Gets the rectangle.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Rect Rect \{ get; }
+public Rect Rect { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Rect : Rect with get
 #### Reference
 <a href="T_Avalonia_RelativeRect">RelativeRect Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

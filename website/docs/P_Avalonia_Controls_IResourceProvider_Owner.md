@@ -12,7 +12,7 @@ Gets the owner of the resource provider.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IResourceHost? Owner \{ get; }
+IResourceHost? Owner { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Owner : IResourceHost with get
 #### Reference
 <a href="T_Avalonia_Controls_IResourceProvider">IResourceProvider Interface</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

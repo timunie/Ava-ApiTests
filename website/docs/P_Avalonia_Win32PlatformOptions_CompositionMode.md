@@ -12,7 +12,7 @@ Gets or sets Avalonia composition modes with fallbacks. The first element in the
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IReadOnlyList<Win32CompositionMode> CompositionMode \{ get; set; }
+public IReadOnlyList<Win32CompositionMode> CompositionMode { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -52,3 +52,4 @@ member CompositionMode : IReadOnlyList<Win32CompositionMode> with get, set
 #### Reference
 <a href="T_Avalonia_Win32PlatformOptions">Win32PlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

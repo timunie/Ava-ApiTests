@@ -42,3 +42,4 @@ abstract GetBasicPropertiesAsync : unit -> Task<StorageItemProperties>
 #### Reference
 <a href="T_Avalonia_Platform_Storage_IStorageItem">IStorageItem Interface</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

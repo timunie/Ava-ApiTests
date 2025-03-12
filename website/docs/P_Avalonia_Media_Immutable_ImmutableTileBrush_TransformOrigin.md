@@ -12,7 +12,7 @@ Gets the transform origin of the brush
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RelativePoint TransformOrigin \{ get; }
+public RelativePoint TransformOrigin { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ override TransformOrigin : RelativePoint with get
 #### Reference
 <a href="T_Avalonia_Media_Immutable_ImmutableTileBrush">ImmutableTileBrush Class</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

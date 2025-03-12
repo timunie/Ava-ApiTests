@@ -40,3 +40,4 @@ static member InvalidateAssemblyCache : unit -> unit
 <a href="T_Avalonia_Platform_AssetLoader">AssetLoader Class</a>  
 <a href="Overload_Avalonia_Platform_AssetLoader_InvalidateAssemblyCache">InvalidateAssemblyCache Overload</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

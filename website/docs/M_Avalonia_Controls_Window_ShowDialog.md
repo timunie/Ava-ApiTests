@@ -34,7 +34,7 @@ member ShowDialog :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Window.cs#L762" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Window.cs#L763" title="View the source code">View Source</a>
 
 
 
@@ -60,3 +60,4 @@ A task that can be used to track the lifetime of the dialog.
 <a href="T_Avalonia_Controls_Window">Window Class</a>  
 <a href="Overload_Avalonia_Controls_Window_ShowDialog">ShowDialog Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

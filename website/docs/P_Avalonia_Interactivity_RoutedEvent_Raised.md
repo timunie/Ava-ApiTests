@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IObservable<(Object , RoutedEventArgs )> Raised \{ get; }
+public IObservable<(Object , RoutedEventArgs )> Raised { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Raised : IObservable<ValueTuple<Object, RoutedEventArgs>> with get
 #### Reference
 <a href="T_Avalonia_Interactivity_RoutedEvent">RoutedEvent Class</a>  
 <a href="N_Avalonia_Interactivity">Avalonia.Interactivity Namespace</a>  
+

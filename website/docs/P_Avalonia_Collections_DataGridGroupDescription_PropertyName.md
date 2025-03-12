@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public virtual string PropertyName \{ get; }
+public virtual string PropertyName { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ override PropertyName : string with get
 #### Reference
 <a href="T_Avalonia_Collections_DataGridGroupDescription">DataGridGroupDescription Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

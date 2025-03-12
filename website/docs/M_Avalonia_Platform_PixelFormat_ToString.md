@@ -41,3 +41,4 @@ override ToString : unit -> string
 #### Reference
 <a href="T_Avalonia_Platform_PixelFormat">PixelFormat Structure</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

@@ -37,7 +37,7 @@ static member GetAccent :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/Converters/AccentColorConverter.cs#L103" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/Converters/AccentColorConverter.cs#L104" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ The new accent color.Use the HSV representation as it's more perceptual. In most
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_Converters_AccentColorConverter">AccentColorConverter Class</a>  
 <a href="N_Avalonia_Controls_Primitives_Converters">Avalonia.Controls.Primitives.Converters Namespace</a>  
+

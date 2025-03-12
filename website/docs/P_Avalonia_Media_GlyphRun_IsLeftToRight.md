@@ -12,7 +12,7 @@ Returns `true` if the text direction is left-to-right. Otherwise, returns `false
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsLeftToRight \{ get; }
+public bool IsLeftToRight { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IsLeftToRight : bool with get
 #### Reference
 <a href="T_Avalonia_Media_GlyphRun">GlyphRun Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

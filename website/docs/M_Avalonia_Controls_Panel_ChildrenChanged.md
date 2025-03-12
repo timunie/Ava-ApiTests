@@ -40,7 +40,7 @@ override ChildrenChanged :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Panel.cs#L135" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Panel.cs#L136" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ override ChildrenChanged :
 #### Reference
 <a href="T_Avalonia_Controls_Panel">Panel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

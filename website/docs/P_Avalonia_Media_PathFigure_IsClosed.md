@@ -12,7 +12,7 @@ Gets or sets a value indicating whether this instance is closed.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsClosed \{ get; set; }
+public bool IsClosed { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ member IsClosed : bool with get, set
 #### Reference
 <a href="T_Avalonia_Media_PathFigure">PathFigure Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

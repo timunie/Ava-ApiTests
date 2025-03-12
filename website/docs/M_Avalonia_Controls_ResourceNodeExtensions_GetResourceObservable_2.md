@@ -44,7 +44,7 @@ static member GetResourceObservable :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/ResourceNodeExtensions.cs#L118" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/ResourceNodeExtensions.cs#L119" title="View the source code">View Source</a>
 
 
 
@@ -64,3 +64,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 <a href="T_Avalonia_Controls_ResourceNodeExtensions">ResourceNodeExtensions Class</a>  
 <a href="Overload_Avalonia_Controls_ResourceNodeExtensions_GetResourceObservable">GetResourceObservable Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

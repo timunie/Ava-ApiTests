@@ -44,3 +44,4 @@ type IScreenInfoProvider = interface end
 
 #### Reference
 <a href="N_Avalonia_LinuxFramebuffer_Input">Avalonia.LinuxFramebuffer.Input Namespace</a>  
+

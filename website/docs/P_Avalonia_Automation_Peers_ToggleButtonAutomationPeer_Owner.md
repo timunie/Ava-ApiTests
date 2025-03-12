@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ToggleButton Owner \{ get; }
+public ToggleButton Owner { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Owner : ToggleButton with get
 #### Reference
 <a href="T_Avalonia_Automation_Peers_ToggleButtonAutomationPeer">ToggleButtonAutomationPeer Class</a>  
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

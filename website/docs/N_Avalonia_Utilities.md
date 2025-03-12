@@ -29,7 +29,7 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Utilities_MathUtilities">MathUtilities</a></td>
-<td>Provides math utilities not provided in System.Math.</td>
+<td>Provides math utilities not provided in System.Math.<br /><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Utilities_SpanHelpers">SpanHelpers</a></td>

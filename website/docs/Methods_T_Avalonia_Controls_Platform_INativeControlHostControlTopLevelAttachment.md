@@ -14,10 +14,6 @@
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_INativeControlHostControlTopLevelAttachment_IsCompatibleWith">IsCompatibleWith(INativeControlHostImpl)</a></td>
-<td> </td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_Controls_Platform_INativeControlHostControlTopLevelAttachment_ShowInBounds">ShowInBounds(Rect)</a></td>
 <td> </td>
 </tr>
@@ -29,3 +25,4 @@
 #### Reference
 <a href="T_Avalonia_Controls_Platform_INativeControlHostControlTopLevelAttachment">INativeControlHostControlTopLevelAttachment Interface</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

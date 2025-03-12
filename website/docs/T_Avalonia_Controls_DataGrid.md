@@ -12,17 +12,44 @@ Displays data in a customizable grid.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_BottomRightCorner", typeof(Visual))]
+[TemplatePartAttribute("PART_ColumnHeadersPresenter", typeof(DataGridColumnHeadersPresenter))]
+[TemplatePartAttribute("PART_FrozenColumnScrollBarSpacer", typeof(Control))]
+[TemplatePartAttribute("PART_HorizontalScrollbar", typeof(ScrollBar))]
+[TemplatePartAttribute("PART_RowsPresenter", typeof(DataGridRowsPresenter))]
+[TemplatePartAttribute("PART_TopLeftCornerHeader", typeof(ContentControl))]
+[TemplatePartAttribute("PART_TopRightCornerHeader", typeof(ContentControl))]
+[TemplatePartAttribute("PART_VerticalScrollbar", typeof(ScrollBar))]
+[PseudoClassesAttribute(new string[] { ... })]
 public class DataGrid : TemplatedControl
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_BottomRightCorner", GetType(Visual))>
+<TemplatePartAttribute("PART_ColumnHeadersPresenter", GetType(DataGridColumnHeadersPresenter))>
+<TemplatePartAttribute("PART_FrozenColumnScrollBarSpacer", GetType(Control))>
+<TemplatePartAttribute("PART_HorizontalScrollbar", GetType(ScrollBar))>
+<TemplatePartAttribute("PART_RowsPresenter", GetType(DataGridRowsPresenter))>
+<TemplatePartAttribute("PART_TopLeftCornerHeader", GetType(ContentControl))>
+<TemplatePartAttribute("PART_TopRightCornerHeader", GetType(ContentControl))>
+<TemplatePartAttribute("PART_VerticalScrollbar", GetType(ScrollBar))>
+<PseudoClassesAttribute(New String() { ... })>
 Public Class DataGrid
 	Inherits TemplatedControl
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_BottomRightCorner", typeof(Visual))>]
+[<TemplatePartAttribute("PART_ColumnHeadersPresenter", typeof(DataGridColumnHeadersPresenter))>]
+[<TemplatePartAttribute("PART_FrozenColumnScrollBarSpacer", typeof(Control))>]
+[<TemplatePartAttribute("PART_HorizontalScrollbar", typeof(ScrollBar))>]
+[<TemplatePartAttribute("PART_RowsPresenter", typeof(DataGridRowsPresenter))>]
+[<TemplatePartAttribute("PART_TopLeftCornerHeader", typeof(ContentControl))>]
+[<TemplatePartAttribute("PART_TopRightCornerHeader", typeof(ContentControl))>]
+[<TemplatePartAttribute("PART_VerticalScrollbar", typeof(ScrollBar))>]
+[<PseudoClassesAttribute(new string[] { ... })>]
 type DataGrid = 
     class
         inherit TemplatedControl
@@ -1556,10 +1583,6 @@ type DataGrid =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1654,3 +1677,4 @@ type DataGrid =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

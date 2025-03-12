@@ -37,7 +37,7 @@ static let inline (=)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/RelativePoint.cs#L96" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/RelativePoint.cs#L97" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ True if the points are equal; otherwise false.
 #### Reference
 <a href="T_Avalonia_RelativePoint">RelativePoint Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

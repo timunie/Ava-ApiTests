@@ -34,7 +34,7 @@ member CollapseSubTree :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TreeView.cs#L195" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TreeView.cs#L196" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ member CollapseSubTree :
 #### Reference
 <a href="T_Avalonia_Controls_TreeView">TreeView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets a value indicating whether <a href="P_Avalonia_Controls_CalendarDat
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool ThrowException \{ get; set; }
+public bool ThrowException { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -53,3 +53,4 @@ True if the exception should be thrown; otherwise, false.
 #### Reference
 <a href="T_Avalonia_Controls_CalendarDatePickerDateValidationErrorEventArgs">CalendarDatePickerDateValidationErrorEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

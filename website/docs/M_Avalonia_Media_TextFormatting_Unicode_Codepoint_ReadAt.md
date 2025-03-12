@@ -40,7 +40,7 @@ static member ReadAt :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/Unicode/Codepoint.cs#L178" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/Unicode/Codepoint.cs#L181" title="View the source code">View Source</a>
 
 
 
@@ -57,3 +57,4 @@ static member ReadAt :
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_Unicode_Codepoint">Codepoint Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting_Unicode">Avalonia.Media.TextFormatting.Unicode Namespace</a>  
+

@@ -35,7 +35,7 @@ static let inline (<>)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/KeyGesture.cs#L56" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/KeyGesture.cs#L57" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ static let inline (<>)
 #### Reference
 <a href="T_Avalonia_Input_KeyGesture">KeyGesture Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

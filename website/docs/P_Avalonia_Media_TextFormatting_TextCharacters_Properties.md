@@ -12,7 +12,7 @@ A set of properties shared by every characters in the run
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public override TextRunProperties Properties \{ get; }
+public override TextRunProperties Properties { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ override Properties : TextRunProperties with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextCharacters">TextCharacters Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

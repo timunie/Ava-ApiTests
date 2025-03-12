@@ -38,18 +38,6 @@ type PlatformHotkeyConfiguration = class end
 
 
 
-## Constructors
-<table>
-<tr>
-<td><a href="M_Avalonia_Input_Platform_PlatformHotkeyConfiguration__ctor">PlatformHotkeyConfiguration()</a></td>
-<td>Initializes a new instance of the PlatformHotkeyConfiguration class</td>
-</tr>
-<tr>
-<td><a href="M_Avalonia_Input_Platform_PlatformHotkeyConfiguration__ctor_1">PlatformHotkeyConfiguration(KeyModifiers, KeyModifiers, KeyModifiers)</a></td>
-<td>Initializes a new instance of the PlatformHotkeyConfiguration class</td>
-</tr>
-</table>
-
 ## Properties
 <table>
 <tr>
@@ -171,3 +159,4 @@ type PlatformHotkeyConfiguration = class end
 
 #### Reference
 <a href="N_Avalonia_Input_Platform">Avalonia.Input.Platform Namespace</a>  
+

@@ -53,7 +53,7 @@ member Log :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Logging/ParametrizedLogger.cs#L130" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Logging/ParametrizedLogger.cs#L131" title="View the source code">View Source</a>
 
 
 
@@ -70,3 +70,4 @@ member Log :
 <a href="T_Avalonia_Logging_ParametrizedLogger">ParametrizedLogger Structure</a>  
 <a href="Overload_Avalonia_Logging_ParametrizedLogger_Log">Log Overload</a>  
 <a href="N_Avalonia_Logging">Avalonia.Logging Namespace</a>  
+

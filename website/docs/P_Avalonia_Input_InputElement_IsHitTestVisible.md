@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the control is considered for hit testin
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsHitTestVisible \{ get; set; }
+public bool IsHitTestVisible { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override IsHitTestVisible : bool with get, set
 #### Reference
 <a href="T_Avalonia_Input_InputElement">InputElement Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

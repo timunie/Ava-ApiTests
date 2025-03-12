@@ -40,3 +40,4 @@ member GetAwaiter : unit -> TaskAwaiter<'T>
 #### Reference
 <a href="T_Avalonia_Threading_DispatcherOperation_1">DispatcherOperation(T) Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

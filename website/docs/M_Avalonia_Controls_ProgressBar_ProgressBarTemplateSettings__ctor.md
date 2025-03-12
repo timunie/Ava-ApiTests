@@ -39,3 +39,4 @@ new : unit -> ProgressBarTemplateSettings
 #### Reference
 <a href="T_Avalonia_Controls_ProgressBar_ProgressBarTemplateSettings">ProgressBar.ProgressBarTemplateSettings Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the source object.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public AvaloniaObject? Source \{ get; set; }
+public AvaloniaObject? Source { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Source : AvaloniaObject with get, set
 #### Reference
 <a href="T_Avalonia_Data_IndexerDescriptor">IndexerDescriptor Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

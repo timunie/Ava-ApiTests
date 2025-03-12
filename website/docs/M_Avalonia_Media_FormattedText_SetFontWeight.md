@@ -40,7 +40,7 @@ member SetFontWeight :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L487" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L488" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ member SetFontWeight :
 <a href="T_Avalonia_Media_FormattedText">FormattedText Class</a>  
 <a href="Overload_Avalonia_Media_FormattedText_SetFontWeight">SetFontWeight Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -41,7 +41,7 @@ static member Find :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/NameScopeExtensions.cs#L22" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/NameScopeExtensions.cs#L23" title="View the source code">View Source</a>
 
 
 
@@ -65,3 +65,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 <a href="T_Avalonia_Controls_NameScopeExtensions">NameScopeExtensions Class</a>  
 <a href="Overload_Avalonia_Controls_NameScopeExtensions_Find">Find Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

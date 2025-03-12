@@ -36,7 +36,7 @@ override OnPointerCaptureLost :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/CalendarDatePicker/CalendarDatePicker.cs#L380" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/CalendarDatePicker/CalendarDatePicker.cs#L381" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnPointerCaptureLost :
 #### Reference
 <a href="T_Avalonia_Controls_CalendarDatePicker">CalendarDatePicker Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

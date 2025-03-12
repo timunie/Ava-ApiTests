@@ -12,7 +12,7 @@ Gets or sets the second increment in the picker
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int SecondIncrement \{ get; set; }
+public int SecondIncrement { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member SecondIncrement : int with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TimePicker">TimePicker Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

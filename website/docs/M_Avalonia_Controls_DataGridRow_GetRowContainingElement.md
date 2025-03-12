@@ -34,7 +34,7 @@ static member GetRowContainingElement :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridRow.cs#L457" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridRow.cs#L459" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ Row that contains the element, or null if not found
 #### Reference
 <a href="T_Avalonia_Controls_DataGridRow">DataGridRow Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

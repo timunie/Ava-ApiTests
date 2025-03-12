@@ -34,7 +34,7 @@ member GetMetadata :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaProperty.cs#L486" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaProperty.cs#L487" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ member GetMetadata :
 <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty Class</a>  
 <a href="Overload_Avalonia_AvaloniaProperty_GetMetadata">GetMetadata Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -10,16 +10,19 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IClipboard
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IClipboard
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IClipboard = interface end
 ```
 </TabItem>
@@ -64,3 +67,4 @@ type IClipboard = interface end
 
 #### Reference
 <a href="N_Avalonia_Input_Platform">Avalonia.Input.Platform Namespace</a>  
+

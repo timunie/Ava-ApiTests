@@ -12,7 +12,7 @@ Gets the cursor rectangle relative to the TextViewVisual
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract Rect CursorRectangle \{ get; }
+public abstract Rect CursorRectangle { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract CursorRectangle : Rect with get
 #### Reference
 <a href="T_Avalonia_Input_TextInput_TextInputMethodClient">TextInputMethodClient Class</a>  
 <a href="N_Avalonia_Input_TextInput">Avalonia.Input.TextInput Namespace</a>  
+

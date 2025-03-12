@@ -28,7 +28,7 @@ override MoveNext : unit -> bool
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/AvaloniaList.cs#L784" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/AvaloniaList.cs#L785" title="View the source code">View Source</a>
 
 
 
@@ -45,3 +45,4 @@ override MoveNext : unit -> bool
 #### Reference
 <a href="T_Avalonia_Collections_AvaloniaList_1_Enumerator">AvaloniaList(T).Enumerator Structure</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

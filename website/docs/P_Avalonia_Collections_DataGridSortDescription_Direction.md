@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public virtual ListSortDirection Direction \{ get; }
+public virtual ListSortDirection Direction { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ override Direction : ListSortDirection with get
 #### Reference
 <a href="T_Avalonia_Collections_DataGridSortDescription">DataGridSortDescription Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

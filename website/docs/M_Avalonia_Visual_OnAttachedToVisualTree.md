@@ -36,7 +36,7 @@ override OnAttachedToVisualTree :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Visual.cs#L575" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Visual.cs#L576" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnAttachedToVisualTree :
 #### Reference
 <a href="T_Avalonia_Visual">Visual Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

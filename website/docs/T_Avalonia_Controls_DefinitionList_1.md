@@ -10,6 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AvaloniaListAttribute(Separators = new string[] { ... })]
 public abstract class DefinitionList<T> : AvaloniaList<T>
 where T : DefinitionBase
 
@@ -17,6 +18,7 @@ where T : DefinitionBase
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AvaloniaListAttribute(Separators := New String() { ... })>
 Public MustInherit Class DefinitionList(Of T As DefinitionBase)
 	Inherits AvaloniaList(Of T)
 ```
@@ -24,6 +26,7 @@ Public MustInherit Class DefinitionList(Of T As DefinitionBase)
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<AbstractClassAttribute>]
+[<AvaloniaListAttribute(Separators = new string[] { ... })>]
 type DefinitionList<'T when 'T : DefinitionBase> = 
     class
         inherit AvaloniaList<'T>
@@ -191,3 +194,4 @@ type DefinitionList<'T when 'T : DefinitionBase> =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

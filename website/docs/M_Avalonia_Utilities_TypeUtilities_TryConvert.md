@@ -43,7 +43,7 @@ static member TryConvert :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/TypeUtilities.cs#L131" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/TypeUtilities.cs#L132" title="View the source code">View Source</a>
 
 
 
@@ -60,3 +60,4 @@ True if the cast was successful, otherwise false.
 #### Reference
 <a href="T_Avalonia_Utilities_TypeUtilities">TypeUtilities Class</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

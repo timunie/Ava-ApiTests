@@ -12,18 +12,21 @@ Manipulates folders and their contents, and provides information about them.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IStorageFolder : IStorageItem, 
 	IDisposable
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IStorageFolder
 	Inherits IStorageItem, IDisposable
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IStorageFolder = 
     interface
         interface IStorageItem
@@ -112,3 +115,4 @@ type IStorageFolder =
 
 #### Reference
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

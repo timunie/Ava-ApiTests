@@ -12,7 +12,7 @@ The window background is Black where nothing is drawn in the window.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static WindowTransparencyLevel None \{ get; }
+public static WindowTransparencyLevel None { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member None : WindowTransparencyLevel with get
 #### Reference
 <a href="T_Avalonia_Controls_WindowTransparencyLevel">WindowTransparencyLevel Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

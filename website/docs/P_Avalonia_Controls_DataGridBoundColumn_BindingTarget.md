@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected AvaloniaProperty BindingTarget \{ get; set; }
+protected AvaloniaProperty BindingTarget { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member BindingTarget : AvaloniaProperty with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGridBoundColumn">DataGridBoundColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

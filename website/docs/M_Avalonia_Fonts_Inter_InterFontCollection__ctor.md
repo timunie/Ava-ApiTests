@@ -39,3 +39,4 @@ new : unit -> InterFontCollection
 #### Reference
 <a href="T_Avalonia_Fonts_Inter_InterFontCollection">InterFontCollection Class</a>  
 <a href="N_Avalonia_Fonts_Inter">Avalonia.Fonts.Inter Namespace</a>  
+

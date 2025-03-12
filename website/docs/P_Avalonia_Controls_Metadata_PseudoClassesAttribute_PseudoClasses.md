@@ -12,7 +12,7 @@ Gets the list of pseudoclass names.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IReadOnlyList<string> PseudoClasses \{ get; }
+public IReadOnlyList<string> PseudoClasses { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member PseudoClasses : IReadOnlyList<string> with get
 #### Reference
 <a href="T_Avalonia_Controls_Metadata_PseudoClassesAttribute">PseudoClassesAttribute Class</a>  
 <a href="N_Avalonia_Controls_Metadata">Avalonia.Controls.Metadata Namespace</a>  
+

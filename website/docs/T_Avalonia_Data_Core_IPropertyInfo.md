@@ -10,16 +10,19 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IPropertyInfo
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IPropertyInfo
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IPropertyInfo = interface end
 ```
 </TabItem>
@@ -68,3 +71,4 @@ type IPropertyInfo = interface end
 
 #### Reference
 <a href="N_Avalonia_Data_Core">Avalonia.Data.Core Namespace</a>  
+

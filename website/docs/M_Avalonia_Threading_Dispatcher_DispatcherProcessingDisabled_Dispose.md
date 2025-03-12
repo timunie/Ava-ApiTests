@@ -30,7 +30,7 @@ override Dispose : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/Dispatcher.MainLoop.cs#L178" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/Dispatcher.MainLoop.cs#L179" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ override Dispose : unit -> unit
 #### Reference
 <a href="T_Avalonia_Threading_Dispatcher_DispatcherProcessingDisabled">Dispatcher.DispatcherProcessingDisabled Structure</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

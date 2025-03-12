@@ -42,7 +42,7 @@ override ConvertFrom :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/ThemeVariantTypeConverter.cs#L15" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/ThemeVariantTypeConverter.cs#L16" title="View the source code">View Source</a>
 
 
 
@@ -59,3 +59,4 @@ override ConvertFrom :
 <a href="T_Avalonia_Styling_ThemeVariantTypeConverter">ThemeVariantTypeConverter Class</a>  
 <a href="Overload_Avalonia_Styling_ThemeVariantTypeConverter_ConvertFrom">ConvertFrom Overload</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

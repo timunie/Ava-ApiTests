@@ -36,7 +36,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/HslColor.cs#L123" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/HslColor.cs#L124" title="View the source code">View Source</a>
 
 
 
@@ -58,3 +58,4 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 <a href="T_Avalonia_Media_HslColor">HslColor Structure</a>  
 <a href="Overload_Avalonia_Media_HslColor_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

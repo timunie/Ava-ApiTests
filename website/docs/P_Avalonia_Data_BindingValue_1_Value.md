@@ -12,7 +12,7 @@ Gets the binding value or fallback value.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public T Value \{ get; }
+public T Value { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -51,3 +51,4 @@ member Value : 'T with get
 #### Reference
 <a href="T_Avalonia_Data_BindingValue_1">BindingValue(T) Structure</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

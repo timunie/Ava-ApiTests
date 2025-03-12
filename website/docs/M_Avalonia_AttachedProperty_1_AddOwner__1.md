@@ -40,7 +40,7 @@ member AddOwner :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AttachedProperty.cs#L38" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AttachedProperty.cs#L39" title="View the source code">View Source</a>
 
 
 
@@ -60,3 +60,4 @@ The property.
 #### Reference
 <a href="T_Avalonia_AttachedProperty_1">AttachedProperty(TValue) Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

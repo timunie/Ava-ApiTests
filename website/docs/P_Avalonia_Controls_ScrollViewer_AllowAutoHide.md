@@ -12,7 +12,7 @@ Gets a value that indicates whether scrollbars can hide itself when user is not 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool AllowAutoHide \{ get; set; }
+public bool AllowAutoHide { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member AllowAutoHide : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ScrollViewer">ScrollViewer Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Tracks the import status of the object. Once the task is completed, the user cod
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Task ImportCompleted \{ get; }
+Task ImportCompleted { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -39,3 +39,4 @@ abstract ImportCompleted : Task with get
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_ICompositionGpuImportedObject">ICompositionGpuImportedObject Interface</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

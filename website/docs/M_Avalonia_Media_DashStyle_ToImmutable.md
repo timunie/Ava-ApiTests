@@ -43,3 +43,4 @@ member ToImmutable : unit -> ImmutableDashStyle
 #### Reference
 <a href="T_Avalonia_Media_DashStyle">DashStyle Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

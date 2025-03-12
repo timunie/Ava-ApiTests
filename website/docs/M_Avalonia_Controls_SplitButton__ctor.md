@@ -29,7 +29,7 @@ new : unit -> SplitButton
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/SplitButton/SplitButton.cs#L66" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/SplitButton/SplitButton.cs#L70" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ new : unit -> SplitButton
 #### Reference
 <a href="T_Avalonia_Controls_SplitButton">SplitButton Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

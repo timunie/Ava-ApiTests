@@ -12,7 +12,7 @@ Gets the thickness on the left.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Left \{ get; }
+public double Left { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Left : float with get
 #### Reference
 <a href="T_Avalonia_Thickness">Thickness Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -34,7 +34,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/ThemeVariant.cs#L93" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/ThemeVariant.cs#L94" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ override Equals :
 #### Reference
 <a href="T_Avalonia_Styling_ThemeVariant">ThemeVariant Class</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

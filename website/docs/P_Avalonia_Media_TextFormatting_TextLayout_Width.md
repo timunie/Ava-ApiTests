@@ -12,7 +12,7 @@ The maximum advance width between the leading and trailing alignment points of a
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Width \{ get; }
+public double Width { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member Width : float with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextLayout.cs#L259" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextLayout.cs#L260" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member Width : float with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextLayout">TextLayout Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

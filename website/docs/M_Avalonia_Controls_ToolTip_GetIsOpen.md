@@ -34,7 +34,7 @@ static member GetIsOpen :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ToolTip.cs#L153" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ToolTip.cs#L154" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ A value indicating whether the tool tip is visible.
 #### Reference
 <a href="T_Avalonia_Controls_ToolTip">ToolTip Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

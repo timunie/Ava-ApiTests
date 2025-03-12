@@ -12,7 +12,7 @@ The maximum distance from the trailing black pixel to the trailing alignment poi
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double OverhangTrailing \{ get; }
+public double OverhangTrailing { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member OverhangTrailing : float with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextLayout.cs#L247" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextLayout.cs#L248" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member OverhangTrailing : float with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextLayout">TextLayout Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

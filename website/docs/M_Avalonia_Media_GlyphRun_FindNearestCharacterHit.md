@@ -37,7 +37,7 @@ member FindNearestCharacterHit :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/GlyphRun.cs#L536" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/GlyphRun.cs#L537" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ The nearest <a href="T_Avalonia_Media_CharacterHit">CharacterHit</a>.
 #### Reference
 <a href="T_Avalonia_Media_GlyphRun">GlyphRun Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

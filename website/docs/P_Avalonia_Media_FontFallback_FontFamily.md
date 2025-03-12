@@ -12,7 +12,7 @@ Get or set the fallback FontFamily
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public FontFamily FontFamily \{ get; set; }
+public FontFamily FontFamily { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member FontFamily : FontFamily with get, set
 #### Reference
 <a href="T_Avalonia_Media_FontFallback">FontFallback Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

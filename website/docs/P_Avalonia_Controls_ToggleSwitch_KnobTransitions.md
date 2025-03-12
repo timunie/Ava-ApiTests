@@ -12,7 +12,7 @@ Gets or Sets the <a href="T_Avalonia_Animation_Transitions">Transitions</a> of s
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Transitions KnobTransitions \{ get; set; }
+public Transitions KnobTransitions { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member KnobTransitions : Transitions with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ToggleSwitch">ToggleSwitch Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

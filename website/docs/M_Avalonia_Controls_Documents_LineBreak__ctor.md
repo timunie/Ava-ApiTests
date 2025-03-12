@@ -39,3 +39,4 @@ new : unit -> LineBreak
 #### Reference
 <a href="T_Avalonia_Controls_Documents_LineBreak">LineBreak Class</a>  
 <a href="N_Avalonia_Controls_Documents">Avalonia.Controls.Documents Namespace</a>  
+

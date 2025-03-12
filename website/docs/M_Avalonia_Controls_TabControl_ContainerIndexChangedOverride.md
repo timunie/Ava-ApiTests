@@ -42,7 +42,7 @@ override ContainerIndexChangedOverride :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TabControl.cs#L181" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TabControl.cs#L182" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ override ContainerIndexChangedOverride :
 #### Reference
 <a href="T_Avalonia_Controls_TabControl">TabControl Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

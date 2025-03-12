@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public override sealed bool HasResources \{ get; }
+public override sealed bool HasResources { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -29,7 +29,7 @@ override HasResources : bool with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/ResourceDictionary.cs#L113" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/ResourceDictionary.cs#L114" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override HasResources : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_ResourceDictionary">ResourceDictionary Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

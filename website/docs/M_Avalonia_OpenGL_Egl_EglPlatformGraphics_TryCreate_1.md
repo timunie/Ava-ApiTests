@@ -32,7 +32,7 @@ static member TryCreate :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Egl/EglPlatformGraphics.cs#L28" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Egl/EglPlatformGraphics.cs#L31" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ static member TryCreate :
 <a href="T_Avalonia_OpenGL_Egl_EglPlatformGraphics">EglPlatformGraphics Class</a>  
 <a href="Overload_Avalonia_OpenGL_Egl_EglPlatformGraphics_TryCreate">TryCreate Overload</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

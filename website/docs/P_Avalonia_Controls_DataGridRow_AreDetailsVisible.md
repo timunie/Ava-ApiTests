@@ -12,7 +12,7 @@ Gets or sets a value that indicates when the details section of the row is displ
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool AreDetailsVisible \{ get; set; }
+public bool AreDetailsVisible { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member AreDetailsVisible : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGridRow">DataGridRow Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

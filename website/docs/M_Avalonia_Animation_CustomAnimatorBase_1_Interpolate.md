@@ -50,3 +50,4 @@ abstract Interpolate :
 #### Reference
 <a href="T_Avalonia_Animation_CustomAnimatorBase_1">CustomAnimatorBase(T) Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

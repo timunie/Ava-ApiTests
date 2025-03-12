@@ -12,7 +12,7 @@ Gets a value that indicates whether the <a href="https://learn.microsoft.com/dot
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool IsCurrentBeforeFirst \{ get; }
+bool IsCurrentBeforeFirst { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ true if the <a href="https://learn.microsoft.com/dotnet/api/system.componentmode
 #### Reference
 <a href="T_Avalonia_Collections_IDataGridCollectionView">IDataGridCollectionView Interface</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

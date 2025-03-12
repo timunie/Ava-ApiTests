@@ -56,3 +56,4 @@ type ManagedFileDialogExtensions = class end
 
 #### Reference
 <a href="N_Avalonia_Dialogs">Avalonia.Dialogs Namespace</a>  
+

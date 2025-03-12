@@ -12,17 +12,20 @@ An imported GPU object that's usable by composition APIs
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface ICompositionGpuImportedObject : IAsyncDisposable
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface ICompositionGpuImportedObject
 	Inherits IAsyncDisposable
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type ICompositionGpuImportedObject = 
     interface
         interface IAsyncDisposable
@@ -62,3 +65,4 @@ type ICompositionGpuImportedObject =
 
 #### Reference
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

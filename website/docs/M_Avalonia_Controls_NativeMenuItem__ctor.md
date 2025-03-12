@@ -40,3 +40,4 @@ new : unit -> NativeMenuItem
 <a href="T_Avalonia_Controls_NativeMenuItem">NativeMenuItem Class</a>  
 <a href="Overload_Avalonia_Controls_NativeMenuItem__ctor">NativeMenuItem Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the list of classes for the control.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IAvaloniaReadOnlyList<string> Classes \{ get; }
+IAvaloniaReadOnlyList<string> Classes { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Classes : IAvaloniaReadOnlyList<string> with get
 #### Reference
 <a href="T_Avalonia_Styling_IStyleable">IStyleable Interface</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

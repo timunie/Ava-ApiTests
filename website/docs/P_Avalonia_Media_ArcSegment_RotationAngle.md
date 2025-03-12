@@ -12,7 +12,7 @@ Gets or sets the rotation angle.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double RotationAngle \{ get; set; }
+public double RotationAngle { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The rotation angle.
 #### Reference
 <a href="T_Avalonia_Media_ArcSegment">ArcSegment Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

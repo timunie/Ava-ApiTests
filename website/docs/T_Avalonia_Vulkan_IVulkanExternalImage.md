@@ -10,17 +10,20 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface IVulkanExternalImage : IDisposable
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface IVulkanExternalImage
 	Inherits IDisposable
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type IVulkanExternalImage = 
     interface
         interface IDisposable
@@ -56,3 +59,4 @@ type IVulkanExternalImage =
 
 #### Reference
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

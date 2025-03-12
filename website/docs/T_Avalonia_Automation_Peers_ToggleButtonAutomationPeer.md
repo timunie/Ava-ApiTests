@@ -333,3 +333,4 @@ type ToggleButtonAutomationPeer =
 
 #### Reference
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

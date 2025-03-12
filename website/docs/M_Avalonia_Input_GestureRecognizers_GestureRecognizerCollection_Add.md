@@ -32,7 +32,7 @@ member Add :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/GestureRecognizers/GestureRecognizerCollection.cs#L21" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/GestureRecognizers/GestureRecognizerCollection.cs#L22" title="View the source code">View Source</a>
 
 
 
@@ -45,3 +45,4 @@ member Add :
 #### Reference
 <a href="T_Avalonia_Input_GestureRecognizers_GestureRecognizerCollection">GestureRecognizerCollection Class</a>  
 <a href="N_Avalonia_Input_GestureRecognizers">Avalonia.Input.GestureRecognizers Namespace</a>  
+

@@ -39,3 +39,4 @@ new : unit -> TabItem
 #### Reference
 <a href="T_Avalonia_Controls_TabItem">TabItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

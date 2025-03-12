@@ -12,7 +12,7 @@ Gets the minimum range value that is supported by the control.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-double Minimum \{ get; }
+double Minimum { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Minimum : float with get
 #### Reference
 <a href="T_Avalonia_Automation_Provider_IRangeValueProvider">IRangeValueProvider Interface</a>  
 <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider Namespace</a>  
+

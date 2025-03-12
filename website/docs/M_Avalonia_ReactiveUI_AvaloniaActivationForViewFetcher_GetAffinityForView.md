@@ -36,7 +36,7 @@ override GetAffinityForView :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.ReactiveUI/AvaloniaActivationForViewFetcher.cs#L19" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.ReactiveUI/AvaloniaActivationForViewFetcher.cs#L20" title="View the source code">View Source</a>
 
 
 
@@ -56,3 +56,4 @@ IActivationForViewFetcher.GetAffinityForView(Type)
 #### Reference
 <a href="T_Avalonia_ReactiveUI_AvaloniaActivationForViewFetcher">AvaloniaActivationForViewFetcher Class</a>  
 <a href="N_Avalonia_ReactiveUI">Avalonia.ReactiveUI Namespace</a>  
+

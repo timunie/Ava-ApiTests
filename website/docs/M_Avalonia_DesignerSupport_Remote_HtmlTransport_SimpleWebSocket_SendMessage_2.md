@@ -32,7 +32,7 @@ member SendMessage :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.DesignerSupport/Remote/HtmlTransport/SimpleWebSocketHttpServer.cs#L290" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.DesignerSupport/Remote/HtmlTransport/SimpleWebSocketHttpServer.cs#L291" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ member SendMessage :
 <a href="T_Avalonia_DesignerSupport_Remote_HtmlTransport_SimpleWebSocket">SimpleWebSocket Class</a>  
 <a href="Overload_Avalonia_DesignerSupport_Remote_HtmlTransport_SimpleWebSocket_SendMessage">SendMessage Overload</a>  
 <a href="N_Avalonia_DesignerSupport_Remote_HtmlTransport">Avalonia.DesignerSupport.Remote.HtmlTransport Namespace</a>  
+

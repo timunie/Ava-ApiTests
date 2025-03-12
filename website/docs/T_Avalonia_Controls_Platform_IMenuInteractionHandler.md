@@ -12,16 +12,19 @@ Handles user interaction for menus.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface IMenuInteractionHandler
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface IMenuInteractionHandler
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type IMenuInteractionHandler = interface end
 ```
 </TabItem>
@@ -50,3 +53,4 @@ type IMenuInteractionHandler = interface end
 
 #### Reference
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

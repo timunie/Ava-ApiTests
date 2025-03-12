@@ -12,7 +12,7 @@ Gets the text that is used to filter items in the <a href="P_Avalonia_Controls_A
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? SearchText \{ get; }
+public string? SearchText { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The text that is used to filter items in the <a href="P_Avalonia_Controls_AutoCo
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

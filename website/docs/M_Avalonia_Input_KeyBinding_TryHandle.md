@@ -32,7 +32,7 @@ member TryHandle :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/KeyBinding.cs#L35" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/KeyBinding.cs#L36" title="View the source code">View Source</a>
 
 
 
@@ -45,3 +45,4 @@ member TryHandle :
 #### Reference
 <a href="T_Avalonia_Input_KeyBinding">KeyBinding Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

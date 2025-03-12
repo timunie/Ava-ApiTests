@@ -143,3 +143,4 @@ The core of ExpressionAnimations allows a developer to define a mathematical equ
 
 #### Reference
 <a href="N_Avalonia_Rendering_Composition_Animations">Avalonia.Rendering.Composition.Animations Namespace</a>  
+

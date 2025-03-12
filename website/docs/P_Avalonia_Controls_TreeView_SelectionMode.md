@@ -12,7 +12,7 @@ Gets or sets the selection mode.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public SelectionMode SelectionMode \{ get; set; }
+public SelectionMode SelectionMode { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member SelectionMode : SelectionMode with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TreeView">TreeView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

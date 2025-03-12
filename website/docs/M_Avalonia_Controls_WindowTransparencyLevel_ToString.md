@@ -28,7 +28,7 @@ override ToString : unit -> string
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/WindowTransparencyLevel.cs#L41" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/WindowTransparencyLevel.cs#L42" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override ToString : unit -> string
 #### Reference
 <a href="T_Avalonia_Controls_WindowTransparencyLevel">WindowTransparencyLevel Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -46,7 +46,7 @@ static member InputHitTest :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/InputExtensions.cs#L46" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/InputExtensions.cs#L47" title="View the source code">View Source</a>
 
 
 
@@ -67,3 +67,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 <a href="T_Avalonia_Input_InputExtensions">InputExtensions Class</a>  
 <a href="Overload_Avalonia_Input_InputExtensions_InputHitTest">InputHitTest Overload</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets whether the <a href="T_Avalonia_Controls_Panel">Panel</a> hosts the items c
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsItemsHost \{ get; }
+public bool IsItemsHost { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IsItemsHost : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_Panel">Panel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

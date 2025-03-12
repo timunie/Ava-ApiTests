@@ -12,12 +12,16 @@ An item in a <a href="T_Avalonia_Controls_TreeView">TreeView</a>.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_Header", typeof(Control))]
+[PseudoClassesAttribute(new string[] { ... })]
 public class TreeViewItem : HeaderedItemsControl, 
 	ISelectable
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_Header", GetType(Control))>
+<PseudoClassesAttribute(New String() { ... })>
 Public Class TreeViewItem
 	Inherits HeaderedItemsControl
 	Implements ISelectable
@@ -25,6 +29,8 @@ Public Class TreeViewItem
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_Header", typeof(Control))>]
+[<PseudoClassesAttribute(new string[] { ... })>]
 type TreeViewItem = 
     class
         inherit HeaderedItemsControl
@@ -1208,10 +1214,6 @@ type TreeViewItem =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1306,3 +1308,4 @@ type TreeViewItem =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

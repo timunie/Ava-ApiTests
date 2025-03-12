@@ -34,7 +34,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/Unicode/GraphemeEnumerator.cs#L24" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/Unicode/GraphemeEnumerator.cs#L25" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_Unicode_GraphemeEnumerator">GraphemeEnumerator Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting_Unicode">Avalonia.Media.TextFormatting.Unicode Namespace</a>  
+

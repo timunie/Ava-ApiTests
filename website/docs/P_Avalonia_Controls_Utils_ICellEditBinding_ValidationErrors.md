@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IEnumerable<Exception> ValidationErrors \{ get; }
+IEnumerable<Exception> ValidationErrors { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -37,3 +37,4 @@ abstract ValidationErrors : IEnumerable<Exception> with get
 #### Reference
 <a href="T_Avalonia_Controls_Utils_ICellEditBinding">ICellEditBinding Interface</a>  
 <a href="N_Avalonia_Controls_Utils">Avalonia.Controls.Utils Namespace</a>  
+

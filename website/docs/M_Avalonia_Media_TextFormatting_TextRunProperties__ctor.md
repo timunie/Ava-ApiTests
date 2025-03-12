@@ -39,3 +39,4 @@ new : unit -> TextRunProperties
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextRunProperties">TextRunProperties Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

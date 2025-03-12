@@ -34,7 +34,7 @@ override GetTextRun :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TextBlock.cs#L903" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TextBlock.cs#L904" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ override GetTextRun :
 #### Reference
 <a href="T_Avalonia_Controls_TextBlock_SimpleTextSource">TextBlock.SimpleTextSource Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

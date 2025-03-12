@@ -12,7 +12,7 @@ Set this property to a valid text input client to enable input method interactio
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TextInputMethodClient? Client \{ get; set; }
+public TextInputMethodClient? Client { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Client : TextInputMethodClient with get, set
 #### Reference
 <a href="T_Avalonia_Input_TextInput_TextInputMethodClientRequestedEventArgs">TextInputMethodClientRequestedEventArgs Class</a>  
 <a href="N_Avalonia_Input_TextInput">Avalonia.Input.TextInput Namespace</a>  
+

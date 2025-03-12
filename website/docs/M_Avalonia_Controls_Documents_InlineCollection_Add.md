@@ -34,7 +34,7 @@ member Add :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Documents/InlineCollection.cs#L122" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Documents/InlineCollection.cs#L123" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ member Add :
 <a href="T_Avalonia_Controls_Documents_InlineCollection">InlineCollection Class</a>  
 <a href="Overload_Avalonia_Controls_Documents_InlineCollection_Add">Add Overload</a>  
 <a href="N_Avalonia_Controls_Documents">Avalonia.Controls.Documents Namespace</a>  
+

@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool CanMove \{ get; }
+bool CanMove { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ abstract CanMove : bool with get
 #### Reference
 <a href="T_Avalonia_Win32_Interop_Automation_ITransformProvider">ITransformProvider Interface</a>  
 <a href="N_Avalonia_Win32_Interop_Automation">Avalonia.Win32.Interop.Automation Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets extended information about the input pointer.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PointerPointProperties Properties \{
+public PointerPointProperties Properties {
 	get;
  }
 ```
@@ -46,3 +46,4 @@ member Properties : PointerPointProperties with
 #### Reference
 <a href="T_Avalonia_Input_PointerPoint">PointerPoint Structure</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

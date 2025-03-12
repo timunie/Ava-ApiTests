@@ -102,3 +102,4 @@ type TextEndOfParagraph =
 
 #### Reference
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

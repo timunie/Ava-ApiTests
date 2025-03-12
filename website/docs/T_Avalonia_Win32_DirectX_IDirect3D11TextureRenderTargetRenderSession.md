@@ -68,3 +68,4 @@ type IDirect3D11TextureRenderTargetRenderSession =
 
 #### Reference
 <a href="N_Avalonia_Win32_DirectX">Avalonia.Win32.DirectX Namespace</a>  
+

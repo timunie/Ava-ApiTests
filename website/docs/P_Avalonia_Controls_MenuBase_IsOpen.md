@@ -12,7 +12,7 @@ Gets a value indicating whether the menu is open.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsOpen \{ get; protected set; }
+public bool IsOpen { get; protected set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ override IsOpen : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_MenuBase">MenuBase Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

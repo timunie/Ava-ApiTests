@@ -48,3 +48,4 @@ F# does not support the declaration of new casting operators.
 <a href="T_Avalonia_Threading_DispatcherPriority">DispatcherPriority Structure</a>  
 <a href="Overload_Avalonia_Threading_DispatcherPriority_op_Implicit">Implicit Overload</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

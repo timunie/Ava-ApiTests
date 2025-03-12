@@ -42,3 +42,4 @@ static val TicksProperty: StyledProperty<AvaloniaList<float>>
 #### Reference
 <a href="T_Avalonia_Controls_TickBar">TickBar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

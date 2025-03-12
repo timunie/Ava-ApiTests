@@ -12,7 +12,7 @@ Gets the value that is added to or subtracted from the Value property when a lar
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-double LargeChange \{ get; }
+double LargeChange { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract LargeChange : float with get
 #### Reference
 <a href="T_Avalonia_Automation_Provider_IRangeValueProvider">IRangeValueProvider Interface</a>  
 <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider Namespace</a>  
+

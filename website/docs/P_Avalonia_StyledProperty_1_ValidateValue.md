@@ -12,7 +12,7 @@ A method which returns "false" for values that are never valid for this property
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Func<TValue, bool>? ValidateValue \{ get; }
+public Func<TValue, bool>? ValidateValue { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member ValidateValue : Func<'TValue, bool> with get
 #### Reference
 <a href="T_Avalonia_StyledProperty_1">StyledProperty(TValue) Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the input gesture that will be displayed in the menu item.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public KeyGesture? InputGesture \{ get; set; }
+public KeyGesture? InputGesture { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member InputGesture : KeyGesture with get, set
 #### Reference
 <a href="T_Avalonia_Controls_MenuItem">MenuItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

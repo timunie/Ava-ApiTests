@@ -12,7 +12,7 @@ Gets a value indicating whether the <a href="https://learn.microsoft.com/dotnet/
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsReadOnly \{ get; }
+public bool IsReadOnly { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -50,3 +50,4 @@ true if the <a href="https://learn.microsoft.com/dotnet/api/system.collections.g
 #### Reference
 <a href="T_Avalonia_Collections_AvaloniaDictionary_2">AvaloniaDictionary(TKey, TValue) Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

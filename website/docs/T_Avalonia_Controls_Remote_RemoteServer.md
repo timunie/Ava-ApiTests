@@ -10,17 +10,20 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public class RemoteServer : IDisposable
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Class RemoteServer
 	Implements IDisposable
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type RemoteServer = 
     class
         interface IDisposable
@@ -93,3 +96,4 @@ type RemoteServer =
 
 #### Reference
 <a href="N_Avalonia_Controls_Remote">Avalonia.Controls.Remote Namespace</a>  
+

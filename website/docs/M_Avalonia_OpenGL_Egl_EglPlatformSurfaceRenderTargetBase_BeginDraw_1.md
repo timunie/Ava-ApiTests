@@ -49,7 +49,7 @@ member BeginDraw :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Egl/EglGlPlatformSurfaceBase.cs#L37" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Egl/EglGlPlatformSurfaceBase.cs#L39" title="View the source code">View Source</a>
 
 
 
@@ -66,3 +66,4 @@ member BeginDraw :
 <a href="T_Avalonia_OpenGL_Egl_EglPlatformSurfaceRenderTargetBase">EglPlatformSurfaceRenderTargetBase Class</a>  
 <a href="Overload_Avalonia_OpenGL_Egl_EglPlatformSurfaceRenderTargetBase_BeginDraw">BeginDraw Overload</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

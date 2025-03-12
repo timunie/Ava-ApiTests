@@ -12,7 +12,7 @@ Gets or sets <a href="T_Avalonia_Controls_ValidSpinDirections">ValidSpinDirectio
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ValidSpinDirections ValidSpinDirection \{ get; set; }
+public ValidSpinDirections ValidSpinDirection { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ValidSpinDirection : ValidSpinDirections with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Spinner">Spinner Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

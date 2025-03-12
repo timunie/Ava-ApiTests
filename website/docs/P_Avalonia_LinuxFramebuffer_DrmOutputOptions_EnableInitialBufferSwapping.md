@@ -12,7 +12,7 @@ If true an two cycle buffer swapping is processed at init. Default: True
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool EnableInitialBufferSwapping \{ get; set; }
+public bool EnableInitialBufferSwapping { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member EnableInitialBufferSwapping : bool with get, set
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_DrmOutputOptions">DrmOutputOptions Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer">Avalonia.LinuxFramebuffer Namespace</a>  
+

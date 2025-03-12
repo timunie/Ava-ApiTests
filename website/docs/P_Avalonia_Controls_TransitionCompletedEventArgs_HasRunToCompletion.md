@@ -12,7 +12,7 @@ Gets whether the transition ran to completion. If false, the transition may have
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool HasRunToCompletion \{ get; }
+public bool HasRunToCompletion { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member HasRunToCompletion : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_TransitionCompletedEventArgs">TransitionCompletedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,16 +12,19 @@ Exposes an interface for setting pseudoclasses on a <a href="T_Avalonia_Controls
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IPseudoClasses
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IPseudoClasses
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IPseudoClasses = interface end
 ```
 </TabItem>
@@ -66,3 +69,4 @@ type IPseudoClasses = interface end
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

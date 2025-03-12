@@ -12,7 +12,7 @@ Gets or sets the application's DPI awareness.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Win32DpiAwareness DpiAwareness \{ get; set; }
+public Win32DpiAwareness DpiAwareness { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DpiAwareness : Win32DpiAwareness with get, set
 #### Reference
 <a href="T_Avalonia_Win32PlatformOptions">Win32PlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

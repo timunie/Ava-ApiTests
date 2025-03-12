@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Dictionary<Type, Object> PlatformFeatures \{ get; set; }
+public Dictionary<Type, Object> PlatformFeatures { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member PlatformFeatures : Dictionary<Type, Object> with get, set
 #### Reference
 <a href="T_Avalonia_Vulkan_VulkanPlatformSpecificOptions">VulkanPlatformSpecificOptions Class</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

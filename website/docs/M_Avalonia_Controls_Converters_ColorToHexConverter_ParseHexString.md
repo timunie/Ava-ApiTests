@@ -37,7 +37,7 @@ static member ParseHexString :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/Converters/ColorToHexConverter.cs#L133" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/Converters/ColorToHexConverter.cs#L134" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ The parsed <a href="T_Avalonia_Media_Color">Color</a>; otherwise, null.
 #### Reference
 <a href="T_Avalonia_Controls_Converters_ColorToHexConverter">ColorToHexConverter Class</a>  
 <a href="N_Avalonia_Controls_Converters">Avalonia.Controls.Converters Namespace</a>  
+

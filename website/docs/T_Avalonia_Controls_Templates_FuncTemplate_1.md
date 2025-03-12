@@ -94,3 +94,4 @@ type FuncTemplate<'TControl when 'TControl : Control> =
 
 #### Reference
 <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates Namespace</a>  
+

@@ -33,11 +33,11 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_LogicalTree_ILogical">ILogical</a></td>
-<td>Represents a node in the logical tree.</td>
+<td>Represents a node in the logical tree.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_LogicalTree_ILogicalRoot">ILogicalRoot</a></td>
-<td>Represents a root of a logical tree.</td>
+<td>Represents a root of a logical tree.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 </table>
 

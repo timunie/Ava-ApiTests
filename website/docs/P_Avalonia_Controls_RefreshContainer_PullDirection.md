@@ -12,7 +12,7 @@ Gets or sets a value that specifies the direction to pull to initiate a refresh.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PullDirection PullDirection \{ get; set; }
+public PullDirection PullDirection { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member PullDirection : PullDirection with get, set
 #### Reference
 <a href="T_Avalonia_Controls_RefreshContainer">RefreshContainer Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

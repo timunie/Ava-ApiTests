@@ -14,7 +14,7 @@ Gets or sets the value of a <a href="T_Avalonia_AvaloniaProperty">AvaloniaProper
 ```csharp
 public Object? this[
 	AvaloniaProperty property
-] \{ get; set; }
+] { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -52,3 +52,4 @@ member Item : Object with get, set
 <a href="T_Avalonia_AvaloniaObject">AvaloniaObject Class</a>  
 <a href="Overload_Avalonia_AvaloniaObject_Item">Item Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

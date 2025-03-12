@@ -48,7 +48,7 @@ override Convert :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/Converters/StringFormatValueConverter.cs#L36" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/Converters/StringFormatValueConverter.cs#L37" title="View the source code">View Source</a>
 
 
 
@@ -69,3 +69,4 @@ This method should not throw exceptions. If the value is not convertible, return
 #### Reference
 <a href="T_Avalonia_Data_Converters_StringFormatValueConverter">StringFormatValueConverter Class</a>  
 <a href="N_Avalonia_Data_Converters">Avalonia.Data.Converters Namespace</a>  
+

@@ -40,3 +40,4 @@ new : unit -> MatrixTransform
 <a href="T_Avalonia_Media_MatrixTransform">MatrixTransform Class</a>  
 <a href="Overload_Avalonia_Media_MatrixTransform__ctor">MatrixTransform Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

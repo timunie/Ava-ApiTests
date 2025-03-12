@@ -40,3 +40,4 @@ new : unit -> LineGeometry
 <a href="T_Avalonia_Media_LineGeometry">LineGeometry Class</a>  
 <a href="Overload_Avalonia_Media_LineGeometry__ctor">LineGeometry Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -43,7 +43,7 @@ static member FromAhsv :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/HsvColor.cs#L370" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/HsvColor.cs#L371" title="View the source code">View Source</a>
 
 
 
@@ -60,3 +60,4 @@ A new <a href="T_Avalonia_Media_HsvColor">HsvColor</a> built from the individual
 #### Reference
 <a href="T_Avalonia_Media_HsvColor">HsvColor Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

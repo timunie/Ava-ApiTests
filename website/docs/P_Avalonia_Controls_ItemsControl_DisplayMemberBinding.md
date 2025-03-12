@@ -12,11 +12,15 @@ Gets or sets the <a href="T_Avalonia_Data_IBinding">IBinding</a> to use for bind
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IBinding? DisplayMemberBinding \{ get; set; }
+[AssignBindingAttribute]
+[InheritDataTypeFromItemsAttribute("ItemsSource")]
+public IBinding? DisplayMemberBinding { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AssignBindingAttribute>
+<InheritDataTypeFromItemsAttribute("ItemsSource")>
 Public Property DisplayMemberBinding As IBinding
 	Get
 	Set
@@ -24,6 +28,8 @@ Public Property DisplayMemberBinding As IBinding
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<AssignBindingAttribute>]
+[<InheritDataTypeFromItemsAttribute("ItemsSource")>]
 member DisplayMemberBinding : IBinding with get, set
 ```
 </TabItem>
@@ -44,3 +50,4 @@ member DisplayMemberBinding : IBinding with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ItemsControl">ItemsControl Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

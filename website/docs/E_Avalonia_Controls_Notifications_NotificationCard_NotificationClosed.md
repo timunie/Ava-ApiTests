@@ -43,3 +43,4 @@ member NotificationClosed : IEvent<EventHandler<RoutedEventArgs>,
 #### Reference
 <a href="T_Avalonia_Controls_Notifications_NotificationCard">NotificationCard Class</a>  
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
+

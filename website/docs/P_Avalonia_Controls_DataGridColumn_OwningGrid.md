@@ -12,7 +12,7 @@ Gets the <a href="T_Avalonia_Controls_DataGrid">DataGrid</a> control that contai
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected DataGrid OwningGrid \{ get; }
+protected DataGrid OwningGrid { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member OwningGrid : DataGrid with get
 #### Reference
 <a href="T_Avalonia_Controls_DataGridColumn">DataGridColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

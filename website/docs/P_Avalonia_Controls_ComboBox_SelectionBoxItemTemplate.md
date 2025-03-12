@@ -12,11 +12,13 @@ Gets or sets the DataTemplate used to display the selected item. This has a high
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IDataTemplate? SelectionBoxItemTemplate \{ get; set; }
+[InheritDataTypeFromItemsAttribute("ItemsSource")]
+public IDataTemplate? SelectionBoxItemTemplate { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<InheritDataTypeFromItemsAttribute("ItemsSource")>
 Public Property SelectionBoxItemTemplate As IDataTemplate
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property SelectionBoxItemTemplate As IDataTemplate
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<InheritDataTypeFromItemsAttribute("ItemsSource")>]
 member SelectionBoxItemTemplate : IDataTemplate with get, set
 ```
 </TabItem>
@@ -44,3 +47,4 @@ member SelectionBoxItemTemplate : IDataTemplate with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ComboBox">ComboBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

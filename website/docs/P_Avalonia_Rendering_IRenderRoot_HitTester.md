@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IHitTester HitTester \{ get; }
+IHitTester HitTester { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -33,7 +33,7 @@ abstract HitTester : IHitTester with get
 
 
 #### Property Value
-<a href="T_Avalonia_Rendering_IHitTester">IHitTester</a>
+IHitTester
 
 ## See Also
 
@@ -41,3 +41,4 @@ abstract HitTester : IHitTester with get
 #### Reference
 <a href="T_Avalonia_Rendering_IRenderRoot">IRenderRoot Interface</a>  
 <a href="N_Avalonia_Rendering">Avalonia.Rendering Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the rectangle of the source image that will be displayed.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RelativeRect SourceRect \{ get; set; }
+public RelativeRect SourceRect { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override SourceRect : RelativeRect with get, set
 #### Reference
 <a href="T_Avalonia_Media_TileBrush">TileBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

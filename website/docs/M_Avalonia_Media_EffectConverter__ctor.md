@@ -39,3 +39,4 @@ new : unit -> EffectConverter
 #### Reference
 <a href="T_Avalonia_Media_EffectConverter">EffectConverter Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

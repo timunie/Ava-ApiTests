@@ -12,7 +12,7 @@ Gets or sets a value indicating the distance the pointer moves before scrolling 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int ScrollStartDistance \{ get; set; }
+public int ScrollStartDistance { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ScrollStartDistance : int with get, set
 #### Reference
 <a href="T_Avalonia_Input_GestureRecognizers_ScrollGestureRecognizer">ScrollGestureRecognizer Class</a>  
 <a href="N_Avalonia_Input_GestureRecognizers">Avalonia.Input.GestureRecognizers Namespace</a>  
+

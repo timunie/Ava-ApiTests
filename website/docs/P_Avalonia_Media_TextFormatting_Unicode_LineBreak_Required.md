@@ -12,7 +12,7 @@ True if there should be a forced line break here
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool Required \{ get; }
+public bool Required { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Required : bool with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_Unicode_LineBreak">LineBreak Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting_Unicode">Avalonia.Media.TextFormatting.Unicode Namespace</a>  
+

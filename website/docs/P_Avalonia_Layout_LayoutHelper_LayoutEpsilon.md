@@ -12,7 +12,7 @@ Epsilon value used for certain layout calculations. Based on the value in WPF La
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static double LayoutEpsilon \{ get; }
+public static double LayoutEpsilon { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member LayoutEpsilon : float with get
 #### Reference
 <a href="T_Avalonia_Layout_LayoutHelper">LayoutHelper Class</a>  
 <a href="N_Avalonia_Layout">Avalonia.Layout Namespace</a>  
+

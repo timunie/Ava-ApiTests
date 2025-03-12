@@ -12,7 +12,7 @@ Specifies the vulkan api version to use
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Version VulkanVersion \{ get; set; }
+public Version VulkanVersion { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member VulkanVersion : Version with get, set
 #### Reference
 <a href="T_Avalonia_Vulkan_VulkanInstanceCreationOptions">VulkanInstanceCreationOptions Class</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

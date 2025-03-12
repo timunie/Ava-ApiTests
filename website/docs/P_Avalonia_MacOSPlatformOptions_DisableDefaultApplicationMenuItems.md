@@ -12,7 +12,7 @@ By default, Avalonia adds items like Quit, Hide to the OSX Application Menu. You
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool DisableDefaultApplicationMenuItems \{ get; set; }
+public bool DisableDefaultApplicationMenuItems { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DisableDefaultApplicationMenuItems : bool with get, set
 #### Reference
 <a href="T_Avalonia_MacOSPlatformOptions">MacOSPlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

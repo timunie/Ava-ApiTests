@@ -29,7 +29,7 @@ member InvalidateParent : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ControlAutomationPeer.cs#L156" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ControlAutomationPeer.cs#L157" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ member InvalidateParent : unit -> unit
 #### Reference
 <a href="T_Avalonia_Automation_Peers_ControlAutomationPeer">ControlAutomationPeer Class</a>  
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

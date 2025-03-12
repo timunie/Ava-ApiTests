@@ -34,7 +34,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/KeyGesture.cs#L27" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/KeyGesture.cs#L28" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ override Equals :
 <a href="T_Avalonia_Input_KeyGesture">KeyGesture Class</a>  
 <a href="Overload_Avalonia_Input_KeyGesture_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string[] Args \{ get; }
+public string[] Args { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Args : string[] with get
 #### Reference
 <a href="T_Avalonia_Controls_ApplicationLifetimes_ControlledApplicationLifetimeStartupEventArgs">ControlledApplicationLifetimeStartupEventArgs Class</a>  
 <a href="N_Avalonia_Controls_ApplicationLifetimes">Avalonia.Controls.ApplicationLifetimes Namespace</a>  
+

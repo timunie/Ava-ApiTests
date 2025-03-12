@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsRounded \{ get; }
+public bool IsRounded { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member IsRounded : bool with get
 #### Reference
 <a href="T_Avalonia_RoundedRect">RoundedRect Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

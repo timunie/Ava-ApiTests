@@ -29,7 +29,7 @@ member InvalidateGeometry : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Shapes/Shape.cs#L252" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Shapes/Shape.cs#L253" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ member InvalidateGeometry : unit -> unit
 #### Reference
 <a href="T_Avalonia_Controls_Shapes_Shape">Shape Class</a>  
 <a href="N_Avalonia_Controls_Shapes">Avalonia.Controls.Shapes Namespace</a>  
+

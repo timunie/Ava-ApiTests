@@ -34,7 +34,7 @@ override Attach :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Chrome/CaptionButtons.cs#L32" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Chrome/CaptionButtons.cs#L33" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override Attach :
 #### Reference
 <a href="T_Avalonia_Controls_Chrome_CaptionButtons">CaptionButtons Class</a>  
 <a href="N_Avalonia_Controls_Chrome">Avalonia.Controls.Chrome Namespace</a>  
+

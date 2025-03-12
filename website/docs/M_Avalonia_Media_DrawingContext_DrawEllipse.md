@@ -46,7 +46,7 @@ member DrawEllipse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/DrawingContext.cs#L199" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/DrawingContext.cs#L200" title="View the source code">View Source</a>
 
 
 
@@ -60,3 +60,4 @@ member DrawEllipse :
 <a href="T_Avalonia_Media_DrawingContext">DrawingContext Class</a>  
 <a href="Overload_Avalonia_Media_DrawingContext_DrawEllipse">DrawEllipse Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

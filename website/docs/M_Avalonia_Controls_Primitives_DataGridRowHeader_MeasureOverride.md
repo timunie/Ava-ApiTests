@@ -36,7 +36,7 @@ override MeasureOverride :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridRowHeader.cs#L123" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridRowHeader.cs#L124" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ The size that the <a href="T_Avalonia_Controls_Primitives_DataGridRowHeader">Dat
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_DataGridRowHeader">DataGridRowHeader Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

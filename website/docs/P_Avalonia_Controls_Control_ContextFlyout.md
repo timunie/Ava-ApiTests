@@ -12,7 +12,7 @@ Gets or sets a context flyout to the control
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public FlyoutBase? ContextFlyout \{ get; set; }
+public FlyoutBase? ContextFlyout { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ContextFlyout : FlyoutBase with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Control">Control Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

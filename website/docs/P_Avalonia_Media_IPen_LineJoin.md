@@ -12,7 +12,7 @@ Gets a value describing how to join consecutive line or curve segments in a <a h
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-PenLineJoin LineJoin \{ get; }
+PenLineJoin LineJoin { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract LineJoin : PenLineJoin with get
 #### Reference
 <a href="T_Avalonia_Media_IPen">IPen Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

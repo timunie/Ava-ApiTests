@@ -12,7 +12,7 @@ Get the glyph index.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ushort GlyphIndex \{ get; }
+public ushort GlyphIndex { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member GlyphIndex : uint16 with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_GlyphInfo">GlyphInfo Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

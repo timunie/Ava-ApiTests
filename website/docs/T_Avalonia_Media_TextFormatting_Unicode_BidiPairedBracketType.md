@@ -55,3 +55,4 @@ type BidiPairedBracketType
 
 #### Reference
 <a href="N_Avalonia_Media_TextFormatting_Unicode">Avalonia.Media.TextFormatting.Unicode Namespace</a>  
+

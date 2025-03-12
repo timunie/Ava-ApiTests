@@ -12,7 +12,7 @@ The duration of the input pane's state change animation.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TimeSpan AnimationDuration \{ get; }
+public TimeSpan AnimationDuration { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member AnimationDuration : TimeSpan with get
 #### Reference
 <a href="T_Avalonia_Controls_Platform_InputPaneStateEventArgs">InputPaneStateEventArgs Class</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

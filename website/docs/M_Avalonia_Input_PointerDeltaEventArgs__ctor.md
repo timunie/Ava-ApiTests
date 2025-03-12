@@ -12,6 +12,7 @@ Initializes a new instance of the <a href="T_Avalonia_Input_PointerDeltaEventArg
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute("This constructor might be removed in 12.0.")]
 public PointerDeltaEventArgs(
 	RoutedEvent routedEvent,
 	Object? source,
@@ -27,6 +28,7 @@ public PointerDeltaEventArgs(
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute("This constructor might be removed in 12.0.")>
 Public Sub New ( 
 	routedEvent As RoutedEvent,
 	source As Object,
@@ -42,6 +44,7 @@ Public Sub New (
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute("This constructor might be removed in 12.0.")>]
 new : 
         routedEvent : RoutedEvent * 
         source : Object * 
@@ -71,3 +74,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Input_PointerDeltaEventArgs">PointerDeltaEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

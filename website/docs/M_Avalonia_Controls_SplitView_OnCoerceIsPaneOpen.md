@@ -36,7 +36,7 @@ override OnCoerceIsPaneOpen :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/SplitView/SplitView.cs#L475" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/SplitView/SplitView.cs#L478" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ override OnCoerceIsPaneOpen :
 #### Reference
 <a href="T_Avalonia_Controls_SplitView">SplitView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

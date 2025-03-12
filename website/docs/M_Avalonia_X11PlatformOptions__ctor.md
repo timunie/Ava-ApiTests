@@ -39,3 +39,4 @@ new : unit -> X11PlatformOptions
 #### Reference
 <a href="T_Avalonia_X11PlatformOptions">X11PlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

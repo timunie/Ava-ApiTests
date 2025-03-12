@@ -107,3 +107,4 @@ type HtmlWebSocketTransport =
 
 #### Reference
 <a href="N_Avalonia_DesignerSupport_Remote_HtmlTransport">Avalonia.DesignerSupport.Remote.HtmlTransport Namespace</a>  
+

@@ -54,3 +54,4 @@ True if *obj* is a size that equals the current size.
 <a href="T_Avalonia_PixelSize">PixelSize Structure</a>  
 <a href="Overload_Avalonia_PixelSize_Equals">Equals Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

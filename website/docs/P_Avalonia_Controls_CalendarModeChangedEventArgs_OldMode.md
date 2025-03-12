@@ -12,7 +12,7 @@ Gets the previous mode of the <a href="T_Avalonia_Controls_Calendar">Calendar</a
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public CalendarMode OldMode \{ get; }
+public CalendarMode OldMode { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ A <a href="T_Avalonia_Controls_CalendarMode">CalendarMode</a> representing the p
 #### Reference
 <a href="T_Avalonia_Controls_CalendarModeChangedEventArgs">CalendarModeChangedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

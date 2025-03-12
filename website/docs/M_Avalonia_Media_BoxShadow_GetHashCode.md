@@ -28,7 +28,7 @@ override GetHashCode : unit -> int
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/BoxShadow.cs#L29" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/BoxShadow.cs#L32" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override GetHashCode : unit -> int
 #### Reference
 <a href="T_Avalonia_Media_BoxShadow">BoxShadow Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

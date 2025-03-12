@@ -12,7 +12,7 @@ Gets the style of dashed lines drawn with a <a href="T_Avalonia_Media_Pen">Pen</
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IDashStyle? DashStyle \{ get; }
+IDashStyle? DashStyle { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract DashStyle : IDashStyle with get
 #### Reference
 <a href="T_Avalonia_Media_IPen">IPen Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

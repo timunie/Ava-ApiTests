@@ -34,7 +34,7 @@ static member UseWin32 :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Windows/Avalonia.Win32/Win32Platform.cs#L28" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Windows/Avalonia.Win32/Win32Platform.cs#L29" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 #### Reference
 <a href="T_Avalonia_Win32ApplicationExtensions">Win32ApplicationExtensions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

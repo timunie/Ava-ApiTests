@@ -12,7 +12,7 @@ Gets or sets a collection used to generate the content of the <a href="T_Avaloni
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IEnumerable? ItemsSource \{ get; set; }
+public IEnumerable? ItemsSource { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ItemsSource : IEnumerable with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ItemsControl">ItemsControl Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

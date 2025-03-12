@@ -12,7 +12,7 @@ Gets or sets the default control's focus adorner.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ITemplate<Control>? DefaultFocusAdorner \{ get; set; }
+public ITemplate<Control>? DefaultFocusAdorner { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DefaultFocusAdorner : ITemplate<Control> with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_AdornerLayer">AdornerLayer Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

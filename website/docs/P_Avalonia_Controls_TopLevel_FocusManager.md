@@ -12,7 +12,7 @@ Gets focus manager of the root.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IFocusManager? FocusManager \{ get; }
+public IFocusManager? FocusManager { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ Focus manager can be null only if window wasn't initialized yet.
 #### Reference
 <a href="T_Avalonia_Controls_TopLevel">TopLevel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

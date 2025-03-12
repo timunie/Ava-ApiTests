@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IntPtr NSWindow \{ get; }
+IntPtr NSWindow { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ abstract NSWindow : IntPtr with get
 #### Reference
 <a href="T_Avalonia_Platform_IMacOSTopLevelPlatformHandle">IMacOSTopLevelPlatformHandle Interface</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

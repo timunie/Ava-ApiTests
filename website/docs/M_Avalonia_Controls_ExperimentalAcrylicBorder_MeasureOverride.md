@@ -36,7 +36,7 @@ override MeasureOverride :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ExperimentalAcrylicBorder.cs#L123" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ExperimentalAcrylicBorder.cs#L124" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ The desired size of the control.
 #### Reference
 <a href="T_Avalonia_Controls_ExperimentalAcrylicBorder">ExperimentalAcrylicBorder Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

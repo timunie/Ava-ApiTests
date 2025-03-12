@@ -10,18 +10,21 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IStorageBookmarkItem : IStorageItem, 
 	IDisposable
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IStorageBookmarkItem
 	Inherits IStorageItem, IDisposable
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IStorageBookmarkItem = 
     interface
         interface IStorageItem
@@ -102,3 +105,4 @@ type IStorageBookmarkItem =
 
 #### Reference
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

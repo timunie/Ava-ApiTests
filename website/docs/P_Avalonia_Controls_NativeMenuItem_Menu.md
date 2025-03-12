@@ -10,11 +10,13 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public NativeMenu? Menu \{ get; set; }
+[ContentAttribute]
+public NativeMenu? Menu { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public Property Menu As NativeMenu
 	Get
 	Set
@@ -22,6 +24,7 @@ Public Property Menu As NativeMenu
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Menu : NativeMenu with get, set
 ```
 </TabItem>
@@ -42,3 +45,4 @@ member Menu : NativeMenu with get, set
 #### Reference
 <a href="T_Avalonia_Controls_NativeMenuItem">NativeMenuItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

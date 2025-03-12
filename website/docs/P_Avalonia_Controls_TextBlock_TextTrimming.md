@@ -12,7 +12,7 @@ Gets or sets the control's text trimming mode.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TextTrimming TextTrimming \{ get; set; }
+public TextTrimming TextTrimming { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member TextTrimming : TextTrimming with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TextBlock">TextBlock Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

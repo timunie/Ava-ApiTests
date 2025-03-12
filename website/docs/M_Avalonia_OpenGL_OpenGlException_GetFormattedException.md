@@ -35,7 +35,7 @@ static member GetFormattedException :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/OpenGlException.cs#L20" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/OpenGlException.cs#L21" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ static member GetFormattedException :
 <a href="T_Avalonia_OpenGL_OpenGlException">OpenGlException Class</a>  
 <a href="Overload_Avalonia_OpenGL_OpenGlException_GetFormattedException">GetFormattedException Overload</a>  
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

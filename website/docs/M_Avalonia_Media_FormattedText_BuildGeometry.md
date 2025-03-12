@@ -34,7 +34,7 @@ member BuildGeometry :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L1351" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L1352" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The geometry returned contains the combined geometry of all of the glyphs, under
 #### Reference
 <a href="T_Avalonia_Media_FormattedText">FormattedText Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

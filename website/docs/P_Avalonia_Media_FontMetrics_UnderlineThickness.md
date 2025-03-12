@@ -12,7 +12,7 @@ Gets a value that indicates the thickness of the underline in design em size.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int UnderlineThickness \{ get; init; }
+public int UnderlineThickness { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member UnderlineThickness : int with get, set
 #### Reference
 <a href="T_Avalonia_Media_FontMetrics">FontMetrics Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

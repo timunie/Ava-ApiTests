@@ -12,7 +12,7 @@ Gets the value to use when the property is set to <a href="F_Avalonia_AvaloniaPr
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TValue UnsetValue \{ get; }
+public TValue UnsetValue { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member UnsetValue : 'TValue with get
 #### Reference
 <a href="T_Avalonia_DirectPropertyMetadata_1">DirectPropertyMetadata(TValue) Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

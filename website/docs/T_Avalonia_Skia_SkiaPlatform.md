@@ -64,3 +64,4 @@ type SkiaPlatform = class end
 
 #### Reference
 <a href="N_Avalonia_Skia">Avalonia.Skia Namespace</a>  
+

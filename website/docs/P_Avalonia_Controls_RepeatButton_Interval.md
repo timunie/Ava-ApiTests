@@ -12,7 +12,7 @@ Gets or sets the amount of time, in milliseconds, of repeating clicks.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int Interval \{ get; set; }
+public int Interval { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Interval : int with get, set
 #### Reference
 <a href="T_Avalonia_Controls_RepeatButton">RepeatButton Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

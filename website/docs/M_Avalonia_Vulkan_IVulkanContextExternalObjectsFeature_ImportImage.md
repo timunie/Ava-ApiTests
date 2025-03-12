@@ -51,3 +51,4 @@ abstract ImportImage :
 #### Reference
 <a href="T_Avalonia_Vulkan_IVulkanContextExternalObjectsFeature">IVulkanContextExternalObjectsFeature Interface</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

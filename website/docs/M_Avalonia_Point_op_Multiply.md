@@ -55,3 +55,4 @@ The resulting point.
 <a href="T_Avalonia_Point">Point Structure</a>  
 <a href="Overload_Avalonia_Point_op_Multiply">Multiply Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -55,3 +55,4 @@ The device-independent point.
 <a href="T_Avalonia_PixelRect">PixelRect Structure</a>  
 <a href="Overload_Avalonia_PixelRect_FromRectWithDpi">FromRectWithDpi Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

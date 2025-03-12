@@ -12,7 +12,7 @@ Gets or sets the image to draw.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IImageBrushSource? Source \{ get; set; }
+public IImageBrushSource? Source { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override Source : IImageBrushSource with get, set
 #### Reference
 <a href="T_Avalonia_Media_ImageBrush">ImageBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

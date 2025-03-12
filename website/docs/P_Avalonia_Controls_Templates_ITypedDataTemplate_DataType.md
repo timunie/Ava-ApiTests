@@ -10,17 +10,20 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Type? DataType \{ get; }
+[DataTypeAttribute]
+Type? DataType { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<DataTypeAttribute>
 ReadOnly Property DataType As Type
 	Get
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<DataTypeAttribute>]
 abstract DataType : Type with get
 ```
 </TabItem>
@@ -41,3 +44,4 @@ abstract DataType : Type with get
 #### Reference
 <a href="T_Avalonia_Controls_Templates_ITypedDataTemplate">ITypedDataTemplate Interface</a>  
 <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates Namespace</a>  
+

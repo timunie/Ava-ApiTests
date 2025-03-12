@@ -103,3 +103,4 @@ This palette is based on the one outlined here: https://material.io/design/color
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

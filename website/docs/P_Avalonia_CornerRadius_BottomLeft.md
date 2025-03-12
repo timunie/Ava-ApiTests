@@ -12,7 +12,7 @@ Radius of the bottom left corner.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double BottomLeft \{ get; }
+public double BottomLeft { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member BottomLeft : float with get
 #### Reference
 <a href="T_Avalonia_CornerRadius">CornerRadius Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

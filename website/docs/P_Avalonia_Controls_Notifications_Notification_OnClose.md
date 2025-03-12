@@ -12,7 +12,7 @@ Gets an Action to be run when the notification is closed.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Action? OnClose \{ get; set; }
+public Action? OnClose { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override OnClose : Action with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Notifications_Notification">Notification Class</a>  
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
+

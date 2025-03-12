@@ -58,10 +58,6 @@ type WindowBaseAutomationPeer =
 <td><a href="P_Avalonia_Automation_Peers_WindowBaseAutomationPeer_Owner">Owner</a></td>
 <td> </td>
 </tr>
-<tr>
-<td><a href="P_Avalonia_Automation_Peers_WindowBaseAutomationPeer_PlatformImpl">PlatformImpl</a></td>
-<td> </td>
-</tr>
 </table>
 
 ## Methods
@@ -357,3 +353,4 @@ type WindowBaseAutomationPeer =
 
 #### Reference
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

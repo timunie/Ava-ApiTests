@@ -12,7 +12,7 @@ Gets or Sets the <a href="T_Avalonia_Controls_Templates_IDataTemplate">IDataTemp
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IDataTemplate? OffContentTemplate \{ get; set; }
+public IDataTemplate? OffContentTemplate { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member OffContentTemplate : IDataTemplate with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ToggleSwitch">ToggleSwitch Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

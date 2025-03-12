@@ -12,7 +12,7 @@ Gets or Sets the BackgroundSource .
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public AcrylicBackgroundSource BackgroundSource \{ get; set; }
+public AcrylicBackgroundSource BackgroundSource { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -50,3 +50,4 @@ override BackgroundSource : AcrylicBackgroundSource with get, set
 <a href="T_Avalonia_Media_ExperimentalAcrylicMaterial">ExperimentalAcrylicMaterial Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
 <a href="T_Avalonia_Media_AcrylicBackgroundSource">AcrylicBackgroundSource</a>  
+

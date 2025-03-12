@@ -12,7 +12,7 @@ Defines the alignment of text within the column
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TextAlignment TextAlignment \{ get; set; }
+public TextAlignment TextAlignment { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -31,7 +31,7 @@ member TextAlignment : TextAlignment with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L1047" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L1048" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ member TextAlignment : TextAlignment with get, set
 #### Reference
 <a href="T_Avalonia_Media_FormattedText">FormattedText Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

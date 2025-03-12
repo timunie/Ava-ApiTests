@@ -12,7 +12,7 @@ Indicates whether the Splitter resizes the Columns, Rows, or Both.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public GridResizeDirection ResizeDirection \{ get; set; }
+public GridResizeDirection ResizeDirection { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ResizeDirection : GridResizeDirection with get, set
 #### Reference
 <a href="T_Avalonia_Controls_GridSplitter">GridSplitter Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

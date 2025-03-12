@@ -12,11 +12,13 @@ Gets or sets the <a href="T_Avalonia_Controls_Templates_IDataTemplate">IDataTemp
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IDataTemplate CellEditingTemplate \{ get; set; }
+[InheritDataTypeFromItemsAttribute("ItemsSource", AncestorType = typeof(DataGrid))]
+public IDataTemplate CellEditingTemplate { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<InheritDataTypeFromItemsAttribute("ItemsSource", AncestorType := GetType(DataGrid))>
 Public Property CellEditingTemplate As IDataTemplate
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property CellEditingTemplate As IDataTemplate
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<InheritDataTypeFromItemsAttribute("ItemsSource", AncestorType = typeof(DataGrid))>]
 member CellEditingTemplate : IDataTemplate with get, set
 ```
 </TabItem>
@@ -45,3 +48,4 @@ An <a href="T_Avalonia_Controls_Templates_IDataTemplate">IDataTemplate</a> for t
 #### Reference
 <a href="T_Avalonia_Controls_DataGridTemplateColumn">DataGridTemplateColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

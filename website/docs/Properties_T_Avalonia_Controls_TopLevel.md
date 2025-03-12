@@ -294,10 +294,6 @@
 <td>Gets the styled element's logical parent.<br />(Inherited from <a href="T_Avalonia_StyledElement">StyledElement</a>)</td>
 </tr>
 <tr>
-<td><a href="P_Avalonia_Controls_TopLevel_PlatformImpl">PlatformImpl</a></td>
-<td>Gets the platform-specific window implementation.</td>
-</tr>
-<tr>
 <td><a href="P_Avalonia_Controls_TopLevel_PlatformSettings">PlatformSettings</a></td>
 <td>Represents a contract for accessing top-level platform-specific settings.</td>
 </tr>
@@ -421,3 +417,4 @@
 #### Reference
 <a href="T_Avalonia_Controls_TopLevel">TopLevel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the UI theme variant that is used by the control (and its child ele
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ThemeVariant? RequestedThemeVariant \{ get; set; }
+public ThemeVariant? RequestedThemeVariant { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member RequestedThemeVariant : ThemeVariant with get, set
 #### Reference
 <a href="T_Avalonia_Application">Application Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

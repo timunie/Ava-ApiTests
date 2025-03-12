@@ -54,3 +54,4 @@ true if *obj* and this instance are the same type and represent the same value; 
 <a href="T_Avalonia_Data_Optional_1">Optional(T) Structure</a>  
 <a href="Overload_Avalonia_Data_Optional_1_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

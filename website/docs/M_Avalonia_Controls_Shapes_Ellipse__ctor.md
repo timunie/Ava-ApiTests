@@ -39,3 +39,4 @@ new : unit -> Ellipse
 #### Reference
 <a href="T_Avalonia_Controls_Shapes_Ellipse">Ellipse Class</a>  
 <a href="N_Avalonia_Controls_Shapes">Avalonia.Controls.Shapes Namespace</a>  
+

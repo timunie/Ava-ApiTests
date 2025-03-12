@@ -33,14 +33,6 @@ type IRootProvider = interface end
 
 This interface is implemented by the <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a> class, and should only be implemented on true root elements, such as Windows. To embed an automation tree, use <a href="T_Avalonia_Automation_Provider_IEmbeddedRootProvider">IEmbeddedRootProvider</a> instead.
 
-## Properties
-<table>
-<tr>
-<td><a href="P_Avalonia_Automation_Provider_IRootProvider_PlatformImpl">PlatformImpl</a></td>
-<td>Gets the platform implementation of the TopLevel for the element.</td>
-</tr>
-</table>
-
 ## Methods
 <table>
 <tr>
@@ -66,3 +58,4 @@ This interface is implemented by the <a href="T_Avalonia_Automation_Peers_Automa
 
 #### Reference
 <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider Namespace</a>  
+

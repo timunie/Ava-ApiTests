@@ -48,7 +48,7 @@ static member ToHexString :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/Converters/ColorToHexConverter.cs#L90" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/Converters/ColorToHexConverter.cs#L94" title="View the source code">View Source</a>
 
 
 
@@ -65,3 +65,4 @@ The input color converted to its hex value string.
 #### Reference
 <a href="T_Avalonia_Controls_Converters_ColorToHexConverter">ColorToHexConverter Class</a>  
 <a href="N_Avalonia_Controls_Converters">Avalonia.Controls.Converters Namespace</a>  
+

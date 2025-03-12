@@ -12,7 +12,7 @@ Gets or sets the join style for the ends of two consecutive lines drawn with thi
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PenLineJoin LineJoin \{ get; set; }
+public PenLineJoin LineJoin { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override LineJoin : PenLineJoin with get, set
 #### Reference
 <a href="T_Avalonia_Media_Pen">Pen Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

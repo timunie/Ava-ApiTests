@@ -72,3 +72,4 @@ type LogEventLevel
 
 #### Reference
 <a href="N_Avalonia_Logging">Avalonia.Logging Namespace</a>  
+

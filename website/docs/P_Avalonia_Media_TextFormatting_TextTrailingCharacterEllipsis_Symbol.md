@@ -12,7 +12,7 @@ Gets the text run that is used as collapsing symbol.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public override TextRun Symbol \{ get; }
+public override TextRun Symbol { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ override Symbol : TextRun with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextTrailingCharacterEllipsis">TextTrailingCharacterEllipsis Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

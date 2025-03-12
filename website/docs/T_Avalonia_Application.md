@@ -55,7 +55,7 @@ type Application =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_IGlobalDataTemplates">IGlobalDataTemplates</a>, <a href="T_Avalonia_Controls_IResourceHost">IResourceHost</a>, <a href="T_Avalonia_Controls_IResourceNode">IResourceNode</a>, <a href="T_Avalonia_Controls_Templates_IDataTemplateHost">IDataTemplateHost</a>, <a href="T_Avalonia_IDataContextProvider">IDataContextProvider</a>, <a href="T_Avalonia_Platform_IApplicationPlatformEvents">IApplicationPlatformEvents</a>, <a href="T_Avalonia_Platform_IOptionalFeatureProvider">IOptionalFeatureProvider</a>, <a href="T_Avalonia_Styling_IGlobalStyles">IGlobalStyles</a>, <a href="T_Avalonia_Styling_IStyleHost">IStyleHost</a>, <a href="T_Avalonia_Styling_IThemeVariantHost">IThemeVariantHost</a></td></tr>
 </table>
 
-The Application class encapsulates Avalonia application-specific functionality, including: - A global set of <a href="P_Avalonia_Application_DataTemplates">DataTemplates</a>. - A global set of <a href="P_Avalonia_Application_Styles">Styles</a>. - A <a href="T_Avalonia_Input_FocusManager">FocusManager</a>. - An InputManager. - Registers services needed by the rest of Avalonia in the <a href="M_Avalonia_Application_RegisterServices">RegisterServices()</a> method. - Tracks the lifetime of the application.
+The Application class encapsulates Avalonia application-specific functionality, including: - A global set of <a href="P_Avalonia_Application_DataTemplates">DataTemplates</a>. - A global set of <a href="P_Avalonia_Application_Styles">Styles</a>. - A FocusManager. - An InputManager. - Registers services needed by the rest of Avalonia in the <a href="M_Avalonia_Application_RegisterServices">RegisterServices()</a> method. - Tracks the lifetime of the application.
 
 ## Constructors
 <table>
@@ -309,7 +309,7 @@ The Application class encapsulates Avalonia application-specific functionality, 
 </tr>
 <tr>
 <td><a href="E_Avalonia_Application_UrlsOpened">UrlsOpened</a></td>
-<td>Obsolete.</td>
+<td><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 </table>
 
@@ -464,14 +464,6 @@ The Application class encapsulates Avalonia application-specific functionality, 
 <td>Tries to the specified resource by searching up the logical tree and then global styles.<br />(Defined by <a href="T_Avalonia_Controls_ResourceNodeExtensions">ResourceNodeExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Platform_OptionalFeatureProviderExtensions_TryGetFeature__1_1">TryGetFeature(T)()</a></td>
-<td>Queries for an optional feature.<br />(Defined by <a href="T_Avalonia_Platform_OptionalFeatureProviderExtensions">OptionalFeatureProviderExtensions</a>)</td>
-</tr>
-<tr>
-<td><a href="M_Avalonia_Platform_OptionalFeatureProviderExtensions_TryGetFeature__1">TryGetFeature(T)(T)</a></td>
-<td>Queries for an optional feature.<br />(Defined by <a href="T_Avalonia_Platform_OptionalFeatureProviderExtensions">OptionalFeatureProviderExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_Controls_ResourceNodeExtensions_TryGetResource">TryGetResource(Object, Object)</a></td>
 <td>Tries to find a resource within the object.<br />(Defined by <a href="T_Avalonia_Controls_ResourceNodeExtensions">ResourceNodeExtensions</a>)</td>
 </tr>
@@ -482,3 +474,4 @@ The Application class encapsulates Avalonia application-specific functionality, 
 
 #### Reference
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

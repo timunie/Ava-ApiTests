@@ -12,7 +12,7 @@ Determines if color display names are supported based on the current thread cult
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static bool ToDisplayNameExists \{ get; }
+public static bool ToDisplayNameExists { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member ToDisplayNameExists : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_ColorHelper">ColorHelper Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

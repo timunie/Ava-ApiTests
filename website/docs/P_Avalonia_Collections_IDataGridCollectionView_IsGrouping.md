@@ -12,7 +12,7 @@ Gets a collection of <a href="https://learn.microsoft.com/dotnet/api/system.comp
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool IsGrouping \{ get; }
+bool IsGrouping { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ A collection of objects that describe how the items in the collection are groupe
 #### Reference
 <a href="T_Avalonia_Collections_IDataGridCollectionView">IDataGridCollectionView Interface</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

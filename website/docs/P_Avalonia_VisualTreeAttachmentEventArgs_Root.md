@@ -12,7 +12,7 @@ Gets the root of the visual tree that the visual is being attached to or detache
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IRenderRoot Root \{ get; }
+public IRenderRoot Root { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Root : IRenderRoot with get
 #### Reference
 <a href="T_Avalonia_VisualTreeAttachmentEventArgs">VisualTreeAttachmentEventArgs Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

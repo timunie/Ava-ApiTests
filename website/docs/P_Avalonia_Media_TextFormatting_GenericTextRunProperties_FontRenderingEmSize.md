@@ -12,7 +12,7 @@ Em size of font used to format and display text
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public override double FontRenderingEmSize \{ get; }
+public override double FontRenderingEmSize { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ override FontRenderingEmSize : float with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_GenericTextRunProperties">GenericTextRunProperties Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

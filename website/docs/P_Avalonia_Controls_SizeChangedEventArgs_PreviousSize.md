@@ -12,7 +12,7 @@ Gets the previous size (or bounds) of the object.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Size PreviousSize \{ get; init; }
+public Size PreviousSize { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member PreviousSize : Size with get, set
 #### Reference
 <a href="T_Avalonia_Controls_SizeChangedEventArgs">SizeChangedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

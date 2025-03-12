@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the event that closes the flyout is pass
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool OverlayDismissEventPassThrough \{ get; set; }
+public bool OverlayDismissEventPassThrough { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member OverlayDismissEventPassThrough : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_PopupFlyoutBase">PopupFlyoutBase Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

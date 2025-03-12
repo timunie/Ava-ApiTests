@@ -12,7 +12,7 @@ Gets the Alpha (transparency) component in the range from 0..1 (percentage).
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double A \{ get; }
+public double A { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member A : float with get
 #### Reference
 <a href="T_Avalonia_Media_HsvColor">HsvColor Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

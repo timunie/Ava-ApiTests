@@ -12,7 +12,7 @@ Gets the <a href="T_Avalonia_Media_AcrylicBackgroundSource">AcrylicBackgroundSou
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-AcrylicBackgroundSource BackgroundSource \{ get; }
+AcrylicBackgroundSource BackgroundSource { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract BackgroundSource : AcrylicBackgroundSource with get
 #### Reference
 <a href="T_Avalonia_Media_IExperimentalAcrylicMaterial">IExperimentalAcrylicMaterial Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

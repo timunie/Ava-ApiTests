@@ -51,3 +51,4 @@ A <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank"
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextLine">TextLine Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

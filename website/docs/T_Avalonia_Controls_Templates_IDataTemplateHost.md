@@ -12,16 +12,19 @@ Defines an element that has a <a href="P_Avalonia_Controls_Templates_IDataTempla
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IDataTemplateHost
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IDataTemplateHost
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IDataTemplateHost = interface end
 ```
 </TabItem>
@@ -50,3 +53,4 @@ type IDataTemplateHost = interface end
 
 #### Reference
 <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates Namespace</a>  
+

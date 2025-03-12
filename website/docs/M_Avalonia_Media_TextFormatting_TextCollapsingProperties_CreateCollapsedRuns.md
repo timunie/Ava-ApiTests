@@ -43,7 +43,7 @@ static member CreateCollapsedRuns :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextCollapsingProperties.cs#L41" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextCollapsingProperties.cs#L42" title="View the source code">View Source</a>
 
 
 
@@ -60,3 +60,4 @@ List of remaining runs.
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextCollapsingProperties">TextCollapsingProperties Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

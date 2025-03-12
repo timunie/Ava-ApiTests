@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the drop-down <a href="T_Avalonia_Contro
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsDropDownOpen \{ get; set; }
+public bool IsDropDownOpen { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ True if the <a href="T_Avalonia_Controls_Calendar">Calendar</a> is open; otherwi
 #### Reference
 <a href="T_Avalonia_Controls_CalendarDatePicker">CalendarDatePicker Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

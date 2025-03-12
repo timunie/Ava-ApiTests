@@ -32,7 +32,7 @@ member RenderClipIntersectes :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rendering/Composition/CompositionCustomVisualHandler.cs#L105" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rendering/Composition/CompositionCustomVisualHandler.cs#L106" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ member RenderClipIntersectes :
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_CompositionCustomVisualHandler">CompositionCustomVisualHandler Class</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

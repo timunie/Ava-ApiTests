@@ -12,7 +12,7 @@ Gets or sets the selection state of the item.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsSelected \{ get; set; }
+public bool IsSelected { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override IsSelected : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ListBoxItem">ListBoxItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

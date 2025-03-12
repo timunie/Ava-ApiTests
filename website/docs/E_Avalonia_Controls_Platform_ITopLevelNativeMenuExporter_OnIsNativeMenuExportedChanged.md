@@ -41,3 +41,4 @@ abstract OnIsNativeMenuExportedChanged : IEvent<EventHandler,
 #### Reference
 <a href="T_Avalonia_Controls_Platform_ITopLevelNativeMenuExporter">ITopLevelNativeMenuExporter Interface</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

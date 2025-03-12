@@ -28,7 +28,7 @@ override ToString : unit -> string
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/CornerRadius.cs#L89" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/CornerRadius.cs#L90" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override ToString : unit -> string
 #### Reference
 <a href="T_Avalonia_CornerRadius">CornerRadius Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

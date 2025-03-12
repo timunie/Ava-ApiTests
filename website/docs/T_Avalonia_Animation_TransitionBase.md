@@ -42,7 +42,7 @@ type TransitionBase =
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a>  →  TransitionBase</td></tr>
 <tr><td><strong>Derived</strong></td><td><a href="T_Avalonia_Animation_Transition_1">Avalonia.Animation.Transition(T)</a></td></tr>
-<tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Animation_ITransition">ITransition</a></td></tr>
+<tr><td><strong>Implements</strong></td><td>ITransition</td></tr>
 </table>
 
 
@@ -360,3 +360,4 @@ type TransitionBase =
 
 #### Reference
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

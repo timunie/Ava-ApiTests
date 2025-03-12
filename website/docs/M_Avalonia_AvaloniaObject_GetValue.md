@@ -34,7 +34,7 @@ member GetValue :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaObject.cs#L218" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaObject.cs#L219" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ The value.
 <a href="T_Avalonia_AvaloniaObject">AvaloniaObject Class</a>  
 <a href="Overload_Avalonia_AvaloniaObject_GetValue">GetValue Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

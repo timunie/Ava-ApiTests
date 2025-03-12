@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract int Count \{ get; }
+public abstract int Count { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ abstract Count : int with get
 #### Reference
 <a href="T_Avalonia_Media_Fonts_FontCollectionBase">FontCollectionBase Class</a>  
 <a href="N_Avalonia_Media_Fonts">Avalonia.Media.Fonts Namespace</a>  
+

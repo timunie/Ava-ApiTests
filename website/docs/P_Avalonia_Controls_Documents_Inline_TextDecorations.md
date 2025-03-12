@@ -12,7 +12,7 @@ The TextDecorations property specifies decorations that are added to the text of
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TextDecorationCollection? TextDecorations \{ get; set; }
+public TextDecorationCollection? TextDecorations { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member TextDecorations : TextDecorationCollection with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Documents_Inline">Inline Class</a>  
 <a href="N_Avalonia_Controls_Documents">Avalonia.Controls.Documents Namespace</a>  
+

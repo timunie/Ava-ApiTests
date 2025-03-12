@@ -12,17 +12,32 @@ Represents a control that provides a text box for user input and a drop-down tha
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_Popup", typeof(Popup))]
+[TemplatePartAttribute("PART_SelectingItemsControl", typeof(SelectingItemsControl))]
+[TemplatePartAttribute("PART_SelectionAdapter", typeof(ISelectionAdapter))]
+[TemplatePartAttribute("PART_TextBox", typeof(TextBox))]
+[PseudoClassesAttribute(new string[] { ... })]
 public class AutoCompleteBox : TemplatedControl
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_Popup", GetType(Popup))>
+<TemplatePartAttribute("PART_SelectingItemsControl", GetType(SelectingItemsControl))>
+<TemplatePartAttribute("PART_SelectionAdapter", GetType(ISelectionAdapter))>
+<TemplatePartAttribute("PART_TextBox", GetType(TextBox))>
+<PseudoClassesAttribute(New String() { ... })>
 Public Class AutoCompleteBox
 	Inherits TemplatedControl
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_Popup", typeof(Popup))>]
+[<TemplatePartAttribute("PART_SelectingItemsControl", typeof(SelectingItemsControl))>]
+[<TemplatePartAttribute("PART_SelectionAdapter", typeof(ISelectionAdapter))>]
+[<TemplatePartAttribute("PART_TextBox", typeof(TextBox))>]
+[<PseudoClassesAttribute(new string[] { ... })>]
 type AutoCompleteBox = 
     class
         inherit TemplatedControl
@@ -1288,10 +1303,6 @@ type AutoCompleteBox =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1386,3 +1397,4 @@ type AutoCompleteBox =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

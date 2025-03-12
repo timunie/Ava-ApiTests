@@ -12,7 +12,7 @@ If you distribute your app in App Store - it should be with sandbox enabled. Thi
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool AppSandboxEnabled \{ get; set; }
+public bool AppSandboxEnabled { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member AppSandboxEnabled : bool with get, set
 #### Reference
 <a href="T_Avalonia_AvaloniaNativePlatformOptions">AvaloniaNativePlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -34,7 +34,7 @@ static member ExtractValue :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingNotification.cs#L162" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingNotification.cs#L163" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The value.If *o* is a <a href="T_Avalonia_Data_BindingNotification">BindingNotif
 #### Reference
 <a href="T_Avalonia_Data_BindingNotification">BindingNotification Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

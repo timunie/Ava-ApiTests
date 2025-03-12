@@ -43,7 +43,7 @@ static member FromPath :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridSortDescription.cs#L250" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridSortDescription.cs#L251" title="View the source code">View Source</a>
 
 
 
@@ -60,3 +60,4 @@ static member FromPath :
 <a href="T_Avalonia_Collections_DataGridSortDescription">DataGridSortDescription Class</a>  
 <a href="Overload_Avalonia_Collections_DataGridSortDescription_FromPath">FromPath Overload</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

@@ -39,7 +39,7 @@ member TryReadInt32 :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/StringTokenizer.cs#L58" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/StringTokenizer.cs#L59" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ member TryReadInt32 :
 #### Reference
 <a href="T_Avalonia_Utilities_StringTokenizer">StringTokenizer Structure</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

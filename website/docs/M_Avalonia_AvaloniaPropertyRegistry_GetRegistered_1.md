@@ -34,7 +34,7 @@ member GetRegistered :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaPropertyRegistry.cs#L96" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaPropertyRegistry.cs#L97" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ A collection of <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a> defin
 <a href="T_Avalonia_AvaloniaPropertyRegistry">AvaloniaPropertyRegistry Class</a>  
 <a href="Overload_Avalonia_AvaloniaPropertyRegistry_GetRegistered">GetRegistered Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

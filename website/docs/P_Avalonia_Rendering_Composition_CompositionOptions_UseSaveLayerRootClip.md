@@ -12,7 +12,7 @@ Enforces dirty contents to be rendered into an extra intermediate surface before
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool? UseSaveLayerRootClip \{ get; set; }
+public bool? UseSaveLayerRootClip { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member UseSaveLayerRootClip : Nullable<bool> with get, set
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_CompositionOptions">CompositionOptions Class</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

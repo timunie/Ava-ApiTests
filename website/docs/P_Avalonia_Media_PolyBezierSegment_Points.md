@@ -12,11 +12,13 @@ Gets or sets the Point collection that defines this <a href="T_Avalonia_Media_Po
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Points? Points \{ get; set; }
+[ContentAttribute]
+public Points? Points { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public Property Points As Points
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property Points As Points
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Points : Points with get, set
 ```
 </TabItem>
@@ -45,3 +48,4 @@ The points.
 #### Reference
 <a href="T_Avalonia_Media_PolyBezierSegment">PolyBezierSegment Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

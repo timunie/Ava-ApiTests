@@ -12,16 +12,19 @@ Represents a notification manager that can be used to show notifications in a wi
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface INotificationManager
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface INotificationManager
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type INotificationManager = interface end
 ```
 </TabItem>
@@ -54,3 +57,4 @@ type INotificationManager = interface end
 
 #### Reference
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
+

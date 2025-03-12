@@ -12,7 +12,7 @@ Gets or sets the cultural information for any operations of the view that may di
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-CultureInfo Culture \{ get; set; }
+CultureInfo Culture { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The culture information to use during culture-sensitive operations.
 #### Reference
 <a href="T_Avalonia_Collections_IDataGridCollectionView">IDataGridCollectionView Interface</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

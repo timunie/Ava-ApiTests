@@ -12,7 +12,7 @@ Gets the element name.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-string? Name \{ get; }
+string? Name { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Name : string with get
 #### Reference
 <a href="T_Avalonia_INamed">INamed Interface</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

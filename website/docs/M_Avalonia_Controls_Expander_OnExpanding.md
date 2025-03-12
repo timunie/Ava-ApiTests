@@ -36,7 +36,7 @@ override OnExpanding :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Expander.cs#L211" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Expander.cs#L212" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnExpanding :
 #### Reference
 <a href="T_Avalonia_Controls_Expander">Expander Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

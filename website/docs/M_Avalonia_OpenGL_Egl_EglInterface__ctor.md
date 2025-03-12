@@ -40,3 +40,4 @@ new : unit -> EglInterface
 <a href="T_Avalonia_OpenGL_Egl_EglInterface">EglInterface Class</a>  
 <a href="Overload_Avalonia_OpenGL_Egl_EglInterface__ctor">EglInterface Overload</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

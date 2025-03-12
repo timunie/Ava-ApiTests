@@ -12,7 +12,7 @@ Distance from the top extremum of the glyph to the bottom extremum.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int Height \{ get; init; }
+public int Height { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Height : int with get, set
 #### Reference
 <a href="T_Avalonia_Media_GlyphMetrics">GlyphMetrics Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

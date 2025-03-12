@@ -40,3 +40,4 @@ abstract InvalidateAssemblyCache : unit -> unit
 <a href="T_Avalonia_Platform_IAssetLoader">IAssetLoader Interface</a>  
 <a href="Overload_Avalonia_Platform_IAssetLoader_InvalidateAssemblyCache">InvalidateAssemblyCache Overload</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

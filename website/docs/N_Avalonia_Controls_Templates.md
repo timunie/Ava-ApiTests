@@ -73,7 +73,7 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_Templates_IDataTemplateHost">IDataTemplateHost</a></td>
-<td>Defines an element that has a <a href="P_Avalonia_Controls_Templates_IDataTemplateHost_DataTemplates">DataTemplates</a> collection.</td>
+<td>Defines an element that has a <a href="P_Avalonia_Controls_Templates_IDataTemplateHost_DataTemplates">DataTemplates</a> collection.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_Templates_IRecyclingDataTemplate">IRecyclingDataTemplate</a></td>

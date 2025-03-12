@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool IsReady \{ get; }
+bool IsReady { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -37,3 +37,4 @@ abstract IsReady : bool with get
 #### Reference
 <a href="T_Avalonia_Platform_IPlatformGraphicsReadyStateFeature">IPlatformGraphicsReadyStateFeature Interface</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

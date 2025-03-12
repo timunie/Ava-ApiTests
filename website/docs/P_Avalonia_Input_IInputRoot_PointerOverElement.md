@@ -12,7 +12,7 @@ Gets or sets the input element that the pointer is currently over.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IInputElement? PointerOverElement \{ get; set; }
+IInputElement? PointerOverElement { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ abstract PointerOverElement : IInputElement with get, set
 #### Reference
 <a href="T_Avalonia_Input_IInputRoot">IInputRoot Interface</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

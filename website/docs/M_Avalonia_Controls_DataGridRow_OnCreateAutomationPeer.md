@@ -28,7 +28,7 @@ override OnCreateAutomationPeer : unit -> AutomationPeer
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridRow.cs#L170" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridRow.cs#L171" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override OnCreateAutomationPeer : unit -> AutomationPeer
 #### Reference
 <a href="T_Avalonia_Controls_DataGridRow">DataGridRow Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

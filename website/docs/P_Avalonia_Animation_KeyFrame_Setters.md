@@ -12,17 +12,20 @@ Gets the setters of <a href="T_Avalonia_Animation_KeyFrame">KeyFrame</a>.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public AvaloniaList<IAnimationSetter> Setters \{ get; }
+[ContentAttribute]
+public AvaloniaList<IAnimationSetter> Setters { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public ReadOnly Property Setters As AvaloniaList(Of IAnimationSetter)
 	Get
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Setters : AvaloniaList<IAnimationSetter> with get
 ```
 </TabItem>
@@ -35,7 +38,7 @@ member Setters : AvaloniaList<IAnimationSetter> with get
 
 
 #### Property Value
-<a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList</a>(<a href="T_Avalonia_Animation_IAnimationSetter">IAnimationSetter</a>)
+<a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList</a>(IAnimationSetter)
 
 ## See Also
 
@@ -43,3 +46,4 @@ member Setters : AvaloniaList<IAnimationSetter> with get
 #### Reference
 <a href="T_Avalonia_Animation_KeyFrame">KeyFrame Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

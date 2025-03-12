@@ -34,7 +34,7 @@ override PointerPressed :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/GestureRecognizers/PullGestureRecognizer.cs#L86" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/GestureRecognizers/PullGestureRecognizer.cs#L87" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override PointerPressed :
 #### Reference
 <a href="T_Avalonia_Input_PullGestureRecognizer">PullGestureRecognizer Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

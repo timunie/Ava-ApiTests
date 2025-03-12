@@ -42,7 +42,7 @@ static member GetVisualsAt :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/VisualTree/VisualExtensions.cs#L351" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/VisualTree/VisualExtensions.cs#L352" title="View the source code">View Source</a>
 
 
 
@@ -63,3 +63,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions Class</a>  
 <a href="Overload_Avalonia_VisualTree_VisualExtensions_GetVisualsAt">GetVisualsAt Overload</a>  
 <a href="N_Avalonia_VisualTree">Avalonia.VisualTree Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the first date in the represented range.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DateTime Start \{ get; }
+public DateTime Start { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The first date in the represented range.
 #### Reference
 <a href="T_Avalonia_Controls_CalendarDateRange">CalendarDateRange Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

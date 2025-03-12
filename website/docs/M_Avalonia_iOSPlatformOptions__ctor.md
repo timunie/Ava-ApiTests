@@ -39,3 +39,4 @@ new : unit -> iOSPlatformOptions
 #### Reference
 <a href="T_Avalonia_iOSPlatformOptions">iOSPlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the number of whitespace code points beyond the last non-blank character in
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int TrailingWhitespaceLength \{ get; init; }
+public int TrailingWhitespaceLength { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member TrailingWhitespaceLength : int with get, set
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextLineMetrics">TextLineMetrics Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

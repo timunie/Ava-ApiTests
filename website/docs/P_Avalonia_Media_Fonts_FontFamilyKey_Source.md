@@ -12,7 +12,7 @@ Source of stored font asset that belongs to a <a href="T_Avalonia_Media_FontFami
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Uri Source \{ get; }
+public Uri Source { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Source : Uri with get
 #### Reference
 <a href="T_Avalonia_Media_Fonts_FontFamilyKey">FontFamilyKey Class</a>  
 <a href="N_Avalonia_Media_Fonts">Avalonia.Media.Fonts Namespace</a>  
+

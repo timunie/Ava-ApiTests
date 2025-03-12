@@ -12,7 +12,7 @@ Gets the binding or data validation error.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Exception? Error \{ get; }
+public Exception? Error { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Error : Exception with get
 #### Reference
 <a href="T_Avalonia_Data_BindingValue_1">BindingValue(T) Structure</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

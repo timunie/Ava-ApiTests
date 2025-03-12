@@ -12,16 +12,19 @@ The IPlatformSettings interface represents a contract for accessing platform-spe
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IPlatformSettings
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IPlatformSettings
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IPlatformSettings = interface end
 ```
 </TabItem>
@@ -78,3 +81,4 @@ type IPlatformSettings = interface end
 
 #### Reference
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

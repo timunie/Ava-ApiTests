@@ -12,7 +12,7 @@ Gets or sets the <a href="P_Avalonia_Controls_ApplicationLifetimes_IClassicDeskt
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ShutdownMode ShutdownMode \{ get; set; }
+public ShutdownMode ShutdownMode { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -50,3 +50,4 @@ The shutdown mode.
 #### Reference
 <a href="T_Avalonia_Controls_ApplicationLifetimes_ClassicDesktopStyleApplicationLifetime">ClassicDesktopStyleApplicationLifetime Class</a>  
 <a href="N_Avalonia_Controls_ApplicationLifetimes">Avalonia.Controls.ApplicationLifetimes Namespace</a>  
+

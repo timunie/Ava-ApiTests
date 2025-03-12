@@ -50,3 +50,4 @@ static member Normalize :
 #### Reference
 <a href="T_Avalonia_Vector3D">Vector3D Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

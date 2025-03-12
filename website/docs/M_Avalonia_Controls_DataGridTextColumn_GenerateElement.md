@@ -40,7 +40,7 @@ override GenerateElement :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridTextColumn.cs#L188" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridTextColumn.cs#L189" title="View the source code">View Source</a>
 
 
 
@@ -57,3 +57,4 @@ A new, read-only <a href="T_Avalonia_Controls_TextBlock">TextBlock</a> element t
 #### Reference
 <a href="T_Avalonia_Controls_DataGridTextColumn">DataGridTextColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

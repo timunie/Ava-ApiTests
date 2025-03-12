@@ -49,7 +49,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Typeface.cs#L23" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Typeface.cs#L24" title="View the source code">View Source</a>
 
 
 
@@ -63,3 +63,4 @@ new :
 <a href="T_Avalonia_Media_Typeface">Typeface Structure</a>  
 <a href="Overload_Avalonia_Media_Typeface__ctor">Typeface Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

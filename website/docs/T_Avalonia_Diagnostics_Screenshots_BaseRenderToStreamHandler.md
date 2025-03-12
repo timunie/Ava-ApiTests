@@ -93,3 +93,4 @@ type BaseRenderToStreamHandler =
 
 #### Reference
 <a href="N_Avalonia_Diagnostics_Screenshots">Avalonia.Diagnostics.Screenshots Namespace</a>  
+

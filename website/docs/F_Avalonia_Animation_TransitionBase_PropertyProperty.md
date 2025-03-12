@@ -42,3 +42,4 @@ static val PropertyProperty: DirectProperty<TransitionBase, AvaloniaProperty>
 #### Reference
 <a href="T_Avalonia_Animation_TransitionBase">TransitionBase Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

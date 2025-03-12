@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Func<IVulkanInstance, ulong>? DeviceCheckSurfaceFactory \{ get; set; }
+public Func<IVulkanInstance, ulong>? DeviceCheckSurfaceFactory { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member DeviceCheckSurfaceFactory : Func<IVulkanInstance, uint64> with get, set
 #### Reference
 <a href="T_Avalonia_Vulkan_VulkanPlatformSpecificOptions">VulkanPlatformSpecificOptions Class</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

@@ -34,7 +34,7 @@ member WithY :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelVector.cs#L194" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelVector.cs#L195" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The new vector.
 #### Reference
 <a href="T_Avalonia_PixelVector">PixelVector Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

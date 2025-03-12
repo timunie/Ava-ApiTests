@@ -12,7 +12,7 @@ Gets or sets a value indicating whether Avalonia can install its own AppDelegate
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool DisableAvaloniaAppDelegate \{ get; set; }
+public bool DisableAvaloniaAppDelegate { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DisableAvaloniaAppDelegate : bool with get, set
 #### Reference
 <a href="T_Avalonia_MacOSPlatformOptions">MacOSPlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

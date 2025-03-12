@@ -12,7 +12,7 @@ Gets or sets the axis along which items are laid out.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Orientation Orientation \{ get; set; }
+public Orientation Orientation { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ One of the enumeration values that specifies the axis along which items are laid
 #### Reference
 <a href="T_Avalonia_Controls_VirtualizingStackPanel">VirtualizingStackPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

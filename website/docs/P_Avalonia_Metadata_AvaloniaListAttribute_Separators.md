@@ -12,7 +12,7 @@ Separator used to split input string. Default value is ','.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string[]? Separators \{ get; init; }
+public string[]? Separators { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Separators : string[] with get, set
 #### Reference
 <a href="T_Avalonia_Metadata_AvaloniaListAttribute">AvaloniaListAttribute Class</a>  
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

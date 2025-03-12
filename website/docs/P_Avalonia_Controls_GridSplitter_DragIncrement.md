@@ -12,7 +12,7 @@ Restricts splitter to move a multiple of the specified units.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double DragIncrement \{ get; set; }
+public double DragIncrement { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DragIncrement : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_GridSplitter">GridSplitter Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

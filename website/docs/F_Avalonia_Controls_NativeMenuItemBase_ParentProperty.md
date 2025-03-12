@@ -40,3 +40,4 @@ static val ParentProperty: DirectProperty<NativeMenuItemBase, NativeMenu>
 #### Reference
 <a href="T_Avalonia_Controls_NativeMenuItemBase">NativeMenuItemBase Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -35,7 +35,7 @@ static member Ensure :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/AvaloniaSynchronizationContext.cs#L113" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/AvaloniaSynchronizationContext.cs#L114" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ static member Ensure :
 <a href="T_Avalonia_Threading_AvaloniaSynchronizationContext">AvaloniaSynchronizationContext Class</a>  
 <a href="Overload_Avalonia_Threading_AvaloniaSynchronizationContext_Ensure">Ensure Overload</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

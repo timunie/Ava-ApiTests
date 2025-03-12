@@ -34,7 +34,7 @@ static member Parse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Size.cs#L163" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Size.cs#L164" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The <a href="T_Avalonia_Size">Size</a>.
 #### Reference
 <a href="T_Avalonia_Size">Size Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

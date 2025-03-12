@@ -30,7 +30,7 @@ static member AcceptsNull : unit -> bool
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/TypeUtilities.cs#L105" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/TypeUtilities.cs#L106" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ True if the type accepts null values; otherwise false.
 <a href="T_Avalonia_Utilities_TypeUtilities">TypeUtilities Class</a>  
 <a href="Overload_Avalonia_Utilities_TypeUtilities_AcceptsNull">AcceptsNull Overload</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

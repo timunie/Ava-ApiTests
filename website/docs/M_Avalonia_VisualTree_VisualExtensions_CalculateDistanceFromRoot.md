@@ -34,7 +34,7 @@ static member CalculateDistanceFromRoot :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/VisualTree/VisualExtensions.cs#L48" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/VisualTree/VisualExtensions.cs#L49" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The number of steps from the visual to the root.
 #### Reference
 <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions Class</a>  
 <a href="N_Avalonia_VisualTree">Avalonia.VisualTree Namespace</a>  
+

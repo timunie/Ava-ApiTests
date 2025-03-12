@@ -17,7 +17,7 @@ where TApp : new(), Application
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
-Public Class AvaloniaMainActivity(Of TApp As \{New, Application})
+Public Class AvaloniaMainActivity(Of TApp As {New, Application})
 	Inherits AvaloniaMainActivity
 ```
 </TabItem>
@@ -69,3 +69,4 @@ type AvaloniaMainActivity<'TApp when 'TApp : new() and Application> =
 
 #### Reference
 <a href="N_Avalonia_Android">Avalonia.Android Namespace</a>  
+

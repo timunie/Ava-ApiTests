@@ -12,7 +12,7 @@ Gets a value indicating whether the pointer is currently over the control.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool IsPointerOver \{ get; }
+bool IsPointerOver { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract IsPointerOver : bool with get
 #### Reference
 <a href="T_Avalonia_Input_IInputElement">IInputElement Interface</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

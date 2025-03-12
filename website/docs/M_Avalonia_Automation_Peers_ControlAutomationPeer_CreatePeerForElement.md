@@ -34,7 +34,7 @@ static member CreatePeerForElement :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ControlAutomationPeer.cs#L46" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ControlAutomationPeer.cs#L47" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The automation peer.Despite the name (which comes from the analogous WPF API), t
 #### Reference
 <a href="T_Avalonia_Automation_Peers_ControlAutomationPeer">ControlAutomationPeer Class</a>  
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

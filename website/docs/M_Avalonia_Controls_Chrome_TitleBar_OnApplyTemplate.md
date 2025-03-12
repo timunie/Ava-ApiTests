@@ -36,7 +36,7 @@ override OnApplyTemplate :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Chrome/TitleBar.cs#L43" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Chrome/TitleBar.cs#L44" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnApplyTemplate :
 #### Reference
 <a href="T_Avalonia_Controls_Chrome_TitleBar">TitleBar Class</a>  
 <a href="N_Avalonia_Controls_Chrome">Avalonia.Controls.Chrome Namespace</a>  
+

@@ -54,3 +54,4 @@ static member Multiply :
 <a href="T_Avalonia_Vector3D">Vector3D Structure</a>  
 <a href="Overload_Avalonia_Vector3D_Multiply">Multiply Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

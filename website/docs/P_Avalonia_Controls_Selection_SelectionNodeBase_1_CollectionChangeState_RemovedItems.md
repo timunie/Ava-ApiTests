@@ -12,7 +12,7 @@ Gets or sets the items removed by the collection change, if any.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public List<T>? RemovedItems \{ get; set; }
+public List<T>? RemovedItems { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member RemovedItems : List<'T> with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Selection_SelectionNodeBase_1_CollectionChangeState">SelectionNodeBase(T).CollectionChangeState Class</a>  
 <a href="N_Avalonia_Controls_Selection">Avalonia.Controls.Selection Namespace</a>  
+

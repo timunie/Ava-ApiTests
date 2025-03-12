@@ -12,7 +12,7 @@ Gets the root of the visual tree in the case where the popup is presented using 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Visual? HostedVisualTreeRoot \{ get; }
+Visual? HostedVisualTreeRoot { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract HostedVisualTreeRoot : Visual with get
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_IPopupHost">IPopupHost Interface</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the overall percentage complete of the progress
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Percentage \{ get; }
+public double Percentage { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Percentage : float with get
 #### Reference
 <a href="T_Avalonia_Controls_ProgressBar">ProgressBar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

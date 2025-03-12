@@ -398,3 +398,4 @@ type SelectingItemsControlAutomationPeer =
 
 #### Reference
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

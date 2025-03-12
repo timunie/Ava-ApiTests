@@ -40,7 +40,7 @@ override GetIrregularSnapPoints :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/StackPanel.cs#L360" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/StackPanel.cs#L361" title="View the source code">View Source</a>
 
 
 
@@ -61,3 +61,4 @@ The read-only collection of snap point distances. Returns an empty collection wh
 #### Reference
 <a href="T_Avalonia_Controls_StackPanel">StackPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

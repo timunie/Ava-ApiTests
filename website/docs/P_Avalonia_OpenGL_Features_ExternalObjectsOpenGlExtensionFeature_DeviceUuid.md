@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public byte[]? DeviceUuid \{ get; }
+public byte[]? DeviceUuid { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -46,3 +46,4 @@ override DeviceUuid : byte[] with get
 #### Reference
 <a href="T_Avalonia_OpenGL_Features_ExternalObjectsOpenGlExtensionFeature">ExternalObjectsOpenGlExtensionFeature Class</a>  
 <a href="N_Avalonia_OpenGL_Features">Avalonia.OpenGL.Features Namespace</a>  
+

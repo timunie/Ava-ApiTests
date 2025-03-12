@@ -12,7 +12,7 @@ Gets the family names.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public FamilyNameCollection FamilyNames \{ get; }
+public FamilyNameCollection FamilyNames { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The family familyNames.
 #### Reference
 <a href="T_Avalonia_Media_FontFamily">FontFamily Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

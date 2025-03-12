@@ -12,7 +12,7 @@ Gets or sets whether the system bars are visible.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool? IsSystemBarVisible \{ get; set; }
+bool? IsSystemBarVisible { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ abstract IsSystemBarVisible : Nullable<bool> with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Platform_IInsetsManager">IInsetsManager Interface</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

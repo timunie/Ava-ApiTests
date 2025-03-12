@@ -43,7 +43,7 @@ member RaiseAndSetIfChanged :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Dialogs/Internal/AvaloniaDialogsInternalViewModelBase.cs#L13" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Dialogs/Internal/AvaloniaDialogsInternalViewModelBase.cs#L14" title="View the source code">View Source</a>
 
 
 
@@ -62,3 +62,4 @@ member RaiseAndSetIfChanged :
 #### Reference
 <a href="T_Avalonia_Dialogs_Internal_AvaloniaDialogsInternalViewModelBase">AvaloniaDialogsInternalViewModelBase Class</a>  
 <a href="N_Avalonia_Dialogs_Internal">Avalonia.Dialogs.Internal Namespace</a>  
+

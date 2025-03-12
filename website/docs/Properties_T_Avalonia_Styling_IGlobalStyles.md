@@ -25,3 +25,4 @@
 #### Reference
 <a href="T_Avalonia_Styling_IGlobalStyles">IGlobalStyles Interface</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

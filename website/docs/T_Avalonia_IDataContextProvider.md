@@ -12,16 +12,19 @@ Defines an element with a data context that can be used for binding.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IDataContextProvider
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IDataContextProvider
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IDataContextProvider = interface end
 ```
 </TabItem>
@@ -46,3 +49,4 @@ type IDataContextProvider = interface end
 
 #### Reference
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

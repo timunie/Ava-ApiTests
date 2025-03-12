@@ -12,7 +12,7 @@ Gets the brush used to draw the stroke.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IBrush? Brush \{ get; }
+IBrush? Brush { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Brush : IBrush with get
 #### Reference
 <a href="T_Avalonia_Media_IPen">IPen Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

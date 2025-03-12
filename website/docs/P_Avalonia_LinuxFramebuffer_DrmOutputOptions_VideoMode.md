@@ -12,7 +12,7 @@ Specifies the video mode with which the DrmOutput should be created, if it is no
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PixelSize? VideoMode \{ get; set; }
+public PixelSize? VideoMode { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member VideoMode : Nullable<PixelSize> with get, set
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_DrmOutputOptions">DrmOutputOptions Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer">Avalonia.LinuxFramebuffer Namespace</a>  
+

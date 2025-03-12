@@ -12,7 +12,7 @@ Gets a value indicating whether the <a href="P_Avalonia_Diagnostics_AvaloniaProp
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsOverriddenCurrentValue \{ get; }
+public bool IsOverriddenCurrentValue { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IsOverriddenCurrentValue : bool with get
 #### Reference
 <a href="T_Avalonia_Diagnostics_AvaloniaPropertyValue">AvaloniaPropertyValue Class</a>  
 <a href="N_Avalonia_Diagnostics">Avalonia.Diagnostics Namespace</a>  
+

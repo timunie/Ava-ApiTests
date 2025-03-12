@@ -12,7 +12,7 @@ Gets the value of the control.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-string? Value \{ get; }
+string? Value { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Value : string with get
 #### Reference
 <a href="T_Avalonia_Automation_Provider_IValueProvider">IValueProvider Interface</a>  
 <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider Namespace</a>  
+

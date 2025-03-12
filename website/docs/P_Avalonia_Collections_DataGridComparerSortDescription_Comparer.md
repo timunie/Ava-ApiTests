@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public override IComparer<Object> Comparer \{ get; }
+public override IComparer<Object> Comparer { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ override Comparer : IComparer<Object> with get
 #### Reference
 <a href="T_Avalonia_Collections_DataGridComparerSortDescription">DataGridComparerSortDescription Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

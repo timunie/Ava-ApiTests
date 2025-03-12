@@ -12,7 +12,7 @@ TickFrequency property defines how the tick will be drawn.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double TickFrequency \{ get; set; }
+public double TickFrequency { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member TickFrequency : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TickBar">TickBar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

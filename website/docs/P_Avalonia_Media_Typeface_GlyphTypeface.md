@@ -12,7 +12,7 @@ Gets the glyph typeface.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IGlyphTypeface GlyphTypeface \{ get; }
+public IGlyphTypeface GlyphTypeface { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member GlyphTypeface : IGlyphTypeface with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Typeface.cs#L86" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Typeface.cs#L87" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ The glyph typeface.
 #### Reference
 <a href="T_Avalonia_Media_Typeface">Typeface Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

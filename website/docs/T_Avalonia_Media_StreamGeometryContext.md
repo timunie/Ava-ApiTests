@@ -45,14 +45,6 @@ type StreamGeometryContext =
 
 This class is used to define the geometry of a <a href="T_Avalonia_Media_StreamGeometry">StreamGeometry</a>. An instance of StreamGeometryContext is obtained by calling <a href="M_Avalonia_Media_StreamGeometry_Open">Open()</a>.
 
-## Constructors
-<table>
-<tr>
-<td><a href="M_Avalonia_Media_StreamGeometryContext__ctor">StreamGeometryContext(IStreamGeometryContextImpl)</a></td>
-<td>Initializes a new instance of the StreamGeometryContext class.</td>
-</tr>
-</table>
-
 ## Methods
 <table>
 <tr>
@@ -138,3 +130,4 @@ This class is used to define the geometry of a <a href="T_Avalonia_Media_StreamG
 
 #### Reference
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

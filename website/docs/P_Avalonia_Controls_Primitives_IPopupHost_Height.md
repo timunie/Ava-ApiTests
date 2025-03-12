@@ -12,7 +12,7 @@ Gets or sets the fixed height of the popup.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-double Height \{ get; set; }
+double Height { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ abstract Height : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_IPopupHost">IPopupHost Interface</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

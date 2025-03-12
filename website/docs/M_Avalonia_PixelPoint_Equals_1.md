@@ -54,3 +54,4 @@ True if *obj* is a point that equals the current point.
 <a href="T_Avalonia_PixelPoint">PixelPoint Structure</a>  
 <a href="Overload_Avalonia_PixelPoint_Equals">Equals Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

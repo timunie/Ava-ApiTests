@@ -32,7 +32,7 @@ member HasJobsWithPriority :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/Dispatcher.Queue.cs#L269" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/Dispatcher.Queue.cs#L270" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ member HasJobsWithPriority :
 #### Reference
 <a href="T_Avalonia_Threading_Dispatcher">Dispatcher Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

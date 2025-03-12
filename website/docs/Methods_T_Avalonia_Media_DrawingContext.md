@@ -34,14 +34,6 @@
 <td>Draws a geometry.</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Media_DrawingContext_DrawGeometry_1">DrawGeometry(IBrush, IPen, IGeometryImpl)</a></td>
-<td>Draws a geometry.</td>
-</tr>
-<tr>
-<td><a href="M_Avalonia_Media_DrawingContext_DrawGeometryCore">DrawGeometryCore(IBrush, IPen, IGeometryImpl)</a></td>
-<td> </td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_Media_DrawingContext_DrawGlyphRun">DrawGlyphRun(IBrush, GlyphRun)</a></td>
 <td>Draws a glyph run.</td>
 </tr>
@@ -197,3 +189,4 @@
 #### Reference
 <a href="T_Avalonia_Media_DrawingContext">DrawingContext Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

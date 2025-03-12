@@ -12,7 +12,7 @@ Controls if SynchronizationContext should be installed in InstallIfNeeded. Used 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static bool AutoInstall \{ get; set; }
+public static bool AutoInstall { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ static member AutoInstall : bool with get, set
 #### Reference
 <a href="T_Avalonia_Threading_AvaloniaSynchronizationContext">AvaloniaSynchronizationContext Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

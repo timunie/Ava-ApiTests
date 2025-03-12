@@ -36,7 +36,7 @@ override OnPointerPressed :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ComboBox.cs#L291" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ComboBox.cs#L292" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnPointerPressed :
 #### Reference
 <a href="T_Avalonia_Controls_ComboBox">ComboBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

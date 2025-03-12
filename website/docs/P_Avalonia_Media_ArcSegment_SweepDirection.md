@@ -12,7 +12,7 @@ Gets or sets the sweep direction.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public SweepDirection SweepDirection \{ get; set; }
+public SweepDirection SweepDirection { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The sweep direction.
 #### Reference
 <a href="T_Avalonia_Media_ArcSegment">ArcSegment Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

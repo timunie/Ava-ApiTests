@@ -12,7 +12,7 @@ Gets or sets the number of frames per second at which the renderer should run. D
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int Fps \{ get; set; }
+public int Fps { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Fps : int with get, set
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_LinuxFramebufferPlatformOptions">LinuxFramebufferPlatformOptions Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer">Avalonia.LinuxFramebuffer Namespace</a>  
+

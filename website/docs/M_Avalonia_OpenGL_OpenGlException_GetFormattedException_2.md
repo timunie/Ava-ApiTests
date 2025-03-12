@@ -52,3 +52,4 @@ static member GetFormattedException :
 <a href="T_Avalonia_OpenGL_OpenGlException">OpenGlException Class</a>  
 <a href="Overload_Avalonia_OpenGL_OpenGlException_GetFormattedException">GetFormattedException Overload</a>  
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

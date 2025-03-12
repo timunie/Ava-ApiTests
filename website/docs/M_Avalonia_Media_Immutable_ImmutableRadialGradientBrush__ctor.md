@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Media_Immutable_ImmutableRadialGradientBrush">ImmutableRadialGradientBrush Class</a>  
 <a href="Overload_Avalonia_Media_Immutable_ImmutableRadialGradientBrush__ctor">ImmutableRadialGradientBrush Overload</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

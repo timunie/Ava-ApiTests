@@ -12,7 +12,7 @@ Gets the date that was previously displayed.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DateTime? RemovedDate \{ get; }
+public DateTime? RemovedDate { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The date previously displayed.
 #### Reference
 <a href="T_Avalonia_Controls_CalendarDateChangedEventArgs">CalendarDateChangedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

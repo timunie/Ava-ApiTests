@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public virtual PixelFormat? Format \{ get; }
+public virtual PixelFormat? Format { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ override Format : Nullable<PixelFormat> with get
 #### Reference
 <a href="T_Avalonia_Media_Imaging_Bitmap">Bitmap Class</a>  
 <a href="N_Avalonia_Media_Imaging">Avalonia.Media.Imaging Namespace</a>  
+

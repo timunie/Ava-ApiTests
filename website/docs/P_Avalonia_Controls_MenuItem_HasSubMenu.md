@@ -12,7 +12,7 @@ Gets or sets a value that indicates whether the <a href="T_Avalonia_Controls_Men
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool HasSubMenu \{ get; }
+public bool HasSubMenu { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ override HasSubMenu : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_MenuItem">MenuItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

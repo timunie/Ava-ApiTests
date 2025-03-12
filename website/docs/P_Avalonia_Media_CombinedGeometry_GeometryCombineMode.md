@@ -12,7 +12,7 @@ Gets or sets the method by which the two geometries (specified by the <a href="P
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public GeometryCombineMode GeometryCombineMode \{ get; set; }
+public GeometryCombineMode GeometryCombineMode { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member GeometryCombineMode : GeometryCombineMode with get, set
 #### Reference
 <a href="T_Avalonia_Media_CombinedGeometry">CombinedGeometry Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -37,7 +37,7 @@ static let inline (<>)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/IterationCount.cs#L91" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/IterationCount.cs#L92" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ True if the structures are unequal, otherwise false.
 #### Reference
 <a href="T_Avalonia_Animation_IterationCount">IterationCount Structure</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

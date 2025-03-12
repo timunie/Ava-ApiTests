@@ -38,3 +38,4 @@ static val mutable D3D11TextureGlobalSharedHandle: string
 #### Reference
 <a href="T_Avalonia_Platform_KnownPlatformGraphicsExternalImageHandleTypes">KnownPlatformGraphicsExternalImageHandleTypes Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

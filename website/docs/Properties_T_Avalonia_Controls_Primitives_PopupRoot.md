@@ -294,10 +294,6 @@
 <td> </td>
 </tr>
 <tr>
-<td><a href="P_Avalonia_Controls_Primitives_PopupRoot_PlatformImpl">PlatformImpl</a></td>
-<td>Gets the platform-specific window implementation.</td>
-</tr>
-<tr>
 <td><a href="P_Avalonia_Controls_TopLevel_PlatformSettings">PlatformSettings</a></td>
 <td>Represents a contract for accessing top-level platform-specific settings.<br />(Inherited from <a href="T_Avalonia_Controls_TopLevel">TopLevel</a>)</td>
 </tr>
@@ -417,3 +413,4 @@
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_PopupRoot">PopupRoot Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

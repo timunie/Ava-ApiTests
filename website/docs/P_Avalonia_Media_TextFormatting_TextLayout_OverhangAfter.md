@@ -12,7 +12,7 @@ The distance from the bottom of the last line to the extent bottom.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double OverhangAfter \{ get; }
+public double OverhangAfter { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member OverhangAfter : float with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextLayout.cs#L225" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextLayout.cs#L226" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member OverhangAfter : float with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextLayout">TextLayout Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

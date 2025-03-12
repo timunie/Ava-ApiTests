@@ -12,7 +12,7 @@ Gets a value that indicates whether the pointer input was triggered by the terti
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsMiddleButtonPressed \{
+public bool IsMiddleButtonPressed {
 	get;
  }
 ```
@@ -46,3 +46,4 @@ member IsMiddleButtonPressed : bool with
 #### Reference
 <a href="T_Avalonia_Input_PointerPointProperties">PointerPointProperties Structure</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

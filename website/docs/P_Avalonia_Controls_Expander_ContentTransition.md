@@ -12,7 +12,7 @@ Gets or sets the transition used when expanding or collapsing the content.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IPageTransition? ContentTransition \{ get; set; }
+public IPageTransition? ContentTransition { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ContentTransition : IPageTransition with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Expander">Expander Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

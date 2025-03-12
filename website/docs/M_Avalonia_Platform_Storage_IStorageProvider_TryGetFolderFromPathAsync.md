@@ -51,3 +51,4 @@ Folder or null if it doesn't exist.Uri path is usually expected to be an absolut
 #### Reference
 <a href="T_Avalonia_Platform_Storage_IStorageProvider">IStorageProvider Interface</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

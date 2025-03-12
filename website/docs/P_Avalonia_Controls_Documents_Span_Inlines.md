@@ -12,11 +12,13 @@ Gets or sets the inlines.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public InlineCollection Inlines \{ get; set; }
+[ContentAttribute]
+public InlineCollection Inlines { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public Property Inlines As InlineCollection
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property Inlines As InlineCollection
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Inlines : InlineCollection with get, set
 ```
 </TabItem>
@@ -44,3 +47,4 @@ member Inlines : InlineCollection with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Documents_Span">Span Class</a>  
 <a href="N_Avalonia_Controls_Documents">Avalonia.Controls.Documents Namespace</a>  
+

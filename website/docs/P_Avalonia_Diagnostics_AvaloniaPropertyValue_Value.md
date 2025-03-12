@@ -12,7 +12,7 @@ Gets the current property value.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? Value \{ get; }
+public Object? Value { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Value : Object with get
 #### Reference
 <a href="T_Avalonia_Diagnostics_AvaloniaPropertyValue">AvaloniaPropertyValue Class</a>  
 <a href="N_Avalonia_Diagnostics">Avalonia.Diagnostics Namespace</a>  
+

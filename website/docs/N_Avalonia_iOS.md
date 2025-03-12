@@ -21,6 +21,6 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_iOS_IAvaloniaViewController">IAvaloniaViewController</a></td>
-<td> </td>
+<td><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 </table>

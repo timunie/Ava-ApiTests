@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double X \{ get; init; }
+public double X { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member X : float with get, set
 #### Reference
 <a href="T_Avalonia_Vector3D">Vector3D Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

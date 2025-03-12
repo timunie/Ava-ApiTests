@@ -10,6 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute("To be removed in 12.0, NativeMenuBar now has a default template.")]
 public static void SetEnableMenuItemClickForwarding(
 	MenuItem menuItem,
 	bool enable
@@ -18,6 +19,7 @@ public static void SetEnableMenuItemClickForwarding(
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute("To be removed in 12.0, NativeMenuBar now has a default template.")>
 Public Shared Sub SetEnableMenuItemClickForwarding ( 
 	menuItem As MenuItem,
 	enable As Boolean
@@ -26,6 +28,7 @@ Public Shared Sub SetEnableMenuItemClickForwarding (
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute("To be removed in 12.0, NativeMenuBar now has a default template.")>]
 static member SetEnableMenuItemClickForwarding : 
         menuItem : MenuItem * 
         enable : bool -> unit 
@@ -35,7 +38,7 @@ static member SetEnableMenuItemClickForwarding :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/NativeMenuBar.cs#L82" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/NativeMenuBar.cs#L83" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +51,4 @@ static member SetEnableMenuItemClickForwarding :
 #### Reference
 <a href="T_Avalonia_Controls_NativeMenuBar">NativeMenuBar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

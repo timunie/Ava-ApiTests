@@ -12,7 +12,7 @@ Gets or sets the owner of the window.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public WindowBase? Owner \{ get; protected set; }
+public WindowBase? Owner { get; protected set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Owner : WindowBase with get, set
 #### Reference
 <a href="T_Avalonia_Controls_WindowBase">WindowBase Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

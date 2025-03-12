@@ -46,7 +46,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/RoundedRect.cs#L46" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/RoundedRect.cs#L47" title="View the source code">View Source</a>
 
 
 
@@ -60,3 +60,4 @@ new :
 <a href="T_Avalonia_RoundedRect">RoundedRect Structure</a>  
 <a href="Overload_Avalonia_RoundedRect__ctor">RoundedRect Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

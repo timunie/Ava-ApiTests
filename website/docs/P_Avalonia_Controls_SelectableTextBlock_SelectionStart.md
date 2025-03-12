@@ -12,7 +12,7 @@ Gets or sets a character index for the beginning of the current selection.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int SelectionStart \{ get; set; }
+public int SelectionStart { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member SelectionStart : int with get, set
 #### Reference
 <a href="T_Avalonia_Controls_SelectableTextBlock">SelectableTextBlock Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

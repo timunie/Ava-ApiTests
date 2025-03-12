@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IBrush? HeaderBackground \{ get; set; }
+public IBrush? HeaderBackground { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member HeaderBackground : IBrush with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_CalendarItem">CalendarItem Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

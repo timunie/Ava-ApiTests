@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Dictionary<string, string> Headers \{ get; }
+public Dictionary<string, string> Headers { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Headers : Dictionary<string, string> with get
 #### Reference
 <a href="T_Avalonia_DesignerSupport_Remote_HtmlTransport_SimpleWebSocketHttpRequest">SimpleWebSocketHttpRequest Class</a>  
 <a href="N_Avalonia_DesignerSupport_Remote_HtmlTransport">Avalonia.DesignerSupport.Remote.HtmlTransport Namespace</a>  
+

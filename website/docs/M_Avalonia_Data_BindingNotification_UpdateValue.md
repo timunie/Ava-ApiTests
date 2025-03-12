@@ -37,7 +37,7 @@ static member UpdateValue :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingNotification.cs#L182" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingNotification.cs#L183" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ The updated binding notification if *o* is a binding notification; otherwise *va
 #### Reference
 <a href="T_Avalonia_Data_BindingNotification">BindingNotification Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

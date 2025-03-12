@@ -27,7 +27,7 @@ member Build : unit -> TransformOperations
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Transformation/TransformOperations.cs#L253" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Transformation/TransformOperations.cs#L254" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ member Build : unit -> TransformOperations
 #### Reference
 <a href="T_Avalonia_Media_Transformation_TransformOperations_Builder">TransformOperations.Builder Structure</a>  
 <a href="N_Avalonia_Media_Transformation">Avalonia.Media.Transformation Namespace</a>  
+

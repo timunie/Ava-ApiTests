@@ -42,7 +42,7 @@ override ConvertFrom :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/Easings/EasingTypeConverter.cs#L15" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/Easings/EasingTypeConverter.cs#L16" title="View the source code">View Source</a>
 
 
 
@@ -59,3 +59,4 @@ override ConvertFrom :
 <a href="T_Avalonia_Animation_Easings_EasingTypeConverter">EasingTypeConverter Class</a>  
 <a href="Overload_Avalonia_Animation_Easings_EasingTypeConverter_ConvertFrom">ConvertFrom Overload</a>  
 <a href="N_Avalonia_Animation_Easings">Avalonia.Animation.Easings Namespace</a>  
+

@@ -13,18 +13,21 @@ Describes how an area is painted.
 <TabItem value="csharp" label="C#">
 ```csharp
 [TypeConverterAttribute(typeof(BrushConverter))]
+[NotClientImplementableAttribute]
 public interface IBrush
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
 <TypeConverterAttribute(GetType(BrushConverter))>
+<NotClientImplementableAttribute>
 Public Interface IBrush
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<TypeConverterAttribute(typeof(BrushConverter))>]
+[<NotClientImplementableAttribute>]
 type IBrush = interface end
 ```
 </TabItem>
@@ -65,3 +68,4 @@ type IBrush = interface end
 
 #### Reference
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

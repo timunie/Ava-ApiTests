@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Reactive_AnonymousObserver_1">AnonymousObserver(T) Class</a>  
 <a href="Overload_Avalonia_Reactive_AnonymousObserver_1__ctor">AnonymousObserver(T) Overload</a>  
 <a href="N_Avalonia_Reactive">Avalonia.Reactive Namespace</a>  
+

@@ -12,7 +12,7 @@ Run baseline in ratio relative to run height
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract double Baseline \{ get; }
+public abstract double Baseline { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Baseline : float with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_DrawableTextRun">DrawableTextRun Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

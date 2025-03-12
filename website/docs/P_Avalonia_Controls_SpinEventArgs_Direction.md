@@ -12,7 +12,7 @@ Gets the SpinDirection for the spin that has been initiated by the end-user.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public SpinDirection Direction \{ get; }
+public SpinDirection Direction { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Direction : SpinDirection with get
 #### Reference
 <a href="T_Avalonia_Controls_SpinEventArgs">SpinEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -32,7 +32,7 @@ member Add :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/TextSelectorLayer.cs#L40" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/TextSelectorLayer.cs#L41" title="View the source code">View Source</a>
 
 
 
@@ -45,3 +45,4 @@ member Add :
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_TextSelectorLayer">TextSelectorLayer Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

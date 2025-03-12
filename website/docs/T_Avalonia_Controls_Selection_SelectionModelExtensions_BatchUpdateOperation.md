@@ -69,3 +69,4 @@ type BatchUpdateOperation =
 
 #### Reference
 <a href="N_Avalonia_Controls_Selection">Avalonia.Controls.Selection Namespace</a>  
+

@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IInputElement? InputPassThroughElement \{ get; set; }
+public IInputElement? InputPassThroughElement { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member InputPassThroughElement : IInputElement with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_LightDismissOverlayLayer">LightDismissOverlayLayer Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

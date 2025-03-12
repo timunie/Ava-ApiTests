@@ -12,7 +12,7 @@ Specify how the popup should be positioned if the originally intended position c
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PopupPositionerConstraintAdjustment ConstraintAdjustment \{
+public PopupPositionerConstraintAdjustment ConstraintAdjustment {
 	get;
  set; }
 ```
@@ -47,3 +47,4 @@ member ConstraintAdjustment : PopupPositionerConstraintAdjustment with
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupPositionerParameters">PopupPositionerParameters Structure</a>  
 <a href="N_Avalonia_Controls_Primitives_PopupPositioning">Avalonia.Controls.Primitives.PopupPositioning Namespace</a>  
+

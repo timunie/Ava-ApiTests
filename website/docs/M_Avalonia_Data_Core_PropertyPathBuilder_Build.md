@@ -27,7 +27,7 @@ member Build : unit -> PropertyPath
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/Core/PropertyPath.cs#L47" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/Core/PropertyPath.cs#L48" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ member Build : unit -> PropertyPath
 #### Reference
 <a href="T_Avalonia_Data_Core_PropertyPathBuilder">PropertyPathBuilder Class</a>  
 <a href="N_Avalonia_Data_Core">Avalonia.Data.Core Namespace</a>  
+

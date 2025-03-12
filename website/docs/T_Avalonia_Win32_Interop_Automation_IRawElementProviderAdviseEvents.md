@@ -10,17 +10,26 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[ComVisibleAttribute(true)]
+[GuidAttribute("a407b27b-0f6d-4427-9292-473c7bf93258")]
+[InterfaceTypeAttribute(ComInterfaceType.InterfaceIsIUnknown)]
 public interface IRawElementProviderAdviseEvents : IRawElementProviderSimple
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ComVisibleAttribute(true)>
+<GuidAttribute("a407b27b-0f6d-4427-9292-473c7bf93258")>
+<InterfaceTypeAttribute(ComInterfaceType.InterfaceIsIUnknown)>
 Public Interface IRawElementProviderAdviseEvents
 	Inherits IRawElementProviderSimple
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ComVisibleAttribute(true)>]
+[<GuidAttribute("a407b27b-0f6d-4427-9292-473c7bf93258")>]
+[<InterfaceTypeAttribute(ComInterfaceType.InterfaceIsIUnknown)>]
 type IRawElementProviderAdviseEvents = 
     interface
         interface IRawElementProviderSimple
@@ -76,3 +85,4 @@ type IRawElementProviderAdviseEvents =
 
 #### Reference
 <a href="N_Avalonia_Win32_Interop_Automation">Avalonia.Win32.Interop.Automation Namespace</a>  
+

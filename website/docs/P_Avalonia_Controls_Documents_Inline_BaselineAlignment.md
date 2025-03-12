@@ -12,7 +12,7 @@ Describes how the baseline for a text-based element is positioned on the vertica
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public BaselineAlignment BaselineAlignment \{ get; set; }
+public BaselineAlignment BaselineAlignment { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member BaselineAlignment : BaselineAlignment with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Documents_Inline">Inline Class</a>  
 <a href="N_Avalonia_Controls_Documents">Avalonia.Controls.Documents Namespace</a>  
+

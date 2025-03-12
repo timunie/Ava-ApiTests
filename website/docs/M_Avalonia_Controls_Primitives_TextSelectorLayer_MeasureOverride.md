@@ -34,7 +34,7 @@ override MeasureOverride :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/TextSelectorLayer.cs#L27" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/TextSelectorLayer.cs#L28" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ override MeasureOverride :
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_TextSelectorLayer">TextSelectorLayer Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

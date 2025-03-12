@@ -39,3 +39,4 @@ new : unit -> NotClientImplementableAttribute
 #### Reference
 <a href="T_Avalonia_Metadata_NotClientImplementableAttribute">NotClientImplementableAttribute Class</a>  
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

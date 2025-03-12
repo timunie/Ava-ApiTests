@@ -83,3 +83,4 @@ type WeakEventSubscriber<'TEventArgs when 'TEventArgs : EventArgs> =
 
 #### Reference
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

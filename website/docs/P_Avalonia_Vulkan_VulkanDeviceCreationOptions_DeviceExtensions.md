@@ -12,7 +12,7 @@ Specifies extensions to enable if available on the logical device
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IList<string> DeviceExtensions \{ get; set; }
+public IList<string> DeviceExtensions { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DeviceExtensions : IList<string> with get, set
 #### Reference
 <a href="T_Avalonia_Vulkan_VulkanDeviceCreationOptions">VulkanDeviceCreationOptions Class</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

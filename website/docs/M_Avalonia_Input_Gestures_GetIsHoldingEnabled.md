@@ -32,7 +32,7 @@ static member GetIsHoldingEnabled :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/Gestures.cs#L101" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/Gestures.cs#L102" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ static member GetIsHoldingEnabled :
 #### Reference
 <a href="T_Avalonia_Input_Gestures">Gestures Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

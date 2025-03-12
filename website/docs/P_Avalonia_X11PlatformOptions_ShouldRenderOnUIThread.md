@@ -12,7 +12,7 @@ Render directly on the UI thread instead of using a dedicated render thread. Thi
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool ShouldRenderOnUIThread \{ get; set; }
+public bool ShouldRenderOnUIThread { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ShouldRenderOnUIThread : bool with get, set
 #### Reference
 <a href="T_Avalonia_X11PlatformOptions">X11PlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

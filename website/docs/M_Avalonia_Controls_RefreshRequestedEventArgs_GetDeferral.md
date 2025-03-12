@@ -29,7 +29,7 @@ member GetDeferral : unit -> RefreshCompletionDeferral
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/PullToRefresh/RefreshRequestedEventArgs.cs#L18" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/PullToRefresh/RefreshRequestedEventArgs.cs#L19" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ A <a href="T_Avalonia_Controls_RefreshCompletionDeferral">RefreshCompletionDefer
 #### Reference
 <a href="T_Avalonia_Controls_RefreshRequestedEventArgs">RefreshRequestedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

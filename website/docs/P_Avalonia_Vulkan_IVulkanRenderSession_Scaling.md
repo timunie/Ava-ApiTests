@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-double Scaling \{ get; }
+double Scaling { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -37,3 +37,4 @@ abstract Scaling : float with get
 #### Reference
 <a href="T_Avalonia_Vulkan_IVulkanRenderSession">IVulkanRenderSession Interface</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

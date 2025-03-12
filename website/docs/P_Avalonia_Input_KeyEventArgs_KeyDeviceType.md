@@ -12,7 +12,7 @@ Type of the device that fire the event
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public KeyDeviceType KeyDeviceType \{ get; init; }
+public KeyDeviceType KeyDeviceType { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member KeyDeviceType : KeyDeviceType with get, set
 #### Reference
 <a href="T_Avalonia_Input_KeyEventArgs">KeyEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

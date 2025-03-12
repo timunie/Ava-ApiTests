@@ -42,7 +42,7 @@ override Wait :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/AvaloniaSynchronizationContext.cs#L81" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/AvaloniaSynchronizationContext.cs#L82" title="View the source code">View Source</a>
 
 
 
@@ -58,3 +58,4 @@ override Wait :
 #### Reference
 <a href="T_Avalonia_Threading_AvaloniaSynchronizationContext">AvaloniaSynchronizationContext Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

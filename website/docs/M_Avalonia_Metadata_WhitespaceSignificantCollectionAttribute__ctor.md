@@ -39,3 +39,4 @@ new : unit -> WhitespaceSignificantCollectionAttribute
 #### Reference
 <a href="T_Avalonia_Metadata_WhitespaceSignificantCollectionAttribute">WhitespaceSignificantCollectionAttribute Class</a>  
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

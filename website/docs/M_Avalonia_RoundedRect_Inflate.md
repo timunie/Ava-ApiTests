@@ -35,7 +35,7 @@ member Inflate :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/RoundedRect.cs#L102" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/RoundedRect.cs#L103" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ member Inflate :
 #### Reference
 <a href="T_Avalonia_RoundedRect">RoundedRect Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

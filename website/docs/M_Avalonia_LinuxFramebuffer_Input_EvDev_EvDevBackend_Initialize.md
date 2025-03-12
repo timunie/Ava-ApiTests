@@ -38,12 +38,12 @@ override Initialize :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Linux/Avalonia.LinuxFramebuffer/Input/EvDev/EvDevBackend.cs#L50" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Linux/Avalonia.LinuxFramebuffer/Input/EvDev/EvDevBackend.cs#L51" title="View the source code">View Source</a>
 
 
 
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_LinuxFramebuffer_Input_IScreenInfoProvider">IScreenInfoProvider</a></dt><dd> </dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.action-1" target="_blank" rel="noopener noreferrer">Action</a>(<a href="T_Avalonia_Input_Raw_RawInputEventArgs">RawInputEventArgs</a>)</dt><dd> </dd></dl>
+<dl><dt>  <a href="T_Avalonia_LinuxFramebuffer_Input_IScreenInfoProvider">IScreenInfoProvider</a></dt><dd> </dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.action-1" target="_blank" rel="noopener noreferrer">Action</a>(RawInputEventArgs)</dt><dd> </dd></dl>
 
 #### Implements
 <a href="M_Avalonia_LinuxFramebuffer_Input_IInputBackend_Initialize">IInputBackend.Initialize(IScreenInfoProvider, Action(RawInputEventArgs))</a>  
@@ -55,3 +55,4 @@ override Initialize :
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_Input_EvDev_EvDevBackend">EvDevBackend Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer_Input_EvDev">Avalonia.LinuxFramebuffer.Input.EvDev Namespace</a>  
+

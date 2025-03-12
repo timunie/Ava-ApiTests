@@ -40,7 +40,7 @@ override Build :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Templates/FuncDataTemplate.cs#L124" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Templates/FuncDataTemplate.cs#L125" title="View the source code">View Source</a>
 
 
 
@@ -62,3 +62,4 @@ The caller should ensure that any control passed to *existing* originated from t
 <a href="T_Avalonia_Controls_Templates_FuncDataTemplate">FuncDataTemplate Class</a>  
 <a href="Overload_Avalonia_Controls_Templates_FuncDataTemplate_Build">Build Overload</a>  
 <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates Namespace</a>  
+

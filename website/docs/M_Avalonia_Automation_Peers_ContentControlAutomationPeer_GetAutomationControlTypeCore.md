@@ -41,3 +41,4 @@ override GetAutomationControlTypeCore : unit -> AutomationControlType
 #### Reference
 <a href="T_Avalonia_Automation_Peers_ContentControlAutomationPeer">ContentControlAutomationPeer Class</a>  
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

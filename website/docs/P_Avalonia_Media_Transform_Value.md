@@ -12,7 +12,7 @@ Gets the transform's <a href="T_Avalonia_Matrix">Matrix</a>.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract Matrix Value \{ get; }
+public abstract Matrix Value { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -47,3 +47,4 @@ abstract Value : Matrix with get
 #### Reference
 <a href="T_Avalonia_Media_Transform">Transform Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

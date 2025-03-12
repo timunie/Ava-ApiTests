@@ -40,3 +40,4 @@ new : unit -> DrawingBrush
 <a href="T_Avalonia_Media_DrawingBrush">DrawingBrush Class</a>  
 <a href="Overload_Avalonia_Media_DrawingBrush__ctor">DrawingBrush Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

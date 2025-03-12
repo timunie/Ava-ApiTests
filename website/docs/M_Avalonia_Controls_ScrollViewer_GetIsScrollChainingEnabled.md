@@ -34,7 +34,7 @@ static member GetIsScrollChainingEnabled :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ScrollViewer.cs#L619" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ScrollViewer.cs#L620" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The value of the property.After a user hits a scroll limit on an element that ha
 #### Reference
 <a href="T_Avalonia_Controls_ScrollViewer">ScrollViewer Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -51,3 +51,4 @@ stream to render the control
 #### Reference
 <a href="T_Avalonia_Diagnostics_Screenshots_BaseRenderToStreamHandler">BaseRenderToStreamHandler Class</a>  
 <a href="N_Avalonia_Diagnostics_Screenshots">Avalonia.Diagnostics.Screenshots Namespace</a>  
+

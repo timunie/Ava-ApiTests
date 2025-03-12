@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Animation_CrossFade">CrossFade Class</a>  
 <a href="Overload_Avalonia_Animation_CrossFade__ctor">CrossFade Overload</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

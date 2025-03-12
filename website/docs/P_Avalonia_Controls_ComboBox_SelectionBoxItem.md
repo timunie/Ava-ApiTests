@@ -12,7 +12,7 @@ Gets or sets the item to display as the control's content.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? SelectionBoxItem \{ get; protected set; }
+public Object? SelectionBoxItem { get; protected set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member SelectionBoxItem : Object with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ComboBox">ComboBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

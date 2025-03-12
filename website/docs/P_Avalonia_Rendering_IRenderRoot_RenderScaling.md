@@ -12,7 +12,7 @@ The scaling factor to use in rendering.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-double RenderScaling \{ get; }
+double RenderScaling { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract RenderScaling : float with get
 #### Reference
 <a href="T_Avalonia_Rendering_IRenderRoot">IRenderRoot Interface</a>  
 <a href="N_Avalonia_Rendering">Avalonia.Rendering Namespace</a>  
+

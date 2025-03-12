@@ -12,7 +12,7 @@ Gets the size of the file in bytes.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ulong? Size \{ get; }
+public ulong? Size { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Size : Nullable<uint64> with get
 #### Reference
 <a href="T_Avalonia_Platform_Storage_StorageItemProperties">StorageItemProperties Class</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

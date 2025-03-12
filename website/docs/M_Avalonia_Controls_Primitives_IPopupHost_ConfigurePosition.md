@@ -39,7 +39,7 @@ abstract ConfigurePosition :
 
 
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupPositionRequest">PopupPositionRequest</a></dt><dd> </dd></dl>
+<dl><dt>  PopupPositionRequest</dt><dd> </dd></dl>
 
 ## See Also
 
@@ -47,3 +47,4 @@ abstract ConfigurePosition :
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_IPopupHost">IPopupHost Interface</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

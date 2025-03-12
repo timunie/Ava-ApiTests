@@ -12,11 +12,13 @@ Provides positioning parameters to <a href="T_Avalonia_Controls_Primitives_Popup
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute("This API may be removed in Avalonia 12. If you depend on this API, please open an issue with details of your use-case.")]
 public struct PopupPositionerParameters : IEquatable<PopupPositionerParameters>
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute("This API may be removed in Avalonia 12. If you depend on this API, please open an issue with details of your use-case.")>
 Public Structure PopupPositionerParameters
 	Implements IEquatable(Of PopupPositionerParameters)
 ```
@@ -24,6 +26,7 @@ Public Structure PopupPositionerParameters
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<UnstableAttribute("This API may be removed in Avalonia 12. If you depend on this API, please open an issue with details of your use-case.")>]
 type PopupPositionerParameters = 
     struct
         inherit ValueType
@@ -85,3 +88,4 @@ The IPopupPositioner provides a collection of rules for the placement of a popup
 
 #### Reference
 <a href="N_Avalonia_Controls_Primitives_PopupPositioning">Avalonia.Controls.Primitives.PopupPositioning Namespace</a>  
+

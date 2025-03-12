@@ -28,7 +28,7 @@ override GetHashCode : unit -> int
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/KeyGesture.cs#L43" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/KeyGesture.cs#L46" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override GetHashCode : unit -> int
 #### Reference
 <a href="T_Avalonia_Input_KeyGesture">KeyGesture Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

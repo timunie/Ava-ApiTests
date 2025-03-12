@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DragDropEffects DragEffects \{ get; set; }
+public DragDropEffects DragEffects { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member DragEffects : DragDropEffects with get, set
 #### Reference
 <a href="T_Avalonia_Input_DragEventArgs">DragEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

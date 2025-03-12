@@ -32,7 +32,7 @@ member CreateContext :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Egl/EglDisplay.cs#L53" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/Egl/EglDisplay.cs#L54" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ member CreateContext :
 #### Reference
 <a href="T_Avalonia_OpenGL_Egl_EglDisplay">EglDisplay Class</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

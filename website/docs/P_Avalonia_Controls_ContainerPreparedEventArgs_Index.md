@@ -12,7 +12,7 @@ Gets the index of the item the container was prepared for.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int Index \{ get; }
+public int Index { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Index : int with get
 #### Reference
 <a href="T_Avalonia_Controls_ContainerPreparedEventArgs">ContainerPreparedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

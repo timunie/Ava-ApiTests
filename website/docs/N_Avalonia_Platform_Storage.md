@@ -53,31 +53,31 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Platform_Storage_IStorageBookmarkFile">IStorageBookmarkFile</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Platform_Storage_IStorageBookmarkFolder">IStorageBookmarkFolder</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Platform_Storage_IStorageBookmarkItem">IStorageBookmarkItem</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Platform_Storage_IStorageFile">IStorageFile</a></td>
-<td>Represents a file. Provides information about the file and its contents, and ways to manipulate them.</td>
+<td>Represents a file. Provides information about the file and its contents, and ways to manipulate them.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Platform_Storage_IStorageFolder">IStorageFolder</a></td>
-<td>Manipulates folders and their contents, and provides information about them.</td>
+<td>Manipulates folders and their contents, and provides information about them.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Platform_Storage_IStorageItem">IStorageItem</a></td>
-<td>Manipulates storage items (files and folders) and their contents, and provides information about them</td>
+<td>Manipulates storage items (files and folders) and their contents, and provides information about them<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Platform_Storage_IStorageProvider">IStorageProvider</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 </table>
 

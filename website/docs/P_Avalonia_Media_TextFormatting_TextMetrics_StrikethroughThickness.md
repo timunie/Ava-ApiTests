@@ -12,7 +12,7 @@ Gets a value that indicates the thickness of the underline.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double StrikethroughThickness \{ get; }
+public double StrikethroughThickness { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member StrikethroughThickness : float with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextMetrics">TextMetrics Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

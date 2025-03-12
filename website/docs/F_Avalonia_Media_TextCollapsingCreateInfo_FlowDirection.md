@@ -40,3 +40,4 @@ val FlowDirection: FlowDirection
 #### Reference
 <a href="T_Avalonia_Media_TextCollapsingCreateInfo">TextCollapsingCreateInfo Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

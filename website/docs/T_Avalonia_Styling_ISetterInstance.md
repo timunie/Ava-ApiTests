@@ -12,16 +12,19 @@ Represents a <a href="T_Avalonia_Styling_Setter">Setter</a> that has been instan
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface ISetterInstance
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface ISetterInstance
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type ISetterInstance = interface end
 ```
 </TabItem>
@@ -38,3 +41,4 @@ type ISetterInstance = interface end
 
 #### Reference
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

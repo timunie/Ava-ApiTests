@@ -12,7 +12,7 @@ Get the end of line run.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TextEndOfLine? TextEndOfLine \{ get; }
+public TextEndOfLine? TextEndOfLine { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member TextEndOfLine : TextEndOfLine with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextLineBreak">TextLineBreak Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

@@ -34,7 +34,7 @@ member Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingNotification.cs#L222" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingNotification.cs#L223" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ true if the two instances are equal; otherwise false.
 <a href="T_Avalonia_Data_BindingNotification">BindingNotification Class</a>  
 <a href="Overload_Avalonia_Data_BindingNotification_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

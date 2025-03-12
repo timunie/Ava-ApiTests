@@ -53,7 +53,7 @@ static member Apply :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingOperations.cs#L100" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingOperations.cs#L101" title="View the source code">View Source</a>
 
 
 
@@ -71,3 +71,4 @@ An <a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_
 <a href="T_Avalonia_Data_BindingOperations">BindingOperations Class</a>  
 <a href="Overload_Avalonia_Data_BindingOperations_Apply">Apply Overload</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

@@ -12,7 +12,7 @@ If Avalonia is in control of a run loop, we propagate exceptions by stopping the
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Action<Exception>? ExterinalGLibMainLoopExceptionLogger \{ get; set; }
+public Action<Exception>? ExterinalGLibMainLoopExceptionLogger { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ExterinalGLibMainLoopExceptionLogger : Action<Exception> with get, set
 #### Reference
 <a href="T_Avalonia_X11PlatformOptions">X11PlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

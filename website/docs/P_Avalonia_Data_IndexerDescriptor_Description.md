@@ -12,7 +12,7 @@ Gets a description of the binding.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string Description \{ get; }
+public string Description { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ override Description : string with get
 #### Reference
 <a href="T_Avalonia_Data_IndexerDescriptor">IndexerDescriptor Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

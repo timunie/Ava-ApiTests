@@ -29,7 +29,7 @@ new : unit -> ColorSpectrum
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/ColorSpectrum/ColorSpectrum.cs#L47" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/ColorSpectrum/ColorSpectrum.cs#L51" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ new : unit -> ColorSpectrum
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_ColorSpectrum">ColorSpectrum Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

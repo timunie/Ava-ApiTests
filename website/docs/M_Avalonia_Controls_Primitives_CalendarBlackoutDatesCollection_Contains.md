@@ -37,7 +37,7 @@ member Contains :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Calendar/CalendarBlackoutDatesCollection.cs#L76" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Calendar/CalendarBlackoutDatesCollection.cs#L80" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ True if all dates in the range are contained in the collection; otherwise, false
 <a href="T_Avalonia_Controls_Primitives_CalendarBlackoutDatesCollection">CalendarBlackoutDatesCollection Class</a>  
 <a href="Overload_Avalonia_Controls_Primitives_CalendarBlackoutDatesCollection_Contains">Contains Overload</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

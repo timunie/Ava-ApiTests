@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the calendar is displayed in months, yea
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public CalendarMode DisplayMode \{ get; set; }
+public CalendarMode DisplayMode { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ A value indicating what length of time the <a href="https://learn.microsoft.com/
 #### Reference
 <a href="T_Avalonia_Controls_Calendar">Calendar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

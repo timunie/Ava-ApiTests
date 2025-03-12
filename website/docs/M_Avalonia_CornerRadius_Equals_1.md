@@ -54,3 +54,4 @@ True if the Object is equal to this corner radius; False otherwise.
 <a href="T_Avalonia_CornerRadius">CornerRadius Structure</a>  
 <a href="Overload_Avalonia_CornerRadius_Equals">Equals Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

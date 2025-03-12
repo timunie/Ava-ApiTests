@@ -39,3 +39,4 @@ new : unit -> TextInputMethodClientRequestedEventArgs
 #### Reference
 <a href="T_Avalonia_Input_TextInput_TextInputMethodClientRequestedEventArgs">TextInputMethodClientRequestedEventArgs Class</a>  
 <a href="N_Avalonia_Input_TextInput">Avalonia.Input.TextInput Namespace</a>  
+

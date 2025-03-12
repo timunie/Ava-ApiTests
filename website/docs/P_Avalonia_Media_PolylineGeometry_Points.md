@@ -12,11 +12,13 @@ Gets or sets the figures.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IList<Point> Points \{ get; set; }
+[ContentAttribute]
+public IList<Point> Points { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public Property Points As IList(Of Point)
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property Points As IList(Of Point)
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Points : IList<Point> with get, set
 ```
 </TabItem>
@@ -45,3 +48,4 @@ The points.
 #### Reference
 <a href="T_Avalonia_Media_PolylineGeometry">PolylineGeometry Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -35,7 +35,7 @@ member InsertKeyFrame :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/obj/GeneratedFiles/DevGenerators/Avalonia.SourceGenerator.CompositionGenerator.CompositionRoslynGenerator/CompositionAnimations.cs#L66" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/obj/GeneratedFiles/DevGenerators/Avalonia.SourceGenerator.CompositionGenerator.CompositionRoslynGenerator/CompositionAnimations.cs#L67" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ member InsertKeyFrame :
 <a href="T_Avalonia_Rendering_Composition_DoubleKeyFrameAnimation">DoubleKeyFrameAnimation Class</a>  
 <a href="Overload_Avalonia_Rendering_Composition_DoubleKeyFrameAnimation_InsertKeyFrame">InsertKeyFrame Overload</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

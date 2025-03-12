@@ -12,7 +12,7 @@ Gets the visual tree host.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Visual? Host \{ get; }
+Visual? Host { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The visual tree host.
 #### Reference
 <a href="T_Avalonia_VisualTree_IHostedVisualTreeRoot">IHostedVisualTreeRoot Interface</a>  
 <a href="N_Avalonia_VisualTree">Avalonia.VisualTree Namespace</a>  
+

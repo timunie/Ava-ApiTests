@@ -36,7 +36,7 @@ override InnerValueChanged :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/Core/Plugins/DataValidationBase.cs#L71" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/Core/Plugins/DataValidationBase.cs#L72" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override InnerValueChanged :
 #### Reference
 <a href="T_Avalonia_Data_Core_Plugins_DataValidationBase">DataValidationBase Class</a>  
 <a href="N_Avalonia_Data_Core_Plugins">Avalonia.Data.Core.Plugins Namespace</a>  
+

@@ -36,7 +36,7 @@ override OnSpin :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Spinner.cs#L147" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Spinner.cs#L148" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnSpin :
 #### Reference
 <a href="T_Avalonia_Controls_Spinner">Spinner Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

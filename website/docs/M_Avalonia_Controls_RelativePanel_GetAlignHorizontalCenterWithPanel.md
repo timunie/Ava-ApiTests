@@ -34,7 +34,7 @@ static member GetAlignHorizontalCenterWithPanel :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RelativePanel.AttachedProperties.cs#L139" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RelativePanel.AttachedProperties.cs#L140" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The RelativePanel.AlignHorizontalCenterWithPanel XAML attached property value of
 #### Reference
 <a href="T_Avalonia_Controls_RelativePanel">RelativePanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

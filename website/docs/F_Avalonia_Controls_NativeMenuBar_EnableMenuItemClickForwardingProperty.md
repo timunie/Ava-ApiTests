@@ -10,16 +10,19 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute("To be removed in 12.0, NativeMenuBar now has a default template")]
 public static readonly AttachedProperty<bool> EnableMenuItemClickForwardingProperty
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute("To be removed in 12.0, NativeMenuBar now has a default template")>
 Public Shared ReadOnly EnableMenuItemClickForwardingProperty As AttachedProperty(Of Boolean)
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute("To be removed in 12.0, NativeMenuBar now has a default template")>]
 static val EnableMenuItemClickForwardingProperty: AttachedProperty<bool>
 ```
 </TabItem>
@@ -40,3 +43,4 @@ static val EnableMenuItemClickForwardingProperty: AttachedProperty<bool>
 #### Reference
 <a href="T_Avalonia_Controls_NativeMenuBar">NativeMenuBar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

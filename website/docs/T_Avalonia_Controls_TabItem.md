@@ -12,11 +12,13 @@ An item in a <a href="T_Avalonia_Controls_TabControl">TabControl</a>.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[PseudoClassesAttribute(new string[] { ... })]
 public class TabItem : HeaderedContentControl, ISelectable
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<PseudoClassesAttribute(New String() { ... })>
 Public Class TabItem
 	Inherits HeaderedContentControl
 	Implements ISelectable
@@ -24,6 +26,7 @@ Public Class TabItem
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<PseudoClassesAttribute(new string[] { ... })>]
 type TabItem = 
     class
         inherit HeaderedContentControl
@@ -780,7 +783,7 @@ type TabItem =
 </tr>
 <tr>
 <td><a href="M_Avalonia_Controls_TabItem_SubscribeToOwnerProperties">SubscribeToOwnerProperties(AvaloniaObject)</a></td>
-<td>Obsolete.</td>
+<td><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 <tr>
 <td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString()</a></td>
@@ -1083,10 +1086,6 @@ type TabItem =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1181,3 +1180,4 @@ type TabItem =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -36,7 +36,7 @@ override ValueFromPoint :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/Track.cs#L151" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/Track.cs#L155" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ The distance between the Thumb and the specified pt value.
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_Track">Track Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

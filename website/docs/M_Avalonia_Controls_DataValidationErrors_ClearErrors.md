@@ -32,7 +32,7 @@ static member ClearErrors :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/DataValidationErrors.cs#L157" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/DataValidationErrors.cs#L158" title="View the source code">View Source</a>
 
 
 
@@ -45,3 +45,4 @@ static member ClearErrors :
 #### Reference
 <a href="T_Avalonia_Controls_DataValidationErrors">DataValidationErrors Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

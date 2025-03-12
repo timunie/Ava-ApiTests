@@ -12,7 +12,7 @@ Gets the ItemContainerGenerator for this <a href="T_Avalonia_Controls_Virtualizi
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ItemContainerGenerator? ItemContainerGenerator \{ get; }
+public ItemContainerGenerator? ItemContainerGenerator { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member ItemContainerGenerator : ItemContainerGenerator with get
 #### Reference
 <a href="T_Avalonia_Controls_VirtualizingPanel">VirtualizingPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -41,3 +41,4 @@ member CreateExpressionAnimation : unit -> ExpressionAnimation
 <a href="T_Avalonia_Rendering_Composition_Compositor">Compositor Class</a>  
 <a href="Overload_Avalonia_Rendering_Composition_Compositor_CreateExpressionAnimation">CreateExpressionAnimation Overload</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

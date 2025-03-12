@@ -92,3 +92,4 @@ type HotKeyManager = class end
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

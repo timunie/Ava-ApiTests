@@ -29,7 +29,7 @@ member Open : unit -> StreamGeometryContext
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/StreamGeometry.cs#L60" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/StreamGeometry.cs#L61" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ A <a href="T_Avalonia_Media_StreamGeometryContext">StreamGeometryContext</a> whi
 #### Reference
 <a href="T_Avalonia_Media_StreamGeometry">StreamGeometry Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

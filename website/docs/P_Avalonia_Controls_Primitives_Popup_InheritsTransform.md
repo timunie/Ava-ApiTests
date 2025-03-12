@@ -12,7 +12,7 @@ Gets or sets a value that determines whether the popup inherits the render trans
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool InheritsTransform \{ get; set; }
+public bool InheritsTransform { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member InheritsTransform : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_Popup">Popup Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

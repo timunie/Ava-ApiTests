@@ -37,7 +37,7 @@ member OverrideMetadata :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/DirectPropertyBase.cs#L125" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/DirectPropertyBase.cs#L126" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ member OverrideMetadata :
 <a href="T_Avalonia_DirectPropertyBase_1">DirectPropertyBase(TValue) Class</a>  
 <a href="Overload_Avalonia_DirectPropertyBase_1_OverrideMetadata">OverrideMetadata Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

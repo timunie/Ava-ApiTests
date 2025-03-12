@@ -32,7 +32,7 @@ static member Parse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/CornerRadius.cs#L94" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/CornerRadius.cs#L97" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ static member Parse :
 #### Reference
 <a href="T_Avalonia_CornerRadius">CornerRadius Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

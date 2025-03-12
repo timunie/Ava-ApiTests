@@ -12,7 +12,7 @@ Specifies whether our connector is HDMI-A, DVI, DisplayPort, etc. If null, the p
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DrmConnectorType? ConnectorType \{ get; set; }
+public DrmConnectorType? ConnectorType { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ConnectorType : Nullable<DrmConnectorType> with get, set
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_DrmOutputOptions">DrmOutputOptions Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer">Avalonia.LinuxFramebuffer Namespace</a>  
+

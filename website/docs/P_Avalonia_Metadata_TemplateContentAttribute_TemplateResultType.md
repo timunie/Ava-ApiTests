@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Type? TemplateResultType \{ get; set; }
+public Type? TemplateResultType { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member TemplateResultType : Type with get, set
 #### Reference
 <a href="T_Avalonia_Metadata_TemplateContentAttribute">TemplateContentAttribute Class</a>  
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

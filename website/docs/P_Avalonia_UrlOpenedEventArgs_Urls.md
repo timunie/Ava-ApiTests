@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string[] Urls \{ get; }
+public string[] Urls { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Urls : string[] with get
 #### Reference
 <a href="T_Avalonia_UrlOpenedEventArgs">UrlOpenedEventArgs Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

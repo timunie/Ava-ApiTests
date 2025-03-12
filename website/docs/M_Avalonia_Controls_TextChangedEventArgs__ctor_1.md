@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Controls_TextChangedEventArgs">TextChangedEventArgs Class</a>  
 <a href="Overload_Avalonia_Controls_TextChangedEventArgs__ctor">TextChangedEventArgs Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

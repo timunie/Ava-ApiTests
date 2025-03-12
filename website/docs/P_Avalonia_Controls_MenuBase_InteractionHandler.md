@@ -12,7 +12,7 @@ Gets the interaction handler for the menu.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected IMenuInteractionHandler InteractionHandler \{ get; }
+protected IMenuInteractionHandler InteractionHandler { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member InteractionHandler : IMenuInteractionHandler with get
 #### Reference
 <a href="T_Avalonia_Controls_MenuBase">MenuBase Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

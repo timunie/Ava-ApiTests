@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RemoteWidget.SizingMode Mode \{ get; set; }
+public RemoteWidget.SizingMode Mode { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member Mode : RemoteWidget.SizingMode with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Remote_RemoteWidget">RemoteWidget Class</a>  
 <a href="N_Avalonia_Controls_Remote">Avalonia.Controls.Remote Namespace</a>  
+

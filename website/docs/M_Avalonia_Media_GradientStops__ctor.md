@@ -39,3 +39,4 @@ new : unit -> GradientStops
 #### Reference
 <a href="T_Avalonia_Media_GradientStops">GradientStops Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

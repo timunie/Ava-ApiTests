@@ -51,3 +51,4 @@ The element with the specified index, or null if the element could not be brough
 #### Reference
 <a href="T_Avalonia_Controls_VirtualizingPanel">VirtualizingPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

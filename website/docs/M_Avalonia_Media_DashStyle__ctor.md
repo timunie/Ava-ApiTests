@@ -40,3 +40,4 @@ new : unit -> DashStyle
 <a href="T_Avalonia_Media_DashStyle">DashStyle Class</a>  
 <a href="Overload_Avalonia_Media_DashStyle__ctor">DashStyle Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

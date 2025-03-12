@@ -40,3 +40,4 @@ static val DataProperty: StyledProperty<Geometry>
 #### Reference
 <a href="T_Avalonia_Controls_PathIcon">PathIcon Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

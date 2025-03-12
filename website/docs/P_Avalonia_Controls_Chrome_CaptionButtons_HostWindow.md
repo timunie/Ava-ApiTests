@@ -12,7 +12,7 @@ Currently attached window.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected Window? HostWindow \{ get; }
+protected Window? HostWindow { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member HostWindow : Window with get
 #### Reference
 <a href="T_Avalonia_Controls_Chrome_CaptionButtons">CaptionButtons Class</a>  
 <a href="N_Avalonia_Controls_Chrome">Avalonia.Controls.Chrome Namespace</a>  
+

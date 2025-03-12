@@ -34,7 +34,7 @@ member IsSet :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaObject.cs#L294" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaObject.cs#L295" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ True if the property is set, otherwise false.Returns true if *property* is a sty
 #### Reference
 <a href="T_Avalonia_AvaloniaObject">AvaloniaObject Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

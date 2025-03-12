@@ -12,7 +12,7 @@ Gets the Saturation component in the range from 0..1 (percentage).
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double S \{ get; }
+public double S { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member S : float with get
 #### Reference
 <a href="T_Avalonia_Media_HslColor">HslColor Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

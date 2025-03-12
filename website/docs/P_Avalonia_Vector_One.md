@@ -12,7 +12,7 @@ Returns the vector (1.0, 1.0).
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static Vector One \{ get; }
+public static Vector One { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member One : Vector with get
 #### Reference
 <a href="T_Avalonia_Vector">Vector Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

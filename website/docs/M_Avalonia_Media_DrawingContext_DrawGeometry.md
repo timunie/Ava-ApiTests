@@ -1,4 +1,4 @@
-# DrawGeometry(IBrush, IPen, Geometry) Method
+# DrawGeometry Method
 
 
 Draws a geometry.
@@ -40,7 +40,7 @@ member DrawGeometry :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/DrawingContext.cs#L92" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/DrawingContext.cs#L93" title="View the source code">View Source</a>
 
 
 
@@ -52,5 +52,5 @@ member DrawGeometry :
 
 #### Reference
 <a href="T_Avalonia_Media_DrawingContext">DrawingContext Class</a>  
-<a href="Overload_Avalonia_Media_DrawingContext_DrawGeometry">DrawGeometry Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

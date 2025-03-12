@@ -12,7 +12,7 @@ Gets or sets an <a href="T_Avalonia_Controls_Templates_IDataTemplate">IDataTempl
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IDataTemplate HeaderTemplate \{ get; set; }
+public IDataTemplate HeaderTemplate { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member HeaderTemplate : IDataTemplate with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGridColumn">DataGridColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

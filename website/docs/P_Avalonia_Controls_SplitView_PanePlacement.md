@@ -12,7 +12,7 @@ Gets or sets the <a href="T_Avalonia_Controls_SplitViewPanePlacement">SplitViewP
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public SplitViewPanePlacement PanePlacement \{ get; set; }
+public SplitViewPanePlacement PanePlacement { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member PanePlacement : SplitViewPanePlacement with get, set
 #### Reference
 <a href="T_Avalonia_Controls_SplitView">SplitView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -34,7 +34,7 @@ override ClearContainerForItemOverride :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TabControl.cs#L191" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TabControl.cs#L192" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override ClearContainerForItemOverride :
 #### Reference
 <a href="T_Avalonia_Controls_TabControl">TabControl Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

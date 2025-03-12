@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the spin buttons should be shown.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool ShowButtonSpinner \{ get; set; }
+public bool ShowButtonSpinner { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ShowButtonSpinner : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ButtonSpinner">ButtonSpinner Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

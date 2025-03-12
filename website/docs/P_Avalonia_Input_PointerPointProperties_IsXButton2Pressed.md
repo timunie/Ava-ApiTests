@@ -12,7 +12,7 @@ Gets a value that indicates whether the pointer input was triggered by the secon
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsXButton2Pressed \{
+public bool IsXButton2Pressed {
 	get;
  }
 ```
@@ -46,3 +46,4 @@ member IsXButton2Pressed : bool with
 #### Reference
 <a href="T_Avalonia_Input_PointerPointProperties">PointerPointProperties Structure</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

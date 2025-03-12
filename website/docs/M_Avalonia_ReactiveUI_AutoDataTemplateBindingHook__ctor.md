@@ -39,3 +39,4 @@ new : unit -> AutoDataTemplateBindingHook
 #### Reference
 <a href="T_Avalonia_ReactiveUI_AutoDataTemplateBindingHook">AutoDataTemplateBindingHook Class</a>  
 <a href="N_Avalonia_ReactiveUI">Avalonia.ReactiveUI Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the current Date for the picker
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DateTimeOffset Date \{ get; set; }
+public DateTimeOffset Date { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Date : DateTimeOffset with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DatePickerPresenter">DatePickerPresenter Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

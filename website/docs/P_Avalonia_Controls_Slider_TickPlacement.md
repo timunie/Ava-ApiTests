@@ -12,7 +12,7 @@ Gets or sets a value that indicates where to draw tick marks in relation to the 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TickPlacement TickPlacement \{ get; set; }
+public TickPlacement TickPlacement { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member TickPlacement : TickPlacement with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Slider">Slider Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

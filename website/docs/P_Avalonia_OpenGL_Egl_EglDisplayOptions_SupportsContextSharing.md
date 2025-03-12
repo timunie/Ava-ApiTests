@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool SupportsContextSharing \{ get; set; }
+public bool SupportsContextSharing { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member SupportsContextSharing : bool with get, set
 #### Reference
 <a href="T_Avalonia_OpenGL_Egl_EglDisplayOptions">EglDisplayOptions Class</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

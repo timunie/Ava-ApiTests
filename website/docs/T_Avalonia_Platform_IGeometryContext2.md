@@ -98,3 +98,4 @@ type IGeometryContext2 =
 
 #### Reference
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

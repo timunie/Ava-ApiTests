@@ -38,7 +38,7 @@ override OwnerPropertyChanged :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ComboBoxAutomationPeer.cs#L62" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ComboBoxAutomationPeer.cs#L63" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ override OwnerPropertyChanged :
 #### Reference
 <a href="T_Avalonia_Automation_Peers_ComboBoxAutomationPeer">ComboBoxAutomationPeer Class</a>  
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

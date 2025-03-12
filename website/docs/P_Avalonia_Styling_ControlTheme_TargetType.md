@@ -12,7 +12,7 @@ Gets or sets the type for which this control theme is intended.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Type? TargetType \{ get; set; }
+public Type? TargetType { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member TargetType : Type with get, set
 #### Reference
 <a href="T_Avalonia_Styling_ControlTheme">ControlTheme Class</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

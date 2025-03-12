@@ -10,16 +10,22 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[ComVisibleAttribute(true)]
+[GuidAttribute("15fdf2e2-9847-41cd-95dd-510612a025ea")]
 public enum RowOrColumnMajor
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ComVisibleAttribute(true)>
+<GuidAttribute("15fdf2e2-9847-41cd-95dd-510612a025ea")>
 Public Enumeration RowOrColumnMajor
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ComVisibleAttribute(true)>]
+[<GuidAttribute("15fdf2e2-9847-41cd-95dd-510612a025ea")>]
 type RowOrColumnMajor
 ```
 </TabItem>
@@ -51,3 +57,4 @@ type RowOrColumnMajor
 
 #### Reference
 <a href="N_Avalonia_Win32_Interop_Automation">Avalonia.Win32.Interop.Automation Namespace</a>  
+

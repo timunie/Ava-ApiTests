@@ -12,7 +12,7 @@ Gets the units in which the <a href="P_Avalonia_Media_TextDecoration_StrokeOffse
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TextDecorationUnit StrokeOffsetUnit \{ get; set; }
+public TextDecorationUnit StrokeOffsetUnit { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member StrokeOffsetUnit : TextDecorationUnit with get, set
 #### Reference
 <a href="T_Avalonia_Media_TextDecoration">TextDecoration Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

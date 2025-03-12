@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool WindowManagerAddShadowHint \{ get; set; }
+public bool WindowManagerAddShadowHint { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member WindowManagerAddShadowHint : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ContextMenu">ContextMenu Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

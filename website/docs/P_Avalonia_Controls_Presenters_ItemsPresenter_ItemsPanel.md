@@ -12,7 +12,7 @@ Gets or sets a template which creates the <a href="P_Avalonia_Controls_Presenter
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ITemplate<Panel?> ItemsPanel \{ get; set; }
+public ITemplate<Panel?> ItemsPanel { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ItemsPanel : ITemplate<Panel> with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Presenters_ItemsPresenter">ItemsPresenter Class</a>  
 <a href="N_Avalonia_Controls_Presenters">Avalonia.Controls.Presenters Namespace</a>  
+

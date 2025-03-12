@@ -12,7 +12,7 @@ Gets the items that were added to the selection.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IReadOnlyList<T> SelectedItems \{ get; }
+public IReadOnlyList<T> SelectedItems { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member SelectedItems : IReadOnlyList<'T> with get
 #### Reference
 <a href="T_Avalonia_Controls_Selection_SelectionModelSelectionChangedEventArgs_1">SelectionModelSelectionChangedEventArgs(T) Class</a>  
 <a href="N_Avalonia_Controls_Selection">Avalonia.Controls.Selection Namespace</a>  
+

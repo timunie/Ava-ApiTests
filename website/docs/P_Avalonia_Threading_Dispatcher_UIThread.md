@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static Dispatcher UIThread \{ get; }
+public static Dispatcher UIThread { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ static member UIThread : Dispatcher with get
 #### Reference
 <a href="T_Avalonia_Threading_Dispatcher">Dispatcher Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

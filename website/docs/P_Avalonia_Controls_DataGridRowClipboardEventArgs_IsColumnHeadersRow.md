@@ -12,7 +12,7 @@ This property is true when the ClipboardRowContent represents column headers, in
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsColumnHeadersRow \{ get; }
+public bool IsColumnHeadersRow { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member IsColumnHeadersRow : bool with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridClipboard.cs#L186" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridClipboard.cs#L187" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member IsColumnHeadersRow : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_DataGridRowClipboardEventArgs">DataGridRowClipboardEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

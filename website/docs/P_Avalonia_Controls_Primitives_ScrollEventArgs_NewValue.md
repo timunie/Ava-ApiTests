@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double NewValue \{ get; }
+public double NewValue { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member NewValue : float with get
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_ScrollEventArgs">ScrollEventArgs Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

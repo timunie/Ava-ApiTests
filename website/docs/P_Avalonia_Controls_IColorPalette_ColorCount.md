@@ -12,7 +12,7 @@ Gets the total number of colors in this palette. A color is not necessarily a si
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-int ColorCount \{ get; }
+int ColorCount { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract ColorCount : int with get
 #### Reference
 <a href="T_Avalonia_Controls_IColorPalette">IColorPalette Interface</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

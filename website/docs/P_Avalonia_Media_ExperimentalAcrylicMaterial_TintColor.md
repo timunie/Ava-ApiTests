@@ -12,7 +12,7 @@ Gets or Sets the TintColor.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Color TintColor \{ get; set; }
+public Color TintColor { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member TintColor : Color with get, set
 #### Reference
 <a href="T_Avalonia_Media_ExperimentalAcrylicMaterial">ExperimentalAcrylicMaterial Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

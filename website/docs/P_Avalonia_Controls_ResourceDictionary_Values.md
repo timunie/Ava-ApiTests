@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ICollection<Object?> Values \{ get; }
+public ICollection<Object?> Values { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -46,3 +46,4 @@ override Values : ICollection<Object> with get
 #### Reference
 <a href="T_Avalonia_Controls_ResourceDictionary">ResourceDictionary Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

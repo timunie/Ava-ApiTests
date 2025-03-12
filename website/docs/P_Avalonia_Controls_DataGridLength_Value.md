@@ -12,7 +12,7 @@ Gets the absolute value of the <a href="T_Avalonia_Controls_DataGridLength">Data
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Value \{ get; }
+public double Value { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member Value : float with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridLength.cs#L275" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridLength.cs#L276" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ The absolute value of the <a href="T_Avalonia_Controls_DataGridLength">DataGridL
 #### Reference
 <a href="T_Avalonia_Controls_DataGridLength">DataGridLength Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

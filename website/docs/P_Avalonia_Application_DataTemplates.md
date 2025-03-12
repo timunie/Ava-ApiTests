@@ -12,7 +12,7 @@ Gets or sets the application's global data templates.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DataTemplates DataTemplates \{ get; }
+public DataTemplates DataTemplates { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ The application's global data templates.
 #### Reference
 <a href="T_Avalonia_Application">Application Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the specific corner of the <a href="T_Avalonia_CornerRadius">Corner
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Corners Corner \{ get; set; }
+public Corners Corner { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Corner : Corners with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Converters_CornerRadiusToDoubleConverter">CornerRadiusToDoubleConverter Class</a>  
 <a href="N_Avalonia_Controls_Converters">Avalonia.Controls.Converters Namespace</a>  
+

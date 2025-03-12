@@ -38,7 +38,7 @@ override KeysMatch :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridGroupDescription.cs#L53" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridGroupDescription.cs#L54" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ override KeysMatch :
 #### Reference
 <a href="T_Avalonia_Collections_DataGridGroupDescription">DataGridGroupDescription Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

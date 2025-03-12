@@ -12,7 +12,7 @@ DPI of underling screen
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Vector Dpi \{ get; }
+Vector Dpi { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Dpi : Vector with get
 #### Reference
 <a href="T_Avalonia_Platform_ILockedFramebuffer">ILockedFramebuffer Interface</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

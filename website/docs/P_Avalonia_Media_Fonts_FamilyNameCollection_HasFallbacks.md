@@ -12,7 +12,7 @@ Gets a value indicating whether fallbacks are defined.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool HasFallbacks \{ get; }
+public bool HasFallbacks { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member HasFallbacks : bool with get
 #### Reference
 <a href="T_Avalonia_Media_Fonts_FamilyNameCollection">FamilyNameCollection Class</a>  
 <a href="N_Avalonia_Media_Fonts">Avalonia.Media.Fonts Namespace</a>  
+

@@ -12,7 +12,7 @@ The buffer's bidi level.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public sbyte BidiLevel \{ get; }
+public sbyte BidiLevel { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member BidiLevel : sbyte with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_ShapedBuffer">ShapedBuffer Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

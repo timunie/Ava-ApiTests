@@ -39,3 +39,4 @@ new : unit -> GtkInteropHelper
 #### Reference
 <a href="T_Avalonia_X11_Interop_GtkInteropHelper">GtkInteropHelper Class</a>  
 <a href="N_Avalonia_X11_Interop">Avalonia.X11.Interop Namespace</a>  
+

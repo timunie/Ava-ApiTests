@@ -12,7 +12,7 @@ Gets or sets the brush used to draw the stroke.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IBrush? Brush \{ get; set; }
+public IBrush? Brush { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override Brush : IBrush with get, set
 #### Reference
 <a href="T_Avalonia_Media_Pen">Pen Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

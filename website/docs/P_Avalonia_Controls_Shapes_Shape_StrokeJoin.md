@@ -12,7 +12,7 @@ Gets or sets a <a href="T_Avalonia_Media_PenLineJoin">PenLineJoin</a> enumeratio
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PenLineJoin StrokeJoin \{ get; set; }
+public PenLineJoin StrokeJoin { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member StrokeJoin : PenLineJoin with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Shapes_Shape">Shape Class</a>  
 <a href="N_Avalonia_Controls_Shapes">Avalonia.Controls.Shapes Namespace</a>  
+

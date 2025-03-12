@@ -12,7 +12,7 @@ Specifies the anchor rectangle within the parent that the popup will be placed r
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Rect AnchorRectangle \{
+public Rect AnchorRectangle {
 	get;
  set; }
 ```
@@ -47,3 +47,4 @@ member AnchorRectangle : Rect with
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupPositionerParameters">PopupPositionerParameters Structure</a>  
 <a href="N_Avalonia_Controls_Primitives_PopupPositioning">Avalonia.Controls.Primitives.PopupPositioning Namespace</a>  
+

@@ -36,7 +36,7 @@ override Subscribe :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/IndexerDescriptor.cs#L107" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/IndexerDescriptor.cs#L108" title="View the source code">View Source</a>
 
 
 
@@ -57,3 +57,4 @@ A reference to an interface that allows observers to stop receiving notification
 #### Reference
 <a href="T_Avalonia_Data_IndexerDescriptor">IndexerDescriptor Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

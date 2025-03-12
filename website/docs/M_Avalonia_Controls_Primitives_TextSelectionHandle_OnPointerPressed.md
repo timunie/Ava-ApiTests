@@ -34,7 +34,7 @@ override OnPointerPressed :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/TextSelectionHandle.cs#L170" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/TextSelectionHandle.cs#L171" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override OnPointerPressed :
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_TextSelectionHandle">TextSelectionHandle Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

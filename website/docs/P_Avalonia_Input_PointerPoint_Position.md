@@ -12,7 +12,7 @@ Gets the location of the pointer input in client coordinates.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Point Position \{
+public Point Position {
 	get;
  }
 ```
@@ -46,3 +46,4 @@ member Position : Point with
 #### Reference
 <a href="T_Avalonia_Input_PointerPoint">PointerPoint Structure</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

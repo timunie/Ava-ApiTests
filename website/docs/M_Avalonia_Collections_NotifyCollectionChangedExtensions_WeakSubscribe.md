@@ -39,7 +39,7 @@ static member WeakSubscribe :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/NotifyCollectionChangedExtensions.cs#L53" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/NotifyCollectionChangedExtensions.cs#L54" title="View the source code">View Source</a>
 
 
 
@@ -60,3 +60,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 <a href="T_Avalonia_Collections_NotifyCollectionChangedExtensions">NotifyCollectionChangedExtensions Class</a>  
 <a href="Overload_Avalonia_Collections_NotifyCollectionChangedExtensions_WeakSubscribe">WeakSubscribe Overload</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

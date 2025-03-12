@@ -6,10 +6,6 @@
 ## Methods
 <table>
 <tr>
-<td><a href="M_Avalonia_Platform_Screen_Equals_1">Equals(Object)</a></td>
-<td>Determines whether the specified object is equal to the current object.<br />(Overrides <a href="https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)" target="_blank" rel="noopener noreferrer">Object.Equals(Object)</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_Platform_Screen_Equals">Equals(Screen)</a></td>
 <td>Indicates whether the current object is equal to another object of the same type.</td>
 </tr>
@@ -30,10 +26,6 @@
 <td>Creates a shallow copy of the current <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Platform_Screen_ToString">ToString()</a></td>
-<td>Returns a string that represents the current object.<br />(Overrides <a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">Object.ToString()</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_Platform_Screen_TryGetPlatformHandle">TryGetPlatformHandle()</a></td>
 <td>Tries to get the platform handle for the Screen.</td>
 </tr>
@@ -45,3 +37,4 @@
 #### Reference
 <a href="T_Avalonia_Platform_Screen">Screen Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

@@ -32,7 +32,7 @@ member GetString :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/GlBasicInfoInterface.cs#L32" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/GlBasicInfoInterface.cs#L33" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ member GetString :
 <a href="T_Avalonia_OpenGL_GlBasicInfoInterface">GlBasicInfoInterface Class</a>  
 <a href="Overload_Avalonia_OpenGL_GlBasicInfoInterface_GetString">GetString Overload</a>  
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

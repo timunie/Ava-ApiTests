@@ -12,11 +12,13 @@ Maps an XML namespace to a CLR namespace for use in XAML.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AttributeUsageAttribute(AttributeTargets.Assembly, AllowMultiple = true)]
 public sealed class XmlnsDefinitionAttribute : Attribute
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AttributeUsageAttribute(AttributeTargets.Assembly, AllowMultiple := true)>
 Public NotInheritable Class XmlnsDefinitionAttribute
 	Inherits Attribute
 ```
@@ -24,6 +26,7 @@ Public NotInheritable Class XmlnsDefinitionAttribute
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<AttributeUsageAttribute(AttributeTargets.Assembly, AllowMultiple = true)>]
 type XmlnsDefinitionAttribute = 
     class
         inherit Attribute
@@ -99,3 +102,4 @@ type XmlnsDefinitionAttribute =
 
 #### Reference
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

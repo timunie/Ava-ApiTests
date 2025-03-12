@@ -12,7 +12,7 @@ Gets or sets the client size of the window.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Size ClientSize \{ get; protected set; }
+public Size ClientSize { get; protected set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -50,3 +50,4 @@ override ClientSize : Size with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TopLevel">TopLevel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

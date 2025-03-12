@@ -12,7 +12,7 @@ Gets the <a href="T_Avalonia_Media_IGlyphTypeface">IGlyphTypeface</a> for the <a
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IGlyphTypeface GlyphTypeface \{ get; }
+public IGlyphTypeface GlyphTypeface { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member GlyphTypeface : IGlyphTypeface with get
 #### Reference
 <a href="T_Avalonia_Media_GlyphRun">GlyphRun Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

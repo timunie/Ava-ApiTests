@@ -61,3 +61,4 @@
 #### Reference
 <a href="T_Avalonia_Vulkan_VulkanImageInfo">VulkanImageInfo Structure</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

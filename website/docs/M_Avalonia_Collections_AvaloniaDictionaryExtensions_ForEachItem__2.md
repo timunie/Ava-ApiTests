@@ -53,7 +53,7 @@ static member ForEachItem :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/AvaloniaDictionaryExtensions.cs#L45" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/AvaloniaDictionaryExtensions.cs#L62" title="View the source code">View Source</a>
 
 
 
@@ -76,3 +76,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 #### Reference
 <a href="T_Avalonia_Collections_AvaloniaDictionaryExtensions">AvaloniaDictionaryExtensions Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

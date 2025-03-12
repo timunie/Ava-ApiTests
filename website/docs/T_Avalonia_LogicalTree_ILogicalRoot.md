@@ -12,17 +12,20 @@ Represents a root of a logical tree.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface ILogicalRoot : ILogical
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface ILogicalRoot
 	Inherits ILogical
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type ILogicalRoot = 
     interface
         interface ILogical
@@ -150,3 +153,4 @@ type ILogicalRoot =
 
 #### Reference
 <a href="N_Avalonia_LogicalTree">Avalonia.LogicalTree Namespace</a>  
+

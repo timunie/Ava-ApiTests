@@ -12,7 +12,7 @@ Gets or sets Avalonia rendering modes with fallbacks. The first element in the a
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IReadOnlyList<iOSRenderingMode> RenderingMode \{ get; set; }
+public IReadOnlyList<iOSRenderingMode> RenderingMode { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -52,3 +52,4 @@ member RenderingMode : IReadOnlyList<iOSRenderingMode> with get, set
 #### Reference
 <a href="T_Avalonia_iOSPlatformOptions">iOSPlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

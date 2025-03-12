@@ -21,3 +21,4 @@
 #### Reference
 <a href="T_Avalonia_Controls_DataGridRowDetailsEventArgs">DataGridRowDetailsEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

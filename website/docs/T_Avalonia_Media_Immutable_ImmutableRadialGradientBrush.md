@@ -83,7 +83,7 @@ type ImmutableRadialGradientBrush =
 </tr>
 <tr>
 <td><a href="P_Avalonia_Media_Immutable_ImmutableRadialGradientBrush_Radius">Radius</a></td>
-<td>Obsolete.</td>
+<td><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_Media_Immutable_ImmutableRadialGradientBrush_RadiusX">RadiusX</a></td>
@@ -148,3 +148,4 @@ type ImmutableRadialGradientBrush =
 
 #### Reference
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

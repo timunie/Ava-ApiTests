@@ -12,16 +12,19 @@ Manages focus for the application.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IFocusManager
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IFocusManager
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IFocusManager = interface end
 ```
 </TabItem>
@@ -37,7 +40,7 @@ type IFocusManager = interface end
 <table>
 <tr>
 <td><a href="M_Avalonia_Input_IFocusManager_ClearFocus">ClearFocus()</a></td>
-<td>Clears currently focused element.</td>
+<td>Clears currently focused element.<br /><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 <tr>
 <td><a href="M_Avalonia_Input_IFocusManager_GetFocusedElement">GetFocusedElement()</a></td>
@@ -50,3 +53,4 @@ type IFocusManager = interface end
 
 #### Reference
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

@@ -36,7 +36,7 @@ static member GetFiles :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/DataObjectExtensions.cs#L18" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/DataObjectExtensions.cs#L19" title="View the source code">View Source</a>
 
 
 
@@ -57,3 +57,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 <a href="T_Avalonia_Input_DataObjectExtensions">DataObjectExtensions Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
 <a href="F_Avalonia_Input_DataFormats_Files">Files</a>  
+

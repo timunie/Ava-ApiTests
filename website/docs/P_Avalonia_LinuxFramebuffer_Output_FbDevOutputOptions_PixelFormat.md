@@ -12,7 +12,7 @@ The required pixel format for the frame buffer. A null value will leave the fram
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PixelFormat? PixelFormat \{ get; set; }
+public PixelFormat? PixelFormat { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member PixelFormat : Nullable<PixelFormat> with get, set
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_Output_FbDevOutputOptions">FbDevOutputOptions Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer_Output">Avalonia.LinuxFramebuffer.Output Namespace</a>  
+

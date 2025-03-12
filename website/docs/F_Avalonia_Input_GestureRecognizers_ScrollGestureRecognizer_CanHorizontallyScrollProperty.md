@@ -42,3 +42,4 @@ static val CanHorizontallyScrollProperty: DirectProperty<ScrollGestureRecognizer
 #### Reference
 <a href="T_Avalonia_Input_GestureRecognizers_ScrollGestureRecognizer">ScrollGestureRecognizer Class</a>  
 <a href="N_Avalonia_Input_GestureRecognizers">Avalonia.Input.GestureRecognizers Namespace</a>  
+

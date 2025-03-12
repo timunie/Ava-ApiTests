@@ -12,7 +12,7 @@ Gets or sets the DataTemplate used to display each item in the drop-down portion
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IDataTemplate ItemTemplate \{ get; set; }
+public IDataTemplate ItemTemplate { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The DataTemplate used to display each item in the drop-down. The default is null
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

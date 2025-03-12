@@ -12,7 +12,7 @@ Returns the list of image handle types supported by the current GPU backend, see
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IReadOnlyList<string> SupportedImageHandleTypes \{ get; }
+IReadOnlyList<string> SupportedImageHandleTypes { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -39,3 +39,4 @@ abstract SupportedImageHandleTypes : IReadOnlyList<string> with get
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_ICompositionGpuInterop">ICompositionGpuInterop Interface</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

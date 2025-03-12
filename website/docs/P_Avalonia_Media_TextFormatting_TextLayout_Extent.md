@@ -12,7 +12,7 @@ The distance from the topmost black pixel of the first line to the bottommost bl
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Extent \{ get; }
+public double Extent { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member Extent : float with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextLayout.cs#L203" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextLayout.cs#L204" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member Extent : float with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextLayout">TextLayout Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

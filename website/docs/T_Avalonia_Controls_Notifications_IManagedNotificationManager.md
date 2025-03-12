@@ -12,17 +12,20 @@ Represents a notification manager that can show arbitrary content. Managed notif
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IManagedNotificationManager : INotificationManager
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IManagedNotificationManager
 	Inherits INotificationManager
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IManagedNotificationManager = 
     interface
         interface INotificationManager
@@ -70,3 +73,4 @@ Because notification managers of this type are implemented purely in managed cod
 
 #### Reference
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
+

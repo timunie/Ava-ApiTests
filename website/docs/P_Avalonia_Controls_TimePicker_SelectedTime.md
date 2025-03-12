@@ -12,7 +12,7 @@ Gets or sets the selected time. Can be null.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TimeSpan? SelectedTime \{ get; set; }
+public TimeSpan? SelectedTime { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member SelectedTime : Nullable<TimeSpan> with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TimePicker">TimePicker Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets which debug overlays are displayed by the renderer.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RendererDebugOverlays DebugOverlays \{ get; set; }
+public RendererDebugOverlays DebugOverlays { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DebugOverlays : RendererDebugOverlays with get, set
 #### Reference
 <a href="T_Avalonia_Rendering_RendererDiagnostics">RendererDiagnostics Class</a>  
 <a href="N_Avalonia_Rendering">Avalonia.Rendering Namespace</a>  
+

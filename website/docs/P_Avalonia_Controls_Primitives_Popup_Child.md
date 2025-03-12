@@ -12,11 +12,13 @@ Gets or sets the control to display in the popup.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Control? Child \{ get; set; }
+[ContentAttribute]
+public Control? Child { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public Property Child As Control
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property Child As Control
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Child : Control with get, set
 ```
 </TabItem>
@@ -44,3 +47,4 @@ member Child : Control with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_Popup">Popup Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

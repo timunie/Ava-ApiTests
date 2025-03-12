@@ -12,7 +12,7 @@ Gets or sets an option indicating whether open picker allows users to select mul
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool AllowMultiple \{ get; set; }
+public bool AllowMultiple { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member AllowMultiple : bool with get, set
 #### Reference
 <a href="T_Avalonia_Platform_Storage_FolderPickerOpenOptions">FolderPickerOpenOptions Class</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

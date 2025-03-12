@@ -40,3 +40,4 @@ new : unit -> TextDecorationCollection
 <a href="T_Avalonia_Media_TextDecorationCollection">TextDecorationCollection Class</a>  
 <a href="Overload_Avalonia_Media_TextDecorationCollection__ctor">TextDecorationCollection Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets whether the day is visible
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool DayVisible \{ get; set; }
+public bool DayVisible { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DayVisible : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DatePicker">DatePicker Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

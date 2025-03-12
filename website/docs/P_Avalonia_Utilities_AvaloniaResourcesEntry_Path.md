@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? Path \{ get; init; }
+public string? Path { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member Path : string with get, set
 #### Reference
 <a href="T_Avalonia_Utilities_AvaloniaResourcesEntry">AvaloniaResourcesEntry Class</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

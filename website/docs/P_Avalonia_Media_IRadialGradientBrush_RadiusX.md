@@ -12,7 +12,7 @@ Gets the horizontal radius of the outermost circle of the radial gradient.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-RelativeScalar RadiusX \{ get; }
+RelativeScalar RadiusX { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract RadiusX : RelativeScalar with get
 #### Reference
 <a href="T_Avalonia_Media_IRadialGradientBrush">IRadialGradientBrush Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

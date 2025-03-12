@@ -54,3 +54,4 @@ true if *obj* and this instance are the same type and represent the same value; 
 <a href="T_Avalonia_Threading_DispatcherPriority">DispatcherPriority Structure</a>  
 <a href="Overload_Avalonia_Threading_DispatcherPriority_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

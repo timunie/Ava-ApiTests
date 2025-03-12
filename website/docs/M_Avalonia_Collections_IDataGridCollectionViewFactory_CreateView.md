@@ -39,3 +39,4 @@ A custom view for specialized sorting, filtering, grouping, and currency.
 #### Reference
 <a href="T_Avalonia_Collections_IDataGridCollectionViewFactory">IDataGridCollectionViewFactory Interface</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

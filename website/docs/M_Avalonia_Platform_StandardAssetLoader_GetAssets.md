@@ -40,7 +40,7 @@ override GetAssets :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/StandardAssetLoader.cs#L117" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/StandardAssetLoader.cs#L118" title="View the source code">View Source</a>
 
 
 
@@ -61,3 +61,4 @@ All matching assets as a tuple of the absolute path to the asset and the assembl
 #### Reference
 <a href="T_Avalonia_Platform_StandardAssetLoader">StandardAssetLoader Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

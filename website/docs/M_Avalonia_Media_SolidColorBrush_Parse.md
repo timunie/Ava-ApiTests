@@ -34,7 +34,7 @@ static member Parse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/SolidColorBrush.cs#L67" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/SolidColorBrush.cs#L68" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The <a href="P_Avalonia_Media_SolidColorBrush_Color">Color</a>.Whereas <a href="
 #### Reference
 <a href="T_Avalonia_Media_SolidColorBrush">SolidColorBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

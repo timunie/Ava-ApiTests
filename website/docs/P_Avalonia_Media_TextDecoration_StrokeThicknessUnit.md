@@ -12,7 +12,7 @@ Gets the units in which the thickness of the <a href="T_Avalonia_Media_TextDecor
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TextDecorationUnit StrokeThicknessUnit \{ get; set; }
+public TextDecorationUnit StrokeThicknessUnit { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member StrokeThicknessUnit : TextDecorationUnit with get, set
 #### Reference
 <a href="T_Avalonia_Media_TextDecoration">TextDecoration Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the reset behavior of the list.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ResetBehavior ResetBehavior \{ get; set; }
+public ResetBehavior ResetBehavior { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ResetBehavior : ResetBehavior with get, set
 #### Reference
 <a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList(T) Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

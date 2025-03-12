@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the slider adapts rendering to improve u
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsPerceptive \{ get; set; }
+public bool IsPerceptive { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ member IsPerceptive : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_ColorSlider">ColorSlider Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected int ProtectedItemCount \{ get; set; }
+protected int ProtectedItemCount { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member ProtectedItemCount : int with get, set
 #### Reference
 <a href="T_Avalonia_Collections_DataGridCollectionViewGroup">DataGridCollectionViewGroup Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

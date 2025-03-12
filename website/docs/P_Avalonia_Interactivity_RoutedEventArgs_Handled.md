@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the routed event has already been handle
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool Handled \{ get; set; }
+public bool Handled { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Handled : bool with get, set
 #### Reference
 <a href="T_Avalonia_Interactivity_RoutedEventArgs">RoutedEventArgs Class</a>  
 <a href="N_Avalonia_Interactivity">Avalonia.Interactivity Namespace</a>  
+

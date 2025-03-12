@@ -12,7 +12,7 @@ Set the <a href="T_Avalonia_Diagnostics_DevToolsViewKind">kind</a> of diagnostic
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DevToolsViewKind LaunchView \{ get; init; }
+public DevToolsViewKind LaunchView { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member LaunchView : DevToolsViewKind with get, set
 #### Reference
 <a href="T_Avalonia_Diagnostics_DevToolsOptions">DevToolsOptions Class</a>  
 <a href="N_Avalonia_Diagnostics">Avalonia.Diagnostics Namespace</a>  
+

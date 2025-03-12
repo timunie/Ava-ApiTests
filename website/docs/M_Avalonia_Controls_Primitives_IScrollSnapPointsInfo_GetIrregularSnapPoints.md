@@ -54,3 +54,4 @@ The read-only collection of snap point distances. Returns an empty collection wh
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_IScrollSnapPointsInfo">IScrollSnapPointsInfo Interface</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

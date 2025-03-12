@@ -12,7 +12,7 @@ Gets or sets the direction of increasing value.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsDirectionReversed \{ get; set; }
+public bool IsDirectionReversed { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ true if the direction of increasing value is to the left for a horizontal slider
 #### Reference
 <a href="T_Avalonia_Controls_Slider">Slider Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

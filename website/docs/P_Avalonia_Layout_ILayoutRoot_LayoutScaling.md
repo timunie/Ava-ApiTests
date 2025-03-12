@@ -12,7 +12,7 @@ The scaling factor to use in layout.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-double LayoutScaling \{ get; }
+double LayoutScaling { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract LayoutScaling : float with get
 #### Reference
 <a href="T_Avalonia_Layout_ILayoutRoot">ILayoutRoot Interface</a>  
 <a href="N_Avalonia_Layout">Avalonia.Layout Namespace</a>  
+

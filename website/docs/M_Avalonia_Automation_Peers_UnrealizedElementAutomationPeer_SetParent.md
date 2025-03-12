@@ -45,3 +45,4 @@ member SetParent :
 #### Reference
 <a href="T_Avalonia_Automation_Peers_UnrealizedElementAutomationPeer">UnrealizedElementAutomationPeer Class</a>  
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

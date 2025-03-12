@@ -12,7 +12,7 @@ Gets or sets the day that is considered the beginning of the week.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DayOfWeek FirstDayOfWeek \{ get; set; }
+public DayOfWeek FirstDayOfWeek { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ A <a href="https://learn.microsoft.com/dotnet/api/system.dayofweek" target="_bla
 #### Reference
 <a href="T_Avalonia_Controls_CalendarDatePicker">CalendarDatePicker Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

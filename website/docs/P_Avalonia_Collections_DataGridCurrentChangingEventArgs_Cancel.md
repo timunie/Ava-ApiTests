@@ -12,7 +12,7 @@ Gets or sets a value that indicates whether the <a href="https://learn.microsoft
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool Cancel \{ get; set; }
+public bool Cancel { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -31,7 +31,7 @@ member Cancel : bool with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/IDataGridCollectionView.cs#L55" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/IDataGridCollectionView.cs#L56" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ true if the event should be canceled; otherwise, false. The default is false.
 #### Reference
 <a href="T_Avalonia_Collections_DataGridCurrentChangingEventArgs">DataGridCurrentChangingEventArgs Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

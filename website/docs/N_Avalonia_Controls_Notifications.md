@@ -25,15 +25,15 @@
 <table>
 <tr>
 <td><a href="T_Avalonia_Controls_Notifications_IManagedNotificationManager">IManagedNotificationManager</a></td>
-<td>Represents a notification manager that can show arbitrary content. Managed notification managers can show any content.</td>
+<td>Represents a notification manager that can show arbitrary content. Managed notification managers can show any content.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_Notifications_INotification">INotification</a></td>
-<td>Represents a notification that can be shown in a window or by the host operating system.</td>
+<td>Represents a notification that can be shown in a window or by the host operating system.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_Notifications_INotificationManager">INotificationManager</a></td>
-<td>Represents a notification manager that can be used to show notifications in a window or using the host operating system.</td>
+<td>Represents a notification manager that can be used to show notifications in a window or using the host operating system.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 </table>
 

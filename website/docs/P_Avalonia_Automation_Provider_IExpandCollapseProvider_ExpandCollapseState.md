@@ -12,7 +12,7 @@ Gets the state, expanded or collapsed, of the control.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-ExpandCollapseState ExpandCollapseState \{ get; }
+ExpandCollapseState ExpandCollapseState { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract ExpandCollapseState : ExpandCollapseState with get
 #### Reference
 <a href="T_Avalonia_Automation_Provider_IExpandCollapseProvider">IExpandCollapseProvider Interface</a>  
 <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider Namespace</a>  
+

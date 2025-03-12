@@ -34,12 +34,12 @@ override RawInput :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Platform/DefaultMenuInteractionHandler.cs#L253" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Platform/DefaultMenuInteractionHandler.cs#L254" title="View the source code">View Source</a>
 
 
 
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_Input_Raw_RawInputEventArgs">RawInputEventArgs</a></dt><dd> </dd></dl>
+<dl><dt>  RawInputEventArgs</dt><dd> </dd></dl>
 
 ## See Also
 
@@ -47,3 +47,4 @@ override RawInput :
 #### Reference
 <a href="T_Avalonia_Controls_Platform_DefaultMenuInteractionHandler">DefaultMenuInteractionHandler Class</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

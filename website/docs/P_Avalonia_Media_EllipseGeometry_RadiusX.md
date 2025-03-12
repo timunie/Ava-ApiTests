@@ -12,7 +12,7 @@ Gets or sets a double that defines the radius in the X-axis of the ellipse.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double RadiusX \{ get; set; }
+public double RadiusX { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member RadiusX : float with get, set
 #### Reference
 <a href="T_Avalonia_Media_EllipseGeometry">EllipseGeometry Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

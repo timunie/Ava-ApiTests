@@ -37,7 +37,7 @@ static member FromUntyped :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingValue.cs#L256" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingValue.cs#L257" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ The typed binding value.
 <a href="T_Avalonia_Data_BindingValue_1">BindingValue(T) Structure</a>  
 <a href="Overload_Avalonia_Data_BindingValue_1_FromUntyped">FromUntyped Overload</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

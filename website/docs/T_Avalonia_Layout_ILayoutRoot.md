@@ -12,16 +12,19 @@ Defines the root of a layoutable tree.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface ILayoutRoot
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface ILayoutRoot
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type ILayoutRoot = interface end
 ```
 </TabItem>
@@ -50,3 +53,4 @@ type ILayoutRoot = interface end
 
 #### Reference
 <a href="N_Avalonia_Layout">Avalonia.Layout Namespace</a>  
+

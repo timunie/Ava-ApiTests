@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IDictionary<ThemeVariant, IThemeVariantProvider> ThemeDictionaries \{ get; }
+public IDictionary<ThemeVariant, IThemeVariantProvider> ThemeDictionaries { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -29,7 +29,7 @@ override ThemeDictionaries : IDictionary<ThemeVariant, IThemeVariantProvider> wi
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/ResourceDictionary.cs#L83" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/ResourceDictionary.cs#L84" title="View the source code">View Source</a>
 
 
 
@@ -46,3 +46,4 @@ override ThemeDictionaries : IDictionary<ThemeVariant, IThemeVariantProvider> wi
 #### Reference
 <a href="T_Avalonia_Controls_ResourceDictionary">ResourceDictionary Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

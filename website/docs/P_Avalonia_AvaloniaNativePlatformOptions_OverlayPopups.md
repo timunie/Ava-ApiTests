@@ -12,7 +12,7 @@ Embeds popups to the window when set to true. The default value is false.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool OverlayPopups \{ get; set; }
+public bool OverlayPopups { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member OverlayPopups : bool with get, set
 #### Reference
 <a href="T_Avalonia_AvaloniaNativePlatformOptions">AvaloniaNativePlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

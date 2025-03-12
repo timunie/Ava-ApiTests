@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? CurrentToken \{ get; }
+public string? CurrentToken { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member CurrentToken : string with get
 #### Reference
 <a href="T_Avalonia_Utilities_StringTokenizer">StringTokenizer Structure</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

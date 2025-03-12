@@ -35,7 +35,7 @@ static member WriteResources :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/AvaloniaResourcesIndex.cs#L79" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/AvaloniaResourcesIndex.cs#L80" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ static member WriteResources :
 <a href="T_Avalonia_Utilities_AvaloniaResourcesIndexReaderWriter">AvaloniaResourcesIndexReaderWriter Class</a>  
 <a href="Overload_Avalonia_Utilities_AvaloniaResourcesIndexReaderWriter_WriteResources">WriteResources Overload</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

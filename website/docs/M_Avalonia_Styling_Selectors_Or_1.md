@@ -34,7 +34,7 @@ static member Or :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/Selectors.cs#L195" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/Selectors.cs#L196" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ The selector.
 <a href="T_Avalonia_Styling_Selectors">Selectors Class</a>  
 <a href="Overload_Avalonia_Styling_Selectors_Or">Or Overload</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

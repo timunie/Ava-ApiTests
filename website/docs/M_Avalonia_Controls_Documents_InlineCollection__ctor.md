@@ -39,3 +39,4 @@ new : unit -> InlineCollection
 #### Reference
 <a href="T_Avalonia_Controls_Documents_InlineCollection">InlineCollection Class</a>  
 <a href="N_Avalonia_Controls_Documents">Avalonia.Controls.Documents Namespace</a>  
+

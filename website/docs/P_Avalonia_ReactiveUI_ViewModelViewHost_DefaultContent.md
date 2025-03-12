@@ -12,7 +12,7 @@ Gets or sets the content displayed whenever there is no page currently routed.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? DefaultContent \{ get; set; }
+public Object? DefaultContent { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DefaultContent : Object with get, set
 #### Reference
 <a href="T_Avalonia_ReactiveUI_ViewModelViewHost">ViewModelViewHost Class</a>  
 <a href="N_Avalonia_ReactiveUI">Avalonia.ReactiveUI Namespace</a>  
+

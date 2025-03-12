@@ -12,7 +12,7 @@ Gets the size of the image, in device independent pixels.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Size Size \{ get; }
+public Size Size { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ override Size : Size with get
 #### Reference
 <a href="T_Avalonia_Media_DrawingImage">DrawingImage Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

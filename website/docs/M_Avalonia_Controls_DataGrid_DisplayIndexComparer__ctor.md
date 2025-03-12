@@ -39,3 +39,4 @@ new : unit -> DisplayIndexComparer
 #### Reference
 <a href="T_Avalonia_Controls_DataGrid_DisplayIndexComparer">DataGrid.DisplayIndexComparer Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

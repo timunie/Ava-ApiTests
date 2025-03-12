@@ -12,7 +12,7 @@ Gets or sets the name that specifies which RadioButton controls are mutually exc
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? GroupName \{ get; set; }
+public string? GroupName { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ override GroupName : string with get, set
 #### Reference
 <a href="T_Avalonia_Controls_RadioButton">RadioButton Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

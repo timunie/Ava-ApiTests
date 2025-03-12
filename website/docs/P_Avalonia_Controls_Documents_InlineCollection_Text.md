@@ -12,7 +12,7 @@ Gets or adds the text held by the inlines collection. Can be null for complex co
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? Text \{ get; }
+public string? Text { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member Text : string with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Documents/InlineCollection.cs#L67" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Documents/InlineCollection.cs#L68" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member Text : string with get
 #### Reference
 <a href="T_Avalonia_Controls_Documents_InlineCollection">InlineCollection Class</a>  
 <a href="N_Avalonia_Controls_Documents">Avalonia.Controls.Documents Namespace</a>  
+

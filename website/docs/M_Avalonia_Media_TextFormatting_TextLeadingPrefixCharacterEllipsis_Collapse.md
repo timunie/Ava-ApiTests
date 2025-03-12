@@ -36,7 +36,7 @@ override Collapse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextLeadingPrefixCharacterEllipsis.cs#L51" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextLeadingPrefixCharacterEllipsis.cs#L52" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ override Collapse :
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextLeadingPrefixCharacterEllipsis">TextLeadingPrefixCharacterEllipsis Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

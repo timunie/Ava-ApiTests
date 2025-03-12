@@ -12,7 +12,7 @@ Gets or sets a value that indicates whether the hosted <a href="https://learn.mi
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsThreeState \{ get; set; }
+public bool IsThreeState { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ true if the hosted controls support three states; false if they support two stat
 #### Reference
 <a href="T_Avalonia_Controls_DataGridCheckBoxColumn">DataGridCheckBoxColumn Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

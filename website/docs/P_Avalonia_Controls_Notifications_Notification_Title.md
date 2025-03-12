@@ -12,7 +12,7 @@ Gets the Title of the notification.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? Title \{ get; set; }
+public string? Title { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override Title : string with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Notifications_Notification">Notification Class</a>  
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
+

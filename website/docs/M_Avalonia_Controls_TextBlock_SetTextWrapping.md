@@ -37,7 +37,7 @@ static member SetTextWrapping :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TextBlock.cs#L456" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TextBlock.cs#L457" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ static member SetTextWrapping :
 #### Reference
 <a href="T_Avalonia_Controls_TextBlock">TextBlock Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

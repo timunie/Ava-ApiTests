@@ -12,7 +12,7 @@ Represents a contract for accessing top-level platform-specific settings.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IPlatformSettings? PlatformSettings \{ get; }
+IPlatformSettings? PlatformSettings { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract PlatformSettings : IPlatformSettings with get
 #### Reference
 <a href="T_Avalonia_Input_IInputRoot">IInputRoot Interface</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

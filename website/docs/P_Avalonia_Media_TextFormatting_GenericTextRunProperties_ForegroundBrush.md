@@ -12,7 +12,7 @@ Brush used to fill text.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public override IBrush? ForegroundBrush \{ get; }
+public override IBrush? ForegroundBrush { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ override ForegroundBrush : IBrush with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_GenericTextRunProperties">GenericTextRunProperties Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

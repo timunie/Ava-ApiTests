@@ -12,7 +12,7 @@ Gets or sets if menu item is checked when ToggleType is <a href="T_Avalonia_Cont
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsChecked \{ get; set; }
+public bool IsChecked { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ override IsChecked : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_MenuItem">MenuItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

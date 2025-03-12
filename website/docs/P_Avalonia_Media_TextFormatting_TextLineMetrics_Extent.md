@@ -12,7 +12,7 @@ Gets the distance from the top-most to bottom-most black pixel in a line.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Extent \{ get; init; }
+public double Extent { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Extent : float with get, set
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextLineMetrics">TextLineMetrics Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

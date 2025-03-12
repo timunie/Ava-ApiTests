@@ -87,3 +87,4 @@ type StringFormatConverter =
 
 #### Reference
 <a href="N_Avalonia_Controls_Converters">Avalonia.Controls.Converters Namespace</a>  
+

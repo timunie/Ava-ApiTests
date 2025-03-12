@@ -40,3 +40,4 @@ static val HotKeyProperty: AttachedProperty<KeyGesture>
 #### Reference
 <a href="T_Avalonia_Controls_HotKeyManager">HotKeyManager Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

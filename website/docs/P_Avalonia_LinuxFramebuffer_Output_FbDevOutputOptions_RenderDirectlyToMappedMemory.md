@@ -12,7 +12,7 @@ If set to true, double-buffering will be disabled and scene will be composed dir
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool RenderDirectlyToMappedMemory \{ get; set; }
+public bool RenderDirectlyToMappedMemory { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member RenderDirectlyToMappedMemory : bool with get, set
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_Output_FbDevOutputOptions">FbDevOutputOptions Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer_Output">Avalonia.LinuxFramebuffer.Output Namespace</a>  
+

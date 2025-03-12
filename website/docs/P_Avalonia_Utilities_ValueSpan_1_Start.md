@@ -12,7 +12,7 @@ Get's the start of the span.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int Start \{ get; }
+public int Start { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Start : int with get
 #### Reference
 <a href="T_Avalonia_Utilities_ValueSpan_1">ValueSpan(T) Structure</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

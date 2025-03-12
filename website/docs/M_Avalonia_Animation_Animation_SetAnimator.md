@@ -50,12 +50,12 @@ static member SetAnimator :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/Animation.AnimatorRegistry.cs#L17" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/Animation.AnimatorRegistry.cs#L18" title="View the source code">View Source</a>
 
 
 
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_Animation_IAnimationSetter">IAnimationSetter</a></dt><dd>The animation setter.</dd><dt>  <a href="T_Avalonia_Animation_CustomAnimatorBase">CustomAnimatorBase</a></dt><dd>The property animator value.</dd></dl>
+<dl><dt>  IAnimationSetter</dt><dd>The animation setter.</dd><dt>  <a href="T_Avalonia_Animation_CustomAnimatorBase">CustomAnimatorBase</a></dt><dd>The property animator value.</dd></dl>
 
 ## See Also
 
@@ -64,3 +64,4 @@ static member SetAnimator :
 <a href="T_Avalonia_Animation_Animation">Animation Class</a>  
 <a href="Overload_Avalonia_Animation_Animation_SetAnimator">SetAnimator Overload</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

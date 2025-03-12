@@ -12,7 +12,7 @@ Gets the start point for the gradient.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-RelativePoint Center \{ get; }
+RelativePoint Center { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Center : RelativePoint with get
 #### Reference
 <a href="T_Avalonia_Media_IRadialGradientBrush">IRadialGradientBrush Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

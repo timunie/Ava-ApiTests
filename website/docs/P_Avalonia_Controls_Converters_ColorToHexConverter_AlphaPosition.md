@@ -12,7 +12,7 @@ Gets or sets the position of a color's alpha component relative to all other com
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public AlphaComponentPosition AlphaPosition \{ get; set; }
+public AlphaComponentPosition AlphaPosition { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member AlphaPosition : AlphaComponentPosition with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Converters_ColorToHexConverter">ColorToHexConverter Class</a>  
 <a href="N_Avalonia_Controls_Converters">Avalonia.Controls.Converters Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the header content.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? Header \{ get; set; }
+public Object? Header { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ override Header : Object with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_HeaderedContentControl">HeaderedContentControl Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

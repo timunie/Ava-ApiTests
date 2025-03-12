@@ -27,7 +27,7 @@ member Cancel : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Dialogs/ManagedFileChooserOverwritePrompt.cs#L28" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Dialogs/ManagedFileChooserOverwritePrompt.cs#L29" title="View the source code">View Source</a>
 
 
 
@@ -37,3 +37,4 @@ member Cancel : unit -> unit
 #### Reference
 <a href="T_Avalonia_Dialogs_ManagedFileChooserOverwritePrompt">ManagedFileChooserOverwritePrompt Class</a>  
 <a href="N_Avalonia_Dialogs">Avalonia.Dialogs Namespace</a>  
+

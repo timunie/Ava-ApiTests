@@ -34,7 +34,7 @@ static member Parse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelSize.cs#L73" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelSize.cs#L74" title="View the source code">View Source</a>
 
 
 
@@ -59,3 +59,4 @@ The <a href="T_Avalonia_PixelSize">PixelSize</a>.
 #### Reference
 <a href="T_Avalonia_PixelSize">PixelSize Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

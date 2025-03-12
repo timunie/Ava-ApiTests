@@ -12,7 +12,7 @@ Gets the starting angle for the gradient in degrees, measured from the point abo
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-double Angle \{ get; }
+double Angle { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Angle : float with get
 #### Reference
 <a href="T_Avalonia_Media_IConicGradientBrush">IConicGradientBrush Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

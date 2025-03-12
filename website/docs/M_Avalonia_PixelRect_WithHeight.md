@@ -34,7 +34,7 @@ member WithHeight :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelRect.cs#L338" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelRect.cs#L339" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The new <a href="T_Avalonia_PixelRect">PixelRect</a>.
 #### Reference
 <a href="T_Avalonia_PixelRect">PixelRect Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

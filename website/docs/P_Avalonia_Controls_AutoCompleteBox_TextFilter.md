@@ -12,7 +12,7 @@ Gets or sets the custom method that uses the user-entered text to filter items s
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public AutoCompleteFilterPredicate<string?>? TextFilter \{ get; set; }
+public AutoCompleteFilterPredicate<string?>? TextFilter { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The custom method that uses the user-entered text to filter items specified by t
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

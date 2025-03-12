@@ -12,7 +12,7 @@ Gets a default recycle key that can be used when an <a href="T_Avalonia_Controls
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected static Object DefaultRecycleKey \{ get; }
+protected static Object DefaultRecycleKey { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member DefaultRecycleKey : Object with get
 #### Reference
 <a href="T_Avalonia_Controls_ItemsControl">ItemsControl Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -10,11 +10,13 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public static class PlatformManager
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public NotInheritable Class PlatformManager
 ```
 </TabItem>
@@ -22,6 +24,7 @@ Public NotInheritable Class PlatformManager
 ```fsharp
 [<AbstractClassAttribute>]
 [<SealedAttribute>]
+[<UnstableAttribute>]
 type PlatformManager = class end
 ```
 </TabItem>
@@ -70,3 +73,4 @@ type PlatformManager = class end
 
 #### Reference
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

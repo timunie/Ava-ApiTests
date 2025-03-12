@@ -34,7 +34,7 @@ override CreateGlRenderTarget :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Linux/Avalonia.LinuxFramebuffer/Output/DrmOutput.cs#L251" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Linux/Avalonia.LinuxFramebuffer/Output/DrmOutput.cs#L252" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ override CreateGlRenderTarget :
 <a href="T_Avalonia_LinuxFramebuffer_Output_DrmOutput">DrmOutput Class</a>  
 <a href="Overload_Avalonia_LinuxFramebuffer_Output_DrmOutput_CreateGlRenderTarget">CreateGlRenderTarget Overload</a>  
 <a href="N_Avalonia_LinuxFramebuffer_Output">Avalonia.LinuxFramebuffer.Output Namespace</a>  
+

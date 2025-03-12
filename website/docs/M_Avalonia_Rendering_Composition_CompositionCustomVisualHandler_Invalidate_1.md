@@ -32,7 +32,7 @@ member Invalidate :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rendering/Composition/CompositionCustomVisualHandler.cs#L86" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rendering/Composition/CompositionCustomVisualHandler.cs#L87" title="View the source code">View Source</a>
 
 
 
@@ -46,3 +46,4 @@ member Invalidate :
 <a href="T_Avalonia_Rendering_Composition_CompositionCustomVisualHandler">CompositionCustomVisualHandler Class</a>  
 <a href="Overload_Avalonia_Rendering_Composition_CompositionCustomVisualHandler_Invalidate">Invalidate Overload</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

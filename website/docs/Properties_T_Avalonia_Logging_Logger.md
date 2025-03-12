@@ -17,3 +17,4 @@
 #### Reference
 <a href="T_Avalonia_Logging_Logger">Logger Class</a>  
 <a href="N_Avalonia_Logging">Avalonia.Logging Namespace</a>  
+

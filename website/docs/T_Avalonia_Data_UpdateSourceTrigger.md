@@ -53,7 +53,7 @@ type UpdateSourceTrigger
 <tr>
 <td>Explicit</td>
 <td>3</td>
-<td>Updates the binding source only when you call the <a href="M_Avalonia_Data_BindingExpressionBase_UpdateSource">UpdateSource()</a> method.</td>
+<td>Updates the binding source only when you call the UpdateSource() method.</td>
 </tr>
 </table>
 
@@ -62,3 +62,4 @@ type UpdateSourceTrigger
 
 #### Reference
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

@@ -36,7 +36,7 @@ override MeasureCore :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/WindowBase.cs#L281" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/WindowBase.cs#L282" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ The measured size.The layout logic for top-level windows is different than for o
 #### Reference
 <a href="T_Avalonia_Controls_WindowBase">WindowBase Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

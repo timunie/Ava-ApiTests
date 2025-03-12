@@ -128,3 +128,4 @@ type CompositionAnimationGroup =
 
 #### Reference
 <a href="N_Avalonia_Rendering_Composition_Animations">Avalonia.Rendering.Composition.Animations Namespace</a>  
+

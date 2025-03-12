@@ -32,7 +32,7 @@ member MergeWith :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/RenderOptions.cs#L114" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/RenderOptions.cs#L115" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ member MergeWith :
 #### Reference
 <a href="T_Avalonia_Media_RenderOptions">RenderOptions Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

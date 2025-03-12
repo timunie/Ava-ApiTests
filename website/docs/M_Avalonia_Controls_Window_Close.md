@@ -29,7 +29,7 @@ member Close : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Window.cs#L457" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Window.cs#L458" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ member Close : unit -> unit
 <a href="T_Avalonia_Controls_Window">Window Class</a>  
 <a href="Overload_Avalonia_Controls_Window_Close">Close Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

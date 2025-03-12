@@ -12,11 +12,13 @@ Provides math utilities not provided in System.Math.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute("This API might be removed in next major version. Please use corresponding BCL APIs.")]
 public static class MathUtilities
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute("This API might be removed in next major version. Please use corresponding BCL APIs.")>
 Public NotInheritable Class MathUtilities
 ```
 </TabItem>
@@ -24,6 +26,7 @@ Public NotInheritable Class MathUtilities
 ```fsharp
 [<AbstractClassAttribute>]
 [<SealedAttribute>]
+[<UnstableAttribute("This API might be removed in next major version. Please use corresponding BCL APIs.")>]
 type MathUtilities = class end
 ```
 </TabItem>
@@ -148,3 +151,4 @@ type MathUtilities = class end
 
 #### Reference
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

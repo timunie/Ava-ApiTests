@@ -12,7 +12,7 @@ Text flow direction inside the boundary rectangle
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public FlowDirection FlowDirection \{ get; }
+public FlowDirection FlowDirection { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member FlowDirection : FlowDirection with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextBounds">TextBounds Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

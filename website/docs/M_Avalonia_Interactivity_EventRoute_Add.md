@@ -51,7 +51,7 @@ member Add :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Interactivity/EventRoute.cs#L51" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Interactivity/EventRoute.cs#L52" title="View the source code">View Source</a>
 
 
 
@@ -64,3 +64,4 @@ member Add :
 #### Reference
 <a href="T_Avalonia_Interactivity_EventRoute">EventRoute Class</a>  
 <a href="N_Avalonia_Interactivity">Avalonia.Interactivity Namespace</a>  
+

@@ -28,7 +28,7 @@ override SwitchSortDirection : unit -> DataGridSortDescription
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridSortDescription.cs#L291" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridSortDescription.cs#L292" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override SwitchSortDirection : unit -> DataGridSortDescription
 #### Reference
 <a href="T_Avalonia_Collections_DataGridComparerSortDescription">DataGridComparerSortDescription Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

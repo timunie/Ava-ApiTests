@@ -39,3 +39,4 @@ abstract CloseAll : unit -> unit
 #### Reference
 <a href="T_Avalonia_Controls_Notifications_INotificationManager">INotificationManager Interface</a>  
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
+

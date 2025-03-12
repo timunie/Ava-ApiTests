@@ -37,7 +37,7 @@ member ExpandRowGroup :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridRows.cs#L2905" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridRows.cs#L2906" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ member ExpandRowGroup :
 #### Reference
 <a href="T_Avalonia_Controls_DataGrid">DataGrid Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -37,7 +37,7 @@ member InvokeAsync :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/Dispatcher.Invoke.cs#L281" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/Dispatcher.Invoke.cs#L282" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ An operation representing the queued delegate to be invoked.
 <a href="T_Avalonia_Threading_Dispatcher">Dispatcher Class</a>  
 <a href="Overload_Avalonia_Threading_Dispatcher_InvokeAsync">InvokeAsync Overload</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

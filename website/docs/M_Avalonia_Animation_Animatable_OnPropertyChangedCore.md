@@ -34,7 +34,7 @@ override OnPropertyChangedCore :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/Animatable.cs#L105" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/Animatable.cs#L106" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override OnPropertyChangedCore :
 #### Reference
 <a href="T_Avalonia_Animation_Animatable">Animatable Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

@@ -27,7 +27,7 @@ member Lock : unit -> ILockedFramebuffer
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Imaging/WriteableBitmap.cs#L68" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Imaging/WriteableBitmap.cs#L69" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ member Lock : unit -> ILockedFramebuffer
 #### Reference
 <a href="T_Avalonia_Media_Imaging_WriteableBitmap">WriteableBitmap Class</a>  
 <a href="N_Avalonia_Media_Imaging">Avalonia.Media.Imaging Namespace</a>  
+

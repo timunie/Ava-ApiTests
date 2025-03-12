@@ -52,3 +52,4 @@ The device-independent rect.
 <a href="T_Avalonia_PixelRect">PixelRect Structure</a>  
 <a href="Overload_Avalonia_PixelRect_ToRect">ToRect Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

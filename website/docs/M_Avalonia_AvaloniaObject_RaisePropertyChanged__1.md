@@ -41,7 +41,7 @@ member RaisePropertyChanged :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaObject.cs#L748" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaObject.cs#L749" title="View the source code">View Source</a>
 
 
 
@@ -57,3 +57,4 @@ member RaisePropertyChanged :
 #### Reference
 <a href="T_Avalonia_AvaloniaObject">AvaloniaObject Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

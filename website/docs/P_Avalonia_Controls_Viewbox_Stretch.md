@@ -12,7 +12,7 @@ Gets or sets the stretch mode, which determines how child fits into the availabl
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Stretch Stretch \{ get; set; }
+public Stretch Stretch { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Stretch : Stretch with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Viewbox">Viewbox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

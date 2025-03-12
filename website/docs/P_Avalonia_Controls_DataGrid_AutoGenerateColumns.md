@@ -12,7 +12,7 @@ Gets or sets a value that indicates whether columns are created automatically wh
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool AutoGenerateColumns \{ get; set; }
+public bool AutoGenerateColumns { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member AutoGenerateColumns : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGrid">DataGrid Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

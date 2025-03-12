@@ -12,7 +12,7 @@ Specifies the row count. If set to 0, row count will be calculated automatically
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int Rows \{ get; set; }
+public int Rows { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Rows : int with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_UniformGrid">UniformGrid Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

@@ -12,16 +12,19 @@ Defines an interface through which a <a href="T_Avalonia_StyledElement">StyledEl
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface ISetLogicalParent
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface ISetLogicalParent
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type ISetLogicalParent = interface end
 ```
 </TabItem>
@@ -46,3 +49,4 @@ You should not usually need to use this interface - it is for advanced scenarios
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the current scroll offset, in logical units.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Vector Offset \{ get; set; }
+Vector Offset { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ abstract Offset : Vector with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_IScrollable">IScrollable Interface</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the <a href="P_Avalonia_StyledElement_Classes">Classes</a> collection in a 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected IPseudoClasses PseudoClasses \{ get; }
+protected IPseudoClasses PseudoClasses { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member PseudoClasses : IPseudoClasses with get
 #### Reference
 <a href="T_Avalonia_StyledElement">StyledElement Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

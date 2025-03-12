@@ -12,7 +12,7 @@ Get the current font manager instance.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static FontManager Current \{ get; }
+public static FontManager Current { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ static member Current : FontManager with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FontManager.cs#L49" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FontManager.cs#L50" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ static member Current : FontManager with get
 #### Reference
 <a href="T_Avalonia_Media_FontManager">FontManager Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

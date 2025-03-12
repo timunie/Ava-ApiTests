@@ -12,7 +12,7 @@ Gets the reason for the resize.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public WindowResizeReason Reason \{ get; }
+public WindowResizeReason Reason { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Reason : WindowResizeReason with get
 #### Reference
 <a href="T_Avalonia_Controls_WindowResizedEventArgs">WindowResizedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ GrContext used by this session.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-GRContext GrContext \{ get; }
+GRContext GrContext { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ GRContext
 #### Reference
 <a href="T_Avalonia_Skia_ISkiaGpuRenderSession">ISkiaGpuRenderSession Interface</a>  
 <a href="N_Avalonia_Skia">Avalonia.Skia Namespace</a>  
+

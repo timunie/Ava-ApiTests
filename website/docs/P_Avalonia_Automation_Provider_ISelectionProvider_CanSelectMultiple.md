@@ -12,7 +12,7 @@ Gets a value that indicates whether the provider allows more than one child elem
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool CanSelectMultiple \{ get; }
+bool CanSelectMultiple { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract CanSelectMultiple : bool with get
 #### Reference
 <a href="T_Avalonia_Automation_Provider_ISelectionProvider">ISelectionProvider Interface</a>  
 <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider Namespace</a>  
+

@@ -34,7 +34,7 @@ member HitTestTextPosition :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextLayout.cs#L304" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextLayout.cs#L305" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ member HitTestTextPosition :
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextLayout">TextLayout Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public OverlayLayer? OverlayLayer \{ get; }
+public OverlayLayer? OverlayLayer { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -28,7 +28,7 @@ member OverlayLayer : OverlayLayer with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/VisualLayerManager.cs#L59" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/VisualLayerManager.cs#L60" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ member OverlayLayer : OverlayLayer with get
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_VisualLayerManager">VisualLayerManager Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

@@ -12,11 +12,13 @@ Gets or sets the <a href="T_Avalonia_Media_Geometry">Geometry</a> that describes
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Geometry? Geometry \{ get; set; }
+[ContentAttribute]
+public Geometry? Geometry { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public Property Geometry As Geometry
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property Geometry As Geometry
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Geometry : Geometry with get, set
 ```
 </TabItem>
@@ -44,3 +47,4 @@ member Geometry : Geometry with get, set
 #### Reference
 <a href="T_Avalonia_Media_GeometryDrawing">GeometryDrawing Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -12,7 +12,7 @@ Identifies <a href="P_Avalonia_Automation_Provider_ISelectionProvider_IsSelectio
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static AutomationProperty IsSelectionRequiredProperty \{ get; }
+public static AutomationProperty IsSelectionRequiredProperty { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member IsSelectionRequiredProperty : AutomationProperty with get
 #### Reference
 <a href="T_Avalonia_Automation_SelectionPatternIdentifiers">SelectionPatternIdentifiers Class</a>  
 <a href="N_Avalonia_Automation">Avalonia.Automation Namespace</a>  
+

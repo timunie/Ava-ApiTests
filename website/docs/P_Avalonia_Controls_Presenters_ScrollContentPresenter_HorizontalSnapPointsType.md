@@ -12,7 +12,7 @@ Gets or sets how scroll gesture reacts to the snap points along the horizontal a
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public SnapPointsType HorizontalSnapPointsType \{ get; set; }
+public SnapPointsType HorizontalSnapPointsType { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member HorizontalSnapPointsType : SnapPointsType with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Presenters_ScrollContentPresenter">ScrollContentPresenter Class</a>  
 <a href="N_Avalonia_Controls_Presenters">Avalonia.Controls.Presenters Namespace</a>  
+

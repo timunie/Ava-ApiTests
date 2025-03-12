@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Animation_Easings_SplineEasing">SplineEasing Class</a>  
 <a href="Overload_Avalonia_Animation_Easings_SplineEasing__ctor">SplineEasing Overload</a>  
 <a href="N_Avalonia_Animation_Easings">Avalonia.Animation.Easings Namespace</a>  
+

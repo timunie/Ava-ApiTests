@@ -28,7 +28,7 @@ override ToString : unit -> string
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/ThemeVariant.cs#L83" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/ThemeVariant.cs#L84" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override ToString : unit -> string
 #### Reference
 <a href="T_Avalonia_Styling_ThemeVariant">ThemeVariant Class</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

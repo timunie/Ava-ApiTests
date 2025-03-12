@@ -10,18 +10,21 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface IPlatformGraphicsWithFeatures : IPlatformGraphics, 
 	IOptionalFeatureProvider
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface IPlatformGraphicsWithFeatures
 	Inherits IPlatformGraphics, IOptionalFeatureProvider
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type IPlatformGraphicsWithFeatures = 
     interface
         interface IPlatformGraphics
@@ -55,22 +58,6 @@ type IPlatformGraphicsWithFeatures =
 <td><a href="M_Avalonia_Platform_IPlatformGraphics_GetSharedContext">GetSharedContext()</a></td>
 <td><br />(Inherited from <a href="T_Avalonia_Platform_IPlatformGraphics">IPlatformGraphics</a>)</td>
 </tr>
-<tr>
-<td><a href="M_Avalonia_Platform_IOptionalFeatureProvider_TryGetFeature">TryGetFeature(Type)</a></td>
-<td>Queries for an optional feature.<br />(Inherited from <a href="T_Avalonia_Platform_IOptionalFeatureProvider">IOptionalFeatureProvider</a>)</td>
-</tr>
-</table>
-
-## Extension Methods
-<table>
-<tr>
-<td><a href="M_Avalonia_Platform_OptionalFeatureProviderExtensions_TryGetFeature__1_1">TryGetFeature(T)()</a></td>
-<td>Queries for an optional feature.<br />(Defined by <a href="T_Avalonia_Platform_OptionalFeatureProviderExtensions">OptionalFeatureProviderExtensions</a>)</td>
-</tr>
-<tr>
-<td><a href="M_Avalonia_Platform_OptionalFeatureProviderExtensions_TryGetFeature__1">TryGetFeature(T)(T)</a></td>
-<td>Queries for an optional feature.<br />(Defined by <a href="T_Avalonia_Platform_OptionalFeatureProviderExtensions">OptionalFeatureProviderExtensions</a>)</td>
-</tr>
 </table>
 
 ## See Also
@@ -78,3 +65,4 @@ type IPlatformGraphicsWithFeatures =
 
 #### Reference
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

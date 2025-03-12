@@ -42,3 +42,4 @@ static val ClientSizeProperty: DirectProperty<TopLevel, Size>
 #### Reference
 <a href="T_Avalonia_Controls_TopLevel">TopLevel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

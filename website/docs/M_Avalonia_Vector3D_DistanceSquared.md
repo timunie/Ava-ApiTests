@@ -37,7 +37,7 @@ static member DistanceSquared :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Vector3D.cs#L136" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Vector3D.cs#L137" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ static member DistanceSquared :
 #### Reference
 <a href="T_Avalonia_Vector3D">Vector3D Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

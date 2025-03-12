@@ -45,7 +45,7 @@ static member Align :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Layout/LayoutExtensions.cs#L24" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Layout/LayoutExtensions.cs#L28" title="View the source code">View Source</a>
 
 
 
@@ -65,3 +65,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 #### Reference
 <a href="T_Avalonia_Layout_LayoutExtensions">LayoutExtensions Class</a>  
 <a href="N_Avalonia_Layout">Avalonia.Layout Namespace</a>  
+

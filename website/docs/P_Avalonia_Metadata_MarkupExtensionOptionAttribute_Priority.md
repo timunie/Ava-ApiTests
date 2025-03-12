@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int Priority \{ get; set; }
+public int Priority { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member Priority : int with get, set
 #### Reference
 <a href="T_Avalonia_Metadata_MarkupExtensionOptionAttribute">MarkupExtensionOptionAttribute Class</a>  
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

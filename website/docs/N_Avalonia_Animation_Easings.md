@@ -45,7 +45,7 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Animation_Easings_CubicBezierEasing">CubicBezierEasing</a></td>
-<td>Obsolete.</td>
+<td><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Animation_Easings_CubicEaseIn">CubicEaseIn</a></td>
@@ -157,6 +157,6 @@
 <table>
 <tr>
 <td><a href="T_Avalonia_Animation_Easings_IEasing">IEasing</a></td>
-<td>Defines the interface for easing classes.</td>
+<td>Defines the interface for easing classes.<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 </table>

@@ -37,7 +37,7 @@ static member RenderAsync :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Skia/Avalonia.Skia/Helpers/DrawingContextHelper.cs#L15" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Skia/Avalonia.Skia/Helpers/DrawingContextHelper.cs#L16" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ static member RenderAsync :
 <a href="T_Avalonia_Skia_Helpers_DrawingContextHelper">DrawingContextHelper Class</a>  
 <a href="Overload_Avalonia_Skia_Helpers_DrawingContextHelper_RenderAsync">RenderAsync Overload</a>  
 <a href="N_Avalonia_Skia_Helpers">Avalonia.Skia.Helpers Namespace</a>  
+

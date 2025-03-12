@@ -37,7 +37,7 @@ member DrawBitmap :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/ImmediateDrawingContext.cs#L76" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/ImmediateDrawingContext.cs#L77" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ member DrawBitmap :
 <a href="T_Avalonia_Media_ImmediateDrawingContext">ImmediateDrawingContext Class</a>  
 <a href="Overload_Avalonia_Media_ImmediateDrawingContext_DrawBitmap">DrawBitmap Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

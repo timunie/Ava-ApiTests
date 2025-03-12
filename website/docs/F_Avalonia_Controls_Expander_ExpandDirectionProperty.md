@@ -42,3 +42,4 @@ static val ExpandDirectionProperty: StyledProperty<ExpandDirection>
 #### Reference
 <a href="T_Avalonia_Controls_Expander">Expander Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

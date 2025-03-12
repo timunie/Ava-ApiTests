@@ -12,7 +12,7 @@ Gets or sets the desired placement of the popup in relation to the <a href="P_Av
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PlacementMode Placement \{ get; set; }
+public PlacementMode Placement { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Placement : PlacementMode with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_PopupFlyoutBase">PopupFlyoutBase Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the currently selected date.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DateTime? SelectedDate \{ get; set; }
+public DateTime? SelectedDate { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -53,3 +53,4 @@ The date currently selected. The default is null.
 #### Reference
 <a href="T_Avalonia_Controls_CalendarDatePicker">CalendarDatePicker Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

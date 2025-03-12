@@ -12,17 +12,20 @@ Defines the interface for top-level input elements.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IInputRoot : IInputElement
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IInputRoot
 	Inherits IInputElement
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IInputRoot = 
     interface
         interface IInputElement
@@ -206,3 +209,4 @@ type IInputRoot =
 
 #### Reference
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the Selected Date for the picker, can be null
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DateTimeOffset? SelectedDate \{ get; set; }
+public DateTimeOffset? SelectedDate { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member SelectedDate : Nullable<DateTimeOffset> with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DatePicker">DatePicker Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

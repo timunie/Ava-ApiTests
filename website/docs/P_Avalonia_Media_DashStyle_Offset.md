@@ -12,7 +12,7 @@ Gets or sets how far in the dash sequence the stroke will start.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Offset \{ get; set; }
+public double Offset { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override Offset : float with get, set
 #### Reference
 <a href="T_Avalonia_Media_DashStyle">DashStyle Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

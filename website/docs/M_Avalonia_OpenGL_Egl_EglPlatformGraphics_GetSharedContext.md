@@ -45,3 +45,4 @@ override GetSharedContext : unit -> IPlatformGraphicsContext
 #### Reference
 <a href="T_Avalonia_OpenGL_Egl_EglPlatformGraphics">EglPlatformGraphics Class</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

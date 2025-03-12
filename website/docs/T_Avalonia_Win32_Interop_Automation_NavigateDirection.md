@@ -10,16 +10,22 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[ComVisibleAttribute(true)]
+[GuidAttribute("670c3006-bf4c-428b-8534-e1848f645122")]
 public enum NavigateDirection
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ComVisibleAttribute(true)>
+<GuidAttribute("670c3006-bf4c-428b-8534-e1848f645122")>
 Public Enumeration NavigateDirection
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ComVisibleAttribute(true)>]
+[<GuidAttribute("670c3006-bf4c-428b-8534-e1848f645122")>]
 type NavigateDirection
 ```
 </TabItem>
@@ -61,3 +67,4 @@ type NavigateDirection
 
 #### Reference
 <a href="N_Avalonia_Win32_Interop_Automation">Avalonia.Win32.Interop.Automation Namespace</a>  
+

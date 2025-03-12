@@ -55,3 +55,4 @@ The *existing* control if supplied and applicable to *data*, otherwise a new con
 <a href="T_Avalonia_Controls_Templates_IRecyclingDataTemplate">IRecyclingDataTemplate Interface</a>  
 <a href="Overload_Avalonia_Controls_Templates_IRecyclingDataTemplate_Build">Build Overload</a>  
 <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates Namespace</a>  
+

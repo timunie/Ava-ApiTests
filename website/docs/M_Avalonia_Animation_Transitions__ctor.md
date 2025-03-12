@@ -39,3 +39,4 @@ new : unit -> Transitions
 #### Reference
 <a href="T_Avalonia_Animation_Transitions">Transitions Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

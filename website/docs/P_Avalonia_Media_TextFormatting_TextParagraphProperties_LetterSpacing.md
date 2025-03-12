@@ -12,7 +12,7 @@ Gets the letter spacing.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public virtual double LetterSpacing \{ get; }
+public virtual double LetterSpacing { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ override LetterSpacing : float with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextParagraphProperties">TextParagraphProperties Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

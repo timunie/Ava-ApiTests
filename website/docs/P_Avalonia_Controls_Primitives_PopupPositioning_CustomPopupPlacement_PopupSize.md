@@ -12,7 +12,7 @@ The <a href="T_Avalonia_Size">Size</a> of the <a href="T_Avalonia_Controls_Primi
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Size PopupSize \{ get; }
+public Size PopupSize { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member PopupSize : Size with get
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_PopupPositioning_CustomPopupPlacement">CustomPopupPlacement Class</a>  
 <a href="N_Avalonia_Controls_Primitives_PopupPositioning">Avalonia.Controls.Primitives.PopupPositioning Namespace</a>  
+

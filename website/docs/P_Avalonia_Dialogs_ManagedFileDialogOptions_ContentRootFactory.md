@@ -12,7 +12,7 @@ Allows to redefine content root. Can be a custom Window or any ContentControl (P
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Func<ContentControl>? ContentRootFactory \{ get; set; }
+public Func<ContentControl>? ContentRootFactory { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ContentRootFactory : Func<ContentControl> with get, set
 #### Reference
 <a href="T_Avalonia_Dialogs_ManagedFileDialogOptions">ManagedFileDialogOptions Class</a>  
 <a href="N_Avalonia_Dialogs">Avalonia.Dialogs Namespace</a>  
+

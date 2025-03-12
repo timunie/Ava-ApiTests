@@ -32,7 +32,7 @@ static member Parse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Transformation/TransformOperations.cs#L35" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Transformation/TransformOperations.cs#L36" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ static member Parse :
 #### Reference
 <a href="T_Avalonia_Media_Transformation_TransformOperations">TransformOperations Class</a>  
 <a href="N_Avalonia_Media_Transformation">Avalonia.Media.Transformation Namespace</a>  
+

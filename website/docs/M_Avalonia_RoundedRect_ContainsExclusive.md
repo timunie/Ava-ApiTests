@@ -34,7 +34,7 @@ member ContainsExclusive :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/RoundedRect.cs#L169" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/RoundedRect.cs#L171" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ true if the point is in the bounds of the rounded rectangle; otherwise false.
 #### Reference
 <a href="T_Avalonia_RoundedRect">RoundedRect Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

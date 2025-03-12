@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-PlatformGraphicsExternalImageProperties Properties \{ get; }
+PlatformGraphicsExternalImageProperties Properties { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -37,3 +37,4 @@ abstract Properties : PlatformGraphicsExternalImageProperties with get
 #### Reference
 <a href="T_Avalonia_OpenGL_IGlExternalImageTexture">IGlExternalImageTexture Interface</a>  
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

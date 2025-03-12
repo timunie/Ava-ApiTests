@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the current date will be highlighted.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsTodayHighlighted \{ get; set; }
+public bool IsTodayHighlighted { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ True if the current date is highlighted; otherwise, false. The default is true.
 #### Reference
 <a href="T_Avalonia_Controls_CalendarDatePicker">CalendarDatePicker Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

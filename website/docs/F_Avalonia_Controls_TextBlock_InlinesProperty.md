@@ -42,3 +42,4 @@ static val InlinesProperty: DirectProperty<TextBlock, InlineCollection>
 #### Reference
 <a href="T_Avalonia_Controls_TextBlock">TextBlock Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

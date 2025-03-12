@@ -37,7 +37,7 @@ member Bind :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaObject.cs#L428" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaObject.cs#L429" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ The binding expression which represents the binding instance on this object.
 <a href="T_Avalonia_AvaloniaObject">AvaloniaObject Class</a>  
 <a href="Overload_Avalonia_AvaloniaObject_Bind">Bind Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

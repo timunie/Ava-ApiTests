@@ -12,17 +12,74 @@ Defines the presenter used for selecting a time. Intended for use with <a href="
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_AcceptButton", typeof(Button), IsRequired = true)]
+[TemplatePartAttribute("PART_DismissButton", typeof(Button))]
+[TemplatePartAttribute("PART_HourDownButton", typeof(RepeatButton))]
+[TemplatePartAttribute("PART_HourSelector", typeof(DateTimePickerPanel), IsRequired = true)]
+[TemplatePartAttribute("PART_HourUpButton", typeof(RepeatButton))]
+[TemplatePartAttribute("PART_MinuteDownButton", typeof(RepeatButton))]
+[TemplatePartAttribute("PART_MinuteSelector", typeof(DateTimePickerPanel), IsRequired = true)]
+[TemplatePartAttribute("PART_MinuteUpButton", typeof(RepeatButton))]
+[TemplatePartAttribute("PART_SecondDownButton", typeof(RepeatButton))]
+[TemplatePartAttribute("PART_SecondHost", typeof(Panel), IsRequired = true)]
+[TemplatePartAttribute("PART_SecondSelector", typeof(DateTimePickerPanel), IsRequired = true)]
+[TemplatePartAttribute("PART_SecondUpButton", typeof(RepeatButton))]
+[TemplatePartAttribute("PART_PeriodDownButton", typeof(RepeatButton))]
+[TemplatePartAttribute("PART_PeriodHost", typeof(Panel), IsRequired = true)]
+[TemplatePartAttribute("PART_PeriodSelector", typeof(DateTimePickerPanel), IsRequired = true)]
+[TemplatePartAttribute("PART_PeriodUpButton", typeof(RepeatButton))]
+[TemplatePartAttribute("PART_PickerContainer", typeof(Grid), IsRequired = true)]
+[TemplatePartAttribute("PART_SecondSpacer", typeof(Rectangle), IsRequired = true)]
+[TemplatePartAttribute("PART_ThirdSpacer", typeof(Rectangle), IsRequired = true)]
 public class TimePickerPresenter : PickerPresenterBase
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_AcceptButton", GetType(Button), IsRequired := true)>
+<TemplatePartAttribute("PART_DismissButton", GetType(Button))>
+<TemplatePartAttribute("PART_HourDownButton", GetType(RepeatButton))>
+<TemplatePartAttribute("PART_HourSelector", GetType(DateTimePickerPanel), IsRequired := true)>
+<TemplatePartAttribute("PART_HourUpButton", GetType(RepeatButton))>
+<TemplatePartAttribute("PART_MinuteDownButton", GetType(RepeatButton))>
+<TemplatePartAttribute("PART_MinuteSelector", GetType(DateTimePickerPanel), IsRequired := true)>
+<TemplatePartAttribute("PART_MinuteUpButton", GetType(RepeatButton))>
+<TemplatePartAttribute("PART_SecondDownButton", GetType(RepeatButton))>
+<TemplatePartAttribute("PART_SecondHost", GetType(Panel), IsRequired := true)>
+<TemplatePartAttribute("PART_SecondSelector", GetType(DateTimePickerPanel), IsRequired := true)>
+<TemplatePartAttribute("PART_SecondUpButton", GetType(RepeatButton))>
+<TemplatePartAttribute("PART_PeriodDownButton", GetType(RepeatButton))>
+<TemplatePartAttribute("PART_PeriodHost", GetType(Panel), IsRequired := true)>
+<TemplatePartAttribute("PART_PeriodSelector", GetType(DateTimePickerPanel), IsRequired := true)>
+<TemplatePartAttribute("PART_PeriodUpButton", GetType(RepeatButton))>
+<TemplatePartAttribute("PART_PickerContainer", GetType(Grid), IsRequired := true)>
+<TemplatePartAttribute("PART_SecondSpacer", GetType(Rectangle), IsRequired := true)>
+<TemplatePartAttribute("PART_ThirdSpacer", GetType(Rectangle), IsRequired := true)>
 Public Class TimePickerPresenter
 	Inherits PickerPresenterBase
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_AcceptButton", typeof(Button), IsRequired = true)>]
+[<TemplatePartAttribute("PART_DismissButton", typeof(Button))>]
+[<TemplatePartAttribute("PART_HourDownButton", typeof(RepeatButton))>]
+[<TemplatePartAttribute("PART_HourSelector", typeof(DateTimePickerPanel), IsRequired = true)>]
+[<TemplatePartAttribute("PART_HourUpButton", typeof(RepeatButton))>]
+[<TemplatePartAttribute("PART_MinuteDownButton", typeof(RepeatButton))>]
+[<TemplatePartAttribute("PART_MinuteSelector", typeof(DateTimePickerPanel), IsRequired = true)>]
+[<TemplatePartAttribute("PART_MinuteUpButton", typeof(RepeatButton))>]
+[<TemplatePartAttribute("PART_SecondDownButton", typeof(RepeatButton))>]
+[<TemplatePartAttribute("PART_SecondHost", typeof(Panel), IsRequired = true)>]
+[<TemplatePartAttribute("PART_SecondSelector", typeof(DateTimePickerPanel), IsRequired = true)>]
+[<TemplatePartAttribute("PART_SecondUpButton", typeof(RepeatButton))>]
+[<TemplatePartAttribute("PART_PeriodDownButton", typeof(RepeatButton))>]
+[<TemplatePartAttribute("PART_PeriodHost", typeof(Panel), IsRequired = true)>]
+[<TemplatePartAttribute("PART_PeriodSelector", typeof(DateTimePickerPanel), IsRequired = true)>]
+[<TemplatePartAttribute("PART_PeriodUpButton", typeof(RepeatButton))>]
+[<TemplatePartAttribute("PART_PickerContainer", typeof(Grid), IsRequired = true)>]
+[<TemplatePartAttribute("PART_SecondSpacer", typeof(Rectangle), IsRequired = true)>]
+[<TemplatePartAttribute("PART_ThirdSpacer", typeof(Rectangle), IsRequired = true)>]
 type TimePickerPresenter = 
     class
         inherit PickerPresenterBase
@@ -1080,10 +1137,6 @@ type TimePickerPresenter =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1178,3 +1231,4 @@ type TimePickerPresenter =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

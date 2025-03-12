@@ -51,3 +51,4 @@ new :
 <a href="T_Avalonia_Input_PinchEventArgs">PinchEventArgs Class</a>  
 <a href="Overload_Avalonia_Input_PinchEventArgs__ctor">PinchEventArgs Overload</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

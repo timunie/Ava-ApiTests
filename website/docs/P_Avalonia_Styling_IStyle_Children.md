@@ -12,7 +12,7 @@ Gets a collection of child styles.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IReadOnlyList<IStyle> Children \{ get; }
+IReadOnlyList<IStyle> Children { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Children : IReadOnlyList<IStyle> with get
 #### Reference
 <a href="T_Avalonia_Styling_IStyle">IStyle Interface</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

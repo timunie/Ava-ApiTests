@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public uint Tiling \{
+public uint Tiling {
 	get;
  set; }
 ```
@@ -45,3 +45,4 @@ member Tiling : uint32 with
 #### Reference
 <a href="T_Avalonia_Vulkan_VulkanImageInfo">VulkanImageInfo Structure</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

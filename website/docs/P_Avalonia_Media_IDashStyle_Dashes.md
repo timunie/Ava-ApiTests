@@ -12,7 +12,7 @@ Gets or sets the length of alternating dashes and gaps.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IReadOnlyList<double>? Dashes \{ get; }
+IReadOnlyList<double>? Dashes { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Dashes : IReadOnlyList<float> with get
 #### Reference
 <a href="T_Avalonia_Media_IDashStyle">IDashStyle Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

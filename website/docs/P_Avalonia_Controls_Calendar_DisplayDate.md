@@ -12,7 +12,7 @@ Gets or sets the date to display.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DateTime DisplayDate \{ get; set; }
+public DateTime DisplayDate { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -57,3 +57,4 @@ To set this property in XAML, use a date specified in the format yyyy/mm/dd. The
 #### Reference
 <a href="T_Avalonia_Controls_Calendar">Calendar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

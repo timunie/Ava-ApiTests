@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the control can receive keyboard focus.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool Focusable \{ get; }
+bool Focusable { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Focusable : bool with get
 #### Reference
 <a href="T_Avalonia_Input_IInputElement">IInputElement Interface</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

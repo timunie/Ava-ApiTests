@@ -12,18 +12,21 @@ Fills an area with a solid color.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IImmutableSolidColorBrush : ISolidColorBrush, 
 	IBrush, IImmutableBrush
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IImmutableSolidColorBrush
 	Inherits ISolidColorBrush, IBrush, IImmutableBrush
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IImmutableSolidColorBrush = 
     interface
         interface ISolidColorBrush
@@ -73,3 +76,4 @@ type IImmutableSolidColorBrush =
 
 #### Reference
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

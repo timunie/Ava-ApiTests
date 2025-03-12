@@ -12,7 +12,7 @@ Gets the point in the expression at which the error occurred.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? ExpressionErrorPoint \{ get; protected set; }
+public string? ExpressionErrorPoint { get; protected set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ExpressionErrorPoint : string with get, set
 #### Reference
 <a href="T_Avalonia_Data_BindingChainException">BindingChainException Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

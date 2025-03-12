@@ -34,7 +34,7 @@ member GetRegistered :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Interactivity/RoutedEventRegistry.cs#L65" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Interactivity/RoutedEventRegistry.cs#L66" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ All routed events registered with the provided type.
 <a href="T_Avalonia_Interactivity_RoutedEventRegistry">RoutedEventRegistry Class</a>  
 <a href="Overload_Avalonia_Interactivity_RoutedEventRegistry_GetRegistered">GetRegistered Overload</a>  
 <a href="N_Avalonia_Interactivity">Avalonia.Interactivity Namespace</a>  
+

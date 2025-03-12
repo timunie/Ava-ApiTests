@@ -44,7 +44,7 @@ static member Run :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherTimer.cs#L195" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherTimer.cs#L196" title="View the source code">View Source</a>
 
 
 
@@ -61,3 +61,4 @@ An <a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_
 #### Reference
 <a href="T_Avalonia_Threading_DispatcherTimer">DispatcherTimer Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

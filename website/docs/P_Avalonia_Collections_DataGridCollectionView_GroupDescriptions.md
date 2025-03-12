@@ -12,7 +12,7 @@ Gets the description of grouping, indexed by level.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public AvaloniaList<DataGridGroupDescription> GroupDescriptions \{ get; }
+public AvaloniaList<DataGridGroupDescription> GroupDescriptions { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member GroupDescriptions : AvaloniaList<DataGridGroupDescription> with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L650" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L651" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member GroupDescriptions : AvaloniaList<DataGridGroupDescription> with get
 #### Reference
 <a href="T_Avalonia_Collections_DataGridCollectionView">DataGridCollectionView Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

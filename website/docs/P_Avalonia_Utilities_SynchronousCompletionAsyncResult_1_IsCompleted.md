@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsCompleted \{ get; }
+public bool IsCompleted { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -28,7 +28,7 @@ member IsCompleted : bool with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/SynchronousCompletionAsyncResult.cs#L36" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/SynchronousCompletionAsyncResult.cs#L37" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ member IsCompleted : bool with get
 #### Reference
 <a href="T_Avalonia_Utilities_SynchronousCompletionAsyncResult_1">SynchronousCompletionAsyncResult(T) Structure</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

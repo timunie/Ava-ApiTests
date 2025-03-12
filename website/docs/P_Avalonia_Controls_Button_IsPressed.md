@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the button is currently pressed.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsPressed \{ get; }
+public bool IsPressed { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IsPressed : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_Button">Button Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

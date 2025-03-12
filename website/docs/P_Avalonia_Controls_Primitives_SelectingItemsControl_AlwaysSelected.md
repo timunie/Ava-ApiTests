@@ -12,7 +12,7 @@ Gets a value indicating whether <a href="T_Avalonia_Controls_SelectionMode">Alwa
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected bool AlwaysSelected \{ get; }
+protected bool AlwaysSelected { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member AlwaysSelected : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

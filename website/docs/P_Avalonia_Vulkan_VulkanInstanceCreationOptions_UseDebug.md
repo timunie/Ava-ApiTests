@@ -12,7 +12,7 @@ Enables the debug layer
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool UseDebug \{ get; set; }
+public bool UseDebug { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member UseDebug : bool with get, set
 #### Reference
 <a href="T_Avalonia_Vulkan_VulkanInstanceCreationOptions">VulkanInstanceCreationOptions Class</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

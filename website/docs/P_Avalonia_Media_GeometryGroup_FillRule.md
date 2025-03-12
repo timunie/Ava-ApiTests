@@ -12,7 +12,7 @@ Gets or sets how the intersecting areas of the objects contained in this <a href
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public FillRule FillRule \{ get; set; }
+public FillRule FillRule { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member FillRule : FillRule with get, set
 #### Reference
 <a href="T_Avalonia_Media_GeometryGroup">GeometryGroup Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

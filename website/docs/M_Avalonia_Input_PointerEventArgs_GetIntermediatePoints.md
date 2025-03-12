@@ -34,7 +34,7 @@ member GetIntermediatePoints :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/PointerEventArgs.cs#L121" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/PointerEventArgs.cs#L122" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ member GetIntermediatePoints :
 #### Reference
 <a href="T_Avalonia_Input_PointerEventArgs">PointerEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

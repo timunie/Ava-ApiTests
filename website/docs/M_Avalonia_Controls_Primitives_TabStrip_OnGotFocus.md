@@ -34,7 +34,7 @@ override OnGotFocus :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/TabStrip.cs#L31" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/TabStrip.cs#L32" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override OnGotFocus :
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_TabStrip">TabStrip Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

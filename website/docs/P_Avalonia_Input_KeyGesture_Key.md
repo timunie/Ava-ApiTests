@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Key Key \{ get; }
+public Key Key { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member Key : Key with get
 #### Reference
 <a href="T_Avalonia_Input_KeyGesture">KeyGesture Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

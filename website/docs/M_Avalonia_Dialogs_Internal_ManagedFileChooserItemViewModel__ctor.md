@@ -40,3 +40,4 @@ new : unit -> ManagedFileChooserItemViewModel
 <a href="T_Avalonia_Dialogs_Internal_ManagedFileChooserItemViewModel">ManagedFileChooserItemViewModel Class</a>  
 <a href="Overload_Avalonia_Dialogs_Internal_ManagedFileChooserItemViewModel__ctor">ManagedFileChooserItemViewModel Overload</a>  
 <a href="N_Avalonia_Dialogs_Internal">Avalonia.Dialogs.Internal Namespace</a>  
+

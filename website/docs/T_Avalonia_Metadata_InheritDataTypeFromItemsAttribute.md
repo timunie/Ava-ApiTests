@@ -12,11 +12,15 @@ Instructs the compiler to resolve the compiled bindings data type for the item-s
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AttributeUsageAttribute(AttributeTargets.Property, AllowMultiple = false, 
+	Inherited = true)]
 public sealed class InheritDataTypeFromItemsAttribute : Attribute
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AttributeUsageAttribute(AttributeTargets.Property, AllowMultiple := false, 
+	Inherited := true)>
 Public NotInheritable Class InheritDataTypeFromItemsAttribute
 	Inherits Attribute
 ```
@@ -24,6 +28,8 @@ Public NotInheritable Class InheritDataTypeFromItemsAttribute
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<AttributeUsageAttribute(AttributeTargets.Property, AllowMultiple = false, 
+	Inherited = true)>]
 type InheritDataTypeFromItemsAttribute = 
     class
         inherit Attribute
@@ -99,3 +105,4 @@ A typical usage example is a ListBox control, where InheritDataTypeFromItemsAttr
 
 #### Reference
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

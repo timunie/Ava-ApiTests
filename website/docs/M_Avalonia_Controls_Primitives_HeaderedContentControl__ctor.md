@@ -39,3 +39,4 @@ new : unit -> HeaderedContentControl
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_HeaderedContentControl">HeaderedContentControl Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

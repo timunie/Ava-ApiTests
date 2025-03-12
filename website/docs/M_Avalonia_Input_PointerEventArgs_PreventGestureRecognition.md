@@ -29,7 +29,7 @@ member PreventGestureRecognition : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/PointerEventArgs.cs#L141" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/PointerEventArgs.cs#L142" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ member PreventGestureRecognition : unit -> unit
 #### Reference
 <a href="T_Avalonia_Input_PointerEventArgs">PointerEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

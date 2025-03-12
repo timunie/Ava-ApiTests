@@ -30,7 +30,7 @@ override ValidateSelection : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/ColorView/ColorView.cs#L81" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/ColorView/ColorView.cs#L82" title="View the source code">View Source</a>
 
 Derived controls may re-implement this based on their default style / control template and any specialized selection needs.
 
@@ -40,3 +40,4 @@ Derived controls may re-implement this based on their default style / control te
 #### Reference
 <a href="T_Avalonia_Controls_ColorView">ColorView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -37,7 +37,7 @@ static member SetIsInputMethodEnabled :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/InputMethod.cs#L19" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/InputMethod.cs#L20" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ static member SetIsInputMethodEnabled :
 #### Reference
 <a href="T_Avalonia_Input_InputMethod">InputMethod Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

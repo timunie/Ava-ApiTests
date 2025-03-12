@@ -21,10 +21,10 @@
 <table>
 <tr>
 <td><a href="T_Avalonia_Input_Platform_IClipboard">IClipboard</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Input_Platform_IPlatformDragSource">IPlatformDragSource</a></td>
-<td> </td>
+<td><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 </table>

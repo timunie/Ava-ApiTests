@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public T Result \{ get; }
+public T Result { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -28,7 +28,7 @@ member Result : 'T with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherOperation.cs#L374" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherOperation.cs#L375" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ member Result : 'T with get
 #### Reference
 <a href="T_Avalonia_Threading_DispatcherOperation_1">DispatcherOperation(T) Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

@@ -34,7 +34,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rect.cs#L54" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rect.cs#L55" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Rect">Rect Structure</a>  
 <a href="Overload_Avalonia_Rect__ctor">Rect Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

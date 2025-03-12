@@ -12,7 +12,7 @@ Gets or sets the angle at which the sector's arc starts, in degrees.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double StartAngle \{ get; set; }
+public double StartAngle { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member StartAngle : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Shapes_Sector">Sector Class</a>  
 <a href="N_Avalonia_Controls_Shapes">Avalonia.Controls.Shapes Namespace</a>  
+

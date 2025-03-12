@@ -12,7 +12,7 @@ Gets or sets whether dragging of <a href="T_Avalonia_Controls_Primitives_Thumb">
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsDeferredScrollingEnabled \{ get; set; }
+public bool IsDeferredScrollingEnabled { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member IsDeferredScrollingEnabled : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ScrollViewer">ScrollViewer Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

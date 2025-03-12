@@ -112,3 +112,4 @@ type KeyGestureFormatInfo =
 
 #### Reference
 <a href="N_Avalonia_Input_Platform">Avalonia.Input.Platform Namespace</a>  
+

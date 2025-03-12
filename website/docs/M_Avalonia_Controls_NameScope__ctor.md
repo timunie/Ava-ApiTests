@@ -39,3 +39,4 @@ new : unit -> NameScope
 #### Reference
 <a href="T_Avalonia_Controls_NameScope">NameScope Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

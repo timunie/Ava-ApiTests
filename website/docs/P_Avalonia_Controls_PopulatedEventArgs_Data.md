@@ -12,7 +12,7 @@ Gets the list of possible matches added to the drop-down portion of the <a href=
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IEnumerable Data \{ get; }
+public IEnumerable Data { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The list of possible matches added to the <a href="T_Avalonia_Controls_AutoCompl
 #### Reference
 <a href="T_Avalonia_Controls_PopulatedEventArgs">PopulatedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -34,7 +34,7 @@ override Remove :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/ResourceDictionary.cs#L165" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/ResourceDictionary.cs#L166" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ override Remove :
 #### Reference
 <a href="T_Avalonia_Controls_ResourceDictionary">ResourceDictionary Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

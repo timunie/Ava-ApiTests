@@ -45,7 +45,7 @@ member Bind :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaObject.cs#L510" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaObject.cs#L511" title="View the source code">View Source</a>
 
 
 
@@ -66,3 +66,4 @@ A disposable which can be used to terminate the binding.
 <a href="T_Avalonia_AvaloniaObject">AvaloniaObject Class</a>  
 <a href="Overload_Avalonia_AvaloniaObject_Bind">Bind Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

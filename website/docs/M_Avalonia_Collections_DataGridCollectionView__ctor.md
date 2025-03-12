@@ -54,3 +54,4 @@ new :
 <a href="T_Avalonia_Collections_DataGridCollectionView">DataGridCollectionView Class</a>  
 <a href="Overload_Avalonia_Collections_DataGridCollectionView__ctor">DataGridCollectionView Overload</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

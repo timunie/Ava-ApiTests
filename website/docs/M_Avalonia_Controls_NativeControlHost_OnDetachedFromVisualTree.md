@@ -36,7 +36,7 @@ override OnDetachedFromVisualTree :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/NativeControlHost.cs#L73" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/NativeControlHost.cs#L74" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnDetachedFromVisualTree :
 #### Reference
 <a href="T_Avalonia_Controls_NativeControlHost">NativeControlHost Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

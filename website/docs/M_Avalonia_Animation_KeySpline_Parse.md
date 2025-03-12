@@ -37,7 +37,7 @@ static member Parse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/KeySpline.cs#L83" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/KeySpline.cs#L84" title="View the source code">View Source</a>
 
 
 
@@ -62,3 +62,4 @@ A <a href="T_Avalonia_Animation_KeySpline">KeySpline</a> with the appropriate va
 #### Reference
 <a href="T_Avalonia_Animation_KeySpline">KeySpline Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

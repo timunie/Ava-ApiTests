@@ -41,7 +41,7 @@ type NativeMenu =
 
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a>  →  NativeMenu</td></tr>
-<tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_INativeMenuExporterEventsImplBridge">INativeMenuExporterEventsImplBridge</a>, <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_blank" rel="noopener noreferrer">IEnumerable</a>(<a href="T_Avalonia_Controls_NativeMenuItemBase">NativeMenuItemBase</a>), <a href="https://learn.microsoft.com/dotnet/api/system.collections.ienumerable" target="_blank" rel="noopener noreferrer">IEnumerable</a></td></tr>
+<tr><td><strong>Implements</strong></td><td>INativeMenuExporterEventsImplBridge, <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_blank" rel="noopener noreferrer">IEnumerable</a>(<a href="T_Avalonia_Controls_NativeMenuItemBase">NativeMenuItemBase</a>), <a href="https://learn.microsoft.com/dotnet/api/system.collections.ienumerable" target="_blank" rel="noopener noreferrer">IEnumerable</a></td></tr>
 </table>
 
 
@@ -379,3 +379,4 @@ type NativeMenu =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -30,7 +30,7 @@ override CloseFlyout : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Button.cs#L370" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Button.cs#L371" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ override CloseFlyout : unit -> unit
 #### Reference
 <a href="T_Avalonia_Controls_Button">Button Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

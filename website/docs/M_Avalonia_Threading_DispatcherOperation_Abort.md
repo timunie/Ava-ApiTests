@@ -27,7 +27,7 @@ member Abort : unit -> bool
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherOperation.cs#L106" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherOperation.cs#L107" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ member Abort : unit -> bool
 #### Reference
 <a href="T_Avalonia_Threading_DispatcherOperation">DispatcherOperation Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

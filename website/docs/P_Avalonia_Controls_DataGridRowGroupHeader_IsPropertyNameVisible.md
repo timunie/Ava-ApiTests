@@ -12,7 +12,7 @@ Gets or sets a value that indicates whether the property name is visible.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsPropertyNameVisible \{ get; set; }
+public bool IsPropertyNameVisible { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member IsPropertyNameVisible : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGridRowGroupHeader">DataGridRowGroupHeader Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

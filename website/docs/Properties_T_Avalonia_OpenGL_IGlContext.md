@@ -14,10 +14,6 @@
 <td> </td>
 </tr>
 <tr>
-<td><a href="P_Avalonia_Platform_IPlatformGraphicsContext_IsLost">IsLost</a></td>
-<td><br />(Inherited from <a href="T_Avalonia_Platform_IPlatformGraphicsContext">IPlatformGraphicsContext</a>)</td>
-</tr>
-<tr>
 <td><a href="P_Avalonia_OpenGL_IGlContext_SampleCount">SampleCount</a></td>
 <td> </td>
 </tr>
@@ -37,3 +33,4 @@
 #### Reference
 <a href="T_Avalonia_OpenGL_IGlContext">IGlContext Interface</a>  
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

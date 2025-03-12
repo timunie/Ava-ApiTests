@@ -10,11 +10,13 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AttributeUsageAttribute(AttributeTargets.Class)]
 public sealed class UsableDuringInitializationAttribute : Attribute
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AttributeUsageAttribute(AttributeTargets.Class)>
 Public NotInheritable Class UsableDuringInitializationAttribute
 	Inherits Attribute
 ```
@@ -22,6 +24,7 @@ Public NotInheritable Class UsableDuringInitializationAttribute
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<AttributeUsageAttribute(AttributeTargets.Class)>]
 type UsableDuringInitializationAttribute = 
     class
         inherit Attribute
@@ -89,3 +92,4 @@ type UsableDuringInitializationAttribute =
 
 #### Reference
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

@@ -12,7 +12,7 @@
 ```csharp
 public Object? this[
 	int index
-] \{ get; set; }
+] { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -54,3 +54,4 @@ override Item : Object with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ItemCollection">ItemCollection Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

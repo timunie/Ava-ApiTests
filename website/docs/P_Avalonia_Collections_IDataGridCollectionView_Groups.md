@@ -12,7 +12,7 @@ Gets the top-level groups.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IAvaloniaReadOnlyList<Object> Groups \{ get; }
+IAvaloniaReadOnlyList<Object> Groups { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ A read-only collection of the top-level groups or null if there are no groups.
 #### Reference
 <a href="T_Avalonia_Collections_IDataGridCollectionView">IDataGridCollectionView Interface</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

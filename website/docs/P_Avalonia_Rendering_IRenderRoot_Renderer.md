@@ -12,7 +12,7 @@ Gets the renderer for the window.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IRenderer Renderer \{ get; }
+IRenderer Renderer { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -35,7 +35,7 @@ abstract Renderer : IRenderer with get
 
 
 #### Property Value
-<a href="T_Avalonia_Rendering_IRenderer">IRenderer</a>
+IRenderer
 
 ## See Also
 
@@ -43,3 +43,4 @@ abstract Renderer : IRenderer with get
 #### Reference
 <a href="T_Avalonia_Rendering_IRenderRoot">IRenderRoot Interface</a>  
 <a href="N_Avalonia_Rendering">Avalonia.Rendering Namespace</a>  
+

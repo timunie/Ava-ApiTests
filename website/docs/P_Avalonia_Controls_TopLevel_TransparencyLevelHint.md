@@ -12,7 +12,7 @@ Gets or sets the <a href="T_Avalonia_Controls_WindowTransparencyLevel">WindowTra
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IReadOnlyList<WindowTransparencyLevel> TransparencyLevelHint \{ get; set; }
+public IReadOnlyList<WindowTransparencyLevel> TransparencyLevelHint { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member TransparencyLevelHint : IReadOnlyList<WindowTransparencyLevel> with get, 
 #### Reference
 <a href="T_Avalonia_Controls_TopLevel">TopLevel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

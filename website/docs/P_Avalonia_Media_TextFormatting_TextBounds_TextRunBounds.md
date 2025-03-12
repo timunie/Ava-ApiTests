@@ -12,7 +12,7 @@ Get a list of run bounding rectangles
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IList<TextRunBounds> TextRunBounds \{ get; }
+public IList<TextRunBounds> TextRunBounds { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ Array of text run bounds
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextBounds">TextBounds Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

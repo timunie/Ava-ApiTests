@@ -12,7 +12,7 @@ This property describes how inline content of a block is aligned.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public override TextAlignment TextAlignment \{ get; }
+public override TextAlignment TextAlignment { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ override TextAlignment : TextAlignment with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_GenericTextParagraphProperties">GenericTextParagraphProperties Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

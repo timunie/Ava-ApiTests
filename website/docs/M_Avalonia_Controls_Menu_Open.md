@@ -30,7 +30,7 @@ override Open : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Menu.cs#L70" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Menu.cs#L71" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ override Open : unit -> unit
 #### Reference
 <a href="T_Avalonia_Controls_Menu">Menu Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

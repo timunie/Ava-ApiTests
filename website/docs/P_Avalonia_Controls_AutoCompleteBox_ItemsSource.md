@@ -12,7 +12,7 @@ Gets or sets a collection that is used to generate the items for the drop-down p
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IEnumerable? ItemsSource \{ get; set; }
+public IEnumerable? ItemsSource { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The collection that is used to generate the items of the drop-down portion of th
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

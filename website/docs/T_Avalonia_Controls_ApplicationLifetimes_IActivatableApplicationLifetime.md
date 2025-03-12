@@ -6,6 +6,12 @@ Note: This API is now obsolete.
 
 :::
 
+</span><span>
+:::warning[Not client implementable]
+
+Note: This interface is not client implementable. You need to enable PrivateApi if you want to implement this interface.
+:::
+
 </span>
 
 
@@ -17,6 +23,7 @@ Note: This API is now obsolete.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 [ObsoleteAttribute("This interface has no effect. Instead use Application.Current.TryGetFeature<IActivatableLifetime>().", 
 	true)]
 public interface IActivatableApplicationLifetime : IActivatableLifetime
@@ -24,6 +31,7 @@ public interface IActivatableApplicationLifetime : IActivatableLifetime
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 <ObsoleteAttribute("This interface has no effect. Instead use Application.Current.TryGetFeature<IActivatableLifetime>().", 
 	true)>
 Public Interface IActivatableApplicationLifetime
@@ -32,6 +40,7 @@ Public Interface IActivatableApplicationLifetime
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 [<ObsoleteAttribute("This interface has no effect. Instead use Application.Current.TryGetFeature<IActivatableLifetime>().", 
 	true)>]
 type IActivatableApplicationLifetime = 
@@ -81,3 +90,4 @@ type IActivatableApplicationLifetime =
 
 #### Reference
 <a href="N_Avalonia_Controls_ApplicationLifetimes">Avalonia.Controls.ApplicationLifetimes Namespace</a>  
+

@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Controls_Selection_SelectionModel_1">SelectionModel(T) Class</a>  
 <a href="Overload_Avalonia_Controls_Selection_SelectionModel_1__ctor">SelectionModel(T) Overload</a>  
 <a href="N_Avalonia_Controls_Selection">Avalonia.Controls.Selection Namespace</a>  
+

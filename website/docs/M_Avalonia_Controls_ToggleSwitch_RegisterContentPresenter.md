@@ -34,7 +34,7 @@ override RegisterContentPresenter :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ToggleSwitch.cs#L169" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ToggleSwitch.cs#L170" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ override RegisterContentPresenter :
 #### Reference
 <a href="T_Avalonia_Controls_ToggleSwitch">ToggleSwitch Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

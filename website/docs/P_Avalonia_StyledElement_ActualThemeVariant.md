@@ -12,7 +12,7 @@ Gets the UI theme that is currently used by the element, which might be differen
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ThemeVariant ActualThemeVariant \{ get; }
+public ThemeVariant ActualThemeVariant { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ If current control is contained in the ThemeVariantScope, TopLevel or Applicatio
 #### Reference
 <a href="T_Avalonia_StyledElement">StyledElement Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

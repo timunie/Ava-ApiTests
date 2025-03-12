@@ -12,7 +12,7 @@ Gets or sets the routing strategy (direct, bubbling, or tunneling) of the routed
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RoutingStrategies Route \{ get; set; }
+public RoutingStrategies Route { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Route : RoutingStrategies with get, set
 #### Reference
 <a href="T_Avalonia_Interactivity_RoutedEventArgs">RoutedEventArgs Class</a>  
 <a href="N_Avalonia_Interactivity">Avalonia.Interactivity Namespace</a>  
+

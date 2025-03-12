@@ -12,7 +12,7 @@ Gets or sets a value that determines whether the <a href="T_Avalonia_Controls_Sc
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool BringIntoViewOnFocusChange \{ get; set; }
+public bool BringIntoViewOnFocusChange { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ true to use a behavior that brings focused items into view. false to use a behav
 #### Reference
 <a href="T_Avalonia_Controls_ScrollViewer">ScrollViewer Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

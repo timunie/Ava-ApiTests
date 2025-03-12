@@ -37,7 +37,7 @@ static member IsEnabled :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Logging/Logger.cs#L20" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Logging/Logger.cs#L21" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ true if given log level is enabled.
 #### Reference
 <a href="T_Avalonia_Logging_Logger">Logger Class</a>  
 <a href="N_Avalonia_Logging">Avalonia.Logging Namespace</a>  
+

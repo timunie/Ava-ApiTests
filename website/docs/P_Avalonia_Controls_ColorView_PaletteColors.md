@@ -12,7 +12,7 @@ Gets or sets the collection of individual colors in the palette.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IEnumerable<Color>? PaletteColors \{ get; set; }
+public IEnumerable<Color>? PaletteColors { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -46,3 +46,4 @@ member PaletteColors : IEnumerable<Color> with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ColorView">ColorView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -31,7 +31,7 @@ F# does not support the declaration of new casting operators.
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/ThemeVariant.cs#L98" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/ThemeVariant.cs#L99" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ F# does not support the declaration of new casting operators.
 <a href="T_Avalonia_Styling_ThemeVariant">ThemeVariant Class</a>  
 <a href="Overload_Avalonia_Styling_ThemeVariant_op_Explicit">Explicit Overload</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

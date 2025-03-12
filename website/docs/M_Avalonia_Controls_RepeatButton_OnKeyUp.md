@@ -34,7 +34,7 @@ override OnKeyUp :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RepeatButton.cs#L94" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/RepeatButton.cs#L95" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override OnKeyUp :
 #### Reference
 <a href="T_Avalonia_Controls_RepeatButton">RepeatButton Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

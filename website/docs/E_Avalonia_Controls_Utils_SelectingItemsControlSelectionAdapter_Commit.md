@@ -49,3 +49,4 @@ override Commit : IEvent<EventHandler<RoutedEventArgs>,
 #### Reference
 <a href="T_Avalonia_Controls_Utils_SelectingItemsControlSelectionAdapter">SelectingItemsControlSelectionAdapter Class</a>  
 <a href="N_Avalonia_Controls_Utils">Avalonia.Controls.Utils Namespace</a>  
+

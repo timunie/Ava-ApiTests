@@ -10,17 +10,20 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IList<NativeMenuItemBase> Items \{ get; }
+[ContentAttribute]
+public IList<NativeMenuItemBase> Items { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public ReadOnly Property Items As IList(Of NativeMenuItemBase)
 	Get
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Items : IList<NativeMenuItemBase> with get
 ```
 </TabItem>
@@ -41,3 +44,4 @@ member Items : IList<NativeMenuItemBase> with get
 #### Reference
 <a href="T_Avalonia_Controls_NativeMenu">NativeMenu Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

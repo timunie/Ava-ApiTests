@@ -28,7 +28,7 @@ override GetRealizedContainers : unit -> IEnumerable<Control>
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/VirtualizingStackPanel.cs#L356" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/VirtualizingStackPanel.cs#L357" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override GetRealizedContainers : unit -> IEnumerable<Control>
 #### Reference
 <a href="T_Avalonia_Controls_VirtualizingStackPanel">VirtualizingStackPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

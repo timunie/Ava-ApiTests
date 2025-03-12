@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IList<IResourceProvider> MergedDictionaries \{ get; }
+public IList<IResourceProvider> MergedDictionaries { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -29,7 +29,7 @@ override MergedDictionaries : IList<IResourceProvider> with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/ResourceDictionary.cs#L53" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/ResourceDictionary.cs#L54" title="View the source code">View Source</a>
 
 
 
@@ -46,3 +46,4 @@ override MergedDictionaries : IList<IResourceProvider> with get
 #### Reference
 <a href="T_Avalonia_Controls_ResourceDictionary">ResourceDictionary Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

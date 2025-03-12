@@ -12,7 +12,7 @@ Gets a value that indicates whether the value of a control is read-only.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool IsReadOnly \{ get; }
+bool IsReadOnly { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract IsReadOnly : bool with get
 #### Reference
 <a href="T_Avalonia_Automation_Provider_IRangeValueProvider">IRangeValueProvider Interface</a>  
 <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider Namespace</a>  
+

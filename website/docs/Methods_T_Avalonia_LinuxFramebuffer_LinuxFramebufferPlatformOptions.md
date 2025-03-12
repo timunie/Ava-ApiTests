@@ -37,3 +37,4 @@
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_LinuxFramebufferPlatformOptions">LinuxFramebufferPlatformOptions Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer">Avalonia.LinuxFramebuffer Namespace</a>  
+

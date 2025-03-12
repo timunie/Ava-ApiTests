@@ -69,3 +69,4 @@ abstract TryMatchCharacter :
 #### Reference
 <a href="T_Avalonia_Media_Fonts_IFontCollection">IFontCollection Interface</a>  
 <a href="N_Avalonia_Media_Fonts">Avalonia.Media.Fonts Namespace</a>  
+

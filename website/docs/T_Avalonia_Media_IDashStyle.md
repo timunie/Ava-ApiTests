@@ -12,16 +12,19 @@ Represents the sequence of dashes and gaps that will be applied by a <a href="T_
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IDashStyle
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IDashStyle
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IDashStyle = interface end
 ```
 </TabItem>
@@ -58,3 +61,4 @@ type IDashStyle = interface end
 
 #### Reference
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

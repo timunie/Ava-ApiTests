@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public CornerRadius ClipToBoundsRadius \{ get; }
+public CornerRadius ClipToBoundsRadius { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ override ClipToBoundsRadius : CornerRadius with get
 #### Reference
 <a href="T_Avalonia_Controls_Border">Border Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -200,3 +200,4 @@ type ScalarKeyFrameAnimation =
 
 #### Reference
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

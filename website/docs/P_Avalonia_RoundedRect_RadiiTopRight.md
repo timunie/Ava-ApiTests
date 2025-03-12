@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Vector RadiiTopRight \{
+public Vector RadiiTopRight {
 	get;
  }
 ```
@@ -44,3 +44,4 @@ member RadiiTopRight : Vector with
 #### Reference
 <a href="T_Avalonia_RoundedRect">RoundedRect Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

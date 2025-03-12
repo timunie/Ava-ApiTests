@@ -12,7 +12,7 @@ The cell that has been pressed.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DataGridCell Cell \{ get; }
+public DataGridCell Cell { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Cell : DataGridCell with get
 #### Reference
 <a href="T_Avalonia_Controls_DataGridCellPointerPressedEventArgs">DataGridCellPointerPressedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

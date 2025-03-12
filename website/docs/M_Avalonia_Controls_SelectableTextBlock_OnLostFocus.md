@@ -34,7 +34,7 @@ override OnLostFocus :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/SelectableTextBlock.cs#L171" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/SelectableTextBlock.cs#L172" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override OnLostFocus :
 #### Reference
 <a href="T_Avalonia_Controls_SelectableTextBlock">SelectableTextBlock Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

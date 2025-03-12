@@ -42,3 +42,4 @@ static val IsActiveProperty: DirectProperty<WindowBase, bool>
 #### Reference
 <a href="T_Avalonia_Controls_WindowBase">WindowBase Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

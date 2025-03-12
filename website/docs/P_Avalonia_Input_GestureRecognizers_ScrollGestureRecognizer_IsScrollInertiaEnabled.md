@@ -12,7 +12,7 @@ Gets or sets whether the gesture should include inertia in it's behavior.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsScrollInertiaEnabled \{ get; set; }
+public bool IsScrollInertiaEnabled { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member IsScrollInertiaEnabled : bool with get, set
 #### Reference
 <a href="T_Avalonia_Input_GestureRecognizers_ScrollGestureRecognizer">ScrollGestureRecognizer Class</a>  
 <a href="N_Avalonia_Input_GestureRecognizers">Avalonia.Input.GestureRecognizers Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the presenter from the control's template.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ContentPresenter? Presenter \{ get; }
+public ContentPresenter? Presenter { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ override Presenter : ContentPresenter with get
 #### Reference
 <a href="T_Avalonia_Controls_ContentControl">ContentControl Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

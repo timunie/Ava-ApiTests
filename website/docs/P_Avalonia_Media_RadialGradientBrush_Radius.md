@@ -20,7 +20,7 @@ Gets or sets the horizontal and vertical radius of the outermost circle of the r
 <TabItem value="csharp" label="C#">
 ```csharp
 [ObsoleteAttribute("Use RadiusX/RadiusY, note that those properties use _relative_ values, so Radius=0.55 would become RadiusX=55% RadiusY=55%. Radius property is always relative even if the rest of the brush uses absolute values.")]
-public double Radius \{ get; set; }
+public double Radius { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -60,3 +60,4 @@ override Radius : float with get, set
 #### Reference
 <a href="T_Avalonia_Media_RadialGradientBrush">RadialGradientBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

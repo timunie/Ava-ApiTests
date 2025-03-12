@@ -48,3 +48,4 @@ static member ThrowOnError :
 #### Reference
 <a href="T_Avalonia_Vulkan_VulkanException">VulkanException Class</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

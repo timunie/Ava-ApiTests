@@ -39,3 +39,4 @@ new : unit -> ContrastBrushConverter
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_Converters_ContrastBrushConverter">ContrastBrushConverter Class</a>  
 <a href="N_Avalonia_Controls_Primitives_Converters">Avalonia.Controls.Primitives.Converters Namespace</a>  
+

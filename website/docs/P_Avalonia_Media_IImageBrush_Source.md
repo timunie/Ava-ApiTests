@@ -12,7 +12,7 @@ Gets the image to draw.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IImageBrushSource? Source \{ get; }
+IImageBrushSource? Source { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Source : IImageBrushSource with get
 #### Reference
 <a href="T_Avalonia_Media_IImageBrush">IImageBrush Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

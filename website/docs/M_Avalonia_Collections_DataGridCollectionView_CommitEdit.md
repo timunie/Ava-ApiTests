@@ -30,7 +30,7 @@ override CommitEdit : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L1463" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/Collections/DataGridCollectionView.cs#L1464" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override CommitEdit : unit -> unit
 <a href="T_Avalonia_Collections_DataGridCollectionView">DataGridCollectionView Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
 <a href="M_Avalonia_Collections_DataGridCollectionView_EditItem">EditItem(Object)</a>  
+

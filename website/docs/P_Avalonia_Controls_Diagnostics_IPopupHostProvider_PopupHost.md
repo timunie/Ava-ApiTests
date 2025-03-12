@@ -12,7 +12,7 @@ The popup host.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IPopupHost? PopupHost \{ get; }
+IPopupHost? PopupHost { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract PopupHost : IPopupHost with get
 #### Reference
 <a href="T_Avalonia_Controls_Diagnostics_IPopupHostProvider">IPopupHostProvider Interface</a>  
 <a href="N_Avalonia_Controls_Diagnostics">Avalonia.Controls.Diagnostics Namespace</a>  
+

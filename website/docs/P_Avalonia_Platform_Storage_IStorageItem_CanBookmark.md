@@ -12,7 +12,7 @@ Returns true is item can be bookmarked and reused later.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool CanBookmark \{ get; }
+bool CanBookmark { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract CanBookmark : bool with get
 #### Reference
 <a href="T_Avalonia_Platform_Storage_IStorageItem">IStorageItem Interface</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

@@ -12,7 +12,7 @@ The normalized percent value, ranging from 0.0 to 1.0
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double CueValue \{ get; }
+public double CueValue { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member CueValue : float with get
 #### Reference
 <a href="T_Avalonia_Animation_Cue">Cue Structure</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

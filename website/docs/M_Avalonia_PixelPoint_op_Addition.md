@@ -37,7 +37,7 @@ static let inline (+)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelPoint.cs#L76" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelPoint.cs#L77" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ A point that is the result of the addition.
 <a href="T_Avalonia_PixelPoint">PixelPoint Structure</a>  
 <a href="Overload_Avalonia_PixelPoint_op_Addition">Addition Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

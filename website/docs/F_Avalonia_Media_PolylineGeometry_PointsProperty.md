@@ -42,3 +42,4 @@ static val PointsProperty: DirectProperty<PolylineGeometry, IList<Point>>
 #### Reference
 <a href="T_Avalonia_Media_PolylineGeometry">PolylineGeometry Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -12,7 +12,7 @@ Brush used to paint background of run.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract IBrush? BackgroundBrush \{ get; }
+public abstract IBrush? BackgroundBrush { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract BackgroundBrush : IBrush with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextRunProperties">TextRunProperties Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

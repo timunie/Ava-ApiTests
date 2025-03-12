@@ -12,7 +12,7 @@ Gets a collection of selected dates.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public SelectedDatesCollection SelectedDates \{ get; }
+public SelectedDatesCollection SelectedDates { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ A <a href="https://learn.microsoft.com/dotnet/api/system.windows.controls.select
 #### Reference
 <a href="T_Avalonia_Controls_Calendar">Calendar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

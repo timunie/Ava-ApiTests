@@ -34,7 +34,7 @@ member Deflate :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Size.cs#L191" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Size.cs#L192" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The deflated size.The deflated size cannot be less than 0.
 #### Reference
 <a href="T_Avalonia_Size">Size Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -40,7 +40,7 @@ override OnGeometryChanged :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Shapes/Shape.cs#L242" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Shapes/Shape.cs#L243" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ override OnGeometryChanged :
 #### Reference
 <a href="T_Avalonia_Controls_Shapes_Shape">Shape Class</a>  
 <a href="N_Avalonia_Controls_Shapes">Avalonia.Controls.Shapes Namespace</a>  
+

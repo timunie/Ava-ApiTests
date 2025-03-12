@@ -52,3 +52,4 @@ member AcceptWebSocket :
 #### Reference
 <a href="T_Avalonia_DesignerSupport_Remote_HtmlTransport_SimpleWebSocketHttpRequest">SimpleWebSocketHttpRequest Class</a>  
 <a href="N_Avalonia_DesignerSupport_Remote_HtmlTransport">Avalonia.DesignerSupport.Remote.HtmlTransport Namespace</a>  
+

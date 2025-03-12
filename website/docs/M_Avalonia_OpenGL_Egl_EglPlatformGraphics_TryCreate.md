@@ -41,3 +41,4 @@ static member TryCreate : unit -> EglPlatformGraphics
 <a href="T_Avalonia_OpenGL_Egl_EglPlatformGraphics">EglPlatformGraphics Class</a>  
 <a href="Overload_Avalonia_OpenGL_Egl_EglPlatformGraphics_TryCreate">TryCreate Overload</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

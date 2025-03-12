@@ -12,7 +12,7 @@ Gets or sets the <a href="https://learn.microsoft.com/dotnet/api/system.windows.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IBrush RowBackground \{ get; set; }
+public IBrush RowBackground { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member RowBackground : IBrush with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGrid">DataGrid Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

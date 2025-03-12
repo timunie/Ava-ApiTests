@@ -34,7 +34,7 @@ override ContainerFromIndex :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/VirtualizingCarouselPanel.cs#L179" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/VirtualizingCarouselPanel.cs#L180" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ override ContainerFromIndex :
 #### Reference
 <a href="T_Avalonia_Controls_VirtualizingCarouselPanel">VirtualizingCarouselPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

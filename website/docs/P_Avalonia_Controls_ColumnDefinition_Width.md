@@ -12,7 +12,7 @@ Gets or sets the width of the column.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public GridLength Width \{ get; set; }
+public GridLength Width { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Width : GridLength with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ColumnDefinition">ColumnDefinition Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the source observable.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IObservable<Object>? SourceObservable \{ get; set; }
+public IObservable<Object>? SourceObservable { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member SourceObservable : IObservable<Object> with get, set
 #### Reference
 <a href="T_Avalonia_Data_IndexerDescriptor">IndexerDescriptor Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

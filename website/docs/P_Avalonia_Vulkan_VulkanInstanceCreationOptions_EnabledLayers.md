@@ -12,7 +12,7 @@ Specifies layers to enable if available on the instance
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IList<string> EnabledLayers \{ get; set; }
+public IList<string> EnabledLayers { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member EnabledLayers : IList<string> with get, set
 #### Reference
 <a href="T_Avalonia_Vulkan_VulkanInstanceCreationOptions">VulkanInstanceCreationOptions Class</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

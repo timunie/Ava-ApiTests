@@ -32,7 +32,7 @@ static member Decode :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Imaging/WriteableBitmap.cs#L88" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Imaging/WriteableBitmap.cs#L89" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ static member Decode :
 #### Reference
 <a href="T_Avalonia_Media_Imaging_WriteableBitmap">WriteableBitmap Class</a>  
 <a href="N_Avalonia_Media_Imaging">Avalonia.Media.Imaging Namespace</a>  
+

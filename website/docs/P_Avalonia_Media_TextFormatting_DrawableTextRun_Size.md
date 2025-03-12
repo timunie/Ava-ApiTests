@@ -12,7 +12,7 @@ Gets the size.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract Size Size \{ get; }
+public abstract Size Size { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Size : Size with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_DrawableTextRun">DrawableTextRun Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

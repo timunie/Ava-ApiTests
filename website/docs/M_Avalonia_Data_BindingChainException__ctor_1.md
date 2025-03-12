@@ -54,3 +54,4 @@ new :
 <a href="T_Avalonia_Data_BindingChainException">BindingChainException Class</a>  
 <a href="Overload_Avalonia_Data_BindingChainException__ctor">BindingChainException Overload</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

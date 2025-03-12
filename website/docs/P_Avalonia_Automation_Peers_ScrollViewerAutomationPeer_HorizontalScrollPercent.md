@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double HorizontalScrollPercent \{ get; }
+public double HorizontalScrollPercent { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -29,7 +29,7 @@ override HorizontalScrollPercent : float with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ScrollViewerAutomationPeer.cs#L25" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ScrollViewerAutomationPeer.cs#L26" title="View the source code">View Source</a>
 
 
 
@@ -46,3 +46,4 @@ override HorizontalScrollPercent : float with get
 #### Reference
 <a href="T_Avalonia_Automation_Peers_ScrollViewerAutomationPeer">ScrollViewerAutomationPeer Class</a>  
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

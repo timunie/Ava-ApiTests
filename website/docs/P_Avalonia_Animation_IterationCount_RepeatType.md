@@ -12,7 +12,7 @@ Gets the unit of the <a href="T_Avalonia_Animation_IterationCount">IterationCoun
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IterationType RepeatType \{ get; }
+public IterationType RepeatType { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member RepeatType : IterationType with get
 #### Reference
 <a href="T_Avalonia_Animation_IterationCount">IterationCount Structure</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

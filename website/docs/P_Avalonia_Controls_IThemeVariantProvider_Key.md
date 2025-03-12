@@ -12,7 +12,7 @@ Key property set by the compiler.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-ThemeVariant? Key \{ get; set; }
+ThemeVariant? Key { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ abstract Key : ThemeVariant with get, set
 #### Reference
 <a href="T_Avalonia_Controls_IThemeVariantProvider">IThemeVariantProvider Interface</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

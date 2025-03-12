@@ -35,7 +35,7 @@ static member TryCreate :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Vulkan/VulkanPlatformGraphics.cs#L78" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Vulkan/VulkanPlatformGraphics.cs#L79" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ static member TryCreate :
 #### Reference
 <a href="T_Avalonia_Vulkan_VulkanPlatformGraphics">VulkanPlatformGraphics Class</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

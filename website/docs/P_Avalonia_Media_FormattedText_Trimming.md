@@ -12,7 +12,7 @@ Defines how omission of text is indicated. CharacterEllipsis trimming allows par
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TextTrimming Trimming \{ get; set; }
+public TextTrimming Trimming { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -31,7 +31,7 @@ member Trimming : TextTrimming with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L1211" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L1212" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ member Trimming : TextTrimming with get, set
 #### Reference
 <a href="T_Avalonia_Media_FormattedText">FormattedText Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

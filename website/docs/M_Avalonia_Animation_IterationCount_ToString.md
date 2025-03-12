@@ -30,7 +30,7 @@ override ToString : unit -> string
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/IterationCount.cs#L139" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/IterationCount.cs#L140" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ The string representation.
 #### Reference
 <a href="T_Avalonia_Animation_IterationCount">IterationCount Structure</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

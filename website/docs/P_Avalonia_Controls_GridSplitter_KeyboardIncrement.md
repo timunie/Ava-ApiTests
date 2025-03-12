@@ -12,7 +12,7 @@ The Distance to move the splitter when pressing the keyboard arrow keys.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double KeyboardIncrement \{ get; set; }
+public double KeyboardIncrement { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member KeyboardIncrement : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_GridSplitter">GridSplitter Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

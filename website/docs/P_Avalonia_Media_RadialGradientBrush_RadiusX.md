@@ -12,11 +12,13 @@ Gets or sets the horizontal radius of the outermost circle of the radial gradien
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RelativeScalar RadiusX \{ get; set; }
+[DependsOnAttribute("Radius")]
+public RelativeScalar RadiusX { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<DependsOnAttribute("Radius")>
 Public Property RadiusX As RelativeScalar
 	Get
 	Set
@@ -24,7 +26,9 @@ Public Property RadiusX As RelativeScalar
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<DependsOnAttribute("Radius")>]
 abstract RadiusX : RelativeScalar with get, set
+[<DependsOnAttribute("Radius")>]
 override RadiusX : RelativeScalar with get, set
 ```
 </TabItem>
@@ -49,3 +53,4 @@ override RadiusX : RelativeScalar with get, set
 #### Reference
 <a href="T_Avalonia_Media_RadialGradientBrush">RadialGradientBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

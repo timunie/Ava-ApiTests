@@ -34,7 +34,7 @@ static member GetEdgeMode :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/RenderOptions.cs#L59" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/RenderOptions.cs#L60" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The value.
 #### Reference
 <a href="T_Avalonia_Media_RenderOptions">RenderOptions Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

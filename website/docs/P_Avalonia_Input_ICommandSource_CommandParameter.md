@@ -12,7 +12,7 @@ The parameter that will be passed to the command when executing the command. The
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Object? CommandParameter \{ get; }
+Object? CommandParameter { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract CommandParameter : Object with get
 #### Reference
 <a href="T_Avalonia_Input_ICommandSource">ICommandSource Interface</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

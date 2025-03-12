@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double TransparentLevel \{
+public double TransparentLevel {
 	get;
  }
 ```
@@ -44,3 +44,4 @@ member TransparentLevel : float with
 #### Reference
 <a href="T_Avalonia_Controls_AcrylicPlatformCompensationLevels">AcrylicPlatformCompensationLevels Structure</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,17 +12,20 @@ Base class for controls that provides rendering and related visual properties.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UsableDuringInitializationAttribute]
 public class Visual : StyledElement
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UsableDuringInitializationAttribute>
 Public Class Visual
 	Inherits StyledElement
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UsableDuringInitializationAttribute>]
 type Visual = 
     class
         inherit StyledElement
@@ -40,7 +43,7 @@ type Visual =
 <tr><td><strong>Derived</strong></td><td><a href="T_Avalonia_Layout_Layoutable">Avalonia.Layout.Layoutable</a></td></tr>
 </table>
 
-The Visual class represents elements that have a visual on-screen representation and stores all the information needed for an <a href="T_Avalonia_Rendering_IRenderer">IRenderer</a> to render the control. To traverse the visual tree, use the extension methods defined in <a href="T_Avalonia_VisualExtensions">VisualExtensions</a>.
+The Visual class represents elements that have a visual on-screen representation and stores all the information needed for an IRenderer to render the control. To traverse the visual tree, use the extension methods defined in <a href="T_Avalonia_VisualExtensions">VisualExtensions</a>.
 
 ## Constructors
 <table>
@@ -629,10 +632,6 @@ The Visual class represents elements that have a visual on-screen representation
 <td>Enumerates an Visual and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -723,3 +722,4 @@ The Visual class represents elements that have a visual on-screen representation
 
 #### Reference
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

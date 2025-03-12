@@ -36,7 +36,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Size.cs#L203" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Size.cs#L205" title="View the source code">View Source</a>
 
 
 
@@ -58,3 +58,4 @@ True if this size is equal to other; False otherwise.
 <a href="T_Avalonia_Size">Size Structure</a>  
 <a href="Overload_Avalonia_Size_Equals">Equals Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

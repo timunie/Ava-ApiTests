@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public T Value \{ get; }
+public T Value { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -29,7 +29,7 @@ override Value : 'T with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/IScopedResource.cs#L38" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/IScopedResource.cs#L39" title="View the source code">View Source</a>
 
 
 
@@ -46,3 +46,4 @@ override Value : 'T with get
 #### Reference
 <a href="T_Avalonia_Platform_ScopedResource_1">ScopedResource(T) Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

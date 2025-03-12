@@ -12,7 +12,7 @@ Gets or sets the file name that the file picker suggests to the user.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? SuggestedFileName \{ get; set; }
+public string? SuggestedFileName { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member SuggestedFileName : string with get, set
 #### Reference
 <a href="T_Avalonia_Platform_Storage_PickerOptions">PickerOptions Class</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

@@ -12,17 +12,20 @@ Manipulates storage items (files and folders) and their contents, and provides i
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IStorageItem : IDisposable
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IStorageItem
 	Inherits IDisposable
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IStorageItem = 
     interface
         interface IDisposable
@@ -98,3 +101,4 @@ This interface inherits <a href="https://learn.microsoft.com/dotnet/api/system.i
 
 #### Reference
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

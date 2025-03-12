@@ -54,3 +54,4 @@ The color at the specified index or an exception.
 #### Reference
 <a href="T_Avalonia_Controls_IColorPalette">IColorPalette Interface</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

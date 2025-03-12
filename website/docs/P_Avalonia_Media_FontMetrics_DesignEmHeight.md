@@ -12,7 +12,7 @@ Gets the font design units per em.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public short DesignEmHeight \{ get; init; }
+public short DesignEmHeight { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DesignEmHeight : int16 with get, set
 #### Reference
 <a href="T_Avalonia_Media_FontMetrics">FontMetrics Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

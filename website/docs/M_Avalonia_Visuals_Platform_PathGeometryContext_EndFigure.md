@@ -36,7 +36,7 @@ override EndFigure :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/PathGeometryContext.cs#L78" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/PathGeometryContext.cs#L79" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ override EndFigure :
 #### Reference
 <a href="T_Avalonia_Visuals_Platform_PathGeometryContext">PathGeometryContext Class</a>  
 <a href="N_Avalonia_Visuals_Platform">Avalonia.Visuals.Platform Namespace</a>  
+

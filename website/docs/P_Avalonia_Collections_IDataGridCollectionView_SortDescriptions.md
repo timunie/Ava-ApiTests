@@ -12,7 +12,7 @@ Gets a collection of <a href="https://learn.microsoft.com/dotnet/api/system.comp
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-DataGridSortDescriptionCollection SortDescriptions \{ get; }
+DataGridSortDescriptionCollection SortDescriptions { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ A collection of values that describe how the items in the collection are sorted 
 #### Reference
 <a href="T_Avalonia_Collections_IDataGridCollectionView">IDataGridCollectionView Interface</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

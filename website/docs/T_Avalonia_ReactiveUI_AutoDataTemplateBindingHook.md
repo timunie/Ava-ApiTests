@@ -87,3 +87,4 @@ type AutoDataTemplateBindingHook =
 
 #### Reference
 <a href="N_Avalonia_ReactiveUI">Avalonia.ReactiveUI Namespace</a>  
+

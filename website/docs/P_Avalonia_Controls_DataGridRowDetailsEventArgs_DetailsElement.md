@@ -12,7 +12,7 @@ Gets the row details section as a framework element.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Control DetailsElement \{ get; }
+public Control DetailsElement { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member DetailsElement : Control with get
 #### Reference
 <a href="T_Avalonia_Controls_DataGridRowDetailsEventArgs">DataGridRowDetailsEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

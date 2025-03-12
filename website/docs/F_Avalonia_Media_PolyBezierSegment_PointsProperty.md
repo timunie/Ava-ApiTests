@@ -42,3 +42,4 @@ static val PointsProperty: DirectProperty<PolyBezierSegment, Points>
 #### Reference
 <a href="T_Avalonia_Media_PolyBezierSegment">PolyBezierSegment Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

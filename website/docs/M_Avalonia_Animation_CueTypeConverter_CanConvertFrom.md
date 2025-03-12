@@ -38,7 +38,7 @@ override CanConvertFrom :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/Cue.cs#L67" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/Cue.cs#L68" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ override CanConvertFrom :
 <a href="T_Avalonia_Animation_CueTypeConverter">CueTypeConverter Class</a>  
 <a href="Overload_Avalonia_Animation_CueTypeConverter_CanConvertFrom">CanConvertFrom Overload</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

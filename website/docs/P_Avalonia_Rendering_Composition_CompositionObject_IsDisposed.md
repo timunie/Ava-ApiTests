@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsDisposed \{ get; }
+public bool IsDisposed { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member IsDisposed : bool with get
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_CompositionObject">CompositionObject Class</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

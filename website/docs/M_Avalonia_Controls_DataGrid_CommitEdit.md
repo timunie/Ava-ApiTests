@@ -29,7 +29,7 @@ member CommitEdit : unit -> bool
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGrid.cs#L2018" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGrid.cs#L2019" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ True if operation was successful. False otherwise.
 <a href="T_Avalonia_Controls_DataGrid">DataGrid Class</a>  
 <a href="Overload_Avalonia_Controls_DataGrid_CommitEdit">CommitEdit Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

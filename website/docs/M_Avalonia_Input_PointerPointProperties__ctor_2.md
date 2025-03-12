@@ -37,7 +37,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/PointerPoint.cs#L120" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/PointerPoint.cs#L41" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ new :
 <a href="T_Avalonia_Input_PointerPointProperties">PointerPointProperties Structure</a>  
 <a href="Overload_Avalonia_Input_PointerPointProperties__ctor">PointerPointProperties Overload</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

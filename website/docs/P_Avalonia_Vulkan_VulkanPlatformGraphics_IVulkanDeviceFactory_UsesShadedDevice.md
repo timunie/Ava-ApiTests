@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool UsesShadedDevice \{ get; }
+bool UsesShadedDevice { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ abstract UsesShadedDevice : bool with get
 #### Reference
 <a href="T_Avalonia_Vulkan_VulkanPlatformGraphics_IVulkanDeviceFactory">VulkanPlatformGraphics.IVulkanDeviceFactory Interface</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

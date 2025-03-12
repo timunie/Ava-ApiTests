@@ -12,7 +12,7 @@ Gets an empty <a href="T_Avalonia_Controls_ItemsSourceView">ItemsSourceView</a>
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static ItemsSourceView<T> Empty \{ get; }
+public static ItemsSourceView<T> Empty { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member Empty : ItemsSourceView<'T> with get
 #### Reference
 <a href="T_Avalonia_Controls_ItemsSourceView_1">ItemsSourceView(T) Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

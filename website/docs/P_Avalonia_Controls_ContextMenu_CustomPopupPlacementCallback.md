@@ -12,7 +12,7 @@ Gets or sets a delegate handler method that positions the Popup control, when <a
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public CustomPopupPlacementCallback? CustomPopupPlacementCallback \{ get; set; }
+public CustomPopupPlacementCallback? CustomPopupPlacementCallback { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member CustomPopupPlacementCallback : CustomPopupPlacementCallback with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ContextMenu">ContextMenu Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

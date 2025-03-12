@@ -12,7 +12,7 @@ Gets or sets a value describing how the popup position will be adjusted if the u
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PopupPositionerConstraintAdjustment PlacementConstraintAdjustment \{ get; set; }
+public PopupPositionerConstraintAdjustment PlacementConstraintAdjustment { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member PlacementConstraintAdjustment : PopupPositionerConstraintAdjustment with 
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_Popup">Popup Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

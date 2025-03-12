@@ -54,3 +54,4 @@ true if the specified object is equal to the current object; otherwise, false.
 <a href="T_Avalonia_Media_Immutable_ImmutableDashStyle">ImmutableDashStyle Class</a>  
 <a href="Overload_Avalonia_Media_Immutable_ImmutableDashStyle_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

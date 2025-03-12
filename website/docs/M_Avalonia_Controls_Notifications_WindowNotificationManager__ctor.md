@@ -40,3 +40,4 @@ new : unit -> WindowNotificationManager
 <a href="T_Avalonia_Controls_Notifications_WindowNotificationManager">WindowNotificationManager Class</a>  
 <a href="Overload_Avalonia_Controls_Notifications_WindowNotificationManager__ctor">WindowNotificationManager Overload</a>  
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
+

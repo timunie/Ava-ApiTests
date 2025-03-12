@@ -12,7 +12,7 @@ Gets the parent that the visual is being attached to or detached from.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Visual Parent \{ get; }
+public Visual Parent { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Parent : Visual with get
 #### Reference
 <a href="T_Avalonia_VisualTreeAttachmentEventArgs">VisualTreeAttachmentEventArgs Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

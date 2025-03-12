@@ -12,7 +12,7 @@ X coordinate of the second control point
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double X2 \{ get; set; }
+public double X2 { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member X2 : float with get, set
 #### Reference
 <a href="T_Avalonia_Animation_Easings_SplineEasing">SplineEasing Class</a>  
 <a href="N_Avalonia_Animation_Easings">Avalonia.Animation.Easings Namespace</a>  
+

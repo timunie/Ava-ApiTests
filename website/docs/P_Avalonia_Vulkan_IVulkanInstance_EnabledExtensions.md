@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IEnumerable<string> EnabledExtensions \{ get; }
+IEnumerable<string> EnabledExtensions { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -37,3 +37,4 @@ abstract EnabledExtensions : IEnumerable<string> with get
 #### Reference
 <a href="T_Avalonia_Vulkan_IVulkanInstance">IVulkanInstance Interface</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

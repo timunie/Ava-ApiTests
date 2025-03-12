@@ -54,3 +54,4 @@ new :
 <a href="T_Avalonia_Controls_Templates_FuncTreeDataTemplate">FuncTreeDataTemplate Class</a>  
 <a href="Overload_Avalonia_Controls_Templates_FuncTreeDataTemplate__ctor">FuncTreeDataTemplate Overload</a>  
 <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates Namespace</a>  
+

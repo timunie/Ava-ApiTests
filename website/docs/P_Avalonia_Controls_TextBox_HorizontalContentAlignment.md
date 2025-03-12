@@ -12,7 +12,7 @@ Gets or sets the horizontal alignment of the content within the control.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public HorizontalAlignment HorizontalContentAlignment \{ get; set; }
+public HorizontalAlignment HorizontalContentAlignment { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member HorizontalContentAlignment : HorizontalAlignment with get, set
 #### Reference
 <a href="T_Avalonia_Controls_TextBox">TextBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

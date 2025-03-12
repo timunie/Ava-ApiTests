@@ -107,3 +107,4 @@ type BitmapBlendingMode
 
 #### Reference
 <a href="N_Avalonia_Media_Imaging">Avalonia.Media.Imaging Namespace</a>  
+

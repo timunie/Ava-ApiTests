@@ -39,3 +39,4 @@ new : unit -> DispatcherOptions
 #### Reference
 <a href="T_Avalonia_Threading_DispatcherOptions">DispatcherOptions Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

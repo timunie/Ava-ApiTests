@@ -12,7 +12,7 @@ The current input pane state.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-InputPaneState State \{ get; }
+InputPaneState State { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract State : InputPaneState with get
 #### Reference
 <a href="T_Avalonia_Controls_Platform_IInputPane">IInputPane Interface</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

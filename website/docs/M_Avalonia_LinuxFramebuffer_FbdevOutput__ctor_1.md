@@ -51,3 +51,4 @@ new :
 <a href="T_Avalonia_LinuxFramebuffer_FbdevOutput">FbdevOutput Class</a>  
 <a href="Overload_Avalonia_LinuxFramebuffer_FbdevOutput__ctor">FbdevOutput Overload</a>  
 <a href="N_Avalonia_LinuxFramebuffer">Avalonia.LinuxFramebuffer Namespace</a>  
+

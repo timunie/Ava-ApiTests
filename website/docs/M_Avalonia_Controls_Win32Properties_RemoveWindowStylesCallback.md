@@ -37,7 +37,7 @@ static member RemoveWindowStylesCallback :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Platform/Win32Properties.cs#L41" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Platform/Win32Properties.cs#L42" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ static member RemoveWindowStylesCallback :
 #### Reference
 <a href="T_Avalonia_Controls_Win32Properties">Win32Properties Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

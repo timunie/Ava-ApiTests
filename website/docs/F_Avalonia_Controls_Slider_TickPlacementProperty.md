@@ -42,3 +42,4 @@ static val TickPlacementProperty: StyledProperty<TickPlacement>
 #### Reference
 <a href="T_Avalonia_Controls_Slider">Slider Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

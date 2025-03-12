@@ -34,7 +34,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextRunProperties.cs#L77" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextRunProperties.cs#L78" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ override Equals :
 <a href="T_Avalonia_Media_TextFormatting_TextRunProperties">TextRunProperties Class</a>  
 <a href="Overload_Avalonia_Media_TextFormatting_TextRunProperties_Equals">Equals Overload</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

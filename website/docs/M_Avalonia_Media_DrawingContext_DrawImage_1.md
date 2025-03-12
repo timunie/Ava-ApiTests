@@ -40,7 +40,7 @@ override DrawImage :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/DrawingContext.cs#L44" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/DrawingContext.cs#L45" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ override DrawImage :
 <a href="T_Avalonia_Media_DrawingContext">DrawingContext Class</a>  
 <a href="Overload_Avalonia_Media_DrawingContext_DrawImage">DrawImage Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

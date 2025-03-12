@@ -12,7 +12,7 @@ Gets the scroll information for the <a href="T_Avalonia_Controls_ListBox">ListBo
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IScrollable? Scroll \{ get; }
+public IScrollable? Scroll { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Scroll : IScrollable with get
 #### Reference
 <a href="T_Avalonia_Controls_ListBox">ListBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

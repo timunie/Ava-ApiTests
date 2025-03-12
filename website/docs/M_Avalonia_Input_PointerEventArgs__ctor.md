@@ -12,6 +12,7 @@ Initializes a new instance of the <a href="T_Avalonia_Input_PointerEventArgs">Po
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute("This constructor might be removed in 12.0. For unit testing, consider using IHeadlessWindow mouse methods.")]
 public PointerEventArgs(
 	RoutedEvent routedEvent,
 	Object? source,
@@ -26,6 +27,7 @@ public PointerEventArgs(
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute("This constructor might be removed in 12.0. For unit testing, consider using IHeadlessWindow mouse methods.")>
 Public Sub New ( 
 	routedEvent As RoutedEvent,
 	source As Object,
@@ -40,6 +42,7 @@ Public Sub New (
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute("This constructor might be removed in 12.0. For unit testing, consider using IHeadlessWindow mouse methods.")>]
 new : 
         routedEvent : RoutedEvent * 
         source : Object * 
@@ -68,3 +71,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Input_PointerEventArgs">PointerEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

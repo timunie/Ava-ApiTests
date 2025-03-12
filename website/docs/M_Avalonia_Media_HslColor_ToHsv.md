@@ -29,7 +29,7 @@ member ToHsv : unit -> HsvColor
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/HslColor.cs#L176" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/HslColor.cs#L177" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ The HSV equivalent color.
 <a href="T_Avalonia_Media_HslColor">HslColor Structure</a>  
 <a href="Overload_Avalonia_Media_HslColor_ToHsv">ToHsv Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

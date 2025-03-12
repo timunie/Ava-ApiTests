@@ -12,11 +12,13 @@ Gets or sets the drawing content.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Drawing? Drawing \{ get; set; }
+[ContentAttribute]
+public Drawing? Drawing { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public Property Drawing As Drawing
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property Drawing As Drawing
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Drawing : Drawing with get, set
 ```
 </TabItem>
@@ -44,3 +47,4 @@ member Drawing : Drawing with get, set
 #### Reference
 <a href="T_Avalonia_Media_DrawingImage">DrawingImage Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets a collection that contains all the columns in the control.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ObservableCollection<DataGridColumn> Columns \{ get; }
+public ObservableCollection<DataGridColumn> Columns { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -30,7 +30,7 @@ member Columns : ObservableCollection<DataGridColumn> with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGrid.cs#L1373" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGrid.cs#L1376" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ member Columns : ObservableCollection<DataGridColumn> with get
 #### Reference
 <a href="T_Avalonia_Controls_DataGrid">DataGrid Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

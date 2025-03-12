@@ -29,7 +29,7 @@ member RequestCompositionBatchCommitAsync : unit -> CompositionBatch
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rendering/Composition/Compositor.cs#L107" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rendering/Composition/Compositor.cs#L108" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ A CompositionBatch object that provides batch lifetime information
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_Compositor">Compositor Class</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

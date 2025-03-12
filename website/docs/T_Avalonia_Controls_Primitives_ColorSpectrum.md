@@ -12,17 +12,44 @@ A two dimensional spectrum for color selection.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_InputTarget", typeof(Canvas))]
+[TemplatePartAttribute("PART_LayoutRoot", typeof(Panel))]
+[TemplatePartAttribute("PART_SelectionEllipsePanel", typeof(Panel))]
+[TemplatePartAttribute("PART_SizingPanel", typeof(Panel))]
+[TemplatePartAttribute("PART_SpectrumEllipse", typeof(Ellipse))]
+[TemplatePartAttribute("PART_SpectrumRectangle", typeof(Rectangle))]
+[TemplatePartAttribute("PART_SpectrumOverlayEllipse", typeof(Ellipse))]
+[TemplatePartAttribute("PART_SpectrumOverlayRectangle", typeof(Rectangle))]
+[PseudoClassesAttribute(new string[] { ... })]
 public class ColorSpectrum : TemplatedControl
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_InputTarget", GetType(Canvas))>
+<TemplatePartAttribute("PART_LayoutRoot", GetType(Panel))>
+<TemplatePartAttribute("PART_SelectionEllipsePanel", GetType(Panel))>
+<TemplatePartAttribute("PART_SizingPanel", GetType(Panel))>
+<TemplatePartAttribute("PART_SpectrumEllipse", GetType(Ellipse))>
+<TemplatePartAttribute("PART_SpectrumRectangle", GetType(Rectangle))>
+<TemplatePartAttribute("PART_SpectrumOverlayEllipse", GetType(Ellipse))>
+<TemplatePartAttribute("PART_SpectrumOverlayRectangle", GetType(Rectangle))>
+<PseudoClassesAttribute(New String() { ... })>
 Public Class ColorSpectrum
 	Inherits TemplatedControl
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_InputTarget", typeof(Canvas))>]
+[<TemplatePartAttribute("PART_LayoutRoot", typeof(Panel))>]
+[<TemplatePartAttribute("PART_SelectionEllipsePanel", typeof(Panel))>]
+[<TemplatePartAttribute("PART_SizingPanel", typeof(Panel))>]
+[<TemplatePartAttribute("PART_SpectrumEllipse", typeof(Ellipse))>]
+[<TemplatePartAttribute("PART_SpectrumRectangle", typeof(Rectangle))>]
+[<TemplatePartAttribute("PART_SpectrumOverlayEllipse", typeof(Ellipse))>]
+[<TemplatePartAttribute("PART_SpectrumOverlayRectangle", typeof(Rectangle))>]
+[<PseudoClassesAttribute(new string[] { ... })>]
 type ColorSpectrum = 
     class
         inherit TemplatedControl
@@ -1136,10 +1163,6 @@ The control class extends <a href="T_Avalonia_Input_InputElement">InputElement</
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1234,3 +1257,4 @@ The control class extends <a href="T_Avalonia_Input_InputElement">InputElement</
 
 #### Reference
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

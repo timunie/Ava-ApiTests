@@ -63,3 +63,4 @@ new :
 <a href="T_Avalonia_Input_PointerPointProperties">PointerPointProperties Structure</a>  
 <a href="Overload_Avalonia_Input_PointerPointProperties__ctor">PointerPointProperties Overload</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

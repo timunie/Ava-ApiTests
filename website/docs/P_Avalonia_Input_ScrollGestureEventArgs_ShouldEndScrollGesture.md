@@ -12,7 +12,7 @@ When set the ScrollGestureRecognizer should stop its current active scroll gestu
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool ShouldEndScrollGesture \{ get; set; }
+public bool ShouldEndScrollGesture { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ShouldEndScrollGesture : bool with get, set
 #### Reference
 <a href="T_Avalonia_Input_ScrollGestureEventArgs">ScrollGestureEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

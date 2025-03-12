@@ -37,7 +37,7 @@ static let inline (-)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Point.cs#L131" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Point.cs#L132" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ A point that is the result of the subtraction.
 <a href="T_Avalonia_Point">Point Structure</a>  
 <a href="Overload_Avalonia_Point_op_Subtraction">Subtraction Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

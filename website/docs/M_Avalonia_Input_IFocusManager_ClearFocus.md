@@ -12,16 +12,19 @@ Clears currently focused element.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute("This API might be removed in 11.x minor updates. Please consider focusing another element instead of removing focus at all for better UX.")]
 void ClearFocus()
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute("This API might be removed in 11.x minor updates. Please consider focusing another element instead of removing focus at all for better UX.")>
 Sub ClearFocus
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute("This API might be removed in 11.x minor updates. Please consider focusing another element instead of removing focus at all for better UX.")>]
 abstract ClearFocus : unit -> unit 
 ```
 </TabItem>
@@ -39,3 +42,4 @@ abstract ClearFocus : unit -> unit
 #### Reference
 <a href="T_Avalonia_Input_IFocusManager">IFocusManager Interface</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

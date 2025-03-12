@@ -48,3 +48,4 @@ static member GetMenu :
 #### Reference
 <a href="T_Avalonia_Controls_NativeMenu">NativeMenu Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

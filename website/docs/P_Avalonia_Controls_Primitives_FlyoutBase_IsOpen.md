@@ -12,7 +12,7 @@ Gets whether this Flyout is currently Open
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsOpen \{ get; protected set; }
+public bool IsOpen { get; protected set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member IsOpen : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_FlyoutBase">FlyoutBase Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

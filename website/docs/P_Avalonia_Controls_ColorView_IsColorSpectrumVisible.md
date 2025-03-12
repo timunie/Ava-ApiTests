@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the color spectrum tab/panel/page (subvi
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsColorSpectrumVisible \{ get; set; }
+public bool IsColorSpectrumVisible { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member IsColorSpectrumVisible : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ColorView">ColorView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

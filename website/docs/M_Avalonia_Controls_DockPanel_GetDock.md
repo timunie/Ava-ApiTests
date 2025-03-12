@@ -34,7 +34,7 @@ static member GetDock :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/DockPanel.cs#L54" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/DockPanel.cs#L55" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The Dock attached property.
 #### Reference
 <a href="T_Avalonia_Controls_DockPanel">DockPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

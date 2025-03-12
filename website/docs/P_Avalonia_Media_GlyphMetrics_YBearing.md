@@ -12,7 +12,7 @@ Distance from the top extremum of the glyph to the y-origin.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int YBearing \{ get; init; }
+public int YBearing { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member YBearing : int with get, set
 #### Reference
 <a href="T_Avalonia_Media_GlyphMetrics">GlyphMetrics Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

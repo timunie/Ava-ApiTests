@@ -12,7 +12,7 @@ Gets or sets the active time of this animation.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TimeSpan Duration \{ get; set; }
+public TimeSpan Duration { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Duration : TimeSpan with get, set
 #### Reference
 <a href="T_Avalonia_Animation_Animation">Animation Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

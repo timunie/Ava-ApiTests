@@ -37,7 +37,7 @@ member BringDescendantIntoView :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Presenters/ScrollContentPresenter.cs#L239" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Presenters/ScrollContentPresenter.cs#L240" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ True if the scroll offset was changed; otherwise false.
 #### Reference
 <a href="T_Avalonia_Controls_Presenters_ScrollContentPresenter">ScrollContentPresenter Class</a>  
 <a href="N_Avalonia_Controls_Presenters">Avalonia.Controls.Presenters Namespace</a>  
+

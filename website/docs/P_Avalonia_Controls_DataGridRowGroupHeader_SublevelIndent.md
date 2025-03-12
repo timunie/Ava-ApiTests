@@ -12,7 +12,7 @@ Gets or sets a value that indicates the amount that the children of the RowGroup
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double SublevelIndent \{ get; set; }
+public double SublevelIndent { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member SublevelIndent : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGridRowGroupHeader">DataGridRowGroupHeader Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

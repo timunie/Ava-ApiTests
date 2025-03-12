@@ -38,7 +38,7 @@ override CanConvertFrom :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/AvaloniaListConverter.cs#L16" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Collections/AvaloniaListConverter.cs#L17" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ override CanConvertFrom :
 <a href="T_Avalonia_Collections_AvaloniaListConverter_1">AvaloniaListConverter(T) Class</a>  
 <a href="Overload_Avalonia_Collections_AvaloniaListConverter_1_CanConvertFrom">CanConvertFrom Overload</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

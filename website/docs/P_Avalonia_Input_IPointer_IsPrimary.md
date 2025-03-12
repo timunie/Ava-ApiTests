@@ -12,7 +12,7 @@ Gets a value that indicates whether the input is from the primary pointer when m
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool IsPrimary \{ get; }
+bool IsPrimary { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract IsPrimary : bool with get
 #### Reference
 <a href="T_Avalonia_Input_IPointer">IPointer Interface</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

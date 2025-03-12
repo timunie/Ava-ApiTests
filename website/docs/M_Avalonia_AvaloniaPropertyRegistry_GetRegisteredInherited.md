@@ -34,7 +34,7 @@ member GetRegisteredInherited :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaPropertyRegistry.cs#L188" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaPropertyRegistry.cs#L189" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ A collection of <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a> defin
 #### Reference
 <a href="T_Avalonia_AvaloniaPropertyRegistry">AvaloniaPropertyRegistry Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

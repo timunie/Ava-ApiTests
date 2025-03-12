@@ -39,3 +39,4 @@ new : unit -> Decorator
 #### Reference
 <a href="T_Avalonia_Controls_Decorator">Decorator Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

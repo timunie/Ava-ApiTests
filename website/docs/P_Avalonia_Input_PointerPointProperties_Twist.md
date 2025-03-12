@@ -12,7 +12,7 @@ Gets the clockwise rotation in degrees of a pen device around its own major axis
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public float Twist \{
+public float Twist {
 	get;
  }
 ```
@@ -47,3 +47,4 @@ A value between 0.0 and 359.0 in degrees of rotation. The default value is 0.0.
 #### Reference
 <a href="T_Avalonia_Input_PointerPointProperties">PointerPointProperties Structure</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

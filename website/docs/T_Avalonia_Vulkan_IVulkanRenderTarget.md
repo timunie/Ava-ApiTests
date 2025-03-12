@@ -10,17 +10,20 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IVulkanRenderTarget : IDisposable
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IVulkanRenderTarget
 	Inherits IDisposable
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IVulkanRenderTarget = 
     interface
         interface IDisposable
@@ -56,3 +59,4 @@ type IVulkanRenderTarget =
 
 #### Reference
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

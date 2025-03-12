@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-double Scaling \{ get; }
+double Scaling { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -37,3 +37,4 @@ abstract Scaling : float with get
 #### Reference
 <a href="T_Avalonia_Win32_DirectX_IDirect3D11TextureRenderTargetRenderSession">IDirect3D11TextureRenderTargetRenderSession Interface</a>  
 <a href="N_Avalonia_Win32_DirectX">Avalonia.Win32.DirectX Namespace</a>  
+

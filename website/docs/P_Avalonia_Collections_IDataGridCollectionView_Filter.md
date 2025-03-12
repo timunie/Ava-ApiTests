@@ -12,7 +12,7 @@ Gets or sets a callback that is used to determine whether an item is appropriate
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Func<Object, bool> Filter \{ get; set; }
+Func<Object, bool> Filter { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ A method that is used to determine whether an item is appropriate for inclusion 
 #### Reference
 <a href="T_Avalonia_Collections_IDataGridCollectionView">IDataGridCollectionView Interface</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the two HSV color components displayed by the spectrum.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ColorSpectrumComponents ColorSpectrumComponents \{ get; set; }
+public ColorSpectrumComponents ColorSpectrumComponents { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ColorSpectrumComponents : ColorSpectrumComponents with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ColorView">ColorView Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -43,3 +43,4 @@ true if the resulting <a href="https://learn.microsoft.com/dotnet/api/system.com
 #### Reference
 <a href="T_Avalonia_Collections_IDataGridCollectionView">IDataGridCollectionView Interface</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

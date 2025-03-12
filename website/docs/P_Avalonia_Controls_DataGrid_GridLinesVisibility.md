@@ -12,7 +12,7 @@ Gets or sets a value that indicates which grid lines separating inner cells are 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DataGridGridLinesVisibility GridLinesVisibility \{ get; set; }
+public DataGridGridLinesVisibility GridLinesVisibility { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member GridLinesVisibility : DataGridGridLinesVisibility with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGrid">DataGrid Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets focus manager of the root.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IFocusManager? FocusManager \{ get; }
+IFocusManager? FocusManager { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract FocusManager : IFocusManager with get
 #### Reference
 <a href="T_Avalonia_Input_IInputRoot">IInputRoot Interface</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

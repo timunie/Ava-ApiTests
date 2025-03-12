@@ -41,3 +41,4 @@ member CreateGlRenderTarget : unit -> IGlPlatformSurfaceRenderTarget
 <a href="T_Avalonia_LinuxFramebuffer_Output_DrmOutput">DrmOutput Class</a>  
 <a href="Overload_Avalonia_LinuxFramebuffer_Output_DrmOutput_CreateGlRenderTarget">CreateGlRenderTarget Overload</a>  
 <a href="N_Avalonia_LinuxFramebuffer_Output">Avalonia.LinuxFramebuffer.Output Namespace</a>  
+

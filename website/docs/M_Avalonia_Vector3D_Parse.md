@@ -34,7 +34,7 @@ static member Parse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Vector3D.cs#L17" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Vector3D.cs#L18" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ The <a href="T_Avalonia_Vector3D">Vector3D</a>.
 #### Reference
 <a href="T_Avalonia_Vector3D">Vector3D Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

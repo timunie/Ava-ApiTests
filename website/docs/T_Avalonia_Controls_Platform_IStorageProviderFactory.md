@@ -12,16 +12,19 @@ Factory allows to register custom storage provider instead of native implementat
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface IStorageProviderFactory
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface IStorageProviderFactory
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type IStorageProviderFactory = interface end
 ```
 </TabItem>
@@ -46,3 +49,4 @@ type IStorageProviderFactory = interface end
 
 #### Reference
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

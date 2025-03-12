@@ -37,7 +37,7 @@ member AddError :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingNotification.cs#L241" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/BindingNotification.cs#L242" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ member AddError :
 #### Reference
 <a href="T_Avalonia_Data_BindingNotification">BindingNotification Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

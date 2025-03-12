@@ -12,7 +12,7 @@ Gets the type of the binding value.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public BindingValueType Type \{ get; }
+public BindingValueType Type { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Type : BindingValueType with get
 #### Reference
 <a href="T_Avalonia_Data_BindingValue_1">BindingValue(T) Structure</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

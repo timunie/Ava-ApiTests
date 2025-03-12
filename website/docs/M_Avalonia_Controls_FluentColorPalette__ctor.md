@@ -39,3 +39,4 @@ new : unit -> FluentColorPalette
 #### Reference
 <a href="T_Avalonia_Controls_FluentColorPalette">FluentColorPalette Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

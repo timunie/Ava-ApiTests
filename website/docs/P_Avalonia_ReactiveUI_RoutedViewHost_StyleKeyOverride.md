@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected override Type StyleKeyOverride \{ get; }
+protected override Type StyleKeyOverride { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ override StyleKeyOverride : Type with get
 #### Reference
 <a href="T_Avalonia_ReactiveUI_RoutedViewHost">RoutedViewHost Class</a>  
 <a href="N_Avalonia_ReactiveUI">Avalonia.ReactiveUI Namespace</a>  
+

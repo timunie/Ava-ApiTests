@@ -12,7 +12,7 @@ Gets the state of the <a href="F_Avalonia_Input_Gestures_HoldingEvent">HoldingEv
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public HoldingState HoldingState \{ get; }
+public HoldingState HoldingState { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member HoldingState : HoldingState with get
 #### Reference
 <a href="T_Avalonia_Input_HoldingRoutedEventArgs">HoldingRoutedEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

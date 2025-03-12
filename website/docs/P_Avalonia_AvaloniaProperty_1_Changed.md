@@ -12,7 +12,7 @@ Gets an observable that is fired when this property changes on any <a href="T_Av
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IObservable<AvaloniaPropertyChangedEventArgs<TValue>> Changed \{ get; }
+public IObservable<AvaloniaPropertyChangedEventArgs<TValue>> Changed { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ An observable that is fired when this property changes on any <a href="T_Avaloni
 #### Reference
 <a href="T_Avalonia_AvaloniaProperty_1">AvaloniaProperty(TValue) Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

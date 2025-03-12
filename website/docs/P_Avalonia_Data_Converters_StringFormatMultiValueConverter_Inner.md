@@ -12,7 +12,7 @@ Gets an inner value converter which will be called before the string format take
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IMultiValueConverter? Inner \{ get; }
+public IMultiValueConverter? Inner { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Inner : IMultiValueConverter with get
 #### Reference
 <a href="T_Avalonia_Data_Converters_StringFormatMultiValueConverter">StringFormatMultiValueConverter Class</a>  
 <a href="N_Avalonia_Data_Converters">Avalonia.Data.Converters Namespace</a>  
+

@@ -28,7 +28,7 @@ override GetHashCode : unit -> int
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/ThemeVariant.cs#L88" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Styling/ThemeVariant.cs#L89" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override GetHashCode : unit -> int
 #### Reference
 <a href="T_Avalonia_Styling_ThemeVariant">ThemeVariant Class</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

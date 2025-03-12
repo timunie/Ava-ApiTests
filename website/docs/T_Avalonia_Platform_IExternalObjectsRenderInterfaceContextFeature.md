@@ -10,16 +10,19 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface IExternalObjectsRenderInterfaceContextFeature
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface IExternalObjectsRenderInterfaceContextFeature
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type IExternalObjectsRenderInterfaceContextFeature = interface end
 ```
 </TabItem>
@@ -76,3 +79,4 @@ type IExternalObjectsRenderInterfaceContextFeature = interface end
 
 #### Reference
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

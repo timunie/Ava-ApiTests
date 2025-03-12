@@ -52,3 +52,4 @@ The device-independent size.
 <a href="T_Avalonia_PixelSize">PixelSize Structure</a>  
 <a href="Overload_Avalonia_PixelSize_ToSizeWithDpi">ToSizeWithDpi Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

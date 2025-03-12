@@ -12,7 +12,7 @@ Line indentation
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public abstract double Indent \{ get; }
+public abstract double Indent { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Indent : float with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextParagraphProperties">TextParagraphProperties Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

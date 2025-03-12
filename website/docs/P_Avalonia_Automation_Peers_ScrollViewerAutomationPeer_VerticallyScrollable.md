@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool VerticallyScrollable \{ get; }
+public bool VerticallyScrollable { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -46,3 +46,4 @@ override VerticallyScrollable : bool with get
 #### Reference
 <a href="T_Avalonia_Automation_Peers_ScrollViewerAutomationPeer">ScrollViewerAutomationPeer Class</a>  
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

@@ -37,7 +37,7 @@ member Deconstruct :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Size.cs#L292" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Size.cs#L293" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ member Deconstruct :
 #### Reference
 <a href="T_Avalonia_Size">Size Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

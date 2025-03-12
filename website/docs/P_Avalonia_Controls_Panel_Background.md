@@ -12,7 +12,7 @@ Gets or Sets Panel background brush.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IBrush? Background \{ get; set; }
+public IBrush? Background { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Background : IBrush with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Panel">Panel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the first <a href="T_Avalonia_Media_Geometry">Geometry</a> object o
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Geometry? Geometry1 \{ get; set; }
+public Geometry? Geometry1 { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Geometry1 : Geometry with get, set
 #### Reference
 <a href="T_Avalonia_Media_CombinedGeometry">CombinedGeometry Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

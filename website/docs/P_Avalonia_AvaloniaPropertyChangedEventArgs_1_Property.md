@@ -12,7 +12,7 @@ Gets the property that changed.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public AvaloniaProperty<T> Property \{ get; }
+public AvaloniaProperty<T> Property { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The property that changed.
 #### Reference
 <a href="T_Avalonia_AvaloniaPropertyChangedEventArgs_1">AvaloniaPropertyChangedEventArgs(T) Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

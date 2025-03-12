@@ -28,7 +28,7 @@ override GetHashCode : unit -> int
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/CornerRadius.cs#L84" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/CornerRadius.cs#L85" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override GetHashCode : unit -> int
 #### Reference
 <a href="T_Avalonia_CornerRadius">CornerRadius Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

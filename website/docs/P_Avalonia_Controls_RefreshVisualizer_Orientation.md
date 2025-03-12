@@ -12,7 +12,7 @@ Gets or sets a value that indicates the orientation of the visualizer.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RefreshVisualizerOrientation Orientation \{ get; set; }
+public RefreshVisualizerOrientation Orientation { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Orientation : RefreshVisualizerOrientation with get, set
 #### Reference
 <a href="T_Avalonia_Controls_RefreshVisualizer">RefreshVisualizer Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

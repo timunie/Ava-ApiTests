@@ -12,7 +12,7 @@ Gets a value that indicates the force that the pointer device (typically a pen/s
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public float Pressure \{
+public float Pressure {
 	get;
  }
 ```
@@ -47,3 +47,4 @@ A value from 0 to 1.0. The default value is 0.5.
 #### Reference
 <a href="T_Avalonia_Input_PointerPointProperties">PointerPointProperties Structure</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

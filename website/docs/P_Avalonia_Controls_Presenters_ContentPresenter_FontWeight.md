@@ -12,7 +12,7 @@ Gets or sets the font weight.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public FontWeight FontWeight \{ get; set; }
+public FontWeight FontWeight { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member FontWeight : FontWeight with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Presenters_ContentPresenter">ContentPresenter Class</a>  
 <a href="N_Avalonia_Controls_Presenters">Avalonia.Controls.Presenters Namespace</a>  
+

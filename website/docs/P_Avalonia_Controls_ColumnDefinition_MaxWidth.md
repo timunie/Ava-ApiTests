@@ -12,7 +12,7 @@ Gets or sets the maximum width of the column in DIPs.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double MaxWidth \{ get; set; }
+public double MaxWidth { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member MaxWidth : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ColumnDefinition">ColumnDefinition Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

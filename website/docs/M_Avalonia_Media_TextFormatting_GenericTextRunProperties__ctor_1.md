@@ -75,3 +75,4 @@ new :
 <a href="T_Avalonia_Media_TextFormatting_GenericTextRunProperties">GenericTextRunProperties Class</a>  
 <a href="Overload_Avalonia_Media_TextFormatting_GenericTextRunProperties__ctor">GenericTextRunProperties Overload</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the old value of the property.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Optional<T> OldValue \{ get; }
+public Optional<T> OldValue { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member OldValue : Optional<'T> with get
 #### Reference
 <a href="T_Avalonia_AvaloniaPropertyChangedEventArgs_1">AvaloniaPropertyChangedEventArgs(T) Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

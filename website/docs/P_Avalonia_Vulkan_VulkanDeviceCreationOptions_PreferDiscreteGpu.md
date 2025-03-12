@@ -12,7 +12,7 @@ Selects the first suitable discrete gpu available
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool PreferDiscreteGpu \{ get; set; }
+public bool PreferDiscreteGpu { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member PreferDiscreteGpu : bool with get, set
 #### Reference
 <a href="T_Avalonia_Vulkan_VulkanDeviceCreationOptions">VulkanDeviceCreationOptions Class</a>  
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the baseline origin of the<a href="T_Avalonia_Media_GlyphRun">Glyph
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Point BaselineOrigin \{ get; set; }
+public Point BaselineOrigin { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member BaselineOrigin : Point with get, set
 #### Reference
 <a href="T_Avalonia_Media_GlyphRun">GlyphRun Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

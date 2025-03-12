@@ -12,7 +12,7 @@ Gets the initial exception associated with the <a href="E_Avalonia_Controls_Cale
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Exception Exception \{ get; }
+public Exception Exception { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The exception associated with the validation failure.
 #### Reference
 <a href="T_Avalonia_Controls_CalendarDatePickerDateValidationErrorEventArgs">CalendarDatePickerDateValidationErrorEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

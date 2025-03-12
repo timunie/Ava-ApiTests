@@ -12,7 +12,7 @@ Gets an <a href="T_Avalonia_Controls_ItemsSourceView_1">ItemsSourceView(T)</a> o
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected ItemsSourceView<T>? ItemsView \{ get; set; }
+protected ItemsSourceView<T>? ItemsView { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ItemsView : ItemsSourceView<'T> with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Selection_SelectionNodeBase_1">SelectionNodeBase(T) Class</a>  
 <a href="N_Avalonia_Controls_Selection">Avalonia.Controls.Selection Namespace</a>  
+

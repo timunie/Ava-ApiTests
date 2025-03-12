@@ -37,14 +37,6 @@ type Screens = class end
 
 
 
-## Constructors
-<table>
-<tr>
-<td><a href="M_Avalonia_Controls_Screens__ctor">Screens(IScreenImpl)</a></td>
-<td>Initializes a new instance of the Screens class.</td>
-</tr>
-</table>
-
 ## Properties
 <table>
 <tr>
@@ -126,3 +118,4 @@ type Screens = class end
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the new value of the property.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? NewValue \{ get; }
+public Object? NewValue { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member NewValue : Object with get
 #### Reference
 <a href="T_Avalonia_AvaloniaPropertyChangedEventArgs">AvaloniaPropertyChangedEventArgs Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

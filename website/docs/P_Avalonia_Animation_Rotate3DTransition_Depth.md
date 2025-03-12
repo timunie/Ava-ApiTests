@@ -12,7 +12,7 @@ Defines the depth of the 3D Effect. If null, depth will be calculated automatica
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double? Depth \{ get; set; }
+public double? Depth { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Depth : Nullable<float> with get, set
 #### Reference
 <a href="T_Avalonia_Animation_Rotate3DTransition">Rotate3DTransition Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

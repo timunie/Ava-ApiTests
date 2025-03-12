@@ -12,7 +12,7 @@ Gets the <a href="T_Avalonia_Rect">Rect</a> representing the effective viewport.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Rect EffectiveViewport \{ get; }
+public Rect EffectiveViewport { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member EffectiveViewport : Rect with get
 #### Reference
 <a href="T_Avalonia_Layout_EffectiveViewportChangedEventArgs">EffectiveViewportChangedEventArgs Class</a>  
 <a href="N_Avalonia_Layout">Avalonia.Layout Namespace</a>  
+

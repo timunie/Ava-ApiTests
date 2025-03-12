@@ -38,7 +38,7 @@ override CanConvertFrom :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Effects/EffectConverter.cs#L10" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Effects/EffectConverter.cs#L11" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ override CanConvertFrom :
 <a href="T_Avalonia_Media_EffectConverter">EffectConverter Class</a>  
 <a href="Overload_Avalonia_Media_EffectConverter_CanConvertFrom">CanConvertFrom Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

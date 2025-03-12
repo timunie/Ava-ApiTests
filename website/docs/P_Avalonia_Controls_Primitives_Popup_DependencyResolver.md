@@ -12,7 +12,7 @@ Gets or sets a dependency resolver for the <a href="T_Avalonia_Controls_Primitiv
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IAvaloniaDependencyResolver? DependencyResolver \{ get; set; }
+public IAvaloniaDependencyResolver? DependencyResolver { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -36,7 +36,7 @@ member DependencyResolver : IAvaloniaDependencyResolver with get, set
 
 
 #### Property Value
-<a href="T_Avalonia_IAvaloniaDependencyResolver">IAvaloniaDependencyResolver</a>This property allows a client to customize the behaviour of the popup by injecting a specialized dependency resolver into the <a href="T_Avalonia_Controls_Primitives_PopupRoot">PopupRoot</a>'s constructor.
+IAvaloniaDependencyResolverThis property allows a client to customize the behaviour of the popup by injecting a specialized dependency resolver into the <a href="T_Avalonia_Controls_Primitives_PopupRoot">PopupRoot</a>'s constructor.
 
 ## See Also
 
@@ -44,3 +44,4 @@ member DependencyResolver : IAvaloniaDependencyResolver with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_Popup">Popup Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

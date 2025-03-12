@@ -75,3 +75,4 @@ new :
 <a href="T_Avalonia_Media_Immutable_ImmutableLinearGradientBrush">ImmutableLinearGradientBrush Class</a>  
 <a href="Overload_Avalonia_Media_Immutable_ImmutableLinearGradientBrush__ctor">ImmutableLinearGradientBrush Overload</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

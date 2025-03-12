@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IReadOnlyList<FontFallback>? FontFallbacks \{ get; set; }
+public IReadOnlyList<FontFallback>? FontFallbacks { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member FontFallbacks : IReadOnlyList<FontFallback> with get, set
 #### Reference
 <a href="T_Avalonia_Media_FontManagerOptions">FontManagerOptions Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

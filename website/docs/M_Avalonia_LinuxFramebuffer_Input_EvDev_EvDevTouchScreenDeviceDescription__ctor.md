@@ -39,3 +39,4 @@ new : unit -> EvDevTouchScreenDeviceDescription
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_Input_EvDev_EvDevTouchScreenDeviceDescription">EvDevTouchScreenDeviceDescription Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer_Input_EvDev">Avalonia.LinuxFramebuffer.Input.EvDev Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the ItemsControl that the panel is displaying items for.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected ItemsControl? ItemsControl \{ get; }
+protected ItemsControl? ItemsControl { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member ItemsControl : ItemsControl with get
 #### Reference
 <a href="T_Avalonia_Controls_VirtualizingPanel">VirtualizingPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets the client size of the window.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Size ClientSize \{ get; }
+Size ClientSize { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract ClientSize : Size with get
 #### Reference
 <a href="T_Avalonia_Rendering_IRenderRoot">IRenderRoot Interface</a>  
 <a href="N_Avalonia_Rendering">Avalonia.Rendering Namespace</a>  
+

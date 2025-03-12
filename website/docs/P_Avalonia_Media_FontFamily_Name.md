@@ -12,7 +12,7 @@ Gets the primary family name of the font family.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string Name \{ get; }
+public string Name { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The primary name of the font family.
 #### Reference
 <a href="T_Avalonia_Media_FontFamily">FontFamily Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

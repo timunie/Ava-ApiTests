@@ -12,7 +12,7 @@ The name of the property whose item type should be used on the target property.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string AncestorItemsProperty \{ get; }
+public string AncestorItemsProperty { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member AncestorItemsProperty : string with get
 #### Reference
 <a href="T_Avalonia_Metadata_InheritDataTypeFromItemsAttribute">InheritDataTypeFromItemsAttribute Class</a>  
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

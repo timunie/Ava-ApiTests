@@ -85,3 +85,4 @@ type EvDevTouchScreenDeviceDescription =
 
 #### Reference
 <a href="N_Avalonia_LinuxFramebuffer_Input_EvDev">Avalonia.LinuxFramebuffer.Input.EvDev Namespace</a>  
+

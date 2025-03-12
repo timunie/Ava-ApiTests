@@ -37,7 +37,7 @@ member Deconstruct :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Vector.cs#L353" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Vector.cs#L354" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ member Deconstruct :
 #### Reference
 <a href="T_Avalonia_Vector">Vector Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

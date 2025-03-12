@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-INameScope NameScope \{ get; }
+INameScope NameScope { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ abstract NameScope : INameScope with get
 #### Reference
 <a href="T_Avalonia_Controls_Templates_ITemplateResult">ITemplateResult Interface</a>  
 <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates Namespace</a>  
+

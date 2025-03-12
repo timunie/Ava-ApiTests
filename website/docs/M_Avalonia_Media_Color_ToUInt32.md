@@ -29,7 +29,7 @@ member ToUInt32 : unit -> uint32
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Color.cs#L471" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Color.cs#L472" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ The integer representation of the color.
 #### Reference
 <a href="T_Avalonia_Media_Color">Color Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

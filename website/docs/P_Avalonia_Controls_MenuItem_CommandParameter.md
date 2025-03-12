@@ -12,7 +12,7 @@ Gets or sets the parameter to pass to the <a href="P_Avalonia_Controls_MenuItem_
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object? CommandParameter \{ get; set; }
+public Object? CommandParameter { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override CommandParameter : Object with get, set
 #### Reference
 <a href="T_Avalonia_Controls_MenuItem">MenuItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

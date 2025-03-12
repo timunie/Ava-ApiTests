@@ -57,3 +57,4 @@ abstract Log :
 <a href="T_Avalonia_Logging_ILogSink">ILogSink Interface</a>  
 <a href="Overload_Avalonia_Logging_ILogSink_Log">Log Overload</a>  
 <a href="N_Avalonia_Logging">Avalonia.Logging Namespace</a>  
+

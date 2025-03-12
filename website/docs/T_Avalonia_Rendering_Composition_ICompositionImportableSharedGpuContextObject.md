@@ -12,17 +12,20 @@ An GPU object descriptor obtained from a context from the same share group as on
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface ICompositionImportableSharedGpuContextObject : IDisposable
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface ICompositionImportableSharedGpuContextObject
 	Inherits IDisposable
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type ICompositionImportableSharedGpuContextObject = 
     interface
         interface IDisposable
@@ -50,3 +53,4 @@ type ICompositionImportableSharedGpuContextObject =
 
 #### Reference
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

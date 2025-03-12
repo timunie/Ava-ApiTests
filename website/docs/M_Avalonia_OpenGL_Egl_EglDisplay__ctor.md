@@ -40,3 +40,4 @@ new : unit -> EglDisplay
 <a href="T_Avalonia_OpenGL_Egl_EglDisplay">EglDisplay Class</a>  
 <a href="Overload_Avalonia_OpenGL_Egl_EglDisplay__ctor">EglDisplay Overload</a>  
 <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl Namespace</a>  
+

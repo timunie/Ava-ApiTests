@@ -209,7 +209,7 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_Primitives_IPopupHost">IPopupHost</a></td>
-<td>Represents the top-level control opened by a <a href="T_Avalonia_Controls_Primitives_Popup">Popup</a>.</td>
+<td>Represents the top-level control opened by a <a href="T_Avalonia_Controls_Primitives_Popup">Popup</a>.<br /><Tag type="is-info">Unstable.</Tag><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_Primitives_IScrollable">IScrollable</a></td>

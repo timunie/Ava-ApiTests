@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-ITextInputMethodImpl? InputMethod \{ get; }
+ITextInputMethodImpl? InputMethod { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -29,7 +29,7 @@ abstract InputMethod : ITextInputMethodImpl with get
 
 
 #### Property Value
-<a href="T_Avalonia_Input_TextInput_ITextInputMethodImpl">ITextInputMethodImpl</a>
+ITextInputMethodImpl
 
 ## See Also
 
@@ -37,3 +37,4 @@ abstract InputMethod : ITextInputMethodImpl with get
 #### Reference
 <a href="T_Avalonia_Input_TextInput_ITextInputMethodRoot">ITextInputMethodRoot Interface</a>  
 <a href="N_Avalonia_Input_TextInput">Avalonia.Input.TextInput Namespace</a>  
+

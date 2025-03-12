@@ -48,3 +48,4 @@ member GetMetadata : unit -> AvaloniaPropertyMetadata  when 'T : AvaloniaObject
 <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty Class</a>  
 <a href="Overload_Avalonia_AvaloniaProperty_GetMetadata">GetMetadata Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

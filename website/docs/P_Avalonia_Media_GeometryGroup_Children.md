@@ -12,11 +12,13 @@ Gets or sets the collection that contains the child geometries.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public GeometryCollection Children \{ get; set; }
+[ContentAttribute]
+public GeometryCollection Children { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public Property Children As GeometryCollection
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property Children As GeometryCollection
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Children : GeometryCollection with get, set
 ```
 </TabItem>
@@ -44,3 +47,4 @@ member Children : GeometryCollection with get, set
 #### Reference
 <a href="T_Avalonia_Media_GeometryGroup">GeometryGroup Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

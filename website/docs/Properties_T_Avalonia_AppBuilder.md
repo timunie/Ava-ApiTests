@@ -23,7 +23,7 @@
 </tr>
 <tr>
 <td><a href="P_Avalonia_AppBuilder_LifetimeOverride">LifetimeOverride</a></td>
-<td>Gets a method to override a lifetime factory.<br />Obsolete.</td>
+<td>Gets a method to override a lifetime factory.<br /><Tag type="is-danger">Obsolete.</Tag></td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_AppBuilder_RenderingSubsystemInitializer">RenderingSubsystemInitializer</a></td>
@@ -57,3 +57,4 @@
 #### Reference
 <a href="T_Avalonia_AppBuilder">AppBuilder Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

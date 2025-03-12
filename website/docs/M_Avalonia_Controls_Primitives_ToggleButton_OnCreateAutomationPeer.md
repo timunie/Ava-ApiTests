@@ -28,7 +28,7 @@ override OnCreateAutomationPeer : unit -> AutomationPeer
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/ToggleButton.cs#L208" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/ToggleButton.cs#L209" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override OnCreateAutomationPeer : unit -> AutomationPeer
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_ToggleButton">ToggleButton Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

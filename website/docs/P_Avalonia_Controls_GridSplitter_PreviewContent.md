@@ -12,7 +12,7 @@ Gets or sets content that will be shown when <a href="P_Avalonia_Controls_GridSp
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ITemplate<Control> PreviewContent \{ get; set; }
+public ITemplate<Control> PreviewContent { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member PreviewContent : ITemplate<Control> with get, set
 #### Reference
 <a href="T_Avalonia_Controls_GridSplitter">GridSplitter Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

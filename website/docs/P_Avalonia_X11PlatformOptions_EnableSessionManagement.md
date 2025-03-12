@@ -12,7 +12,7 @@ Determines whether to enable support for the X Session Management Protocol.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool EnableSessionManagement \{ get; set; }
+public bool EnableSessionManagement { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member EnableSessionManagement : bool with get, set
 #### Reference
 <a href="T_Avalonia_X11PlatformOptions">X11PlatformOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

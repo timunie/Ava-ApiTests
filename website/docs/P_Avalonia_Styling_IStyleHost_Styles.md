@@ -12,7 +12,7 @@ Gets the styles for the element.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Styles Styles \{ get; }
+Styles Styles { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Styles : Styles with get
 #### Reference
 <a href="T_Avalonia_Styling_IStyleHost">IStyleHost Interface</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

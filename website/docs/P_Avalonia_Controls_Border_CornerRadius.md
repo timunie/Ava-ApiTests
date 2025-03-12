@@ -12,7 +12,7 @@ Gets or sets the radius of the border rounded corners.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public CornerRadius CornerRadius \{ get; set; }
+public CornerRadius CornerRadius { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member CornerRadius : CornerRadius with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Border">Border Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

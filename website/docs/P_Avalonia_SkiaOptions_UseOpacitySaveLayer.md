@@ -12,7 +12,7 @@ Use Skia's SaveLayer API to handling opacity.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool UseOpacitySaveLayer \{ get; set; }
+public bool UseOpacitySaveLayer { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member UseOpacitySaveLayer : bool with get, set
 #### Reference
 <a href="T_Avalonia_SkiaOptions">SkiaOptions Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

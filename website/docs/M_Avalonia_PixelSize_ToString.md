@@ -30,7 +30,7 @@ override ToString : unit -> string
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelSize.cs#L238" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelSize.cs#L239" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ The string representation of the size.
 #### Reference
 <a href="T_Avalonia_PixelSize">PixelSize Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -39,3 +39,4 @@ new : unit -> Label
 #### Reference
 <a href="T_Avalonia_Controls_Label">Label Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

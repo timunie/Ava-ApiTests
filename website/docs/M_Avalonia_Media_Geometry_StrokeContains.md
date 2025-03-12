@@ -37,7 +37,7 @@ member StrokeContains :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Geometry.cs#L123" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Geometry.cs#L124" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ member StrokeContains :
 #### Reference
 <a href="T_Avalonia_Media_Geometry">Geometry Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

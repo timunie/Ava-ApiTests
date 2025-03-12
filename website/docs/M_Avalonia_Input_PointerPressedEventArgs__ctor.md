@@ -12,6 +12,7 @@ Initializes a new instance of the <a href="T_Avalonia_Input_PointerPressedEventA
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute("This constructor might be removed in 12.0. For unit testing, consider using IHeadlessWindow mouse methods.")]
 public PointerPressedEventArgs(
 	Object source,
 	IPointer pointer,
@@ -26,6 +27,7 @@ public PointerPressedEventArgs(
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute("This constructor might be removed in 12.0. For unit testing, consider using IHeadlessWindow mouse methods.")>
 Public Sub New ( 
 	source As Object,
 	pointer As IPointer,
@@ -40,6 +42,7 @@ Public Sub New (
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute("This constructor might be removed in 12.0. For unit testing, consider using IHeadlessWindow mouse methods.")>]
 new : 
         source : Object * 
         pointer : IPointer * 
@@ -72,3 +75,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Input_PointerPressedEventArgs">PointerPressedEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

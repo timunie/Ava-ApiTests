@@ -32,7 +32,7 @@ member ClearDepth :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/GlInterface.cs#L68" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.OpenGL/GlInterface.cs#L69" title="View the source code">View Source</a>
 
 
 
@@ -45,3 +45,4 @@ member ClearDepth :
 #### Reference
 <a href="T_Avalonia_OpenGL_GlInterface">GlInterface Class</a>  
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

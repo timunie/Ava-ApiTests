@@ -12,7 +12,7 @@ Gets a unique identifier for the input pointer.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-int Id \{ get; }
+int Id { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Id : int with get
 #### Reference
 <a href="T_Avalonia_Input_IPointer">IPointer Interface</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

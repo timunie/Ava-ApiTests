@@ -37,7 +37,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/BoxShadows.cs#L22" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/BoxShadows.cs#L23" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ new :
 <a href="T_Avalonia_Media_BoxShadows">BoxShadows Structure</a>  
 <a href="Overload_Avalonia_Media_BoxShadows__ctor">BoxShadows Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -44,3 +44,4 @@ The negated vector.
 <a href="T_Avalonia_Vector">Vector Structure</a>  
 <a href="Overload_Avalonia_Vector_Negate">Negate Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

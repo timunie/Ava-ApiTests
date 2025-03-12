@@ -12,7 +12,7 @@ Gets toggle type of the menu item.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public MenuItemToggleType ToggleType \{ get; set; }
+public MenuItemToggleType ToggleType { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ override ToggleType : MenuItemToggleType with get, set
 #### Reference
 <a href="T_Avalonia_Controls_MenuItem">MenuItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

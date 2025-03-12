@@ -41,7 +41,7 @@ member UseRenderingSubsystem :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AppBuilder.cs#L230" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/AppBuilder.cs#L231" title="View the source code">View Source</a>
 
 
 
@@ -58,3 +58,4 @@ An <a href="T_Avalonia_AppBuilder">AppBuilder</a> instance.
 #### Reference
 <a href="T_Avalonia_AppBuilder">AppBuilder Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

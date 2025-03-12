@@ -30,7 +30,7 @@ override GenerateTypeSafeMetadata : unit -> AvaloniaPropertyMetadata
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/DirectPropertyMetadata%601.cs#L51" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/DirectPropertyMetadata%601.cs#L52" title="View the source code">View Source</a>
 
 
 
@@ -43,3 +43,4 @@ override GenerateTypeSafeMetadata : unit -> AvaloniaPropertyMetadata
 #### Reference
 <a href="T_Avalonia_DirectPropertyMetadata_1">DirectPropertyMetadata(TValue) Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

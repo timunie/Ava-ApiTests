@@ -10,17 +10,20 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface IVulkanExternalSemaphore : IDisposable
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface IVulkanExternalSemaphore
 	Inherits IDisposable
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type IVulkanExternalSemaphore = 
     interface
         interface IDisposable
@@ -64,3 +67,4 @@ type IVulkanExternalSemaphore =
 
 #### Reference
 <a href="N_Avalonia_Vulkan">Avalonia.Vulkan Namespace</a>  
+

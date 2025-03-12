@@ -36,7 +36,7 @@ static member AffectsParentArrange :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Panel.cs#L105" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Panel.cs#L106" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ static member AffectsParentArrange :
 #### Reference
 <a href="T_Avalonia_Controls_Panel">Panel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

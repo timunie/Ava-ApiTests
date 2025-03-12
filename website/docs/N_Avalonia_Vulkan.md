@@ -45,7 +45,7 @@
 <table>
 <tr>
 <td><a href="T_Avalonia_Vulkan_IVulkanContextExternalObjectsFeature">IVulkanContextExternalObjectsFeature</a></td>
-<td> </td>
+<td><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Vulkan_IVulkanDevice">IVulkanDevice</a></td>
@@ -53,11 +53,11 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Vulkan_IVulkanExternalImage">IVulkanExternalImage</a></td>
-<td> </td>
+<td><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Vulkan_IVulkanExternalSemaphore">IVulkanExternalSemaphore</a></td>
-<td> </td>
+<td><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Vulkan_IVulkanInstance">IVulkanInstance</a></td>
@@ -73,15 +73,15 @@
 </tr>
 <tr>
 <td><a href="T_Avalonia_Vulkan_IVulkanPlatformGraphicsContext">IVulkanPlatformGraphicsContext</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Vulkan_IVulkanRenderSession">IVulkanRenderSession</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Vulkan_IVulkanRenderTarget">IVulkanRenderTarget</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Vulkan_VulkanPlatformGraphics_IVulkanDeviceFactory">VulkanPlatformGraphics.IVulkanDeviceFactory</a></td>

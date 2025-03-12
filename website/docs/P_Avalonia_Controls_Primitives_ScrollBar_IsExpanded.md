@@ -12,7 +12,7 @@ Gets a value that indicates whether the scrollbar is expanded.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsExpanded \{ get; }
+public bool IsExpanded { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IsExpanded : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_ScrollBar">ScrollBar Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

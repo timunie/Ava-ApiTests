@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Styling_Style">Style Class</a>  
 <a href="Overload_Avalonia_Styling_Style__ctor">Style Overload</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

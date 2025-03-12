@@ -12,7 +12,7 @@ Gets or sets the point1.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Point Point1 \{ get; set; }
+public Point Point1 { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The point1.
 #### Reference
 <a href="T_Avalonia_Media_BezierSegment">BezierSegment Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

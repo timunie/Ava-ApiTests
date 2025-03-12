@@ -36,7 +36,7 @@ override OnDetachedFromVisualTree :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/AccessText.cs#L104" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/AccessText.cs#L105" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnDetachedFromVisualTree :
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_AccessText">AccessText Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

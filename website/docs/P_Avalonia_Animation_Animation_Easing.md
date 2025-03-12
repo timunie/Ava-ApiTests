@@ -12,7 +12,7 @@ Gets or sets the easing function to be used for this animation.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Easing Easing \{ get; set; }
+public Easing Easing { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Easing : Easing with get, set
 #### Reference
 <a href="T_Avalonia_Animation_Animation">Animation Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

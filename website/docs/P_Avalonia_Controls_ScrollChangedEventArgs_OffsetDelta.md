@@ -12,7 +12,7 @@ Gets the change to the value of <a href="P_Avalonia_Controls_ScrollViewer_Offset
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Vector OffsetDelta \{ get; }
+public Vector OffsetDelta { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member OffsetDelta : Vector with get
 #### Reference
 <a href="T_Avalonia_Controls_ScrollChangedEventArgs">ScrollChangedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

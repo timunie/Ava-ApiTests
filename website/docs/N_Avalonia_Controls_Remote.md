@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td><a href="T_Avalonia_Controls_Remote_RemoteServer">RemoteServer</a></td>
-<td> </td>
+<td><Tag type="is-info">Unstable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Controls_Remote_RemoteWidget">RemoteWidget</a></td>

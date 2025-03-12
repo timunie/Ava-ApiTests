@@ -12,7 +12,7 @@ Get a configuration for platform-specific hotkeys in an Avalonia application.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-PlatformHotkeyConfiguration HotkeyConfiguration \{ get; }
+PlatformHotkeyConfiguration HotkeyConfiguration { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract HotkeyConfiguration : PlatformHotkeyConfiguration with get
 #### Reference
 <a href="T_Avalonia_Platform_IPlatformSettings">IPlatformSettings Interface</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

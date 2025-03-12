@@ -12,11 +12,13 @@ Represents a button on a <a href="T_Avalonia_Controls_Calendar">Calendar</a>.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[PseudoClassesAttribute(new string[] { ... })]
 public sealed class CalendarButton : Button
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<PseudoClassesAttribute(New String() { ... })>
 Public NotInheritable Class CalendarButton
 	Inherits Button
 ```
@@ -24,6 +26,7 @@ Public NotInheritable Class CalendarButton
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<PseudoClassesAttribute(new string[] { ... })>]
 type CalendarButton = 
     class
         inherit Button
@@ -865,10 +868,6 @@ type CalendarButton =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -963,3 +962,4 @@ type CalendarButton =
 
 #### Reference
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

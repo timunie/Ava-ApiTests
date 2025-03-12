@@ -42,3 +42,4 @@ static val PageTransitionProperty: StyledProperty<IPageTransition>
 #### Reference
 <a href="T_Avalonia_Controls_Carousel">Carousel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

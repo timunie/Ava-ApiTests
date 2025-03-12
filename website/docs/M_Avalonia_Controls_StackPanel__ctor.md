@@ -39,3 +39,4 @@ new : unit -> StackPanel
 #### Reference
 <a href="T_Avalonia_Controls_StackPanel">StackPanel Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

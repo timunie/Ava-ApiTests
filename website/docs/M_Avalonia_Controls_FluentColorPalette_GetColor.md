@@ -40,7 +40,7 @@ override GetColor :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/ColorPalettes/FluentColorPalette.cs#L130" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/ColorPalettes/FluentColorPalette.cs#L131" title="View the source code">View Source</a>
 
 
 
@@ -61,3 +61,4 @@ The color at the specified index or an exception.
 #### Reference
 <a href="T_Avalonia_Controls_FluentColorPalette">FluentColorPalette Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

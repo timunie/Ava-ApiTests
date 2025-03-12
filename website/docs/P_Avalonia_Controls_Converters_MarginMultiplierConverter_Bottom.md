@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool Bottom \{ get; set; }
+public bool Bottom { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member Bottom : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Converters_MarginMultiplierConverter">MarginMultiplierConverter Class</a>  
 <a href="N_Avalonia_Controls_Converters">Avalonia.Controls.Converters Namespace</a>  
+

@@ -38,7 +38,7 @@ override Insert :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/obj/GeneratedFiles/DevGenerators/Avalonia.SourceGenerator.CompositionGenerator.CompositionRoslynGenerator/CompositionVisualCollection.generated.cs#L59" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/obj/GeneratedFiles/DevGenerators/Avalonia.SourceGenerator.CompositionGenerator.CompositionRoslynGenerator/CompositionVisualCollection.generated.cs#L60" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ override Insert :
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_CompositionVisualCollection">CompositionVisualCollection Class</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets whether the exception should be caught and the event handlers calle
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool RequestCatch \{ get; set; }
+public bool RequestCatch { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -31,7 +31,7 @@ member RequestCatch : bool with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherUnhandledExceptionFilterEventArgs.cs#L46" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Threading/DispatcherUnhandledExceptionFilterEventArgs.cs#L47" title="View the source code">View Source</a>
 
 
 
@@ -46,3 +46,4 @@ member RequestCatch : bool with get, set
 #### Reference
 <a href="T_Avalonia_Threading_DispatcherUnhandledExceptionFilterEventArgs">DispatcherUnhandledExceptionFilterEventArgs Class</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

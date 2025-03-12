@@ -42,7 +42,7 @@ override OnPropertyChanged :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Notifications/Notification.cs#L94" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Notifications/Notification.cs#L95" title="View the source code">View Source</a>
 
 
 
@@ -55,3 +55,4 @@ override OnPropertyChanged :
 #### Reference
 <a href="T_Avalonia_Controls_Notifications_Notification">Notification Class</a>  
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
+

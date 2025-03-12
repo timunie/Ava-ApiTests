@@ -12,7 +12,7 @@ Gets the X component.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double X \{ get; }
+public double X { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member X : float with get
 #### Reference
 <a href="T_Avalonia_Vector">Vector Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

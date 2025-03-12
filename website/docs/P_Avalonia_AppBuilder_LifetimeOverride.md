@@ -20,7 +20,7 @@ Gets a method to override a lifetime factory.
 <TabItem value="csharp" label="C#">
 ```csharp
 [ObsoleteAttribute("This property has no effect", true)]
-public Func<Type, IApplicationLifetime?>? LifetimeOverride \{ get; }
+public Func<Type, IApplicationLifetime?>? LifetimeOverride { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -53,3 +53,4 @@ member LifetimeOverride : Func<Type, IApplicationLifetime> with get
 #### Reference
 <a href="T_Avalonia_AppBuilder">AppBuilder Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

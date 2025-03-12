@@ -12,7 +12,7 @@ Gets or sets a value that indicates whether the control supports three states.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsThreeState \{ get; set; }
+public bool IsThreeState { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member IsThreeState : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_ToggleButton">ToggleButton Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

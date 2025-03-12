@@ -12,11 +12,13 @@ Defines all pseudoclasses by name referenced and implemented by a control.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AttributeUsageAttribute(AttributeTargets.Class, AllowMultiple = true)]
 public sealed class PseudoClassesAttribute : Attribute
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AttributeUsageAttribute(AttributeTargets.Class, AllowMultiple := true)>
 Public NotInheritable Class PseudoClassesAttribute
 	Inherits Attribute
 ```
@@ -24,6 +26,7 @@ Public NotInheritable Class PseudoClassesAttribute
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<AttributeUsageAttribute(AttributeTargets.Class, AllowMultiple = true)>]
 type PseudoClassesAttribute = 
     class
         inherit Attribute
@@ -95,3 +98,4 @@ This is currently used for code-completion in certain IDEs.
 
 #### Reference
 <a href="N_Avalonia_Controls_Metadata">Avalonia.Controls.Metadata Namespace</a>  
+

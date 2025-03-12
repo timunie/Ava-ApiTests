@@ -12,7 +12,7 @@ Gets or sets a value indicating whether the template part is mandatory to be pre
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsRequired \{ get; set; }
+public bool IsRequired { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member IsRequired : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Metadata_TemplatePartAttribute">TemplatePartAttribute Class</a>  
 <a href="N_Avalonia_Controls_Metadata">Avalonia.Controls.Metadata Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the Flyout that should be shown with this button.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public FlyoutBase? Flyout \{ get; set; }
+public FlyoutBase? Flyout { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Flyout : FlyoutBase with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Button">Button Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

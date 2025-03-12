@@ -34,7 +34,7 @@ member Contains :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rect.cs#L235" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rect.cs#L236" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ true if the point is in the bounds of the rectangle; otherwise false.
 <a href="T_Avalonia_Rect">Rect Structure</a>  
 <a href="Overload_Avalonia_Rect_Contains">Contains Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

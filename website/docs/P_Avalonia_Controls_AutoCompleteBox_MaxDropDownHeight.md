@@ -12,7 +12,7 @@ Gets or sets the maximum height of the drop-down portion of the <a href="T_Avalo
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double MaxDropDownHeight \{ get; set; }
+public double MaxDropDownHeight { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -53,3 +53,4 @@ The maximum height of the drop-down portion of the <a href="T_Avalonia_Controls_
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

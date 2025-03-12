@@ -12,7 +12,7 @@ Gets or sets the Uniform Resource Identifier (URI) automatically navigated to wh
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Uri? NavigateUri \{ get; set; }
+public Uri? NavigateUri { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -46,3 +46,4 @@ member NavigateUri : Uri with get, set
 #### Reference
 <a href="T_Avalonia_Controls_HyperlinkButton">HyperlinkButton Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

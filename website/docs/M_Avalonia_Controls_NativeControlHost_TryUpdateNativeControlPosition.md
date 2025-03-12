@@ -27,7 +27,7 @@ member TryUpdateNativeControlPosition : unit -> bool
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/NativeControlHost.cs#L166" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/NativeControlHost.cs#L167" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ member TryUpdateNativeControlPosition : unit -> bool
 #### Reference
 <a href="T_Avalonia_Controls_NativeControlHost">NativeControlHost Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -12,11 +12,13 @@ Gets or sets the children.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Transforms Children \{ get; set; }
+[ContentAttribute]
+public Transforms Children { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public Property Children As Transforms
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property Children As Transforms
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Children : Transforms with get, set
 ```
 </TabItem>
@@ -45,3 +48,4 @@ The children.
 #### Reference
 <a href="T_Avalonia_Media_TransformGroup">TransformGroup Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -32,7 +32,7 @@ member SendHandlerMessage :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rendering/Composition/CompositionCustomVisual.cs#L22" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Rendering/Composition/CompositionCustomVisual.cs#L23" title="View the source code">View Source</a>
 
 
 
@@ -45,3 +45,4 @@ member SendHandlerMessage :
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_CompositionCustomVisual">CompositionCustomVisual Class</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

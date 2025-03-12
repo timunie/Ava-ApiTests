@@ -12,7 +12,7 @@ Gets the vertical offset of the translate.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Y \{ get; set; }
+public double Y { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Y : float with get, set
 #### Reference
 <a href="T_Avalonia_Media_TranslateTransform">TranslateTransform Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

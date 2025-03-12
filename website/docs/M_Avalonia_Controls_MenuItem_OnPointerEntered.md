@@ -36,7 +36,7 @@ override OnPointerEntered :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/MenuItem.cs#L495" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/MenuItem.cs#L496" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ override OnPointerEntered :
 #### Reference
 <a href="T_Avalonia_Controls_MenuItem">MenuItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

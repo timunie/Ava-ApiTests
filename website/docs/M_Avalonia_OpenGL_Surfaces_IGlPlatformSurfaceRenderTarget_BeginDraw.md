@@ -40,3 +40,4 @@ abstract BeginDraw : unit -> IGlPlatformSurfaceRenderingSession
 #### Reference
 <a href="T_Avalonia_OpenGL_Surfaces_IGlPlatformSurfaceRenderTarget">IGlPlatformSurfaceRenderTarget Interface</a>  
 <a href="N_Avalonia_OpenGL_Surfaces">Avalonia.OpenGL.Surfaces Namespace</a>  
+

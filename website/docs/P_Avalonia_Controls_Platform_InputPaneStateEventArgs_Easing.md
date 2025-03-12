@@ -12,7 +12,7 @@ The easing of the input pane's state changed animation.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IEasing? Easing \{ get; }
+public IEasing? Easing { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Easing : IEasing with get
 #### Reference
 <a href="T_Avalonia_Controls_Platform_InputPaneStateEventArgs">InputPaneStateEventArgs Class</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

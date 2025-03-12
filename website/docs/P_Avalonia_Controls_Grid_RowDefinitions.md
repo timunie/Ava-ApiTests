@@ -12,7 +12,7 @@ Returns a RowDefinitions of row definitions.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RowDefinitions RowDefinitions \{ get; set; }
+public RowDefinitions RowDefinitions { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -31,7 +31,7 @@ member RowDefinitions : RowDefinitions with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Grid.cs#L193" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Grid.cs#L194" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ member RowDefinitions : RowDefinitions with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Grid">Grid Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

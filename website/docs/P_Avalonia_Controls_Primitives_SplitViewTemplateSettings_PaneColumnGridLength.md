@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public GridLength PaneColumnGridLength \{ get; }
+public GridLength PaneColumnGridLength { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member PaneColumnGridLength : GridLength with get
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_SplitViewTemplateSettings">SplitViewTemplateSettings Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

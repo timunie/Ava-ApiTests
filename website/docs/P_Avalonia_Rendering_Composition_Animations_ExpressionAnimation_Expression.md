@@ -12,7 +12,7 @@ The mathematical equation specifying how the animated value is calculated each f
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? Expression \{ get; set; }
+public string? Expression { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Expression : string with get, set
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_Animations_ExpressionAnimation">ExpressionAnimation Class</a>  
 <a href="N_Avalonia_Rendering_Composition_Animations">Avalonia.Rendering.Composition.Animations Namespace</a>  
+

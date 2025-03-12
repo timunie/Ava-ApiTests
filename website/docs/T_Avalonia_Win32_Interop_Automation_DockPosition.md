@@ -10,16 +10,22 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[ComVisibleAttribute(true)]
+[GuidAttribute("70d46e77-e3a8-449d-913c-e30eb2afecdb")]
 public enum DockPosition
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ComVisibleAttribute(true)>
+<GuidAttribute("70d46e77-e3a8-449d-913c-e30eb2afecdb")>
 Public Enumeration DockPosition
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ComVisibleAttribute(true)>]
+[<GuidAttribute("70d46e77-e3a8-449d-913c-e30eb2afecdb")>]
 type DockPosition
 ```
 </TabItem>
@@ -66,3 +72,4 @@ type DockPosition
 
 #### Reference
 <a href="N_Avalonia_Win32_Interop_Automation">Avalonia.Win32.Interop.Automation Namespace</a>  
+

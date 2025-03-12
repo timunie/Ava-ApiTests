@@ -12,17 +12,20 @@ Represents a mutable brush which can return an immutable clone of itself.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IMutableExperimentalAcrylicMaterial : IExperimentalAcrylicMaterial
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IMutableExperimentalAcrylicMaterial
 	Inherits IExperimentalAcrylicMaterial
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IMutableExperimentalAcrylicMaterial = 
     interface
         interface IExperimentalAcrylicMaterial
@@ -86,3 +89,4 @@ type IMutableExperimentalAcrylicMaterial =
 
 #### Reference
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

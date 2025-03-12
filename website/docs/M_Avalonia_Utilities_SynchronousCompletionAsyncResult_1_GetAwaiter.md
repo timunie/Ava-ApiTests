@@ -40,3 +40,4 @@ member GetAwaiter : unit -> SynchronousCompletionAsyncResult<'T>
 #### Reference
 <a href="T_Avalonia_Utilities_SynchronousCompletionAsyncResult_1">SynchronousCompletionAsyncResult(T) Structure</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

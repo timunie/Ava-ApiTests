@@ -36,7 +36,7 @@ override Ease :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/Easings/ExponentialEaseInOut.cs#L13" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/Easings/ExponentialEaseInOut.cs#L14" title="View the source code">View Source</a>
 
 
 
@@ -56,3 +56,4 @@ override Ease :
 #### Reference
 <a href="T_Avalonia_Animation_Easings_ExponentialEaseInOut">ExponentialEaseInOut Class</a>  
 <a href="N_Avalonia_Animation_Easings">Avalonia.Animation.Easings Namespace</a>  
+

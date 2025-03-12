@@ -12,7 +12,7 @@ Identifies the property that gets the selected items in a container.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static AutomationProperty SelectionProperty \{ get; }
+public static AutomationProperty SelectionProperty { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member SelectionProperty : AutomationProperty with get
 #### Reference
 <a href="T_Avalonia_Automation_SelectionPatternIdentifiers">SelectionPatternIdentifiers Class</a>  
 <a href="N_Avalonia_Automation">Avalonia.Automation Namespace</a>  
+

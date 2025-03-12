@@ -12,7 +12,7 @@ Gets the total number of screens available on the device.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int ScreenCount \{ get; }
+public int ScreenCount { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member ScreenCount : int with get
 #### Reference
 <a href="T_Avalonia_Controls_Screens">Screens Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

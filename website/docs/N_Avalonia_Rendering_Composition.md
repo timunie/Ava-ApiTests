@@ -109,31 +109,31 @@
 <table>
 <tr>
 <td><a href="T_Avalonia_Rendering_Composition_ICompositionGpuImportedObject">ICompositionGpuImportedObject</a></td>
-<td>An imported GPU object that's usable by composition APIs</td>
+<td>An imported GPU object that's usable by composition APIs<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Rendering_Composition_ICompositionGpuInterop">ICompositionGpuInterop</a></td>
-<td> </td>
+<td><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Rendering_Composition_ICompositionImportableSharedGpuContextImage">ICompositionImportableSharedGpuContextImage</a></td>
-<td>An GPU image descriptor obtained from a context from the same share group as one used by the compositor</td>
+<td>An GPU image descriptor obtained from a context from the same share group as one used by the compositor<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Rendering_Composition_ICompositionImportableSharedGpuContextObject">ICompositionImportableSharedGpuContextObject</a></td>
-<td>An GPU object descriptor obtained from a context from the same share group as one used by the compositor</td>
+<td>An GPU object descriptor obtained from a context from the same share group as one used by the compositor<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Rendering_Composition_ICompositionImportableSharedGpuContextSemaphore">ICompositionImportableSharedGpuContextSemaphore</a></td>
-<td>An GPU semaphore descriptor obtained from a context from the same share group as one used by the compositor</td>
+<td>An GPU semaphore descriptor obtained from a context from the same share group as one used by the compositor<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Rendering_Composition_ICompositionImportedGpuImage">ICompositionImportedGpuImage</a></td>
-<td>An imported GPU image object that's usable by composition APIs</td>
+<td>An imported GPU image object that's usable by composition APIs<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 <tr>
 <td><a href="T_Avalonia_Rendering_Composition_ICompositionImportedGpuSemaphore">ICompositionImportedGpuSemaphore</a></td>
-<td>An imported GPU semaphore object that's usable by composition APIs</td>
+<td>An imported GPU semaphore object that's usable by composition APIs<br /><Tag type="is-warning">Not client implementable.</Tag></td>
 </tr>
 </table>
 

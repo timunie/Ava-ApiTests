@@ -12,7 +12,7 @@ Gets the type of error that <a href="P_Avalonia_Data_BindingNotification_Error">
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public BindingErrorType ErrorType \{ get; set; }
+public BindingErrorType ErrorType { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ErrorType : BindingErrorType with get, set
 #### Reference
 <a href="T_Avalonia_Data_BindingNotification">BindingNotification Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

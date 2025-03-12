@@ -41,3 +41,4 @@ override GetRenderBounds : unit -> Rect
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_CompositionCustomVisualHandler">CompositionCustomVisualHandler Class</a>  
 <a href="N_Avalonia_Rendering_Composition">Avalonia.Rendering.Composition Namespace</a>  
+

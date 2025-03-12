@@ -12,7 +12,7 @@ Returns a binding value with a type of <a href="T_Avalonia_Data_BindingValueType
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static BindingValue<T> DoNothing \{ get; }
+public static BindingValue<T> DoNothing { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member DoNothing : BindingValue<'T> with get
 #### Reference
 <a href="T_Avalonia_Data_BindingValue_1">BindingValue(T) Structure</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

@@ -12,11 +12,13 @@ Gets or sets the content to display in this flyout
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Object Content \{ get; set; }
+[ContentAttribute]
+public Object Content { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public Property Content As Object
 	Get
 	Set
@@ -24,6 +26,7 @@ Public Property Content As Object
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Content : Object with get, set
 ```
 </TabItem>
@@ -44,3 +47,4 @@ member Content : Object with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Flyout">Flyout Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

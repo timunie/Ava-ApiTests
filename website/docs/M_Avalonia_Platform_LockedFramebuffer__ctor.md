@@ -62,3 +62,4 @@ new :
 #### Reference
 <a href="T_Avalonia_Platform_LockedFramebuffer">LockedFramebuffer Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Action<AppBuilder> AfterPlatformServicesSetupCallback \{ get; }
+public Action<AppBuilder> AfterPlatformServicesSetupCallback { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member AfterPlatformServicesSetupCallback : Action<AppBuilder> with get
 #### Reference
 <a href="T_Avalonia_AppBuilder">AppBuilder Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

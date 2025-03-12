@@ -51,3 +51,4 @@ override Equals :
 <a href="T_Avalonia_VisualTree_TransformedBounds">TransformedBounds Structure</a>  
 <a href="Overload_Avalonia_VisualTree_TransformedBounds_Equals">Equals Overload</a>  
 <a href="N_Avalonia_VisualTree">Avalonia.VisualTree Namespace</a>  
+

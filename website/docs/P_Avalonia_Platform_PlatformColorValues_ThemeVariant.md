@@ -12,7 +12,7 @@ System theme variant or mode.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PlatformThemeVariant ThemeVariant \{ get; init; }
+public PlatformThemeVariant ThemeVariant { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ThemeVariant : PlatformThemeVariant with get, set
 #### Reference
 <a href="T_Avalonia_Platform_PlatformColorValues">PlatformColorValues Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

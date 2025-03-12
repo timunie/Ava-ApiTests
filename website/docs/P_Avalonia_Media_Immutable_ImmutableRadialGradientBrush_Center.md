@@ -12,7 +12,7 @@ Gets the start point for the gradient.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RelativePoint Center \{ get; }
+public RelativePoint Center { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ override Center : RelativePoint with get
 #### Reference
 <a href="T_Avalonia_Media_Immutable_ImmutableRadialGradientBrush">ImmutableRadialGradientBrush Class</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

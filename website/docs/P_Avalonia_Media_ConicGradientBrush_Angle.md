@@ -12,7 +12,7 @@ Gets or sets the angle of the start and end of the sweep, measured from above th
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double Angle \{ get; set; }
+public double Angle { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override Angle : float with get, set
 #### Reference
 <a href="T_Avalonia_Media_ConicGradientBrush">ConicGradientBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

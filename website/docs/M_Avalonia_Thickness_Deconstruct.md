@@ -43,7 +43,7 @@ member Deconstruct :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Thickness.cs#L279" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Thickness.cs#L280" title="View the source code">View Source</a>
 
 
 
@@ -56,3 +56,4 @@ member Deconstruct :
 #### Reference
 <a href="T_Avalonia_Thickness">Thickness Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

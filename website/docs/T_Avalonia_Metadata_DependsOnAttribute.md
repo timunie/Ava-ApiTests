@@ -12,11 +12,15 @@ Indicates that the property depends on the value of another property in markup.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AttributeUsageAttribute(AttributeTargets.Method|AttributeTargets.Property, Inherited = true, 
+	AllowMultiple = true)]
 public sealed class DependsOnAttribute : Attribute
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AttributeUsageAttribute(AttributeTargets.Method Or AttributeTargets.Property, Inherited := true, 
+	AllowMultiple := true)>
 Public NotInheritable Class DependsOnAttribute
 	Inherits Attribute
 ```
@@ -24,6 +28,8 @@ Public NotInheritable Class DependsOnAttribute
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<AttributeUsageAttribute(AttributeTargets.Method|AttributeTargets.Property, Inherited = true, 
+	AllowMultiple = true)>]
 type DependsOnAttribute = 
     class
         inherit Attribute
@@ -95,3 +101,4 @@ type DependsOnAttribute =
 
 #### Reference
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

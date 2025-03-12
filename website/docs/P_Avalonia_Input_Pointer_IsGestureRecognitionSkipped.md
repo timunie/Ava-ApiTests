@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsGestureRecognitionSkipped \{ get; set; }
+public bool IsGestureRecognitionSkipped { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member IsGestureRecognitionSkipped : bool with get, set
 #### Reference
 <a href="T_Avalonia_Input_Pointer">Pointer Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

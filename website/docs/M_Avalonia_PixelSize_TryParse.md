@@ -37,7 +37,7 @@ static member TryParse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelSize.cs#L89" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelSize.cs#L90" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ static member TryParse :
 #### Reference
 <a href="T_Avalonia_PixelSize">PixelSize Structure</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

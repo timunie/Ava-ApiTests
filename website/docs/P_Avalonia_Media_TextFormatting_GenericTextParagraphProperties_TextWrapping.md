@@ -12,7 +12,7 @@ This property controls whether or not text wraps when it reaches the flow edge o
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public override TextWrapping TextWrapping \{ get; }
+public override TextWrapping TextWrapping { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ override TextWrapping : TextWrapping with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_GenericTextParagraphProperties">GenericTextParagraphProperties Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

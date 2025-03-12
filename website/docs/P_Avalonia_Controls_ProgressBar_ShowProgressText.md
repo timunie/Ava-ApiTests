@@ -12,7 +12,7 @@ Gets or sets a value indicating whether progress text will be shown.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool ShowProgressText \{ get; set; }
+public bool ShowProgressText { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ShowProgressText : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_ProgressBar">ProgressBar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

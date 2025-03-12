@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static TransformOperations Identity \{ get; }
+public static TransformOperations Identity { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ static member Identity : TransformOperations with get
 #### Reference
 <a href="T_Avalonia_Media_Transformation_TransformOperations">TransformOperations Class</a>  
 <a href="N_Avalonia_Media_Transformation">Avalonia.Media.Transformation Namespace</a>  
+

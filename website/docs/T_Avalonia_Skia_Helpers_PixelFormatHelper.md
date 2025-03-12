@@ -52,3 +52,4 @@ type PixelFormatHelper = class end
 
 #### Reference
 <a href="N_Avalonia_Skia_Helpers">Avalonia.Skia.Helpers Namespace</a>  
+

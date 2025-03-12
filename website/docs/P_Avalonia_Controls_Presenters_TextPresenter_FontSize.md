@@ -12,7 +12,7 @@ Gets or sets the font size.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public double FontSize \{ get; set; }
+public double FontSize { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member FontSize : float with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Presenters_TextPresenter">TextPresenter Class</a>  
 <a href="N_Avalonia_Controls_Presenters">Avalonia.Controls.Presenters Namespace</a>  
+

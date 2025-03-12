@@ -12,7 +12,7 @@ Gets the control's bounds in its local coordinate space.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Rect Bounds \{ get; }
+public Rect Bounds { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Bounds : Rect with get
 #### Reference
 <a href="T_Avalonia_VisualTree_TransformedBounds">TransformedBounds Structure</a>  
 <a href="N_Avalonia_VisualTree">Avalonia.VisualTree Namespace</a>  
+

@@ -38,7 +38,7 @@ member GetRegisteredDirect :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaPropertyRegistry.cs#L259" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaPropertyRegistry.cs#L260" title="View the source code">View Source</a>
 
 
 
@@ -59,3 +59,4 @@ The registered.
 <a href="T_Avalonia_AvaloniaPropertyRegistry">AvaloniaPropertyRegistry Class</a>  
 <a href="Overload_Avalonia_AvaloniaPropertyRegistry_GetRegisteredDirect">GetRegisteredDirect Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -27,7 +27,7 @@ member Listen : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.DesignerSupport/Remote/HtmlTransport/SimpleWebSocketHttpServer.cs#L99" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.DesignerSupport/Remote/HtmlTransport/SimpleWebSocketHttpServer.cs#L100" title="View the source code">View Source</a>
 
 
 
@@ -37,3 +37,4 @@ member Listen : unit -> unit
 #### Reference
 <a href="T_Avalonia_DesignerSupport_Remote_HtmlTransport_SimpleWebSocketHttpServer">SimpleWebSocketHttpServer Class</a>  
 <a href="N_Avalonia_DesignerSupport_Remote_HtmlTransport">Avalonia.DesignerSupport.Remote.HtmlTransport Namespace</a>  
+

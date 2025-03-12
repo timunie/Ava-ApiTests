@@ -32,7 +32,7 @@ member TakeIf :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/CharacterReader.cs#L50" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/CharacterReader.cs#L51" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ member TakeIf :
 <a href="T_Avalonia_Utilities_CharacterReader">CharacterReader Structure</a>  
 <a href="Overload_Avalonia_Utilities_CharacterReader_TakeIf">TakeIf Overload</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

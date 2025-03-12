@@ -12,17 +12,26 @@ Represents a spinner control that includes two Buttons.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_DecreaseButton", typeof(Button))]
+[TemplatePartAttribute("PART_IncreaseButton", typeof(Button))]
+[PseudoClassesAttribute(new string[] { ... })]
 public class ButtonSpinner : Spinner
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_DecreaseButton", GetType(Button))>
+<TemplatePartAttribute("PART_IncreaseButton", GetType(Button))>
+<PseudoClassesAttribute(New String() { ... })>
 Public Class ButtonSpinner
 	Inherits Spinner
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_DecreaseButton", typeof(Button))>]
+[<TemplatePartAttribute("PART_IncreaseButton", typeof(Button))>]
+[<PseudoClassesAttribute(new string[] { ... })>]
 type ButtonSpinner = 
     class
         inherit Spinner
@@ -1092,10 +1101,6 @@ type ButtonSpinner =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1190,3 +1195,4 @@ type ButtonSpinner =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

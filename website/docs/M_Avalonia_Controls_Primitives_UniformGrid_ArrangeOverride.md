@@ -34,7 +34,7 @@ override ArrangeOverride :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/UniformGrid.cs#L91" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/UniformGrid.cs#L92" title="View the source code">View Source</a>
 
 
 
@@ -50,3 +50,4 @@ override ArrangeOverride :
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_UniformGrid">UniformGrid Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

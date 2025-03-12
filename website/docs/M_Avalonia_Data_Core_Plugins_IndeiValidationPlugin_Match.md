@@ -40,7 +40,7 @@ override Match :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/Core/Plugins/IndeiValidationPlugin.cs#L22" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/Core/Plugins/IndeiValidationPlugin.cs#L23" title="View the source code">View Source</a>
 
 
 
@@ -61,3 +61,4 @@ True if the plugin can handle the object; otherwise false.
 #### Reference
 <a href="T_Avalonia_Data_Core_Plugins_IndeiValidationPlugin">IndeiValidationPlugin Class</a>  
 <a href="N_Avalonia_Data_Core_Plugins">Avalonia.Data.Core.Plugins Namespace</a>  
+

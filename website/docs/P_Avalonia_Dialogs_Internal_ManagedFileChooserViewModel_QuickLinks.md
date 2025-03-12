@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public AvaloniaList<ManagedFileChooserItemViewModel> QuickLinks \{ get; }
+public AvaloniaList<ManagedFileChooserItemViewModel> QuickLinks { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member QuickLinks : AvaloniaList<ManagedFileChooserItemViewModel> with get
 #### Reference
 <a href="T_Avalonia_Dialogs_Internal_ManagedFileChooserViewModel">ManagedFileChooserViewModel Class</a>  
 <a href="N_Avalonia_Dialogs_Internal">Avalonia.Dialogs.Internal Namespace</a>  
+

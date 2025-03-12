@@ -12,11 +12,13 @@ Use to predefine the prefix associated to an xml namespace in a xaml file
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AttributeUsageAttribute(AttributeTargets.Assembly, AllowMultiple = true)]
 public sealed class XmlnsPrefixAttribute : Attribute
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AttributeUsageAttribute(AttributeTargets.Assembly, AllowMultiple := true)>
 Public NotInheritable Class XmlnsPrefixAttribute
 	Inherits Attribute
 ```
@@ -24,6 +26,7 @@ Public NotInheritable Class XmlnsPrefixAttribute
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<AttributeUsageAttribute(AttributeTargets.Assembly, AllowMultiple = true)>]
 type XmlnsPrefixAttribute = 
     class
         inherit Attribute
@@ -99,3 +102,4 @@ example: [assembly: XmlnsPrefix("https://github.com/avaloniaui", "av")] xaml: xm
 
 #### Reference
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

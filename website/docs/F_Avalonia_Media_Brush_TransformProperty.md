@@ -42,3 +42,4 @@ static val TransformProperty: StyledProperty<ITransform>
 #### Reference
 <a href="T_Avalonia_Media_Brush">Brush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

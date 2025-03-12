@@ -12,17 +12,20 @@ Defines the style host that provides styles global to the application.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IGlobalStyles : IStyleHost
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IGlobalStyles
 	Inherits IStyleHost
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IGlobalStyles = 
     interface
         interface IStyleHost
@@ -86,3 +89,4 @@ type IGlobalStyles =
 
 #### Reference
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets menu item group name when ToggleType is <a href="T_Avalonia_Controls_MenuIt
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? GroupName \{ get; set; }
+public string? GroupName { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ override GroupName : string with get, set
 #### Reference
 <a href="T_Avalonia_Controls_MenuItem">MenuItem Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

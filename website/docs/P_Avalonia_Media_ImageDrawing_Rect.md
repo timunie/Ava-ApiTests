@@ -12,7 +12,7 @@ Gets or sets region in which the image is drawn.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Rect Rect \{ get; set; }
+public Rect Rect { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Rect : Rect with get, set
 #### Reference
 <a href="T_Avalonia_Media_ImageDrawing">ImageDrawing Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

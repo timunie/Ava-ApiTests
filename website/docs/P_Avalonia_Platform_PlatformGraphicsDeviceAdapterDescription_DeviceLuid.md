@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public byte[]? DeviceLuid \{ get; set; }
+public byte[]? DeviceLuid { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member DeviceLuid : byte[] with get, set
 #### Reference
 <a href="T_Avalonia_Platform_PlatformGraphicsDeviceAdapterDescription">PlatformGraphicsDeviceAdapterDescription Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

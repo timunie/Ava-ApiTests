@@ -30,7 +30,7 @@ override ToString : unit -> string
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Color.cs#L445" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Color.cs#L446" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ The string representation of the color.
 #### Reference
 <a href="T_Avalonia_Media_Color">Color Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

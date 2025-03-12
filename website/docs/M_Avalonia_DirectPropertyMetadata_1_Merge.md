@@ -40,7 +40,7 @@ override Merge :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/DirectPropertyMetadata%601.cs#L40" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/DirectPropertyMetadata%601.cs#L41" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ override Merge :
 #### Reference
 <a href="T_Avalonia_DirectPropertyMetadata_1">DirectPropertyMetadata(TValue) Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

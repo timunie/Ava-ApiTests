@@ -12,7 +12,7 @@ Gets the maximum scrolling distance (which is <a href="P_Avalonia_Controls_Scrol
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Vector ScrollBarMaximum \{ get; }
+public Vector ScrollBarMaximum { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member ScrollBarMaximum : Vector with get
 #### Reference
 <a href="T_Avalonia_Controls_ScrollViewer">ScrollViewer Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

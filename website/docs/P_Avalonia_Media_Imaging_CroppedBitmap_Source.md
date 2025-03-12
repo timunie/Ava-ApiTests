@@ -12,7 +12,7 @@ Gets or sets the source for the bitmap.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IImage? Source \{ get; set; }
+public IImage? Source { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Source : IImage with get, set
 #### Reference
 <a href="T_Avalonia_Media_Imaging_CroppedBitmap">CroppedBitmap Class</a>  
 <a href="N_Avalonia_Media_Imaging">Avalonia.Media.Imaging Namespace</a>  
+

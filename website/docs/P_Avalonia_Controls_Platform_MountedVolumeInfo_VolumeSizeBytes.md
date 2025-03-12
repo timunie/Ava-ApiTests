@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ulong VolumeSizeBytes \{ get; set; }
+public ulong VolumeSizeBytes { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member VolumeSizeBytes : uint64 with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Platform_MountedVolumeInfo">MountedVolumeInfo Class</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

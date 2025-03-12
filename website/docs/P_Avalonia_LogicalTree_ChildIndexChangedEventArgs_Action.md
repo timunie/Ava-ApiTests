@@ -12,7 +12,7 @@ Gets the type of change action that ocurred on the list control.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ChildIndexChangedAction Action \{ get; }
+public ChildIndexChangedAction Action { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Action : ChildIndexChangedAction with get
 #### Reference
 <a href="T_Avalonia_LogicalTree_ChildIndexChangedEventArgs">ChildIndexChangedEventArgs Class</a>  
 <a href="N_Avalonia_LogicalTree">Avalonia.LogicalTree Namespace</a>  
+

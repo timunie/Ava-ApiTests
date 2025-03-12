@@ -43,3 +43,4 @@ member PropertyChanged : IEvent<EventHandler<AvaloniaPropertyChangedEventArgs>,
 #### Reference
 <a href="T_Avalonia_AvaloniaObject">AvaloniaObject Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -44,3 +44,4 @@ A 32-bit signed integer that is the hash code for this instance.
 #### Reference
 <a href="T_Avalonia_Data_Optional_1">Optional(T) Structure</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

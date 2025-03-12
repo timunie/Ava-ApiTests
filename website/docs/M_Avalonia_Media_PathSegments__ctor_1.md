@@ -56,3 +56,4 @@ new :
 <a href="T_Avalonia_Media_PathSegments">PathSegments Class</a>  
 <a href="Overload_Avalonia_Media_PathSegments__ctor">PathSegments Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

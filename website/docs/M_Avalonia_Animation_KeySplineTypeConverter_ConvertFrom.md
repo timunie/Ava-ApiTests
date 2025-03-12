@@ -42,7 +42,7 @@ override ConvertFrom :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/KeySplineTypeConverter.cs#L21" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Animation/KeySplineTypeConverter.cs#L22" title="View the source code">View Source</a>
 
 
 
@@ -59,3 +59,4 @@ override ConvertFrom :
 <a href="T_Avalonia_Animation_KeySplineTypeConverter">KeySplineTypeConverter Class</a>  
 <a href="Overload_Avalonia_Animation_KeySplineTypeConverter_ConvertFrom">ConvertFrom Overload</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

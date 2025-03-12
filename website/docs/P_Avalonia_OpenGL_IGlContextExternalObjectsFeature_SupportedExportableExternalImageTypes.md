@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-IReadOnlyList<string> SupportedExportableExternalImageTypes \{ get; }
+IReadOnlyList<string> SupportedExportableExternalImageTypes { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ abstract SupportedExportableExternalImageTypes : IReadOnlyList<string> with get
 #### Reference
 <a href="T_Avalonia_OpenGL_IGlContextExternalObjectsFeature">IGlContextExternalObjectsFeature Interface</a>  
 <a href="N_Avalonia_OpenGL">Avalonia.OpenGL Namespace</a>  
+

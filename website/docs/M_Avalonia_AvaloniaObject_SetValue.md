@@ -44,7 +44,7 @@ member SetValue :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaObject.cs#L312" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaObject.cs#L313" title="View the source code">View Source</a>
 
 
 
@@ -61,3 +61,4 @@ member SetValue :
 <a href="T_Avalonia_AvaloniaObject">AvaloniaObject Class</a>  
 <a href="Overload_Avalonia_AvaloniaObject_SetValue">SetValue Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

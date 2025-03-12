@@ -12,7 +12,7 @@ Get the font collection's key.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Uri Key \{ get; }
+Uri Key { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract Key : Uri with get
 #### Reference
 <a href="T_Avalonia_Media_Fonts_IFontCollection">IFontCollection Interface</a>  
 <a href="N_Avalonia_Media_Fonts">Avalonia.Media.Fonts Namespace</a>  
+

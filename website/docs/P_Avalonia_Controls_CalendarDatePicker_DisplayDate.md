@@ -12,7 +12,7 @@ Gets or sets the date to display.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DateTime DisplayDate \{ get; set; }
+public DateTime DisplayDate { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -53,3 +53,4 @@ The date to display. The default is <a href="https://learn.microsoft.com/dotnet/
 #### Reference
 <a href="T_Avalonia_Controls_CalendarDatePicker">CalendarDatePicker Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

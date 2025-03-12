@@ -40,3 +40,4 @@ new : unit -> KeyFrames
 <a href="T_Avalonia_Animation_KeyFrames">KeyFrames Class</a>  
 <a href="Overload_Avalonia_Animation_KeyFrames__ctor">KeyFrames Overload</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

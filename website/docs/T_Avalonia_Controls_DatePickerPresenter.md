@@ -12,17 +12,68 @@ Defines the presenter used for selecting a date for a <a href="T_Avalonia_Contro
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_AcceptButton", typeof(Button), IsRequired = true)]
+[TemplatePartAttribute("PART_DayDownButton", typeof(RepeatButton))]
+[TemplatePartAttribute("PART_DayHost", typeof(Panel), IsRequired = true)]
+[TemplatePartAttribute("PART_DaySelector", typeof(DateTimePickerPanel), IsRequired = true)]
+[TemplatePartAttribute("PART_DayUpButton", typeof(RepeatButton))]
+[TemplatePartAttribute("PART_DismissButton", typeof(Button))]
+[TemplatePartAttribute("PART_FirstSpacer", typeof(Rectangle))]
+[TemplatePartAttribute("PART_MonthDownButton", typeof(RepeatButton))]
+[TemplatePartAttribute("PART_MonthHost", typeof(Panel), IsRequired = true)]
+[TemplatePartAttribute("PART_MonthSelector", typeof(DateTimePickerPanel), IsRequired = true)]
+[TemplatePartAttribute("PART_MonthUpButton", typeof(RepeatButton))]
+[TemplatePartAttribute("PART_PickerContainer", typeof(Grid), IsRequired = true)]
+[TemplatePartAttribute("PART_SecondSpacer", typeof(Rectangle))]
+[TemplatePartAttribute("PART_YearDownButton", typeof(RepeatButton))]
+[TemplatePartAttribute("PART_YearHost", typeof(Panel), IsRequired = true)]
+[TemplatePartAttribute("PART_YearSelector", typeof(DateTimePickerPanel), IsRequired = true)]
+[TemplatePartAttribute("PART_YearUpButton", typeof(RepeatButton))]
 public class DatePickerPresenter : PickerPresenterBase
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_AcceptButton", GetType(Button), IsRequired := true)>
+<TemplatePartAttribute("PART_DayDownButton", GetType(RepeatButton))>
+<TemplatePartAttribute("PART_DayHost", GetType(Panel), IsRequired := true)>
+<TemplatePartAttribute("PART_DaySelector", GetType(DateTimePickerPanel), IsRequired := true)>
+<TemplatePartAttribute("PART_DayUpButton", GetType(RepeatButton))>
+<TemplatePartAttribute("PART_DismissButton", GetType(Button))>
+<TemplatePartAttribute("PART_FirstSpacer", GetType(Rectangle))>
+<TemplatePartAttribute("PART_MonthDownButton", GetType(RepeatButton))>
+<TemplatePartAttribute("PART_MonthHost", GetType(Panel), IsRequired := true)>
+<TemplatePartAttribute("PART_MonthSelector", GetType(DateTimePickerPanel), IsRequired := true)>
+<TemplatePartAttribute("PART_MonthUpButton", GetType(RepeatButton))>
+<TemplatePartAttribute("PART_PickerContainer", GetType(Grid), IsRequired := true)>
+<TemplatePartAttribute("PART_SecondSpacer", GetType(Rectangle))>
+<TemplatePartAttribute("PART_YearDownButton", GetType(RepeatButton))>
+<TemplatePartAttribute("PART_YearHost", GetType(Panel), IsRequired := true)>
+<TemplatePartAttribute("PART_YearSelector", GetType(DateTimePickerPanel), IsRequired := true)>
+<TemplatePartAttribute("PART_YearUpButton", GetType(RepeatButton))>
 Public Class DatePickerPresenter
 	Inherits PickerPresenterBase
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_AcceptButton", typeof(Button), IsRequired = true)>]
+[<TemplatePartAttribute("PART_DayDownButton", typeof(RepeatButton))>]
+[<TemplatePartAttribute("PART_DayHost", typeof(Panel), IsRequired = true)>]
+[<TemplatePartAttribute("PART_DaySelector", typeof(DateTimePickerPanel), IsRequired = true)>]
+[<TemplatePartAttribute("PART_DayUpButton", typeof(RepeatButton))>]
+[<TemplatePartAttribute("PART_DismissButton", typeof(Button))>]
+[<TemplatePartAttribute("PART_FirstSpacer", typeof(Rectangle))>]
+[<TemplatePartAttribute("PART_MonthDownButton", typeof(RepeatButton))>]
+[<TemplatePartAttribute("PART_MonthHost", typeof(Panel), IsRequired = true)>]
+[<TemplatePartAttribute("PART_MonthSelector", typeof(DateTimePickerPanel), IsRequired = true)>]
+[<TemplatePartAttribute("PART_MonthUpButton", typeof(RepeatButton))>]
+[<TemplatePartAttribute("PART_PickerContainer", typeof(Grid), IsRequired = true)>]
+[<TemplatePartAttribute("PART_SecondSpacer", typeof(Rectangle))>]
+[<TemplatePartAttribute("PART_YearDownButton", typeof(RepeatButton))>]
+[<TemplatePartAttribute("PART_YearHost", typeof(Panel), IsRequired = true)>]
+[<TemplatePartAttribute("PART_YearSelector", typeof(DateTimePickerPanel), IsRequired = true)>]
+[<TemplatePartAttribute("PART_YearUpButton", typeof(RepeatButton))>]
 type DatePickerPresenter = 
     class
         inherit PickerPresenterBase
@@ -1112,10 +1163,6 @@ type DatePickerPresenter =
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1210,3 +1257,4 @@ type DatePickerPresenter =
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

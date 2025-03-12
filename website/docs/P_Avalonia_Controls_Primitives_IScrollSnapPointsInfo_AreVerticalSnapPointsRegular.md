@@ -12,7 +12,7 @@ Gets or sets a value that indicates whether the vertical snap points for the con
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool AreVerticalSnapPointsRegular \{ get; set; }
+bool AreVerticalSnapPointsRegular { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ abstract AreVerticalSnapPointsRegular : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_IScrollSnapPointsInfo">IScrollSnapPointsInfo Interface</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

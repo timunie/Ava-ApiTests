@@ -37,3 +37,4 @@
 #### Reference
 <a href="T_Avalonia_Utilities_WeakEvent_2">WeakEvent(TSender, TEventArgs) Class</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

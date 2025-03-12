@@ -12,7 +12,7 @@ Gets the change to the value of <a href="P_Avalonia_Controls_ScrollViewer_Viewpo
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Vector ViewportDelta \{ get; }
+public Vector ViewportDelta { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member ViewportDelta : Vector with get
 #### Reference
 <a href="T_Avalonia_Controls_ScrollChangedEventArgs">ScrollChangedEventArgs Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

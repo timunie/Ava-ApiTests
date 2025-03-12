@@ -45,7 +45,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/StringTokenizer.cs#L31" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/StringTokenizer.cs#L32" title="View the source code">View Source</a>
 
 
 
@@ -59,3 +59,4 @@ new :
 <a href="T_Avalonia_Utilities_StringTokenizer">StringTokenizer Structure</a>  
 <a href="Overload_Avalonia_Utilities_StringTokenizer__ctor">StringTokenizer Overload</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

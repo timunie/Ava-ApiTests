@@ -12,7 +12,7 @@ Gets the Target used for showing the Flyout
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Control? Target \{ get; protected set; }
+public Control? Target { get; protected set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Target : Control with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_FlyoutBase">FlyoutBase Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

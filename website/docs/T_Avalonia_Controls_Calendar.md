@@ -12,17 +12,23 @@ Represents a control that enables a user to select a date by using a visual cale
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_CalendarItem", typeof(CalendarItem))]
+[TemplatePartAttribute("PART_Root", typeof(Panel))]
 public class Calendar : TemplatedControl
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_CalendarItem", GetType(CalendarItem))>
+<TemplatePartAttribute("PART_Root", GetType(Panel))>
 Public Class Calendar
 	Inherits TemplatedControl
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_CalendarItem", typeof(CalendarItem))>]
+[<TemplatePartAttribute("PART_Root", typeof(Panel))>]
 type Calendar = 
     class
         inherit TemplatedControl
@@ -1128,10 +1134,6 @@ XAML Usage for Classes Derived from Calendar If you define a class that derives 
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1226,3 +1228,4 @@ XAML Usage for Classes Derived from Calendar If you define a class that derives 
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

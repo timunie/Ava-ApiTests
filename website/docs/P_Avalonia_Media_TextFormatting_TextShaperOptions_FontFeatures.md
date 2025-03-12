@@ -12,7 +12,7 @@ Get features.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IReadOnlyList<FontFeature>? FontFeatures \{ get; }
+public IReadOnlyList<FontFeature>? FontFeatures { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member FontFeatures : IReadOnlyList<FontFeature> with get
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextShaperOptions">TextShaperOptions Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

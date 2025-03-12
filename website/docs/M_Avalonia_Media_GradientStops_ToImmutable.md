@@ -27,7 +27,7 @@ member ToImmutable : unit -> IReadOnlyList<ImmutableGradientStop>
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/GradientStops.cs#L19" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/GradientStops.cs#L20" title="View the source code">View Source</a>
 
 
 
@@ -40,3 +40,4 @@ member ToImmutable : unit -> IReadOnlyList<ImmutableGradientStop>
 #### Reference
 <a href="T_Avalonia_Media_GradientStops">GradientStops Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

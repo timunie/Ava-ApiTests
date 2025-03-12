@@ -12,7 +12,7 @@ Gets or sets the selection adapter used to populate the drop-down with a list of
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected ISelectionAdapter? SelectionAdapter \{ get; set; }
+protected ISelectionAdapter? SelectionAdapter { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -45,3 +45,4 @@ The selection adapter used to populate the drop-down with a list of selectable i
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

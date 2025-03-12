@@ -30,7 +30,7 @@ override GetHashCode : unit -> int
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Immutable/ImmutableDashStyle.cs#L48" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Immutable/ImmutableDashStyle.cs#L49" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ A hash code for the current object.
 #### Reference
 <a href="T_Avalonia_Media_Immutable_ImmutableDashStyle">ImmutableDashStyle Class</a>  
 <a href="N_Avalonia_Media_Immutable">Avalonia.Media.Immutable Namespace</a>  
+

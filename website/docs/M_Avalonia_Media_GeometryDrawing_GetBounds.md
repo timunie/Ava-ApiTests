@@ -28,7 +28,7 @@ override GetBounds : unit -> Rect
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/GeometryDrawing.cs#L70" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/GeometryDrawing.cs#L71" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override GetBounds : unit -> Rect
 #### Reference
 <a href="T_Avalonia_Media_GeometryDrawing">GeometryDrawing Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

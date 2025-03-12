@@ -34,7 +34,7 @@ static member Parse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/UnicodeRange.cs#L144" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/UnicodeRange.cs#L145" title="View the source code">View Source</a>
 
 
 
@@ -59,3 +59,4 @@ The parsed <a href="T_Avalonia_Media_UnicodeRangeSegment">UnicodeRangeSegment</a
 #### Reference
 <a href="T_Avalonia_Media_UnicodeRangeSegment">UnicodeRangeSegment Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

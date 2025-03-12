@@ -14,7 +14,7 @@ Return the item at the specified index
 ```csharp
 public Object this[
 	int index
-] \{ get; }
+] { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -51,3 +51,4 @@ The item at the specified index
 #### Reference
 <a href="T_Avalonia_Collections_DataGridCollectionView">DataGridCollectionView Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

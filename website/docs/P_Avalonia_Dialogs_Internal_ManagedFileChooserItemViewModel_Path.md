@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? Path \{ get; set; }
+public string? Path { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member Path : string with get, set
 #### Reference
 <a href="T_Avalonia_Dialogs_Internal_ManagedFileChooserItemViewModel">ManagedFileChooserItemViewModel Class</a>  
 <a href="N_Avalonia_Dialogs_Internal">Avalonia.Dialogs.Internal Namespace</a>  
+

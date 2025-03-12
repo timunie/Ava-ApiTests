@@ -97,3 +97,4 @@ Instantiate the CompositePageTransition in XAML and initialize the <a href="T_Av
 
 #### Reference
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets a value indicating whether the <a href="T_Avalonia_Controls_Slider">Slider<
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected bool IsDragging \{ get; }
+protected bool IsDragging { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member IsDragging : bool with get
 #### Reference
 <a href="T_Avalonia_Controls_Slider">Slider Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

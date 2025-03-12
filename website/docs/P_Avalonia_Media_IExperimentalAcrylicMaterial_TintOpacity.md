@@ -12,7 +12,7 @@ Gets the TintOpacity of the material.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-double TintOpacity \{ get; }
+double TintOpacity { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract TintOpacity : float with get
 #### Reference
 <a href="T_Avalonia_Media_IExperimentalAcrylicMaterial">IExperimentalAcrylicMaterial Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

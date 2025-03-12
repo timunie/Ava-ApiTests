@@ -36,7 +36,7 @@ override Collapse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextTrailingCharacterEllipsis.cs#L34" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/TextFormatting/TextTrailingCharacterEllipsis.cs#L35" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ override Collapse :
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_TextTrailingCharacterEllipsis">TextTrailingCharacterEllipsis Class</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

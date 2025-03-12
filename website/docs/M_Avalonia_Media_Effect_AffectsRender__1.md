@@ -36,7 +36,7 @@ static member AffectsRender :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Effects/Effect.cs#L23" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Effects/Effect.cs#L24" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ static member AffectsRender :
 #### Reference
 <a href="T_Avalonia_Media_Effect">Effect Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

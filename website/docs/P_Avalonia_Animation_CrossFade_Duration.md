@@ -12,7 +12,7 @@ Gets the duration of the animation.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TimeSpan Duration \{ get; set; }
+public TimeSpan Duration { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Duration : TimeSpan with get, set
 #### Reference
 <a href="T_Avalonia_Animation_CrossFade">CrossFade Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

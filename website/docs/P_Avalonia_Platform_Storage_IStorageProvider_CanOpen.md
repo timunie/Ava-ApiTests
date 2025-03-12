@@ -12,7 +12,7 @@ Returns true if it's possible to open file picker on the current platform.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-bool CanOpen \{ get; }
+bool CanOpen { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract CanOpen : bool with get
 #### Reference
 <a href="T_Avalonia_Platform_Storage_IStorageProvider">IStorageProvider Interface</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

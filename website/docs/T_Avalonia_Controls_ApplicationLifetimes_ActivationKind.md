@@ -60,3 +60,4 @@ type ActivationKind
 
 #### Reference
 <a href="N_Avalonia_Controls_ApplicationLifetimes">Avalonia.Controls.ApplicationLifetimes Namespace</a>  
+

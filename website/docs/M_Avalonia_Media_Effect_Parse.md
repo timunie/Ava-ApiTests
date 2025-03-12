@@ -32,7 +32,7 @@ static member Parse :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Effects/Effect.cs#L45" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Effects/Effect.cs#L46" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ static member Parse :
 #### Reference
 <a href="T_Avalonia_Media_Effect">Effect Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

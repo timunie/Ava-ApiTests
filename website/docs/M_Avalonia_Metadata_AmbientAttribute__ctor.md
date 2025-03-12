@@ -39,3 +39,4 @@ new : unit -> AmbientAttribute
 #### Reference
 <a href="T_Avalonia_Metadata_AmbientAttribute">AmbientAttribute Class</a>  
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

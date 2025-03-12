@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public uint ConnectorTypeId \{ get; }
+public uint ConnectorTypeId { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ member ConnectorTypeId : uint32 with get
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_Output_DrmConnector">DrmConnector Class</a>  
 <a href="N_Avalonia_LinuxFramebuffer_Output">Avalonia.LinuxFramebuffer.Output Namespace</a>  
+

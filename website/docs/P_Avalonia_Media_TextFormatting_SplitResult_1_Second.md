@@ -12,7 +12,7 @@ Gets the second part.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public T Second \{ get; }
+public T Second { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The second part.
 #### Reference
 <a href="T_Avalonia_Media_TextFormatting_SplitResult_1">SplitResult(T) Structure</a>  
 <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting Namespace</a>  
+

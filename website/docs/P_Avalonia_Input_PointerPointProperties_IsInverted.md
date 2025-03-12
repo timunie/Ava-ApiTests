@@ -12,7 +12,7 @@ Gets a value that indicates whether the digitizer pen is inverted.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool IsInverted \{
+public bool IsInverted {
 	get;
  }
 ```
@@ -46,3 +46,4 @@ member IsInverted : bool with
 #### Reference
 <a href="T_Avalonia_Input_PointerPointProperties">PointerPointProperties Structure</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

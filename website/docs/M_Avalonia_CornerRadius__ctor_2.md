@@ -34,7 +34,7 @@ new :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/CornerRadius.cs#L19" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/CornerRadius.cs#L20" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_CornerRadius">CornerRadius Structure</a>  
 <a href="Overload_Avalonia_CornerRadius__ctor">CornerRadius Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

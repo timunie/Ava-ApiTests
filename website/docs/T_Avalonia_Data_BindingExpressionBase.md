@@ -38,7 +38,7 @@ type BindingExpressionBase =
 
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  BindingExpressionBase</td></tr>
-<tr><td><strong>Derived</strong></td><td><a href="T_Avalonia_Data_Core_UntypedBindingExpressionBase">Avalonia.Data.Core.UntypedBindingExpressionBase</a></td></tr>
+<tr><td><strong>Derived</strong></td><td>UntypedBindingExpressionBase</td></tr>
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Styling_ISetterInstance">ISetterInstance</a>, <a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_blank" rel="noopener noreferrer">IDisposable</a></td></tr>
 </table>
 
@@ -74,14 +74,6 @@ type BindingExpressionBase =
 <td><a href="https://learn.microsoft.com/dotnet/api/system.object.tostring" target="_blank" rel="noopener noreferrer">ToString()</a></td>
 <td>Returns a string that represents the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td>
 </tr>
-<tr>
-<td><a href="M_Avalonia_Data_BindingExpressionBase_UpdateSource">UpdateSource()</a></td>
-<td>Sends the current binding target value to the binding source property in <a href="T_Avalonia_Data_BindingMode">TwoWay</a> or <a href="T_Avalonia_Data_BindingMode">OneWayToSource</a> bindings.</td>
-</tr>
-<tr>
-<td><a href="M_Avalonia_Data_BindingExpressionBase_UpdateTarget">UpdateTarget()</a></td>
-<td>Forces a data transfer from the binding source to the binding target.</td>
-</tr>
 </table>
 
 ## See Also
@@ -89,3 +81,4 @@ type BindingExpressionBase =
 
 #### Reference
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

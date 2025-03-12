@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ISelectionProvider? SelectionContainer \{ get; }
+public ISelectionProvider? SelectionContainer { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -29,7 +29,7 @@ override SelectionContainer : ISelectionProvider with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ListItemAutomationPeer.cs#L21" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/ListItemAutomationPeer.cs#L22" title="View the source code">View Source</a>
 
 
 
@@ -46,3 +46,4 @@ override SelectionContainer : ISelectionProvider with get
 #### Reference
 <a href="T_Avalonia_Automation_Peers_ListItemAutomationPeer">ListItemAutomationPeer Class</a>  
 <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers Namespace</a>  
+

@@ -46,3 +46,4 @@ member Add :
 <a href="T_Avalonia_Styling_StyleBase">StyleBase Class</a>  
 <a href="Overload_Avalonia_Styling_StyleBase_Add">Add Overload</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

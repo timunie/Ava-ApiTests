@@ -12,17 +12,23 @@ Presents a color for user editing using a spectrum, palette and component slider
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[TemplatePartAttribute("PART_HexTextBox", typeof(TextBox))]
+[TemplatePartAttribute("PART_TabControl", typeof(TabControl))]
 public class ColorView : TemplatedControl
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<TemplatePartAttribute("PART_HexTextBox", GetType(TextBox))>
+<TemplatePartAttribute("PART_TabControl", GetType(TabControl))>
 Public Class ColorView
 	Inherits TemplatedControl
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<TemplatePartAttribute("PART_HexTextBox", typeof(TextBox))>]
+[<TemplatePartAttribute("PART_TabControl", typeof(TabControl))>]
 type ColorView = 
     class
         inherit TemplatedControl
@@ -1273,10 +1279,6 @@ The control class extends <a href="T_Avalonia_Input_InputElement">InputElement</
 <td>Enumerates an <a href="T_Avalonia_Visual">Visual</a> and its descendants in the visual tree.<br />(Defined by <a href="T_Avalonia_VisualTree_VisualExtensions">VisualExtensions</a>)</td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Diagnostics_StyledElementExtensions_GetStyleDiagnostics">GetStyleDiagnostics()</a></td>
-<td><br />(Defined by <a href="T_Avalonia_Diagnostics_StyledElementExtensions">StyledElementExtensions</a>)</td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions_GetSubject">GetSubject(AvaloniaProperty, BindingPriority)</a></td>
 <td>Gets a subject for an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>.<br />(Defined by <a href="T_Avalonia_ReactiveUI_AvaloniaObjectReactiveExtensions">AvaloniaObjectReactiveExtensions</a>)</td>
 </tr>
@@ -1371,3 +1373,4 @@ The control class extends <a href="T_Avalonia_Input_InputElement">InputElement</
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

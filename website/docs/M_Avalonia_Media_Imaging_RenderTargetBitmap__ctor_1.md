@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Media_Imaging_RenderTargetBitmap">RenderTargetBitmap Class</a>  
 <a href="Overload_Avalonia_Media_Imaging_RenderTargetBitmap__ctor">RenderTargetBitmap Overload</a>  
 <a href="N_Avalonia_Media_Imaging">Avalonia.Media.Imaging Namespace</a>  
+

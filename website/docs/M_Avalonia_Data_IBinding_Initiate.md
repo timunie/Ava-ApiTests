@@ -75,3 +75,4 @@ A <a href="T_Avalonia_Data_InstancedBinding">InstancedBinding</a> or null if the
 #### Reference
 <a href="T_Avalonia_Data_IBinding">IBinding Interface</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

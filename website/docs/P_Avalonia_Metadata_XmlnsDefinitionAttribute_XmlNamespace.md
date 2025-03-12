@@ -12,7 +12,7 @@ Gets or sets the URL of the XML namespace.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string XmlNamespace \{ get; }
+public string XmlNamespace { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member XmlNamespace : string with get
 #### Reference
 <a href="T_Avalonia_Metadata_XmlnsDefinitionAttribute">XmlnsDefinitionAttribute Class</a>  
 <a href="N_Avalonia_Metadata">Avalonia.Metadata Namespace</a>  
+

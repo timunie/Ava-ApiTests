@@ -12,7 +12,7 @@ Gets the origin of the brushes <a href="P_Avalonia_Media_IBrush_Transform">Trans
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-RelativePoint TransformOrigin \{ get; }
+RelativePoint TransformOrigin { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract TransformOrigin : RelativePoint with get
 #### Reference
 <a href="T_Avalonia_Media_IBrush">IBrush Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -43,3 +43,4 @@ The status of the operation. To obtain the return value of the invoked delegate,
 <a href="T_Avalonia_Threading_DispatcherOperation">DispatcherOperation Class</a>  
 <a href="Overload_Avalonia_Threading_DispatcherOperation_Wait">Wait Overload</a>  
 <a href="N_Avalonia_Threading">Avalonia.Threading Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets or sets the list of UTF16 code points that represent the Unicode content of
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ReadOnlyMemory<char> Characters \{ get; set; }
+public ReadOnlyMemory<char> Characters { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Characters : ReadOnlyMemory<char> with get, set
 #### Reference
 <a href="T_Avalonia_Media_GlyphRun">GlyphRun Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

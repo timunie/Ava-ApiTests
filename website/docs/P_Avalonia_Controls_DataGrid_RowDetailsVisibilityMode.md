@@ -12,7 +12,7 @@ Gets or sets a value that indicates when the details sections of rows are displa
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public DataGridRowDetailsVisibilityMode RowDetailsVisibilityMode \{ get; set; }
+public DataGridRowDetailsVisibilityMode RowDetailsVisibilityMode { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member RowDetailsVisibilityMode : DataGridRowDetailsVisibilityMode with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGrid">DataGrid Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

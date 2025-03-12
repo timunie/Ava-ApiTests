@@ -12,7 +12,7 @@ Gets the index of the hit character in the text.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int TextPosition \{ get; }
+public int TextPosition { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member TextPosition : int with get
 #### Reference
 <a href="T_Avalonia_Media_TextHitTestResult">TextHitTestResult Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -33,7 +33,7 @@ F# does not support the declaration of new casting operators.
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/HslColor.cs#L531" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/HslColor.cs#L532" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ F# does not support the declaration of new casting operators.
 #### Reference
 <a href="T_Avalonia_Media_HslColor">HslColor Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

@@ -48,3 +48,4 @@ new :
 <a href="T_Avalonia_Controls_Platform_DefaultMenuInteractionHandler">DefaultMenuInteractionHandler Class</a>  
 <a href="Overload_Avalonia_Controls_Platform_DefaultMenuInteractionHandler__ctor">DefaultMenuInteractionHandler Overload</a>  
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

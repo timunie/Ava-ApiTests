@@ -12,7 +12,7 @@ Gets or sets the type of the notification
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public NotificationType NotificationType \{ get; set; }
+public NotificationType NotificationType { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member NotificationType : NotificationType with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Notifications_NotificationCard">NotificationCard Class</a>  
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
+

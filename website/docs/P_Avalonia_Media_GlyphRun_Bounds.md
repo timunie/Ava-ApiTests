@@ -12,7 +12,7 @@ Gets the conservative bounding box of the <a href="T_Avalonia_Media_GlyphRun">Gl
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Rect Bounds \{ get; }
+public Rect Bounds { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Bounds : Rect with get
 #### Reference
 <a href="T_Avalonia_Media_GlyphRun">GlyphRun Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

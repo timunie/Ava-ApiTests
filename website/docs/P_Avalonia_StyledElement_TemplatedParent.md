@@ -12,7 +12,7 @@ Gets the styled element whose lookless template this styled element is part of.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public AvaloniaObject? TemplatedParent \{ get; }
+public AvaloniaObject? TemplatedParent { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ override TemplatedParent : AvaloniaObject with get
 #### Reference
 <a href="T_Avalonia_StyledElement">StyledElement Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

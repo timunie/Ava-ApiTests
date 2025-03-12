@@ -12,7 +12,7 @@ Gets or sets the delay time in between iterations.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public TimeSpan DelayBetweenIterations \{ get; set; }
+public TimeSpan DelayBetweenIterations { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DelayBetweenIterations : TimeSpan with get, set
 #### Reference
 <a href="T_Avalonia_Animation_Animation">Animation Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

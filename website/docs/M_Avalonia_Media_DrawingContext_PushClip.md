@@ -34,7 +34,7 @@ member PushClip :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/DrawingContext.cs#L338" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/DrawingContext.cs#L339" title="View the source code">View Source</a>
 
 
 
@@ -52,3 +52,4 @@ A disposable used to undo the clip rectangle.
 <a href="T_Avalonia_Media_DrawingContext">DrawingContext Class</a>  
 <a href="Overload_Avalonia_Media_DrawingContext_PushClip">PushClip Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

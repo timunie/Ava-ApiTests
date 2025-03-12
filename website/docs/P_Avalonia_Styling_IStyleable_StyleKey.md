@@ -20,7 +20,7 @@ Gets the type by which the control is styled.
 <TabItem value="csharp" label="C#">
 ```csharp
 [ObsoleteAttribute("Override StyledElement.StyleKeyOverride instead.")]
-Type StyleKey \{ get; }
+Type StyleKey { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -53,3 +53,4 @@ abstract StyleKey : Type with get
 #### Reference
 <a href="T_Avalonia_Styling_IStyleable">IStyleable Interface</a>  
 <a href="N_Avalonia_Styling">Avalonia.Styling Namespace</a>  
+

@@ -28,7 +28,7 @@ override GetClassNameCore : unit -> string
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/RadioButtonAutomationPeer.cs#L22" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Peers/RadioButtonAutomationPeer.cs#L23" title="View the source code">View Source</a>
 
 
 
@@ -41,3 +41,4 @@ override GetClassNameCore : unit -> string
 #### Reference
 <a href="T_Avalonia_Controls_Automation_Peers_RadioButtonAutomationPeer">RadioButtonAutomationPeer Class</a>  
 <a href="N_Avalonia_Controls_Automation_Peers">Avalonia.Controls.Automation.Peers Namespace</a>  
+

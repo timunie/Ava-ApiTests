@@ -12,7 +12,7 @@ Gets the <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a> that the propert
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public AvaloniaObject Sender \{ get; }
+public AvaloniaObject Sender { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ The sender object.
 #### Reference
 <a href="T_Avalonia_AvaloniaPropertyChangedEventArgs">AvaloniaPropertyChangedEventArgs Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -12,16 +12,19 @@ An interface for ApplicationLifetimes where the application can be Activated and
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface IActivatableLifetime
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface IActivatableLifetime
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type IActivatableLifetime = interface end
 ```
 </TabItem>
@@ -58,3 +61,4 @@ type IActivatableLifetime = interface end
 
 #### Reference
 <a href="N_Avalonia_Controls_ApplicationLifetimes">Avalonia.Controls.ApplicationLifetimes Namespace</a>  
+

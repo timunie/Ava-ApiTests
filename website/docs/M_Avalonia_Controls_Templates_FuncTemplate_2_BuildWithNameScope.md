@@ -32,7 +32,7 @@ member BuildWithNameScope :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Templates/FuncTemplate%602.cs#L37" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Templates/FuncTemplate%602.cs#L38" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ member BuildWithNameScope :
 #### Reference
 <a href="T_Avalonia_Controls_Templates_FuncTemplate_2">FuncTemplate(TParam, TControl) Class</a>  
 <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates Namespace</a>  
+

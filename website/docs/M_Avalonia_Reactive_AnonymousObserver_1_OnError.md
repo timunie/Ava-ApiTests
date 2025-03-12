@@ -34,7 +34,7 @@ override OnError :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Reactive/AnonymousObserver.cs#L57" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Reactive/AnonymousObserver.cs#L58" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ override OnError :
 #### Reference
 <a href="T_Avalonia_Reactive_AnonymousObserver_1">AnonymousObserver(T) Class</a>  
 <a href="N_Avalonia_Reactive">Avalonia.Reactive Namespace</a>  
+

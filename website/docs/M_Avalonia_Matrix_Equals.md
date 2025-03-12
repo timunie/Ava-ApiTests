@@ -36,7 +36,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Matrix.cs#L365" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Matrix.cs#L367" title="View the source code">View Source</a>
 
 
 
@@ -58,3 +58,4 @@ True if this matrix is equal to other; False otherwise.
 <a href="T_Avalonia_Matrix">Matrix Structure</a>  
 <a href="Overload_Avalonia_Matrix_Equals">Equals Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

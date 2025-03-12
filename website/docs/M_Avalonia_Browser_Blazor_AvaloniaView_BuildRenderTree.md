@@ -34,7 +34,7 @@ override BuildRenderTree :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Browser/Avalonia.Browser.Blazor/AvaloniaView.cs#L26" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Browser/Avalonia.Browser.Blazor/AvaloniaView.cs#L27" title="View the source code">View Source</a>
 
 
 
@@ -47,3 +47,4 @@ override BuildRenderTree :
 #### Reference
 <a href="T_Avalonia_Browser_Blazor_AvaloniaView">AvaloniaView Class</a>  
 <a href="N_Avalonia_Browser_Blazor">Avalonia.Browser.Blazor Namespace</a>  
+

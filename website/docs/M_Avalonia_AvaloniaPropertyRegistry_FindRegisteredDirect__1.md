@@ -38,7 +38,7 @@ member FindRegisteredDirect :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaPropertyRegistry.cs#L336" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/AvaloniaPropertyRegistry.cs#L337" title="View the source code">View Source</a>
 
 
 
@@ -58,3 +58,4 @@ The registered property or null if no matching property found.
 #### Reference
 <a href="T_Avalonia_AvaloniaPropertyRegistry">AvaloniaPropertyRegistry Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

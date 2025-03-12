@@ -57,7 +57,7 @@ member UpdateSelection :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/SelectingItemsControl.cs#L868" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/SelectingItemsControl.cs#L869" title="View the source code">View Source</a>
 
 
 
@@ -71,3 +71,4 @@ member UpdateSelection :
 <a href="T_Avalonia_Controls_Primitives_SelectingItemsControl">SelectingItemsControl Class</a>  
 <a href="Overload_Avalonia_Controls_Primitives_SelectingItemsControl_UpdateSelection">UpdateSelection Overload</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

@@ -12,16 +12,19 @@ Loads assets compiled into the application binary.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute("IAssetLoader interface and AvaloniaLocator usage is considered unstable. Please use AssetLoader static class instead.")]
 public interface IAssetLoader
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute("IAssetLoader interface and AvaloniaLocator usage is considered unstable. Please use AssetLoader static class instead.")>
 Public Interface IAssetLoader
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute("IAssetLoader interface and AvaloniaLocator usage is considered unstable. Please use AssetLoader static class instead.")>]
 type IAssetLoader = interface end
 ```
 </TabItem>
@@ -74,3 +77,4 @@ type IAssetLoader = interface end
 
 #### Reference
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

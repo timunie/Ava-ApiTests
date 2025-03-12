@@ -12,7 +12,7 @@ Gets or sets the transform of the brush.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ITransform? Transform \{ get; set; }
+public ITransform? Transform { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override Transform : ITransform with get, set
 #### Reference
 <a href="T_Avalonia_Media_Brush">Brush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

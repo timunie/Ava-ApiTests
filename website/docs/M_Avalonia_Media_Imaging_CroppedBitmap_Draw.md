@@ -42,7 +42,7 @@ override Draw :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Imaging/CroppedBitmap.cs#L87" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Imaging/CroppedBitmap.cs#L88" title="View the source code">View Source</a>
 
 
 
@@ -59,3 +59,4 @@ override Draw :
 #### Reference
 <a href="T_Avalonia_Media_Imaging_CroppedBitmap">CroppedBitmap Class</a>  
 <a href="N_Avalonia_Media_Imaging">Avalonia.Media.Imaging Namespace</a>  
+

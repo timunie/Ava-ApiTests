@@ -12,7 +12,7 @@ Gets or sets the property transitions for the control.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Transitions? Transitions \{ get; set; }
+public Transitions? Transitions { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Transitions : Transitions with get, set
 #### Reference
 <a href="T_Avalonia_Animation_Animatable">Animatable Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

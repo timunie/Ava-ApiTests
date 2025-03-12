@@ -16,7 +16,7 @@ This value is independent of the current keyboard layout and usually correspond 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PhysicalKey PhysicalKey \{ get; init; }
+public PhysicalKey PhysicalKey { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -50,3 +50,4 @@ member PhysicalKey : PhysicalKey with get, set
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
 <a href="P_Avalonia_Input_KeyEventArgs_Key">Key</a>  
 <a href="P_Avalonia_Input_KeyEventArgs_KeySymbol">KeySymbol</a>  
+

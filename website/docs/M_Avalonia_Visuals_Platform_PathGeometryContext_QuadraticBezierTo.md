@@ -40,7 +40,7 @@ override QuadraticBezierTo :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/PathGeometryContext.cs#L59" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/PathGeometryContext.cs#L60" title="View the source code">View Source</a>
 
 
 
@@ -57,3 +57,4 @@ override QuadraticBezierTo :
 #### Reference
 <a href="T_Avalonia_Visuals_Platform_PathGeometryContext">PathGeometryContext Class</a>  
 <a href="N_Avalonia_Visuals_Platform">Avalonia.Visuals.Platform Namespace</a>  
+

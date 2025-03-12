@@ -10,17 +10,20 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ItemCollection Items \{ get; }
+[ContentAttribute]
+public ItemCollection Items { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ContentAttribute>
 Public ReadOnly Property Items As ItemCollection
 	Get
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ContentAttribute>]
 member Items : ItemCollection with get
 ```
 </TabItem>
@@ -41,3 +44,4 @@ member Items : ItemCollection with get
 #### Reference
 <a href="T_Avalonia_Controls_MenuFlyout">MenuFlyout Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

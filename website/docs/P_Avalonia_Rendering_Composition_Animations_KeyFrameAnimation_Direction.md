@@ -12,7 +12,7 @@ The direction the animation is playing. The Direction property allows you to dri
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PlaybackDirection Direction \{ get; set; }
+public PlaybackDirection Direction { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Direction : PlaybackDirection with get, set
 #### Reference
 <a href="T_Avalonia_Rendering_Composition_Animations_KeyFrameAnimation">KeyFrameAnimation Class</a>  
 <a href="N_Avalonia_Rendering_Composition_Animations">Avalonia.Rendering.Composition.Animations Namespace</a>  
+

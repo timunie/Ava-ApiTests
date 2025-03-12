@@ -32,7 +32,7 @@ member GetCellContent :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridColumn.cs#L656" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.DataGrid/DataGridColumn.cs#L657" title="View the source code">View Source</a>
 
 
 
@@ -49,3 +49,4 @@ member GetCellContent :
 <a href="T_Avalonia_Controls_DataGridColumn">DataGridColumn Class</a>  
 <a href="Overload_Avalonia_Controls_DataGridColumn_GetCellContent">GetCellContent Overload</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

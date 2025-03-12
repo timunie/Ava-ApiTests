@@ -34,7 +34,7 @@ member SetFontTypeface :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L592" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FormattedText.cs#L593" title="View the source code">View Source</a>
 
 
 
@@ -48,3 +48,4 @@ member SetFontTypeface :
 <a href="T_Avalonia_Media_FormattedText">FormattedText Class</a>  
 <a href="Overload_Avalonia_Media_FormattedText_SetFontTypeface">SetFontTypeface Overload</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

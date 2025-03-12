@@ -38,7 +38,7 @@ override LogicalChildrenCollectionChanged :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/StyledElement.cs#L523" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/StyledElement.cs#L524" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ override LogicalChildrenCollectionChanged :
 #### Reference
 <a href="T_Avalonia_StyledElement">StyledElement Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

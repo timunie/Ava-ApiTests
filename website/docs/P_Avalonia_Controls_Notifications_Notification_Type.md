@@ -12,7 +12,7 @@ Gets the <a href="T_Avalonia_Controls_Notifications_NotificationType">Notificati
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public NotificationType Type \{ get; set; }
+public NotificationType Type { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override Type : NotificationType with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Notifications_Notification">Notification Class</a>  
 <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications Namespace</a>  
+

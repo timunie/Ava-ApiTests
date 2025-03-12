@@ -34,7 +34,7 @@ static member GetShowDelay :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ToolTip.cs#L241" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ToolTip.cs#L242" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ A value indicating the time, in milliseconds, before a tool tip opens.
 #### Reference
 <a href="T_Avalonia_Controls_ToolTip">ToolTip Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

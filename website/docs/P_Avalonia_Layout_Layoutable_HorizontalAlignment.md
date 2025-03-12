@@ -12,7 +12,7 @@ Gets or sets the element's preferred horizontal alignment in its parent.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public HorizontalAlignment HorizontalAlignment \{ get; set; }
+public HorizontalAlignment HorizontalAlignment { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member HorizontalAlignment : HorizontalAlignment with get, set
 #### Reference
 <a href="T_Avalonia_Layout_Layoutable">Layoutable Class</a>  
 <a href="N_Avalonia_Layout">Avalonia.Layout Namespace</a>  
+

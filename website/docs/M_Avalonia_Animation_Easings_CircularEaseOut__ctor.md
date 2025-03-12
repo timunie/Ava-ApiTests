@@ -39,3 +39,4 @@ new : unit -> CircularEaseOut
 #### Reference
 <a href="T_Avalonia_Animation_Easings_CircularEaseOut">CircularEaseOut Class</a>  
 <a href="N_Avalonia_Animation_Easings">Avalonia.Animation.Easings Namespace</a>  
+

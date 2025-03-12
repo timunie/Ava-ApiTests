@@ -12,7 +12,7 @@ Returns a ColumnDefinitions of column definitions.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ColumnDefinitions ColumnDefinitions \{ get; set; }
+public ColumnDefinitions ColumnDefinitions { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -31,7 +31,7 @@ member ColumnDefinitions : ColumnDefinitions with get, set
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Grid.cs#L171" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Grid.cs#L172" title="View the source code">View Source</a>
 
 
 
@@ -44,3 +44,4 @@ member ColumnDefinitions : ColumnDefinitions with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Grid">Grid Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

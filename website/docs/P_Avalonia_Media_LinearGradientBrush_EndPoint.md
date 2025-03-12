@@ -12,7 +12,7 @@ Gets or sets the end point for the gradient.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RelativePoint EndPoint \{ get; set; }
+public RelativePoint EndPoint { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -49,3 +49,4 @@ override EndPoint : RelativePoint with get, set
 #### Reference
 <a href="T_Avalonia_Media_LinearGradientBrush">LinearGradientBrush Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

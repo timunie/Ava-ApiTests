@@ -12,7 +12,7 @@ Gets or sets the name of the property that this <a href="T_Avalonia_Controls_Dat
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string PropertyName \{ get; set; }
+public string PropertyName { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member PropertyName : string with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGridRowGroupHeader">DataGridRowGroupHeader Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

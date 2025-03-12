@@ -12,7 +12,7 @@ Gets the pointer type of the input source.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PointerType PointerType \{ get; }
+public PointerType PointerType { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member PointerType : PointerType with get
 #### Reference
 <a href="T_Avalonia_Input_HoldingRoutedEventArgs">HoldingRoutedEventArgs Class</a>  
 <a href="N_Avalonia_Input">Avalonia.Input Namespace</a>  
+

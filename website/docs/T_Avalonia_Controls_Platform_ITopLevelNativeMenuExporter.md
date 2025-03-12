@@ -10,17 +10,20 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface ITopLevelNativeMenuExporter : INativeMenuExporter
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface ITopLevelNativeMenuExporter
 	Inherits INativeMenuExporter
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type ITopLevelNativeMenuExporter = 
     interface
         interface INativeMenuExporter
@@ -68,3 +71,4 @@ type ITopLevelNativeMenuExporter =
 
 #### Reference
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

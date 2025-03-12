@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public Size Size \{ get; }
+public Size Size { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -29,7 +29,7 @@ override Size : Size with get
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Imaging/CroppedBitmap.cs#L77" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Imaging/CroppedBitmap.cs#L78" title="View the source code">View Source</a>
 
 
 
@@ -46,3 +46,4 @@ override Size : Size with get
 #### Reference
 <a href="T_Avalonia_Media_Imaging_CroppedBitmap">CroppedBitmap Class</a>  
 <a href="N_Avalonia_Media_Imaging">Avalonia.Media.Imaging Namespace</a>  
+

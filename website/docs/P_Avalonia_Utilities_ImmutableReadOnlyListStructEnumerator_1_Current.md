@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public T Current \{ get; }
+public T Current { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -46,3 +46,4 @@ override Current : 'T with get
 #### Reference
 <a href="T_Avalonia_Utilities_ImmutableReadOnlyListStructEnumerator_1">ImmutableReadOnlyListStructEnumerator(T) Structure</a>  
 <a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

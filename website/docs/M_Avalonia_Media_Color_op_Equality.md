@@ -37,7 +37,7 @@ static let inline (=)
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Color.cs#L740" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Color.cs#L741" title="View the source code">View Source</a>
 
 
 
@@ -54,3 +54,4 @@ True if left and right are equal; otherwise, false.
 #### Reference
 <a href="T_Avalonia_Media_Color">Color Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

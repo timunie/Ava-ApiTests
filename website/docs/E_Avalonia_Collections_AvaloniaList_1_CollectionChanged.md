@@ -49,3 +49,4 @@ override CollectionChanged : IEvent<NotifyCollectionChangedEventHandler,
 #### Reference
 <a href="T_Avalonia_Collections_AvaloniaList_1">AvaloniaList(T) Class</a>  
 <a href="N_Avalonia_Collections">Avalonia.Collections Namespace</a>  
+

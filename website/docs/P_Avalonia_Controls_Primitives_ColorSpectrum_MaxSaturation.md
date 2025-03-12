@@ -12,7 +12,7 @@ Gets or sets the maximum value of the Saturation component in the range from 0..
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int MaxSaturation \{ get; set; }
+public int MaxSaturation { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member MaxSaturation : int with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Primitives_ColorSpectrum">ColorSpectrum Class</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

@@ -12,11 +12,15 @@ Gets or sets the Binding that is used to get the values for display in the text 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IBinding? ValueMemberBinding \{ get; set; }
+[AssignBindingAttribute]
+[InheritDataTypeFromItemsAttribute("ItemsSource")]
+public IBinding? ValueMemberBinding { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AssignBindingAttribute>
+<InheritDataTypeFromItemsAttribute("ItemsSource")>
 Public Property ValueMemberBinding As IBinding
 	Get
 	Set
@@ -24,6 +28,8 @@ Public Property ValueMemberBinding As IBinding
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<AssignBindingAttribute>]
+[<InheritDataTypeFromItemsAttribute("ItemsSource")>]
 member ValueMemberBinding : IBinding with get, set
 ```
 </TabItem>
@@ -45,3 +51,4 @@ The <a href="T_Avalonia_Data_IBinding">IBinding</a> object used when binding to 
 #### Reference
 <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

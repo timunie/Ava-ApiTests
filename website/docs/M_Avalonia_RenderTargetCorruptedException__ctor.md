@@ -40,3 +40,4 @@ new : unit -> RenderTargetCorruptedException
 <a href="T_Avalonia_RenderTargetCorruptedException">RenderTargetCorruptedException Class</a>  
 <a href="Overload_Avalonia_RenderTargetCorruptedException__ctor">RenderTargetCorruptedException Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

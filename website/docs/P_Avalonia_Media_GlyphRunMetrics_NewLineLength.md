@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public int NewLineLength \{ get; init; }
+public int NewLineLength { get; init; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -42,3 +42,4 @@ member NewLineLength : int with get, set
 #### Reference
 <a href="T_Avalonia_Media_GlyphRunMetrics">GlyphRunMetrics Structure</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

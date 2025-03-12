@@ -40,7 +40,7 @@ abstract Initialize :
 
 
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_LinuxFramebuffer_Input_IScreenInfoProvider">IScreenInfoProvider</a></dt><dd> </dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.action-1" target="_blank" rel="noopener noreferrer">Action</a>(<a href="T_Avalonia_Input_Raw_RawInputEventArgs">RawInputEventArgs</a>)</dt><dd> </dd></dl>
+<dl><dt>  <a href="T_Avalonia_LinuxFramebuffer_Input_IScreenInfoProvider">IScreenInfoProvider</a></dt><dd> </dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.action-1" target="_blank" rel="noopener noreferrer">Action</a>(RawInputEventArgs)</dt><dd> </dd></dl>
 
 ## See Also
 
@@ -48,3 +48,4 @@ abstract Initialize :
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_Input_IInputBackend">IInputBackend Interface</a>  
 <a href="N_Avalonia_LinuxFramebuffer_Input">Avalonia.LinuxFramebuffer.Input Namespace</a>  
+

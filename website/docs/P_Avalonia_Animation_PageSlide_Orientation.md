@@ -12,7 +12,7 @@ Gets the orientation of the animation.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public PageSlide.SlideAxis Orientation \{ get; set; }
+public PageSlide.SlideAxis Orientation { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Orientation : PageSlide.SlideAxis with get, set
 #### Reference
 <a href="T_Avalonia_Animation_PageSlide">PageSlide Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

@@ -34,7 +34,7 @@ member Remove :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ItemCollection.cs#L86" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/ItemCollection.cs#L87" title="View the source code">View Source</a>
 
 
 
@@ -59,3 +59,4 @@ True if the item was removed; otherwise false.
 #### Reference
 <a href="T_Avalonia_Controls_ItemCollection">ItemCollection Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

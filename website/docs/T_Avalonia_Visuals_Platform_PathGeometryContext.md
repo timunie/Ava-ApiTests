@@ -115,3 +115,4 @@ type PathGeometryContext =
 
 #### Reference
 <a href="N_Avalonia_Visuals_Platform">Avalonia.Visuals.Platform Namespace</a>  
+

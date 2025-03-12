@@ -45,7 +45,7 @@ override TryGetFeature :
 <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>
 
 #### Implements
-<a href="M_Avalonia_Platform_IOptionalFeatureProvider_TryGetFeature">IOptionalFeatureProvider.TryGetFeature(Type)</a>  
+IOptionalFeatureProvider.TryGetFeature(Type)  
 
 
 ## See Also
@@ -54,3 +54,4 @@ override TryGetFeature :
 #### Reference
 <a href="T_Avalonia_Media_ImmediateDrawingContext">ImmediateDrawingContext Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

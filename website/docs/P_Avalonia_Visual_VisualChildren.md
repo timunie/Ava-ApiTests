@@ -12,7 +12,7 @@ Gets the control's child visuals.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-protected IAvaloniaList<Visual> VisualChildren \{ get; }
+protected IAvaloniaList<Visual> VisualChildren { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member VisualChildren : IAvaloniaList<Visual> with get
 #### Reference
 <a href="T_Avalonia_Visual">Visual Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

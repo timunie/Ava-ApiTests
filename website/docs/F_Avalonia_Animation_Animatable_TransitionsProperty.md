@@ -42,3 +42,4 @@ static val TransitionsProperty: StyledProperty<Transitions>
 #### Reference
 <a href="T_Avalonia_Animation_Animatable">Animatable Class</a>  
 <a href="N_Avalonia_Animation">Avalonia.Animation Namespace</a>  
+

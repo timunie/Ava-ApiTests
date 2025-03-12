@@ -27,7 +27,7 @@ member Prepare : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Embedding/EmbeddableControlRoot.cs#L23" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Embedding/EmbeddableControlRoot.cs#L24" title="View the source code">View Source</a>
 
 
 
@@ -37,3 +37,4 @@ member Prepare : unit -> unit
 #### Reference
 <a href="T_Avalonia_Controls_Embedding_EmbeddableControlRoot">EmbeddableControlRoot Class</a>  
 <a href="N_Avalonia_Controls_Embedding">Avalonia.Controls.Embedding Namespace</a>  
+

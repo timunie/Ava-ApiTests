@@ -39,3 +39,4 @@ new : unit -> MaterialHalfColorPalette
 #### Reference
 <a href="T_Avalonia_Controls_MaterialHalfColorPalette">MaterialHalfColorPalette Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

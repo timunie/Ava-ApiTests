@@ -51,3 +51,4 @@ True, if launch operation was successful. False, if unsupported or failed.
 #### Reference
 <a href="T_Avalonia_Platform_Storage_ILauncher">ILauncher Interface</a>  
 <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage Namespace</a>  
+

@@ -1322,3 +1322,4 @@ This is done in an enum to ensure it is compiled into the assembly improving sta
 
 #### Reference
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

@@ -10,7 +10,7 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-Size ScaledSize \{ get; }
+Size ScaledSize { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -41,3 +41,4 @@ abstract ScaledSize : Size with get
 #### Reference
 <a href="T_Avalonia_LinuxFramebuffer_Input_IScreenInfoProvider">IScreenInfoProvider Interface</a>  
 <a href="N_Avalonia_LinuxFramebuffer_Input">Avalonia.LinuxFramebuffer.Input Namespace</a>  
+

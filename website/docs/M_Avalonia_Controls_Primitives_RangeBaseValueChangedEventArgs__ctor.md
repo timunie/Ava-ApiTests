@@ -57,3 +57,4 @@ new :
 <a href="T_Avalonia_Controls_Primitives_RangeBaseValueChangedEventArgs">RangeBaseValueChangedEventArgs Class</a>  
 <a href="Overload_Avalonia_Controls_Primitives_RangeBaseValueChangedEventArgs__ctor">RangeBaseValueChangedEventArgs Overload</a>  
 <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

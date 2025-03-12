@@ -36,7 +36,7 @@ override Equals :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelSize.cs#L112" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/PixelSize.cs#L113" title="View the source code">View Source</a>
 
 
 
@@ -58,3 +58,4 @@ True if this size is equal to other; False otherwise.
 <a href="T_Avalonia_PixelSize">PixelSize Structure</a>  
 <a href="Overload_Avalonia_PixelSize_Equals">Equals Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

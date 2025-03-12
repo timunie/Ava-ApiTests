@@ -44,7 +44,7 @@ static member SaveImage :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Skia/Avalonia.Skia/Helpers/ImageSavingHelper.cs#L23" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Skia/Avalonia.Skia/Helpers/ImageSavingHelper.cs#L24" title="View the source code">View Source</a>
 
 
 
@@ -58,3 +58,4 @@ static member SaveImage :
 <a href="T_Avalonia_Skia_Helpers_ImageSavingHelper">ImageSavingHelper Class</a>  
 <a href="Overload_Avalonia_Skia_Helpers_ImageSavingHelper_SaveImage">SaveImage Overload</a>  
 <a href="N_Avalonia_Skia_Helpers">Avalonia.Skia.Helpers Namespace</a>  
+

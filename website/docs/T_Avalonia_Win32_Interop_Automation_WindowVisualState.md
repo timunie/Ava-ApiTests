@@ -10,16 +10,22 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[ComVisibleAttribute(true)]
+[GuidAttribute("fdc8f176-aed2-477a-8c89-ea04cc5f278d")]
 public enum WindowVisualState
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<ComVisibleAttribute(true)>
+<GuidAttribute("fdc8f176-aed2-477a-8c89-ea04cc5f278d")>
 Public Enumeration WindowVisualState
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<ComVisibleAttribute(true)>]
+[<GuidAttribute("fdc8f176-aed2-477a-8c89-ea04cc5f278d")>]
 type WindowVisualState
 ```
 </TabItem>
@@ -51,3 +57,4 @@ type WindowVisualState
 
 #### Reference
 <a href="N_Avalonia_Win32_Interop_Automation">Avalonia.Win32.Interop.Automation Namespace</a>  
+

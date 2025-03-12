@@ -42,3 +42,4 @@ static val ProgressTextFormatProperty: StyledProperty<string>
 #### Reference
 <a href="T_Avalonia_Controls_ProgressBar">ProgressBar Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

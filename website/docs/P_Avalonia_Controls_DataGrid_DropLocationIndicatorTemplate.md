@@ -12,7 +12,7 @@ Gets or sets the template that is used when rendering the column headers.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ITemplate<Control> DropLocationIndicatorTemplate \{ get; set; }
+public ITemplate<Control> DropLocationIndicatorTemplate { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member DropLocationIndicatorTemplate : ITemplate<Control> with get, set
 #### Reference
 <a href="T_Avalonia_Controls_DataGrid">DataGrid Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

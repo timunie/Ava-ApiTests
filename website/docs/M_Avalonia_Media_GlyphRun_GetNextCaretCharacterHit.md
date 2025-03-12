@@ -34,7 +34,7 @@ member GetNextCaretCharacterHit :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/GlyphRun.cs#L402" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/GlyphRun.cs#L403" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ A <a href="T_Avalonia_Media_CharacterHit">CharacterHit</a> that represents the n
 #### Reference
 <a href="T_Avalonia_Media_GlyphRun">GlyphRun Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

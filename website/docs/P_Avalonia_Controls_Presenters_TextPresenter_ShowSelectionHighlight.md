@@ -12,7 +12,7 @@ Gets or sets a value that determines whether the TextPresenter shows a selection
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public bool ShowSelectionHighlight \{ get; set; }
+public bool ShowSelectionHighlight { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member ShowSelectionHighlight : bool with get, set
 #### Reference
 <a href="T_Avalonia_Controls_Presenters_TextPresenter">TextPresenter Class</a>  
 <a href="N_Avalonia_Controls_Presenters">Avalonia.Controls.Presenters Namespace</a>  
+

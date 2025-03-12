@@ -34,7 +34,7 @@ member WithPriority :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/InstancedBinding.cs#L168" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Data/InstancedBinding.cs#L169" title="View the source code">View Source</a>
 
 
 
@@ -51,3 +51,4 @@ An <a href="T_Avalonia_Data_InstancedBinding">InstancedBinding</a> instance.
 #### Reference
 <a href="T_Avalonia_Data_InstancedBinding">InstancedBinding Class</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

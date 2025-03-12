@@ -12,11 +12,13 @@ Defines a control template part referenced by name in code. Template part names 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[AttributeUsageAttribute(AttributeTargets.Class, AllowMultiple = true, Inherited = true)]
 public sealed class TemplatePartAttribute : Attribute
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<AttributeUsageAttribute(AttributeTargets.Class, AllowMultiple := true, Inherited := true)>
 Public NotInheritable Class TemplatePartAttribute
 	Inherits Attribute
 ```
@@ -24,6 +26,7 @@ Public NotInheritable Class TemplatePartAttribute
 <TabItem value="fsharp" label="F#">
 ```fsharp
 [<SealedAttribute>]
+[<AttributeUsageAttribute(AttributeTargets.Class, AllowMultiple = true, Inherited = true)>]
 type TemplatePartAttribute = 
     class
         inherit Attribute
@@ -107,3 +110,4 @@ Style authors should be able to identify the part type used for styling the spec
 
 #### Reference
 <a href="N_Avalonia_Controls_Metadata">Avalonia.Controls.Metadata Namespace</a>  
+

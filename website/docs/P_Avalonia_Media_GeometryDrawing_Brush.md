@@ -12,7 +12,7 @@ Gets or sets the <a href="T_Avalonia_Media_IBrush">IBrush</a> used to fill the i
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public IBrush? Brush \{ get; set; }
+public IBrush? Brush { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Brush : IBrush with get, set
 #### Reference
 <a href="T_Avalonia_Media_GeometryDrawing">GeometryDrawing Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

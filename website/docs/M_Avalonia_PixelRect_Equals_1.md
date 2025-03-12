@@ -54,3 +54,4 @@ True if the object is equal to this rectangle; false otherwise.
 <a href="T_Avalonia_PixelRect">PixelRect Structure</a>  
 <a href="Overload_Avalonia_PixelRect_Equals">Equals Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

@@ -12,7 +12,7 @@ Gets a diagnostic string.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? Diagnostic \{ get; }
+public string? Diagnostic { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ member Diagnostic : string with get
 #### Reference
 <a href="T_Avalonia_Diagnostics_AvaloniaPropertyValue">AvaloniaPropertyValue Class</a>  
 <a href="N_Avalonia_Diagnostics">Avalonia.Diagnostics Namespace</a>  
+

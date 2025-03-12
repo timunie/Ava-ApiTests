@@ -10,17 +10,20 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[UnstableAttribute]
 public interface INativeControlHostControlTopLevelAttachment : IDisposable
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<UnstableAttribute>
 Public Interface INativeControlHostControlTopLevelAttachment
 	Inherits IDisposable
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<UnstableAttribute>]
 type INativeControlHostControlTopLevelAttachment = 
     interface
         interface IDisposable
@@ -54,10 +57,6 @@ type INativeControlHostControlTopLevelAttachment =
 <td> </td>
 </tr>
 <tr>
-<td><a href="M_Avalonia_Controls_Platform_INativeControlHostControlTopLevelAttachment_IsCompatibleWith">IsCompatibleWith(INativeControlHostImpl)</a></td>
-<td> </td>
-</tr>
-<tr>
 <td><a href="M_Avalonia_Controls_Platform_INativeControlHostControlTopLevelAttachment_ShowInBounds">ShowInBounds(Rect)</a></td>
 <td> </td>
 </tr>
@@ -68,3 +67,4 @@ type INativeControlHostControlTopLevelAttachment =
 
 #### Reference
 <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

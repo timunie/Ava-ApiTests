@@ -34,7 +34,7 @@ static member ToSKMatrix :
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Skia/Avalonia.Skia/SkiaSharpExtensions.cs#L130" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Skia/Avalonia.Skia/SkiaSharpExtensions.cs#L131" title="View the source code">View Source</a>
 
 
 
@@ -53,3 +53,4 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 #### Reference
 <a href="T_Avalonia_Skia_SkiaSharpExtensions">SkiaSharpExtensions Class</a>  
 <a href="N_Avalonia_Skia">Avalonia.Skia Namespace</a>  
+

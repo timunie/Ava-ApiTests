@@ -12,7 +12,7 @@ Gets the algorithmic style simulations applied to this glyph typeface.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-FontSimulations FontSimulations \{ get; }
+FontSimulations FontSimulations { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ abstract FontSimulations : FontSimulations with get
 #### Reference
 <a href="T_Avalonia_Media_IGlyphTypeface">IGlyphTypeface Interface</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

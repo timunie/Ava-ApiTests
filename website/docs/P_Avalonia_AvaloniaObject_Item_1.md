@@ -14,7 +14,7 @@ Gets or sets a binding for a <a href="T_Avalonia_AvaloniaProperty">AvaloniaPrope
 ```csharp
 public IBinding this[
 	IndexerDescriptor binding
-] \{ get; set; }
+] { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -52,3 +52,4 @@ member Item : IBinding with get, set
 <a href="T_Avalonia_AvaloniaObject">AvaloniaObject Class</a>  
 <a href="Overload_Avalonia_AvaloniaObject_Item">Item Overload</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

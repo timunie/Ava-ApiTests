@@ -12,7 +12,7 @@ Gets or sets the routed event associated with these event args.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public RoutedEvent? RoutedEvent \{ get; set; }
+public RoutedEvent? RoutedEvent { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member RoutedEvent : RoutedEvent with get, set
 #### Reference
 <a href="T_Avalonia_Interactivity_RoutedEventArgs">RoutedEventArgs Class</a>  
 <a href="N_Avalonia_Interactivity">Avalonia.Interactivity Namespace</a>  
+

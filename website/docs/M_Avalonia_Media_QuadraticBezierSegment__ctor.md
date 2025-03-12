@@ -39,3 +39,4 @@ new : unit -> QuadraticBezierSegment
 #### Reference
 <a href="T_Avalonia_Media_QuadraticBezierSegment">QuadraticBezierSegment Class</a>  
 <a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

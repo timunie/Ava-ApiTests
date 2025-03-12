@@ -29,7 +29,7 @@ member Clear : unit -> unit
 
 
 
-<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/DateTimePickers/DatePicker.cs#L419" title="View the source code">View Source</a>
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/DateTimePickers/DatePicker.cs#L420" title="View the source code">View Source</a>
 
 
 
@@ -39,3 +39,4 @@ member Clear : unit -> unit
 #### Reference
 <a href="T_Avalonia_Controls_DatePicker">DatePicker Class</a>  
 <a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

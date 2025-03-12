@@ -12,7 +12,7 @@ Returns new identity transform operation.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static TransformOperation Identity \{ get; }
+public static TransformOperation Identity { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member Identity : TransformOperation with get
 #### Reference
 <a href="T_Avalonia_Media_Transformation_TransformOperation">TransformOperation Structure</a>  
 <a href="N_Avalonia_Media_Transformation">Avalonia.Media.Transformation Namespace</a>  
+

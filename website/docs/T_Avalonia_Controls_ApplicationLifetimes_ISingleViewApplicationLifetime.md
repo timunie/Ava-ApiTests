@@ -10,17 +10,20 @@
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
+[NotClientImplementableAttribute]
 public interface ISingleViewApplicationLifetime : IApplicationLifetime
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
 ```vb
+<NotClientImplementableAttribute>
 Public Interface ISingleViewApplicationLifetime
 	Inherits IApplicationLifetime
 ```
 </TabItem>
 <TabItem value="fsharp" label="F#">
 ```fsharp
+[<NotClientImplementableAttribute>]
 type ISingleViewApplicationLifetime = 
     interface
         interface IApplicationLifetime
@@ -52,3 +55,4 @@ type ISingleViewApplicationLifetime =
 
 #### Reference
 <a href="N_Avalonia_Controls_ApplicationLifetimes">Avalonia.Controls.ApplicationLifetimes Namespace</a>  
+

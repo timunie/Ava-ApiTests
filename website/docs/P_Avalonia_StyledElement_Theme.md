@@ -12,7 +12,7 @@ Gets or sets the theme to be applied to the element.
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public ControlTheme? Theme \{ get; set; }
+public ControlTheme? Theme { get; set; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -44,3 +44,4 @@ member Theme : ControlTheme with get, set
 #### Reference
 <a href="T_Avalonia_StyledElement">StyledElement Class</a>  
 <a href="N_Avalonia">Avalonia Namespace</a>  
+

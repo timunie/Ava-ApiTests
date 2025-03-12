@@ -12,7 +12,7 @@ Gets an optional string that describes what <a href="P_Avalonia_Platform_Platfor
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public string? HandleDescriptor \{ get; }
+public string? HandleDescriptor { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -48,3 +48,4 @@ override HandleDescriptor : string with get
 #### Reference
 <a href="T_Avalonia_Platform_PlatformHandle">PlatformHandle Class</a>  
 <a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

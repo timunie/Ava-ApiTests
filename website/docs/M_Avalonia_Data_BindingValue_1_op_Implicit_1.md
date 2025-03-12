@@ -50,3 +50,4 @@ F# does not support the declaration of new casting operators.
 <a href="T_Avalonia_Data_BindingValue_1">BindingValue(T) Structure</a>  
 <a href="Overload_Avalonia_Data_BindingValue_1_op_Implicit">Implicit Overload</a>  
 <a href="N_Avalonia_Data">Avalonia.Data Namespace</a>  
+

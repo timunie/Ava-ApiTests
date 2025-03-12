@@ -12,7 +12,7 @@ Identifies the bounding rectangle automation property. The bounding rectangle pr
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
 ```csharp
-public static AutomationProperty BoundingRectangleProperty \{ get; }
+public static AutomationProperty BoundingRectangleProperty { get; }
 ```
 </TabItem>
 <TabItem value="vb" label="VB">
@@ -43,3 +43,4 @@ static member BoundingRectangleProperty : AutomationProperty with get
 #### Reference
 <a href="T_Avalonia_Automation_AutomationElementIdentifiers">AutomationElementIdentifiers Class</a>  
 <a href="N_Avalonia_Automation">Avalonia.Automation Namespace</a>  
+
