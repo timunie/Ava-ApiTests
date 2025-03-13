@@ -123,6 +123,10 @@ const config = {
     ],
   ],
 
+  plugins: [
+    require('./plugins/webpack-config.cjs'),
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -180,7 +184,7 @@ const config = {
 		additionalLanguages: ['csharp', 'visual-basic', 'fsharp'],
       },
     }),
-  future: {
+	future: {
 		experimental_faster: true,
 	},
 };

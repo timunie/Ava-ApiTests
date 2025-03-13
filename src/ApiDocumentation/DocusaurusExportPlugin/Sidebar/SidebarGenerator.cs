@@ -49,6 +49,14 @@ namespace DocusaurusExportPlugin.Sidebar
         public void AddItem(string id, string path, string label, int level)
         {
             var type = id.Split(':').FirstOrDefault();
+
+            var allowedSidebarTypes = new[]
+            {
+                "G", "N", "T"
+            };
+            
+            // only add allowed items to the sidebar as otherwise the sidebar gets too huge
+            if (!allowedSidebarTypes.Contains(type)) return;
             
             var parent = GetParentCategory(level);
             
