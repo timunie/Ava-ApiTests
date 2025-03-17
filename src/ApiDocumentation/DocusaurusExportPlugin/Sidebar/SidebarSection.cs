@@ -44,7 +44,11 @@ namespace DocusaurusExportPlugin.Sidebar
         /// <summary>
         /// Gets a List of child items
         /// </summary>
-        public List<SidebarSection> Items { get; } = new List<SidebarSection>();
+        public IEnumerable<SidebarSection> Items => _itemsCache
+            .OrderBy(x => x.Key)
+            .Select(x => x.Value);
+        
+        private readonly Dictionary<string, SidebarSection> _itemsCache = new();
         
         /// <summary>
         /// Gets or sets if the item is collapsed or expanded. 
@@ -53,10 +57,28 @@ namespace DocusaurusExportPlugin.Sidebar
         /// This property has only an effect for category items
         /// </remarks>
         public bool Collapsed { get; set; }
+        
+        public SidebarSection GetOrAddSection(string assemblyName, string? path = null)
+        {
+            if (_itemsCache.TryGetValue(assemblyName, out var section))
+            {
+                return section;
+            }
+            else
+            {
+                _itemsCache[assemblyName] = new SidebarSection(this)
+                {
+                    Label = assemblyName,
+                    Level = Level + 1, 
+                    Path = path
+                };
+                return _itemsCache[assemblyName];
+            }
+        }
 
         public string ToJson()
         {
-            if (Items.Count == 0)
+            if (_itemsCache.Count == 0)
             {
                 return ToLinkItemJson();
             }

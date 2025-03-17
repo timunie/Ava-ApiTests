@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Xml.Linq;
 
 namespace DocusaurusExportPlugin.Sidebar
 {
@@ -15,10 +16,14 @@ namespace DocusaurusExportPlugin.Sidebar
         /// <summary>
         /// Gets a list of all Sidebar-Secions
         /// </summary>
-        public List<SidebarSection> Items { get; } = new List<SidebarSection>();
+        public IEnumerable<SidebarSection> Items => _itemsCache
+            .OrderBy(x => x.Key)
+            .Select(x => x.Value);
+        
+        private readonly Dictionary<string, SidebarSection> _itemsCache = new();
         
         private SidebarSection? _currentParent;
-
+        
         private SidebarSection? GetParentCategory(int level)
         {
             if (level <= 1)
@@ -38,49 +43,65 @@ namespace DocusaurusExportPlugin.Sidebar
                 return _currentParent;
             }
         }
-    
+
+        private (string, string) GetAssemblyAndNamespace(string content)
+        {
+            string? namespaceName = null, assemblyName = null;
+            
+            foreach (var line in content.Split('\n', '\r'))
+            {
+                if (line.StartsWith("**Namespace:** "))
+                {
+                    namespaceName = line.Replace("**Namespace:** ", "");
+                    namespaceName = XElement.Parse(namespaceName).Value;
+                }
+                if (line.StartsWith("**Assembly:** "))
+                {
+                    assemblyName = line.Replace("**Assembly:** ", "").Split(' ').First();
+                }
+
+                if (assemblyName is not null && namespaceName is not null)
+                {
+                    return (assemblyName, namespaceName);
+                }
+            }
+            throw new AggregateException("Unable to find assembly and namespace name.");
+        }
+
+        private SidebarSection GetOrAddSection(string assemblyName)
+        {
+            if (_itemsCache.TryGetValue(assemblyName, out var section))
+            {
+                return section;
+            }
+            else
+            {
+                _itemsCache[assemblyName] = new SidebarSection(null)
+                {
+                    Label = assemblyName,
+                    Level = 1
+                };
+                return _itemsCache[assemblyName];
+            }
+        }
+        
         /// <summary>
         /// Adds a new item to the sidebar
         /// </summary>
         /// <param name="id">the id of the section</param>
         /// <param name="path">the path to link</param>
         /// <param name="label">the label to display</param>
-        /// <param name="level">the level of the item</param>
-        public void AddItem(string id, string path, string label, int level)
+        /// <param name="content">the content of the page</param>
+        public void AddItem(string id, string path, string label, string content)
         {
-            var type = id.Split(':').FirstOrDefault();
+            if (id.Split(':').FirstOrDefault() != "T") return;
 
-            var allowedSidebarTypes = new[]
-            {
-                "G", "N", "T"
-            };
+            var containerInfo = GetAssemblyAndNamespace(content);
             
-            // only add allowed items to the sidebar as otherwise the sidebar gets too huge
-            if (!allowedSidebarTypes.Contains(type)) return;
-            
-            var parent = GetParentCategory(level);
-            
-            var section = new SidebarSection(parent)
-            {
-                Level = level,
-                Label = label,
-                Path = path,
-                Collapsed = type != "G" // collapse everything except for groups (type == "G:")
-            };
-            
-            if (parent != null)
-            {
-                parent.Items.Add(section);
-            }
-            else
-            {
-                Items.Add(section);
-            }
+            var assemblySection = GetOrAddSection(containerInfo.Item1);
+            var namespaceSection = assemblySection.GetOrAddSection(containerInfo.Item2);
 
-            if (parent == null || section.Level > _currentParent?.Level)
-            {
-                _currentParent = section;
-            }
+            namespaceSection.GetOrAddSection(label, path);
         }
     
         public void GenerateSidebarsJs(string sidebarFilePath)

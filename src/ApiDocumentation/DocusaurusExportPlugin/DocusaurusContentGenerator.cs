@@ -183,7 +183,7 @@ namespace DocusaurusExportPlugin
                                 File.WriteAllText(topicFile, content);
 
 
-                                sidebar.AddItem(id, filePath, title, tocReader.Depth);
+                                sidebar.AddItem(id, filePath, title, content);
                                 // if(tocReader.Depth > 1)
                                 //     sidebar.Write(new String(' ', (tocReader.Depth - 1) * 2));
                                 //
