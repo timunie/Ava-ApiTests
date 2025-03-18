@@ -1676,3 +1676,27 @@ img.center {
 .tag:not(body).is-rounded {
   border-radius: 9999px;
 }
+
+.icon > div::before {
+  content: '';
+  display: inline-block;
+  margin: auto -8px auto 8px;
+  width: 20px;
+  height: 20px;
+}
+
+.assembly-icon > div::before {
+  background: url('/static/img/icons/assembly.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.namespace-icon > div::before {
+  background: url('/static/img/icons/namespace.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+

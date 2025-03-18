@@ -36,6 +36,8 @@ namespace DocusaurusExportPlugin.Sidebar
         /// </summary>
         public string? Path { get; set; }
         
+        public string? Classes {get; set;}
+        
         /// <summary>
         /// Gets the parent of this Section
         /// </summary>
@@ -58,21 +60,22 @@ namespace DocusaurusExportPlugin.Sidebar
         /// </remarks>
         public bool Collapsed { get; set; }
         
-        public SidebarSection GetOrAddSection(string assemblyName, string? path = null)
+        public SidebarSection GetOrAddSection(string label, string? path = null, string? classes = null)
         {
-            if (_itemsCache.TryGetValue(assemblyName, out var section))
+            if (_itemsCache.TryGetValue(label, out var section))
             {
                 return section;
             }
             else
             {
-                _itemsCache[assemblyName] = new SidebarSection(this)
+                _itemsCache[label] = new SidebarSection(this)
                 {
-                    Label = assemblyName,
+                    Label = label,
                     Level = Level + 1, 
-                    Path = path
+                    Path = path,
+                    Classes = classes
                 };
-                return _itemsCache[assemblyName];
+                return _itemsCache[label];
             }
         }
 
@@ -97,6 +100,12 @@ namespace DocusaurusExportPlugin.Sidebar
             sb.AppendLine($"{indent}  'type': 'doc',");
             sb.AppendLine($"{indent}  'label': '{Label}',");
             sb.AppendLine($"{indent}  'id': '{Path}',");
+
+            if (!string.IsNullOrEmpty(Classes))
+            {
+                sb.AppendLine($"{indent}  'className': '{Classes}',");
+            }
+            
             sb.AppendLine($"{indent}}}");
         
             return sb.ToString();
@@ -121,7 +130,18 @@ namespace DocusaurusExportPlugin.Sidebar
             {
                 sb.AppendLine($"{indent}  'link': {{type: 'doc', id: '{Path}'}},");
             }
+            else
+            {
+                sb.AppendLine($"{indent}  'link': {{");
+                sb.AppendLine($"{indent}    'type': 'generated-index',");
+                sb.AppendLine($"{indent}  }},");
+            }
         
+            if (!string.IsNullOrEmpty(Classes))
+            {
+                sb.AppendLine($"{indent}  'className': '{Classes}',");
+            }
+            
             sb.AppendLine($"{indent}  'items': [");
 
             var lastItem = Items.LastOrDefault();

@@ -68,7 +68,7 @@ namespace DocusaurusExportPlugin.Sidebar
             throw new AggregateException("Unable to find assembly and namespace name.");
         }
 
-        private SidebarSection GetOrAddSection(string assemblyName)
+        private SidebarSection GetOrAddSection(string assemblyName, string? classes = null)
         {
             if (_itemsCache.TryGetValue(assemblyName, out var section))
             {
@@ -79,7 +79,8 @@ namespace DocusaurusExportPlugin.Sidebar
                 _itemsCache[assemblyName] = new SidebarSection(null)
                 {
                     Label = assemblyName,
-                    Level = 1
+                    Level = 1, 
+                    Classes = classes
                 };
                 return _itemsCache[assemblyName];
             }
@@ -98,8 +99,8 @@ namespace DocusaurusExportPlugin.Sidebar
 
             var containerInfo = GetAssemblyAndNamespace(content);
             
-            var assemblySection = GetOrAddSection(containerInfo.Item1);
-            var namespaceSection = assemblySection.GetOrAddSection(containerInfo.Item2);
+            var assemblySection = GetOrAddSection(containerInfo.Item1, "icon assembly-icon");
+            var namespaceSection = assemblySection.GetOrAddSection(containerInfo.Item2, null, "icon namespace-icon");
 
             namespaceSection.GetOrAddSection(label, path);
         }
