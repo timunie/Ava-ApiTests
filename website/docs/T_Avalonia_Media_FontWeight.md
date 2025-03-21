@@ -7,7 +7,7 @@ Defines a set of predefined font weights.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -31,6 +31,9 @@ type FontWeight
 
 <a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FontWeight.cs" title="View the source code">View Source</a>
 
+
+
+## Remarks
 As well as the values defined by this enumeration you can also pass any integer value by casting it to FontWeight, e.g. <code language="cs">(FontWeight)550</code>.
 
 ## Members

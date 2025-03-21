@@ -7,7 +7,7 @@ Base class for top-level widgets.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -58,6 +58,9 @@ type TopLevel =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Input_ICloseable">ICloseable</a>, <a href="T_Avalonia_Input_IInputElement">IInputElement</a>, <a href="T_Avalonia_Input_IInputRoot">IInputRoot</a>, <a href="T_Avalonia_Input_TextInput_ITextInputMethodRoot">ITextInputMethodRoot</a>, <a href="T_Avalonia_Layout_ILayoutRoot">ILayoutRoot</a>, <a href="T_Avalonia_LogicalTree_ILogical">ILogical</a>, <a href="T_Avalonia_LogicalTree_ILogicalRoot">ILogicalRoot</a>, <a href="T_Avalonia_Rendering_IRenderRoot">IRenderRoot</a>, <a href="T_Avalonia_Styling_IStyleHost">IStyleHost</a></td></tr>
 </table>
 
+
+
+## Remarks
 This class acts as a base for top level widget. It handles scheduling layout, styling and rendering as well as tracking the widget's <a href="P_Avalonia_Controls_TopLevel_ClientSize">ClientSize</a>.
 
 ## Properties

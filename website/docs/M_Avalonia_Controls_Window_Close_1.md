@@ -7,7 +7,7 @@ Closes a dialog window with the specified result.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -39,7 +39,10 @@ member Close :
 
 
 #### Parameters
-<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a></dt><dd>The dialog result.</dd></dl>When the window is shown with the <a href="M_Avalonia_Controls_Window_ShowDialog__1">ShowDialog(TResult)(Window)</a> or <a href="M_Avalonia_Controls_Window_ShowDialog__1">ShowDialog(TResult)(Window)</a> method, the resulting task will produce the _dialogResult value when the window is closed.
+<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a></dt><dd>The dialog result.</dd></dl>
+
+## Remarks
+When the window is shown with the <a href="M_Avalonia_Controls_Window_ShowDialog__1">ShowDialog(TResult)(Window)</a> or <a href="M_Avalonia_Controls_Window_ShowDialog__1">ShowDialog(TResult)(Window)</a> method, the resulting task will produce the _dialogResult value when the window is closed.
 
 ## See Also
 

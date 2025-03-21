@@ -7,7 +7,7 @@ Gets a value that indicates whether the undo stack has an action that can be und
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

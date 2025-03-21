@@ -7,7 +7,7 @@ Gets the total number of colors in this palette. A color is not necessarily a si
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ override ColorCount : int with get
 
 #### Implements
 <a href="P_Avalonia_Controls_IColorPalette_ColorCount">IColorPalette.ColorCount</a>  
+
+
+## Remarks
 Represents total columns in a table.
 
 ## See Also

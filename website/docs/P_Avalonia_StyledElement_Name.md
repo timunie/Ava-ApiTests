@@ -7,7 +7,7 @@ Gets or sets the name of the styled element.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -41,6 +41,9 @@ override Name : string with get, set
 
 #### Implements
 <a href="P_Avalonia_INamed_Name">INamed.Name</a>  
+
+
+## Remarks
 An element's name is used to uniquely identify an element within the element's name scope. Once the element is added to a logical tree, its name cannot be changed.
 
 ## See Also

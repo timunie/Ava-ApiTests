@@ -7,7 +7,7 @@ Gets a value indicating whether the <a href="P_Avalonia_Diagnostics_AvaloniaProp
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Diagnostics">Avalonia.Diagnostics</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

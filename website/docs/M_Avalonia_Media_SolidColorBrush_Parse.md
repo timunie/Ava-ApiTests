@@ -7,7 +7,7 @@ Parses a brush string.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,7 +43,10 @@ static member Parse :
 
 #### Return Value
 <a href="T_Avalonia_Media_SolidColorBrush">SolidColorBrush</a>  
-The <a href="P_Avalonia_Media_SolidColorBrush_Color">Color</a>.Whereas <a href="M_Avalonia_Media_Brush_Parse">Parse(String)</a> may return an immutable solid color brush, this method always returns a mutable <a href="T_Avalonia_Media_SolidColorBrush">SolidColorBrush</a>.
+The <a href="P_Avalonia_Media_SolidColorBrush_Color">Color</a>.
+
+## Remarks
+Whereas <a href="M_Avalonia_Media_Brush_Parse">Parse(String)</a> may return an immutable solid color brush, this method always returns a mutable <a href="T_Avalonia_Media_SolidColorBrush">SolidColorBrush</a>.
 
 ## See Also
 

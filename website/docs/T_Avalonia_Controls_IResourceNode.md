@@ -7,7 +7,7 @@ Represents an object that can be queried for resources.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -34,6 +34,9 @@ type IResourceNode = interface end
 
 <a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/IResourceNode.cs" title="View the source code">View Source</a>
 
+
+
+## Remarks
 The interface represents a common interface for both controls that host resources (<a href="T_Avalonia_Controls_IResourceHost">IResourceHost</a>) and resource providers such as <a href="T_Avalonia_Controls_ResourceDictionary">ResourceDictionary</a> (see <a href="T_Avalonia_Controls_IResourceProvider">IResourceProvider</a>).
 
 ## Properties

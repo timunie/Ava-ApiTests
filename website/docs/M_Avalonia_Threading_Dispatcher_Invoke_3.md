@@ -7,7 +7,7 @@ Executes the specified Action synchronously on the thread that the Dispatcher wa
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Threading">Avalonia.Threading</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -39,7 +39,10 @@ member Invoke :
 
 
 #### Parameters
-<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.action" target="_blank" rel="noopener noreferrer">Action</a></dt><dd>An Action delegate to invoke through the dispatcher.</dd></dl>Note that the default priority is DispatcherPriority.Send.
+<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.action" target="_blank" rel="noopener noreferrer">Action</a></dt><dd>An Action delegate to invoke through the dispatcher.</dd></dl>
+
+## Remarks
+Note that the default priority is DispatcherPriority.Send.
 
 ## See Also
 

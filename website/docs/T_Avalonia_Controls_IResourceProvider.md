@@ -7,7 +7,7 @@ Represents an object that can be queried for resources but does not appear in th
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -39,6 +39,9 @@ type IResourceProvider =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_IResourceNode">IResourceNode</a></td></tr>
 </table>
 
+
+
+## Remarks
 This interface is implemented by <a href="T_Avalonia_Controls_ResourceDictionary">ResourceDictionary</a>, <a href="T_Avalonia_Styling_Style">Style</a> and <a href="T_Avalonia_Styling_Styles">Styles</a>
 
 ## Properties

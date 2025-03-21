@@ -7,7 +7,7 @@ Gets or sets a parameter to pass to <a href="P_Avalonia_Data_TemplateBinding_Con
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Data">Avalonia.Data</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

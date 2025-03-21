@@ -7,7 +7,7 @@ Gets the plane angle between the Y-Z plane and the plane that contains the Y axi
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Input">Avalonia.Input</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

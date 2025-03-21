@@ -7,7 +7,7 @@ Marks a property as affecting the shape's geometry.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Shapes">Avalonia.Controls.Shapes</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -44,7 +44,10 @@ static member AffectsGeometry :
 <dl><dt>  <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>[]</dt><dd>The properties.</dd></dl>
 
 #### Type Parameters
-<dl><dt /><dd /></dl>After a call to this method in a control's static constructor, any change to the property will cause <a href="M_Avalonia_Controls_Shapes_Shape_InvalidateGeometry">InvalidateGeometry()</a> to be called on the element.
+<dl><dt /><dd /></dl>
+
+## Remarks
+After a call to this method in a control's static constructor, any change to the property will cause <a href="M_Avalonia_Controls_Shapes_Shape_InvalidateGeometry">InvalidateGeometry()</a> to be called on the element.
 
 ## See Also
 

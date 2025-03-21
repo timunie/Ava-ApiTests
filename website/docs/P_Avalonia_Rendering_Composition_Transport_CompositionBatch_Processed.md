@@ -7,7 +7,7 @@ Indicates that batch got deserialized on the render thread and will soon be rend
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Rendering_Composition_Transport">Avalonia.Rendering.Composition.Transport</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member Processed : Task with get
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.threading.tasks.task" target="_blank" rel="noopener noreferrer">Task</a>To allow timing-sensitive code to receive the notification in time, the TaskCompletionSource is configured to invoke continuations _synchronously_, so your `await` could happen from the render loop if it happens to run on the UI thread. It's recommended to use Dispatcher.AwaitOnPriority when consuming from the UI thread
+<a href="https://learn.microsoft.com/dotnet/api/system.threading.tasks.task" target="_blank" rel="noopener noreferrer">Task</a>
+
+## Remarks
+To allow timing-sensitive code to receive the notification in time, the TaskCompletionSource is configured to invoke continuations _synchronously_, so your `await` could happen from the render loop if it happens to run on the UI thread. It's recommended to use Dispatcher.AwaitOnPriority when consuming from the UI thread
 
 ## See Also
 

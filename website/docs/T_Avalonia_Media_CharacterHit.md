@@ -7,7 +7,7 @@ Represents information about a character hit within a glyph run.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -42,6 +42,9 @@ type CharacterHit =
 <tr><td><strong>Implements</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.iequatable-1" target="_blank" rel="noopener noreferrer">IEquatable</a>(CharacterHit)</td></tr>
 </table>
 
+
+
+## Remarks
 The CharacterHit structure provides information about the index of the first character that got hit as well as information about leading or trailing edge.
 
 ## Constructors

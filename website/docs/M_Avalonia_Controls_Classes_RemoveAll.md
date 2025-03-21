@@ -7,7 +7,7 @@ Removes style classes from the collection.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -45,6 +45,9 @@ override RemoveAll :
 
 #### Implements
 <a href="M_Avalonia_Collections_IAvaloniaList_1_RemoveAll">IAvaloniaList(T).RemoveAll(IEnumerable(T))</a>  
+
+
+## Remarks
 Only standard classes may be removed via this method. To remove pseudoclasses (classes beginning with a ':' character) use the protected <a href="P_Avalonia_StyledElement_PseudoClasses">PseudoClasses</a> property.
 
 ## See Also

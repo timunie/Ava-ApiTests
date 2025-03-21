@@ -7,7 +7,7 @@ Called when the <a href="P_Avalonia_Controls_ColorView_HsvColor">HsvColor</a> pr
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

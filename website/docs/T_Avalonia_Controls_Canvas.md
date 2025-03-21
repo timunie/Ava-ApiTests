@@ -7,7 +7,7 @@ A panel that displays child controls at arbitrary locations.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,6 +43,9 @@ type Canvas =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Input_INavigableContainer">INavigableContainer</a></td></tr>
 </table>
 
+
+
+## Remarks
 Unlike other <a href="T_Avalonia_Controls_Panel">Panel</a> implementations, the Canvas doesn't lay out its children in any particular layout. Instead, the positioning of each child control is defined by the <code language="cs">Canvas.Left</code>, <code language="cs">Canvas.Top</code>, <code language="cs">Canvas.Right</code> and <code language="cs">Canvas.Bottom</code> attached properties.
 
 ## Constructors

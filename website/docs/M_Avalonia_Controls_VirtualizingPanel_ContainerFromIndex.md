@@ -7,7 +7,7 @@ Returns the container for the item at the specified index.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,7 +43,10 @@ abstract ContainerFromIndex :
 
 #### Return Value
 <a href="T_Avalonia_Controls_Control">Control</a>  
-The container for the item at the specified index within the item collection, if the item is realized; otherwise, null.Note for implementors: if the item at the specified index is an ItemIsOwnContainer item that has previously been realized, then the item should be returned even if it currently falls outside the realized viewport.
+The container for the item at the specified index within the item collection, if the item is realized; otherwise, null.
+
+## Remarks
+Note for implementors: if the item at the specified index is an ItemIsOwnContainer item that has previously been realized, then the item should be returned even if it currently falls outside the realized viewport.
 
 ## See Also
 

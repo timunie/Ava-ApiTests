@@ -7,7 +7,7 @@ The maximum number of bytes for video memory to store textures and resources.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Skia (in Avalonia.Skia.dll) Version: 11.2.0
+**Assembly:** Avalonia.Skia (in Avalonia.Skia.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member MaxGpuResourceSizeBytes : Nullable<int64> with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="https://learn.microsoft.com/dotnet/api/system.int64" target="_blank" rel="noopener noreferrer">Int64</a>)This is set by default to the recommended value for Avalonia. Setting this to null will give you the default Skia value.
+<a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="https://learn.microsoft.com/dotnet/api/system.int64" target="_blank" rel="noopener noreferrer">Int64</a>)
+
+## Remarks
+This is set by default to the recommended value for Avalonia. Setting this to null will give you the default Skia value.
 
 ## See Also
 

@@ -7,7 +7,7 @@ Overrides the core arrange logic for windows.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -41,7 +41,10 @@ override ArrangeCore :
 
 
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_Rect">Rect</a></dt><dd>The final arrange rect.</dd></dl>The layout logic for top-level windows is different than for other controls because they don't have a parent, meaning that many layout properties handled by the default ArrangeCore (such as margins and alignment) make no sense.
+<dl><dt>  <a href="T_Avalonia_Rect">Rect</a></dt><dd>The final arrange rect.</dd></dl>
+
+## Remarks
+The layout logic for top-level windows is different than for other controls because they don't have a parent, meaning that many layout properties handled by the default ArrangeCore (such as margins and alignment) make no sense.
 
 ## See Also
 

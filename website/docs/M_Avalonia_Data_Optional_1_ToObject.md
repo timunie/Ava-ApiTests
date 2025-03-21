@@ -7,7 +7,7 @@ Casts the value (if any) to an <a href="https://learn.microsoft.com/dotnet/api/s
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Data">Avalonia.Data</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

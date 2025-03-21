@@ -7,7 +7,7 @@ Occurs when the <a href="P_Avalonia_StyledElement_DataContext">DataContext</a> p
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member DataContextChanged : IEvent<EventHandler,
 
 
 #### Value
-<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler" target="_blank" rel="noopener noreferrer">EventHandler</a>This event will be raised when the <a href="P_Avalonia_StyledElement_DataContext">DataContext</a> property has changed and all subscribers to that change have been notified.
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler" target="_blank" rel="noopener noreferrer">EventHandler</a>
+
+## Remarks
+This event will be raised when the <a href="P_Avalonia_StyledElement_DataContext">DataContext</a> property has changed and all subscribers to that change have been notified.
 
 ## See Also
 

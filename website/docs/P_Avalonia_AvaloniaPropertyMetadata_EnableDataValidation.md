@@ -7,7 +7,7 @@ Gets a value indicating whether the property is interested in data validation.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ override EnableDataValidation : Nullable<bool> with get
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>)Data validation is validation performed at the target of a binding, for example in a view model using the INotifyDataErrorInfo interface. Only certain properties on a control (such as a TextBox's Text property) will be interested in receiving data validation messages so this feature must be explicitly enabled by setting this flag.
+<a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>)
+
+## Remarks
+Data validation is validation performed at the target of a binding, for example in a view model using the INotifyDataErrorInfo interface. Only certain properties on a control (such as a TextBox's Text property) will be interested in receiving data validation messages so this feature must be explicitly enabled by setting this flag.
 
 ## See Also
 

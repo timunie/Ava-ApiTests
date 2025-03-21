@@ -7,7 +7,7 @@ Attribute that instructs the compiler to resolve the data type using specific sc
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Metadata">Avalonia.Metadata</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -46,6 +46,9 @@ type InheritDataTypeFromAttribute =
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="https://learn.microsoft.com/dotnet/api/system.attribute" target="_blank" rel="noopener noreferrer">Attribute</a>  →  InheritDataTypeFromAttribute</td></tr>
 </table>
 
+
+
+## Remarks
 This attribute is used to configure markup extensions like TemplateBinding to properly parse AvaloniaProperty values, targeting a specific scope data type.
 
 ## Constructors

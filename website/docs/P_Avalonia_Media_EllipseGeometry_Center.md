@@ -7,7 +7,7 @@ Gets or sets a point that defines the center of the ellipse.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member Center : Point with get, set
 
 
 #### Property Value
-<a href="T_Avalonia_Point">Point</a>In order for this property to be used, <a href="P_Avalonia_Media_EllipseGeometry_Rect">Rect</a> must not be set (equal to the default <a href="T_Avalonia_Rect">Rect</a> value).
+<a href="T_Avalonia_Point">Point</a>
+
+## Remarks
+In order for this property to be used, <a href="P_Avalonia_Media_EllipseGeometry_Rect">Rect</a> must not be set (equal to the default <a href="T_Avalonia_Rect">Rect</a> value).
 
 ## See Also
 

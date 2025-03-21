@@ -7,7 +7,7 @@ Returns a task awaitable that would invoke continuation on specified dispatcher 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Threading">Avalonia.Threading</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

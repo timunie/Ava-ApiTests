@@ -7,7 +7,7 @@ Gets the size of the file in bytes.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member Size : Nullable<uint64> with get
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="https://learn.microsoft.com/dotnet/api/system.uint64" target="_blank" rel="noopener noreferrer">UInt64</a>)Can be null if property is not available.
+<a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="https://learn.microsoft.com/dotnet/api/system.uint64" target="_blank" rel="noopener noreferrer">UInt64</a>)
+
+## Remarks
+Can be null if property is not available.
 
 ## See Also
 

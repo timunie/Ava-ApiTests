@@ -7,7 +7,7 @@ Gets a copy of this object configured for use with any owner type.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ override GenerateTypeSafeMetadata : unit -> AvaloniaPropertyMetadata
 
 
 #### Return Value
-<a href="T_Avalonia_AvaloniaPropertyMetadata">AvaloniaPropertyMetadata</a>For example, delegates which receive the owner object should be removed.
+<a href="T_Avalonia_AvaloniaPropertyMetadata">AvaloniaPropertyMetadata</a>
+
+## Remarks
+For example, delegates which receive the owner object should be removed.
 
 ## See Also
 

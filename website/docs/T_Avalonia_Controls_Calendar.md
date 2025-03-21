@@ -7,7 +7,7 @@ Represents a control that enables a user to select a date by using a visual cale
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -45,6 +45,9 @@ type Calendar =
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a>  →  <a href="T_Avalonia_Animation_Animatable">Animatable</a>  →  <a href="T_Avalonia_StyledElement">StyledElement</a>  →  <a href="T_Avalonia_Visual">Visual</a>  →  <a href="T_Avalonia_Layout_Layoutable">Layoutable</a>  →  <a href="T_Avalonia_Interactivity_Interactive">Interactive</a>  →  <a href="T_Avalonia_Input_InputElement">InputElement</a>  →  <a href="T_Avalonia_Controls_Control">Control</a>  →  <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl</a>  →  Calendar</td></tr>
 </table>
 
+
+
+## Remarks
 
 A Calendar control can be used on its own, or as a drop-down part of a DatePicker control. For more information, see DatePicker. A Calendar displays either the days of a month, the months of a year, or the years of a decade, depending on the value of the DisplayMode property. When displaying the days of a month, the user can select a date, a range of dates, or multiple ranges of dates. The kinds of selections that are allowed are controlled by the SelectionMode property.
 

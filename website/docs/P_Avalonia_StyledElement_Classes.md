@@ -7,7 +7,7 @@ Gets or sets the styled element's classes.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,6 +36,9 @@ member Classes : Classes with get
 
 #### Property Value
 <a href="T_Avalonia_Controls_Classes">Classes</a>
+
+## Remarks
+
 Classes can be used to apply user-defined styling to styled elements, or to allow styled elements that share a common purpose to be easily selected.
 
 Even though this property can be set, the setter is only intended for use in object initializers. Assigning to this property does not change the underlying collection, it simply clears the existing collection and adds the contents of the assigned collection.

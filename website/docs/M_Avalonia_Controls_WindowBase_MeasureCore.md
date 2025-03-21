@@ -7,7 +7,7 @@ Overrides the core measure logic for windows.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -45,7 +45,10 @@ override MeasureCore :
 
 #### Return Value
 <a href="T_Avalonia_Size">Size</a>  
-The measured size.The layout logic for top-level windows is different than for other controls because they don't have a parent, meaning that many layout properties handled by the default MeasureCore (such as margins and alignment) make no sense.
+The measured size.
+
+## Remarks
+The layout logic for top-level windows is different than for other controls because they don't have a parent, meaning that many layout properties handled by the default MeasureCore (such as margins and alignment) make no sense.
 
 ## See Also
 

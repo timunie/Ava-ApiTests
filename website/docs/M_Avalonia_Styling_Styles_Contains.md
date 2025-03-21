@@ -7,7 +7,7 @@ Determines whether the <a href="https://learn.microsoft.com/dotnet/api/system.co
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Styling">Avalonia.Styling</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

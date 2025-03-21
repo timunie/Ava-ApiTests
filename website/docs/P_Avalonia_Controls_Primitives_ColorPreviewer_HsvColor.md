@@ -7,7 +7,7 @@ Gets or sets the currently previewed color in the HSV color model.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member HsvColor : HsvColor with get, set
 
 
 #### Property Value
-<a href="T_Avalonia_Media_HsvColor">HsvColor</a>Only an HSV color is supported in this control to ensure there is never any loss of precision or color information. Accent colors, like the color spectrum, only operate with the HSV color model.
+<a href="T_Avalonia_Media_HsvColor">HsvColor</a>
+
+## Remarks
+Only an HSV color is supported in this control to ensure there is never any loss of precision or color information. Accent colors, like the color spectrum, only operate with the HSV color model.
 
 ## See Also
 

@@ -7,7 +7,7 @@ Called before the <a href="E_Avalonia_Controls_Primitives_ColorPreviewer_ColorCh
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

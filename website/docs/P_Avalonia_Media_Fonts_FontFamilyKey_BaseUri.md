@@ -7,7 +7,7 @@ A base URI to use if <a href="P_Avalonia_Media_Fonts_FontFamilyKey_Source">Sourc
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media_Fonts">Avalonia.Media.Fonts</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

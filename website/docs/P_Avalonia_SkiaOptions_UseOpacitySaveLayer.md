@@ -7,7 +7,7 @@ Use Skia's SaveLayer API to handling opacity.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Skia (in Avalonia.Skia.dll) Version: 11.2.0
+**Assembly:** Avalonia.Skia (in Avalonia.Skia.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member UseOpacitySaveLayer : bool with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>Enabling this might have performance implications.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## Remarks
+Enabling this might have performance implications.
 
 ## See Also
 

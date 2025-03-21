@@ -7,7 +7,7 @@ Returns an glyph index for the specified codepoint.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,7 +43,10 @@ abstract GetGlyph :
 
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.uint16" target="_blank" rel="noopener noreferrer">UInt16</a>  
-A glyph index.Returns `0` if a glyph isn't found.
+A glyph index.
+
+## Remarks
+Returns `0` if a glyph isn't found.
 
 ## See Also
 

@@ -7,7 +7,7 @@ Gets or sets a timeout after which the dispatcher will start prioritizing input 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Threading">Avalonia.Threading</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member InputStarvationTimeout : TimeSpan with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.timespan" target="_blank" rel="noopener noreferrer">TimeSpan</a>If no input events are processed within this time, the dispatcher will start prioritizing input events over rendering to prevent the application from becoming unresponsive. This may need to be lowered on resource-constrained platforms where input events are processed on the same thread as rendering.
+<a href="https://learn.microsoft.com/dotnet/api/system.timespan" target="_blank" rel="noopener noreferrer">TimeSpan</a>
+
+## Remarks
+If no input events are processed within this time, the dispatcher will start prioritizing input events over rendering to prevent the application from becoming unresponsive. This may need to be lowered on resource-constrained platforms where input events are processed on the same thread as rendering.
 
 ## See Also
 

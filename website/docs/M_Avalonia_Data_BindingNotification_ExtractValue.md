@@ -7,7 +7,7 @@ Gets a value from an object that may be a <a href="T_Avalonia_Data_BindingNotifi
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Data">Avalonia.Data</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,7 +43,10 @@ static member ExtractValue :
 
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  
-The value.If *o* is a <a href="T_Avalonia_Data_BindingNotification">BindingNotification</a> then returns the binding notification's <a href="P_Avalonia_Data_BindingNotification_Value">Value</a>. If not, returns the object unchanged.
+The value.
+
+## Remarks
+If *o* is a <a href="T_Avalonia_Data_BindingNotification">BindingNotification</a> then returns the binding notification's <a href="P_Avalonia_Data_BindingNotification_Value">Value</a>. If not, returns the object unchanged.
 
 ## See Also
 

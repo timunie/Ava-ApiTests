@@ -7,7 +7,7 @@ Gets the styles for the styled element.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ override Styles : Styles with get
 
 #### Implements
 <a href="P_Avalonia_Styling_IStyleHost_Styles">IStyleHost.Styles</a>  
+
+
+## Remarks
 Styles for the entire application are added to the Application.Styles collection, but each styled element may in addition define its own styles which are applied to the styled element itself and its children.
 
 ## See Also

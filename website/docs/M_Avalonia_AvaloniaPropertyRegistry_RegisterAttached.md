@@ -7,7 +7,7 @@ Registers an attached <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -42,7 +42,10 @@ member RegisterAttached :
 
 
 #### Parameters
-<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a></dt><dd>The type.</dd><dt>  <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a></dt><dd>The property.</dd></dl>You won't usually want to call this method directly, instead use the <a href="M_Avalonia_AvaloniaProperty_RegisterAttached__2">RegisterAttached(THost, TValue)(String, Type, TValue, Boolean, BindingMode, Func(TValue, Boolean), Func(AvaloniaObject, TValue, TValue))</a> method.
+<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a></dt><dd>The type.</dd><dt>  <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a></dt><dd>The property.</dd></dl>
+
+## Remarks
+You won't usually want to call this method directly, instead use the <a href="M_Avalonia_AvaloniaProperty_RegisterAttached__2">RegisterAttached(THost, TValue)(String, Type, TValue, Boolean, BindingMode, Func(TValue, Boolean), Func(AvaloniaObject, TValue, TValue))</a> method.
 
 ## See Also
 

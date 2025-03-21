@@ -7,7 +7,7 @@ Initializes a new instance of the <a href="T_Avalonia_LinuxFramebuffer_Input_EvD
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_LinuxFramebuffer_Input_EvDev">Avalonia.LinuxFramebuffer.Input.EvDev</a>  
-**Assembly:** Avalonia.LinuxFramebuffer (in Avalonia.LinuxFramebuffer.dll) Version: 11.2.0
+**Assembly:** Avalonia.LinuxFramebuffer (in Avalonia.LinuxFramebuffer.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

@@ -7,7 +7,7 @@ Gets the control that was attached or detached from the logical tree.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_LogicalTree">Avalonia.LogicalTree</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member Source : ILogical with get
 
 
 #### Property Value
-<a href="T_Avalonia_LogicalTree_ILogical">ILogical</a>Logical tree attachment events travel down the attached logical tree from the point of attachment/detachment, so this control may be different from the control that the event is being raised on.
+<a href="T_Avalonia_LogicalTree_ILogical">ILogical</a>
+
+## Remarks
+Logical tree attachment events travel down the attached logical tree from the point of attachment/detachment, so this control may be different from the control that the event is being raised on.
 
 ## See Also
 

@@ -7,7 +7,7 @@ Gets or sets the number of frames per second at which the renderer should run. D
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_LinuxFramebuffer">Avalonia.LinuxFramebuffer</a>  
-**Assembly:** Avalonia.LinuxFramebuffer (in Avalonia.LinuxFramebuffer.dll) Version: 11.2.0
+**Assembly:** Avalonia.LinuxFramebuffer (in Avalonia.LinuxFramebuffer.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

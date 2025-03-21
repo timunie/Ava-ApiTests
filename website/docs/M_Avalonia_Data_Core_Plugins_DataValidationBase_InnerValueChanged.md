@@ -7,7 +7,7 @@ Called when the inner <a href="T_Avalonia_Data_Core_Plugins_IPropertyAccessor">I
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Data_Core_Plugins">Avalonia.Data.Core.Plugins</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -41,7 +41,10 @@ override InnerValueChanged :
 
 
 #### Parameters
-<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a></dt><dd>The value.</dd></dl>Notifies the observer that the value has changed. The value will be wrapped in a <a href="T_Avalonia_Data_BindingNotification">BindingNotification</a> if it is not already a binding notification.
+<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a></dt><dd>The value.</dd></dl>
+
+## Remarks
+Notifies the observer that the value has changed. The value will be wrapped in a <a href="T_Avalonia_Data_BindingNotification">BindingNotification</a> if it is not already a binding notification.
 
 ## See Also
 

@@ -7,7 +7,7 @@ Gets the total number of shades for each color in this palette. Shades are usual
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ override ShadeCount : int with get
 
 #### Implements
 <a href="P_Avalonia_Controls_IColorPalette_ShadeCount">IColorPalette.ShadeCount</a>  
+
+
+## Remarks
 Represents total rows in a table.
 
 ## See Also

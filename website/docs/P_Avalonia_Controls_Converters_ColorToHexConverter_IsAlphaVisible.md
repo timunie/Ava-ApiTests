@@ -7,7 +7,7 @@ Gets or sets a value indicating whether the alpha component is visible in the He
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Converters">Avalonia.Controls.Converters</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member IsAlphaVisible : bool with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>When hidden the existing alpha component value is maintained. Also when hidden the user is still able to input an 8-digit number with alpha. Alpha will be processed but then removed when displayed. Because this property only controls whether alpha is displayed (and it is still processed regardless) it is termed 'Visible' instead of 'Enabled'.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## Remarks
+When hidden the existing alpha component value is maintained. Also when hidden the user is still able to input an 8-digit number with alpha. Alpha will be processed but then removed when displayed. Because this property only controls whether alpha is displayed (and it is still processed regardless) it is termed 'Visible' instead of 'Enabled'.
 
 ## See Also
 

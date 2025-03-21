@@ -7,7 +7,7 @@ Describes a geometry using drawing commands.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,6 +43,9 @@ type StreamGeometryContext =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Platform_IGeometryContext">IGeometryContext</a>, <a href="T_Avalonia_Platform_IGeometryContext2">IGeometryContext2</a>, <a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_blank" rel="noopener noreferrer">IDisposable</a></td></tr>
 </table>
 
+
+
+## Remarks
 This class is used to define the geometry of a <a href="T_Avalonia_Media_StreamGeometry">StreamGeometry</a>. An instance of StreamGeometryContext is obtained by calling <a href="M_Avalonia_Media_StreamGeometry_Open">Open()</a>.
 
 ## Methods

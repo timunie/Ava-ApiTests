@@ -5,7 +5,7 @@
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Skia_Helpers">Avalonia.Skia.Helpers</a>  
-**Assembly:** Avalonia.Skia (in Avalonia.Skia.dll) Version: 11.2.0
+**Assembly:** Avalonia.Skia (in Avalonia.Skia.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

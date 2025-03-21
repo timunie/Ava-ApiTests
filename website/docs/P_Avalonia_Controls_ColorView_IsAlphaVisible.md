@@ -7,7 +7,7 @@ Gets or sets a value indicating whether the alpha component editing controls (Sl
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member IsAlphaVisible : bool with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>Note that <a href="P_Avalonia_Controls_ColorView_IsComponentTextInputVisible">IsComponentTextInputVisible</a> also controls the alpha component TextBox visibility.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## Remarks
+Note that <a href="P_Avalonia_Controls_ColorView_IsComponentTextInputVisible">IsComponentTextInputVisible</a> also controls the alpha component TextBox visibility.
 
 ## See Also
 

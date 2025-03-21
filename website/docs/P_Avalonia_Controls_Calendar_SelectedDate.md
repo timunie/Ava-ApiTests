@@ -7,7 +7,7 @@ Gets or sets the currently selected date.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -37,7 +37,10 @@ member SelectedDate : Nullable<DateTime> with get, set
 
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="https://learn.microsoft.com/dotnet/api/system.datetime" target="_blank" rel="noopener noreferrer">DateTime</a>)  
-The date currently selected. The default is null.Use this property when SelectionMode is set to SingleDate. In other modes, this property will always be the first date in SelectedDates.
+The date currently selected. The default is null.
+
+## Remarks
+Use this property when SelectionMode is set to SingleDate. In other modes, this property will always be the first date in SelectedDates.
 
 ## Exceptions
 <table>

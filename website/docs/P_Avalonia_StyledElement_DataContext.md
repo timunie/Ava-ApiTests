@@ -7,7 +7,7 @@ Gets or sets the control's data context.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -41,6 +41,9 @@ override DataContext : Object with get, set
 
 #### Implements
 <a href="P_Avalonia_IDataContextProvider_DataContext">IDataContextProvider.DataContext</a>  
+
+
+## Remarks
 The data context is an inherited property that specifies the default object that will be used for data binding.
 
 ## See Also

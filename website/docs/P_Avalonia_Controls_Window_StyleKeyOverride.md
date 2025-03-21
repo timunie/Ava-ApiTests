@@ -7,7 +7,7 @@ Gets the type by which the element is styled.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ override StyleKeyOverride : Type with get
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a>Usually controls are styled by their own type, but there are instances where you want an element to be styled by its base type, e.g. creating SpecialButton that derives from Button and adds extra functionality but is still styled as a regular Button. Override this property to change the style for a control class, returning the type that you wish the elements to be styled as.
+<a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a>
+
+## Remarks
+Usually controls are styled by their own type, but there are instances where you want an element to be styled by its base type, e.g. creating SpecialButton that derives from Button and adds extra functionality but is still styled as a regular Button. Override this property to change the style for a control class, returning the type that you wish the elements to be styled as.
 
 ## See Also
 

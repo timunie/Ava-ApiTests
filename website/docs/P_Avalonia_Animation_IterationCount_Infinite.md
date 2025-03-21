@@ -7,7 +7,7 @@ Gets an instance of <a href="T_Avalonia_Animation_IterationCount">IterationCount
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Animation">Avalonia.Animation</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

@@ -7,7 +7,7 @@ Coerces the current text.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -45,7 +45,10 @@ override CoerceText :
 
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>  
-A coerced text.This method also manages the internal undo/redo state whenever the text changes: if overridden, ensure that the base is called or undo/redo won't work correctly.
+A coerced text.
+
+## Remarks
+This method also manages the internal undo/redo state whenever the text changes: if overridden, ensure that the base is called or undo/redo won't work correctly.
 
 ## See Also
 

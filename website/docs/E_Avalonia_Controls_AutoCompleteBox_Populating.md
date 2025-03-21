@@ -7,7 +7,7 @@ Occurs when the <a href="T_Avalonia_Controls_AutoCompleteBox">AutoCompleteBox</a
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member Populating : IEvent<EventHandler<PopulatingEventArgs>,
 
 
 #### Value
-<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Controls_PopulatingEventArgs">PopulatingEventArgs</a>)If the event is canceled, by setting the PopulatingEventArgs.Cancel property to true, the AutoCompleteBox will not automatically populate the selection adapter contained in the drop-down. In this case, if you want possible matches to appear, you must provide the logic for populating the selection adapter.
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Controls_PopulatingEventArgs">PopulatingEventArgs</a>)
+
+## Remarks
+If the event is canceled, by setting the PopulatingEventArgs.Cancel property to true, the AutoCompleteBox will not automatically populate the selection adapter contained in the drop-down. In this case, if you want possible matches to appear, you must provide the logic for populating the selection adapter.
 
 ## See Also
 

@@ -7,7 +7,7 @@ Defines how a property should be animated using a transition.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Animation">Avalonia.Animation</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

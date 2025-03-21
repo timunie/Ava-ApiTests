@@ -7,7 +7,7 @@ List of extensions in MIME format.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member MimeTypes : IReadOnlyList<string> with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ireadonlylist-1" target="_blank" rel="noopener noreferrer">IReadOnlyList</a>(<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>)Used on Android, Linux and Browser platforms.
+<a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ireadonlylist-1" target="_blank" rel="noopener noreferrer">IReadOnlyList</a>(<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>)
+
+## Remarks
+Used on Android, Linux and Browser platforms.
 
 ## See Also
 

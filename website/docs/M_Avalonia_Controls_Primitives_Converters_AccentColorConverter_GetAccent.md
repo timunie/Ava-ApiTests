@@ -7,7 +7,7 @@ This does not account for perceptual differences and also does not match with sy
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives_Converters">Avalonia.Controls.Primitives.Converters</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -46,7 +46,10 @@ static member GetAccent :
 
 #### Return Value
 <a href="T_Avalonia_Media_HsvColor">HsvColor</a>  
-The new accent color.Use the HSV representation as it's more perceptual. In most cases only the value is changed by a fixed percentage so the algorithm is reproducible.
+The new accent color.
+
+## Remarks
+Use the HSV representation as it's more perceptual. In most cases only the value is changed by a fixed percentage so the algorithm is reproducible.
 
 ## See Also
 

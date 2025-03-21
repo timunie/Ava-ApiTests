@@ -7,7 +7,7 @@ Holds the details of a ColorChanged event.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -39,6 +39,9 @@ type ColorChangedEventArgs =
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="https://learn.microsoft.com/dotnet/api/system.eventargs" target="_blank" rel="noopener noreferrer">EventArgs</a>  →  ColorChangedEventArgs</td></tr>
 </table>
 
+
+
+## Remarks
 HSV color information is intentionally not provided. Use <a href="M_Avalonia_Media_Color_ToHsv">ToHsv()</a> to obtain it.
 
 ## Constructors

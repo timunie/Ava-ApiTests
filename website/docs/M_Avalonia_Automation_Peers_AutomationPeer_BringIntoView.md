@@ -7,7 +7,7 @@ Attempts to bring the element associated with the automation peer into view.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

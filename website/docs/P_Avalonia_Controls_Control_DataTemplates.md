@@ -7,7 +7,7 @@ Gets or sets the data templates for the control.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ override DataTemplates : DataTemplates with get
 
 #### Implements
 <a href="P_Avalonia_Controls_Templates_IDataTemplateHost_DataTemplates">IDataTemplateHost.DataTemplates</a>  
+
+
+## Remarks
 Each control may define data templates which are applied to the control itself and its children.
 
 ## See Also

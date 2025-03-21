@@ -7,7 +7,7 @@ Base class for direct properties.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -45,7 +45,10 @@ type DirectPropertyBase<'TValue> =
 
 
 #### Type Parameters
-<dl><dt /><dd>The type of the property's value.</dd></dl>Whereas <a href="T_Avalonia_DirectProperty_2">DirectProperty(TOwner, TValue)</a> is typed on the owner type, this base class provides a non-owner-typed interface to a direct property.
+<dl><dt /><dd>The type of the property's value.</dd></dl>
+
+## Remarks
+Whereas <a href="T_Avalonia_DirectProperty_2">DirectProperty(TOwner, TValue)</a> is typed on the owner type, this base class provides a non-owner-typed interface to a direct property.
 
 ## Properties
 <table>

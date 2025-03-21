@@ -7,7 +7,7 @@ Normalizes the rectangle so both the <a href="P_Avalonia_Rect_Width">Width</a> a
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member Normalize : unit -> Rect
 
 #### Return Value
 <a href="T_Avalonia_Rect">Rect</a>  
-Normalized RectEmpty rect will be return when Rect contains invalid values. Like NaN.
+Normalized Rect
+
+## Remarks
+Empty rect will be return when Rect contains invalid values. Like NaN.
 
 ## See Also
 

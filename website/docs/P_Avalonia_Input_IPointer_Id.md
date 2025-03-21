@@ -7,7 +7,7 @@ Gets a unique identifier for the input pointer.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Input">Avalonia.Input</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

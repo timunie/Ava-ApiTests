@@ -7,7 +7,7 @@ Applies styling to the control if the control is initialized and styling is not 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member ApplyStyling : unit -> bool
 
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>  
-A value indicating whether styling is now applied to the control.The styling system will automatically apply styling when required, so it should not usually be necessary to call this method manually.
+A value indicating whether styling is now applied to the control.
+
+## Remarks
+The styling system will automatically apply styling when required, so it should not usually be necessary to call this method manually.
 
 ## See Also
 

@@ -7,7 +7,7 @@ Defines a control template part referenced by name in code. Template part names 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Metadata">Avalonia.Controls.Metadata</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,6 +43,9 @@ type TemplatePartAttribute =
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="https://learn.microsoft.com/dotnet/api/system.attribute" target="_blank" rel="noopener noreferrer">Attribute</a>  →  TemplatePartAttribute</td></tr>
 </table>
 
+
+
+## Remarks
 Style authors should be able to identify the part type used for styling the specific control. The part is usually required in the style and should have a specific predefined name.
 
 ## Constructors

@@ -7,7 +7,7 @@ Gets the Sort criteria to sort items in collection.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Collections">Avalonia.Collections</a>  
-**Assembly:** Avalonia.Controls.DataGrid (in Avalonia.Controls.DataGrid.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.DataGrid (in Avalonia.Controls.DataGrid.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ override SortDescriptions : DataGridSortDescriptionCollection with get
 
 #### Implements
 <a href="P_Avalonia_Collections_IDataGridCollectionView_SortDescriptions">IDataGridCollectionView.SortDescriptions</a>  
+
+
+## Remarks
 
 Clear a sort criteria by assigning SortDescription.Empty to this property. One or more sort criteria in form of  can be used, each specifying a property and direction to sort by.
 

@@ -7,7 +7,7 @@ Gets or sets the application-defined sink that receives the messages.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Logging">Avalonia.Logging</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

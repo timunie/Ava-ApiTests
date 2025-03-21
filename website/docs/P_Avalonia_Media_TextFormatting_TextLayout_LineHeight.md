@@ -7,7 +7,7 @@ Gets or sets the height of each line of text.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member LineHeight : float with get
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>A value of NaN (equivalent to an attribute value of "Auto") indicates that the line height is determined automatically from the current font characteristics. The default is NaN.
+<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>
+
+## Remarks
+A value of NaN (equivalent to an attribute value of "Auto") indicates that the line height is determined automatically from the current font characteristics. The default is NaN.
 
 ## See Also
 

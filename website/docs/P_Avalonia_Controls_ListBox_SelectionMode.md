@@ -7,7 +7,7 @@ Gets or sets the selection mode.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member SelectionMode : SelectionMode with get, set
 
 
 #### Property Value
-<a href="T_Avalonia_Controls_SelectionMode">SelectionMode</a>Note that the selection mode only applies to selections made via user interaction. Multiple selections can be made programmatically regardless of the value of this property.
+<a href="T_Avalonia_Controls_SelectionMode">SelectionMode</a>
+
+## Remarks
+Note that the selection mode only applies to selections made via user interaction. Multiple selections can be made programmatically regardless of the value of this property.
 
 ## See Also
 

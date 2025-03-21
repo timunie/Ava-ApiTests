@@ -7,7 +7,7 @@ Base class for controls that can contain multiple children.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,6 +43,9 @@ type Panel =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_LogicalTree_IChildIndexProvider">IChildIndexProvider</a></td></tr>
 </table>
 
+
+
+## Remarks
 Controls can be added to a Panel by adding them to its <a href="P_Avalonia_Controls_Panel_Children">Children</a> collection. All children are layed out to fill the panel.
 
 ## Constructors

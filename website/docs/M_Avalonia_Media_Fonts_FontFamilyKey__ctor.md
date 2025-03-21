@@ -7,7 +7,7 @@ Creates a new instance of <a href="T_Avalonia_Media_Fonts_FontFamilyKey">FontFam
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media_Fonts">Avalonia.Media.Fonts</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

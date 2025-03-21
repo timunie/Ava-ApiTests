@@ -7,7 +7,7 @@ Defines the property that contains type that should be used as a type informatio
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Metadata">Avalonia.Metadata</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,6 +43,9 @@ type DataTypeAttribute =
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="https://learn.microsoft.com/dotnet/api/system.attribute" target="_blank" rel="noopener noreferrer">Attribute</a>  →  DataTypeAttribute</td></tr>
 </table>
 
+
+
+## Remarks
 Used on DataTemplate.DataType property so it can be inherited in compiled bindings inside of the template.
 
 ## Constructors

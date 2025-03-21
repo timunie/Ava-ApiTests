@@ -2,6 +2,9 @@
 
 
 Row property. This is an attached property. Grid defines Row, so that it can be set on any element treated as a cell. Row property specifies child's position with respect to rows. 
+
+## Remarks
+
 Rows are 0 - based. In order to appear in first row, element should have Row property set to `0`.
 
 Default value for the property is `0`.
@@ -11,7 +14,7 @@ Default value for the property is `0`.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

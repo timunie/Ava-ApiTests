@@ -7,7 +7,7 @@ Configures blazor backend, loads avalonia javascript modules and creates a singl
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Browser_Blazor">Avalonia.Browser.Blazor</a>  
-**Assembly:** Avalonia.Browser.Blazor (in Avalonia.Browser.Blazor.dll) Version: 11.2.0
+**Assembly:** Avalonia.Browser.Blazor (in Avalonia.Browser.Blazor.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

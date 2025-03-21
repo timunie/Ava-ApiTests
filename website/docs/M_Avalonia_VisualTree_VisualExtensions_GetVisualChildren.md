@@ -7,7 +7,7 @@ Enumerates the children of an <a href="T_Avalonia_Visual">Visual</a> in the visu
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_VisualTree">Avalonia.VisualTree</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

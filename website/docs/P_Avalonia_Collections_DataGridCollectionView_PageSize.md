@@ -7,7 +7,7 @@ Gets or sets the number of items to display on a page. If the PageSize = 0, then
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Collections">Avalonia.Collections</a>  
-**Assembly:** Avalonia.Controls.DataGrid (in Avalonia.Controls.DataGrid.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.DataGrid (in Avalonia.Controls.DataGrid.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

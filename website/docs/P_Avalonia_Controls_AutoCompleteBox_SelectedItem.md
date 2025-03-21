@@ -7,7 +7,7 @@ Gets or sets the selected item in the drop-down.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -37,7 +37,10 @@ member SelectedItem : Object with get, set
 
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  
-The selected item in the drop-down.If the IsTextCompletionEnabled property is true and text typed by the user matches an item in the ItemsSource collection, which is then displayed in the text box, the SelectedItem property will be a null reference.
+The selected item in the drop-down.
+
+## Remarks
+If the IsTextCompletionEnabled property is true and text typed by the user matches an item in the ItemsSource collection, which is then displayed in the text box, the SelectedItem property will be a null reference.
 
 ## See Also
 

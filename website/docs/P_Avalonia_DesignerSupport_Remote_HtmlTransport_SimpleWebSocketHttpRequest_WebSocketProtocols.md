@@ -5,7 +5,7 @@
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_DesignerSupport_Remote_HtmlTransport">Avalonia.DesignerSupport.Remote.HtmlTransport</a>  
-**Assembly:** Avalonia.DesignerSupport (in Avalonia.DesignerSupport.dll) Version: 0.7.0
+**Assembly:** Avalonia.DesignerSupport (in Avalonia.DesignerSupport.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

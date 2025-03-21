@@ -5,7 +5,7 @@
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_X11_Interop">Avalonia.X11.Interop</a>  
-**Assembly:** Avalonia.X11 (in Avalonia.X11.dll) Version: 11.2.0
+**Assembly:** Avalonia.X11 (in Avalonia.X11.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

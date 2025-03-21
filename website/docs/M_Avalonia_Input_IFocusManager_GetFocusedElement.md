@@ -7,7 +7,7 @@ Gets the currently focused <a href="T_Avalonia_Input_IInputElement">IInputElemen
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Input">Avalonia.Input</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

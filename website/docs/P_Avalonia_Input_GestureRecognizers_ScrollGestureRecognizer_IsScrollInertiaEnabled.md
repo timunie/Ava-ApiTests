@@ -7,7 +7,7 @@ Gets or sets whether the gesture should include inertia in it's behavior.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Input_GestureRecognizers">Avalonia.Input.GestureRecognizers</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

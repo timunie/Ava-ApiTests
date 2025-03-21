@@ -7,7 +7,7 @@ Gets a value indicating whether the control is fully constructed in the visual t
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member IsLoaded : bool with get
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>This is set to true while raising the <a href="E_Avalonia_Controls_Control_Loaded">Loaded</a> event.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## Remarks
+This is set to true while raising the <a href="E_Avalonia_Controls_Control_Loaded">Loaded</a> event.
 
 ## See Also
 

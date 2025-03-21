@@ -7,7 +7,7 @@ Adds selectable functionality to control classes.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Mixins">Avalonia.Controls.Mixins</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -37,6 +37,9 @@ type SelectableMixin = class end
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  SelectableMixin</td></tr>
 </table>
 
+
+
+## Remarks
 
 The SelectableMixin adds behavior to a control which can be selected. It adds the following behavior:
 <ul>Raises an <a href="F_Avalonia_Controls_Primitives_SelectingItemsControl_IsSelectedChangedEvent">IsSelectedChangedEvent</a> when the value if the IsSelected property changes.Adds a 'selected' class to selected controls.Requests that the control is scrolled into view when focused.</ul>

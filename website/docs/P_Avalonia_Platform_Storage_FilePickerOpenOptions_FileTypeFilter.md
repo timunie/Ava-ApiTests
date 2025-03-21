@@ -7,7 +7,7 @@ Gets or sets the collection of file types that the file open picker displays.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

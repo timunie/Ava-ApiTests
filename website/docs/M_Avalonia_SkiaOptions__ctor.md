@@ -7,7 +7,7 @@ Initializes a new instance of the <a href="T_Avalonia_SkiaOptions">SkiaOptions</
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Skia (in Avalonia.Skia.dll) Version: 11.2.0
+**Assembly:** Avalonia.Skia (in Avalonia.Skia.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

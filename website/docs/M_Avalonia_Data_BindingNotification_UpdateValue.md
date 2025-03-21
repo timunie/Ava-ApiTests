@@ -7,7 +7,7 @@ Updates the value of an object that may be a <a href="T_Avalonia_Data_BindingNot
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Data">Avalonia.Data</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -46,7 +46,10 @@ static member UpdateValue :
 
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  
-The updated binding notification if *o* is a binding notification; otherwise *value*.If *o* is a <a href="T_Avalonia_Data_BindingNotification">BindingNotification</a> then sets its value to *value*. If *value* is a <a href="T_Avalonia_Data_BindingNotification">BindingNotification</a> then the value will first be extracted.
+The updated binding notification if *o* is a binding notification; otherwise *value*.
+
+## Remarks
+If *o* is a <a href="T_Avalonia_Data_BindingNotification">BindingNotification</a> then sets its value to *value*. If *value* is a <a href="T_Avalonia_Data_BindingNotification">BindingNotification</a> then the value will first be extracted.
 
 ## See Also
 

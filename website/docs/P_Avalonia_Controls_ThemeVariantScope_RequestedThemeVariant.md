@@ -7,7 +7,7 @@ Gets or sets the UI theme variant that is used by the control (and its child ele
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member RequestedThemeVariant : ThemeVariant with get, set
 
 
 #### Property Value
-<a href="T_Avalonia_Styling_ThemeVariant">ThemeVariant</a>Setting RequestedThemeVariant to <a href="P_Avalonia_Styling_ThemeVariant_Default">Default</a> will apply parent's actual theme variant on the current scope.
+<a href="T_Avalonia_Styling_ThemeVariant">ThemeVariant</a>
+
+## Remarks
+Setting RequestedThemeVariant to <a href="P_Avalonia_Styling_ThemeVariant_Default">Default</a> will apply parent's actual theme variant on the current scope.
 
 ## See Also
 

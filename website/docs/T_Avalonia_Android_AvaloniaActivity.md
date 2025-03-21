@@ -7,7 +7,7 @@ Common implementation of android activity that is integrated with Avalonia views
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Android">Avalonia.Android</a>  
-**Assembly:** Avalonia.Android (in Avalonia.Android.dll) Version: 11.2.0
+**Assembly:** Avalonia.Android (in Avalonia.Android.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

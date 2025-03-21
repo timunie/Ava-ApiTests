@@ -7,7 +7,7 @@ Represents the kind of scope from which a data type can be inherited. Used in re
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Metadata">Avalonia.Metadata</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

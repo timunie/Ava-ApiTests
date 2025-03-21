@@ -7,7 +7,7 @@ Base class for top-level windows.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ type WindowBase =
 <tr><td><strong>Derived</strong></td><td><a href="T_Avalonia_Controls_Primitives_PopupRoot">Avalonia.Controls.Primitives.PopupRoot</a><br /><a href="T_Avalonia_Controls_Window">Avalonia.Controls.Window</a></td></tr>
 </table>
 
+
+
+## Remarks
 This class acts as a base for top level windows such as <a href="T_Avalonia_Controls_Window">Window</a> and <a href="T_Avalonia_Controls_Primitives_PopupRoot">PopupRoot</a>. It handles scheduling layout, styling and rendering as well as tracking the window <a href="P_Avalonia_Controls_TopLevel_ClientSize">ClientSize</a> and <a href="P_Avalonia_Controls_WindowBase_IsActive">IsActive</a> state.
 
 ## Properties

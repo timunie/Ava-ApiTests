@@ -7,7 +7,7 @@ Returns a selector which enters a lookless control's template.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Styling">Avalonia.Styling</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

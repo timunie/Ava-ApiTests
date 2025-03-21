@@ -7,7 +7,7 @@ Occurs for each realized container when the index for the item it represents has
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member ContainerIndexChanged : IEvent<EventHandler<ContainerIndexChangedEventArg
 
 
 #### Value
-<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Controls_ContainerIndexChangedEventArgs">ContainerIndexChangedEventArgs</a>)This event is raised for each realized container where the index for the item it represents has changed. For example, when another item is added or removed in the data source, the index for items that come after in the ordering will be impacted.
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Controls_ContainerIndexChangedEventArgs">ContainerIndexChangedEventArgs</a>)
+
+## Remarks
+This event is raised for each realized container where the index for the item it represents has changed. For example, when another item is added or removed in the data source, the index for items that come after in the ordering will be impacted.
 
 ## See Also
 

@@ -7,7 +7,7 @@ Implements half of the <a href="T_Avalonia_Controls_FlatColorPalette">FlatColorP
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ type FlatHalfColorPalette =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_IColorPalette">IColorPalette</a></td></tr>
 </table>
 
+
+
+## Remarks
 See: - https://htmlcolorcodes.com/color-chart/ - https://htmlcolorcodes.com/color-chart/flat-design-color-chart/ - http://designmodo.github.io/Flat-UI/ The GitHub project is licensed as MIT: https://github.com/designmodo/Flat-UI.
 
 ## Constructors

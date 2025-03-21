@@ -7,7 +7,7 @@ Gets a <a href="T_Avalonia_Media_SolidColorBrush">SolidColorBrush</a>, either bl
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives_Converters">Avalonia.Controls.Primitives.Converters</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ type ContrastBrushConverter =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Data_Converters_IValueConverter">IValueConverter</a></td></tr>
 </table>
 
+
+
+## Remarks
 This is a highly-specialized converter for the color picker.
 
 ## Constructors

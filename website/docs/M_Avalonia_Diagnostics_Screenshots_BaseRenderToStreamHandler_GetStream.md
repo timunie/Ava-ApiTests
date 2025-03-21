@@ -7,7 +7,7 @@ Get stream to write a screenshot to.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Diagnostics_Screenshots">Avalonia.Diagnostics.Screenshots</a>  
-**Assembly:** Avalonia.Diagnostics (in Avalonia.Diagnostics.dll) Version: 11.2.0
+**Assembly:** Avalonia.Diagnostics (in Avalonia.Diagnostics.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

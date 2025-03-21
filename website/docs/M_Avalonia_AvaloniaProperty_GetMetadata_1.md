@@ -7,7 +7,7 @@ Gets the <a href="T_Avalonia_AvaloniaPropertyMetadata">AvaloniaPropertyMetadata<
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -42,7 +42,10 @@ member GetMetadata :
 <dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_blank" rel="noopener noreferrer">Type</a></dt><dd>The type for which to retrieve metadata.</dd></dl>
 
 #### Return Value
-<a href="T_Avalonia_AvaloniaPropertyMetadata">AvaloniaPropertyMetadata</a>For performance, prefer the <a href="M_Avalonia_AvaloniaProperty_GetMetadata">GetMetadata(AvaloniaObject)</a> overload when possible.
+<a href="T_Avalonia_AvaloniaPropertyMetadata">AvaloniaPropertyMetadata</a>
+
+## Remarks
+For performance, prefer the <a href="M_Avalonia_AvaloniaProperty_GetMetadata">GetMetadata(AvaloniaObject)</a> overload when possible.
 
 ## See Also
 

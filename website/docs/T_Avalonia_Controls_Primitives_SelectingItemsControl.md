@@ -7,7 +7,7 @@ An <a href="T_Avalonia_Controls_ItemsControl">ItemsControl</a> that maintains a 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ type SelectingItemsControl =
 <tr><td><strong>Derived</strong></td><td><a href="T_Avalonia_Controls_Carousel">Avalonia.Controls.Carousel</a><br /><a href="T_Avalonia_Controls_ComboBox">Avalonia.Controls.ComboBox</a><br /><a href="T_Avalonia_Controls_ListBox">Avalonia.Controls.ListBox</a><br /><a href="T_Avalonia_Controls_MenuBase">Avalonia.Controls.MenuBase</a><br /><a href="T_Avalonia_Controls_Primitives_HeaderedSelectingItemsControl">Avalonia.Controls.Primitives.HeaderedSelectingItemsControl</a><br /><a href="T_Avalonia_Controls_Primitives_TabStrip">Avalonia.Controls.Primitives.TabStrip</a><br /><a href="T_Avalonia_Controls_TabControl">Avalonia.Controls.TabControl</a></td></tr>
 </table>
 
+
+
+## Remarks
 
 SelectingItemsControl provides a base class for <a href="T_Avalonia_Controls_ItemsControl">ItemsControl</a>s that maintain a selection (single or multiple). By default only its <a href="P_Avalonia_Controls_Primitives_SelectingItemsControl_SelectedIndex">SelectedIndex</a> and <a href="P_Avalonia_Controls_Primitives_SelectingItemsControl_SelectedItem">SelectedItem</a> properties are visible; the current multiple <a href="P_Avalonia_Controls_Primitives_SelectingItemsControl_Selection">Selection</a> and <a href="P_Avalonia_Controls_Primitives_SelectingItemsControl_SelectedItems">SelectedItems</a> together with the <a href="P_Avalonia_Controls_Primitives_SelectingItemsControl_SelectionMode">SelectionMode</a> properties are protected, however a derived class can expose these if it wishes to support multiple selection.
 

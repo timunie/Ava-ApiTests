@@ -7,7 +7,7 @@ Allow to customize SreenshotHandler
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Diagnostics">Avalonia.Diagnostics</a>  
-**Assembly:** Avalonia.Diagnostics (in Avalonia.Diagnostics.dll) Version: 11.2.0
+**Assembly:** Avalonia.Diagnostics (in Avalonia.Diagnostics.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member ScreenshotHandler : IScreenshotHandler with get, set
 
 
 #### Property Value
-<a href="T_Avalonia_Diagnostics_IScreenshotHandler">IScreenshotHandler</a>Default handler is <a href="T_Avalonia_Diagnostics_Screenshots_FilePickerHandler">FilePickerHandler</a>
+<a href="T_Avalonia_Diagnostics_IScreenshotHandler">IScreenshotHandler</a>
+
+## Remarks
+Default handler is <a href="T_Avalonia_Diagnostics_Screenshots_FilePickerHandler">FilePickerHandler</a>
 
 ## See Also
 

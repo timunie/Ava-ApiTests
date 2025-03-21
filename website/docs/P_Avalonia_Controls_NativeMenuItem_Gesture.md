@@ -7,7 +7,7 @@ Gets or sets the input gesture that will be displayed in the menu item.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member Gesture : KeyGesture with get, set
 
 
 #### Property Value
-<a href="T_Avalonia_Input_KeyGesture">KeyGesture</a>Setting this property does not cause the input gesture to be handled by the menu item, it simply displays the gesture text in the menu.
+<a href="T_Avalonia_Input_KeyGesture">KeyGesture</a>
+
+## Remarks
+Setting this property does not cause the input gesture to be handled by the menu item, it simply displays the gesture text in the menu.
 
 ## See Also
 

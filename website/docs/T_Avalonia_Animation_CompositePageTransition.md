@@ -7,7 +7,7 @@ Defines a composite page transition that can be used to combine multiple transit
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Animation">Avalonia.Animation</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ type CompositePageTransition =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Animation_IPageTransition">IPageTransition</a></td></tr>
 </table>
 
+
+
+## Remarks
 
 Instantiate the CompositePageTransition in XAML and initialize the <a href="T_Avalonia_Animation_Transitions">Transitions</a> property in order to have many animations triggered at once. For example, you can combine <a href="T_Avalonia_Animation_CrossFade">CrossFade</a> and <a href="T_Avalonia_Animation_PageSlide">PageSlide</a>. <code language="cs">&lt;reactiveUi:RoutedViewHost Router="\{Binding Router}"&gt; &lt;reactiveUi:RoutedViewHost.PageTransition&gt; &lt;CompositePageTransition&gt; &lt;PageSlide Duration="0.5" /&gt; &lt;CrossFade Duration="0.5" /&gt; &lt;/CompositePageTransition&gt; &lt;/reactiveUi:RoutedViewHost.PageTransition&gt; &lt;/reactiveUi:RoutedViewHost&gt;</code>
 

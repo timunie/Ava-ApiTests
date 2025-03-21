@@ -7,7 +7,7 @@ Describes the action notified on a clear of a <a href="T_Avalonia_Collections_Av
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Collections">Avalonia.Collections</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

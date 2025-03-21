@@ -7,7 +7,7 @@ Gets focus manager of the root.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Input">Avalonia.Input</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ abstract FocusManager : IFocusManager with get
 
 
 #### Property Value
-<a href="T_Avalonia_Input_IFocusManager">IFocusManager</a>Focus manager can be null only if window wasn't initialized yet.
+<a href="T_Avalonia_Input_IFocusManager">IFocusManager</a>
+
+## Remarks
+Focus manager can be null only if window wasn't initialized yet.
 
 ## See Also
 

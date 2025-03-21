@@ -7,7 +7,7 @@ Initializes a new instance of the <a href="T_Avalonia_OpenGL_Controls_OpenGlCont
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_OpenGL_Controls">Avalonia.OpenGL.Controls</a>  
-**Assembly:** Avalonia.OpenGL (in Avalonia.OpenGL.dll) Version: 11.2.0
+**Assembly:** Avalonia.OpenGL (in Avalonia.OpenGL.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

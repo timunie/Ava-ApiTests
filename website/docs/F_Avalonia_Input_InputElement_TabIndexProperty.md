@@ -7,7 +7,7 @@ Defines the <a href="P_Avalonia_Input_InputElement_TabIndex">TabIndex</a> proper
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Input">Avalonia.Input</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

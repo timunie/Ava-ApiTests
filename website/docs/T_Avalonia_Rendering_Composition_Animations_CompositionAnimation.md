@@ -7,7 +7,7 @@ This is the base class for ExpressionAnimation and KeyFrameAnimation.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Rendering_Composition_Animations">Avalonia.Rendering.Composition.Animations</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -45,6 +45,9 @@ type CompositionAnimation =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Rendering_Composition_Animations_ICompositionAnimationBase">ICompositionAnimationBase</a></td></tr>
 </table>
 
+
+
+## Remarks
 Use the <a href="M_Avalonia_Rendering_Composition_CompositionObject_StartAnimation">StartAnimation(String, CompositionAnimation)</a> method to start the animation. Value parameters (as opposed to reference parameters which are set using <a href="M_Avalonia_Rendering_Composition_Animations_CompositionAnimation_SetReferenceParameter">SetReferenceParameter(String, CompositionObject)</a>) are copied and "embedded" into an expression at the time CompositionObject.StartAnimation is called. Changing the value of the variable after <a href="M_Avalonia_Rendering_Composition_CompositionObject_StartAnimation">StartAnimation(String, CompositionAnimation)</a> is called will not affect the value of the ExpressionAnimation. See the remarks section of ExpressionAnimation for additional information.
 
 ## Properties

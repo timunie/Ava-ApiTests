@@ -7,7 +7,7 @@ Initializes to a specified value and unit.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.DataGrid (in Avalonia.Controls.DataGrid.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.DataGrid (in Avalonia.Controls.DataGrid.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -48,7 +48,10 @@ new :
 
 
 #### Parameters
-<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a></dt><dd>The value to hold.</dd><dt>  <a href="T_Avalonia_Controls_DataGridLengthUnitType">DataGridLengthUnitType</a></dt><dd>The unit of <code>value</code>.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a></dt><dd /><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a></dt><dd /></dl>`value` is ignored unless `type` is `DataGridLengthUnitType.Pixel` or `DataGridLengthUnitType.Star`
+<dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a></dt><dd>The value to hold.</dd><dt>  <a href="T_Avalonia_Controls_DataGridLengthUnitType">DataGridLengthUnitType</a></dt><dd>The unit of <code>value</code>.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a></dt><dd /><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a></dt><dd /></dl>
+
+## Remarks
+`value` is ignored unless `type` is `DataGridLengthUnitType.Pixel` or `DataGridLengthUnitType.Star`
 
 ## Exceptions
 <table>

@@ -7,7 +7,7 @@ Holds diagnostic-related information about the value of an <a href="T_Avalonia_A
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Diagnostics">Avalonia.Diagnostics</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

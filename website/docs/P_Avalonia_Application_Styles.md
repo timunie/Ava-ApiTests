@@ -7,7 +7,7 @@ Gets the application's global styles.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -41,6 +41,9 @@ The application's global styles.
 
 #### Implements
 <a href="P_Avalonia_Styling_IStyleHost_Styles">IStyleHost.Styles</a>  
+
+
+## Remarks
 Global styles apply to all windows in the application.
 
 ## See Also

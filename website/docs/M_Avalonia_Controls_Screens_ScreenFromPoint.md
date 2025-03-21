@@ -7,7 +7,7 @@ Retrieves a Screen for the display that contains the specified point.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,7 +43,10 @@ member ScreenFromPoint :
 
 #### Return Value
 <a href="T_Avalonia_Platform_Screen">Screen</a>  
-The <a href="T_Avalonia_Platform_Screen">Screen</a>.On mobile, this method always returns null.
+The <a href="T_Avalonia_Platform_Screen">Screen</a>.
+
+## Remarks
+On mobile, this method always returns null.
 
 ## See Also
 

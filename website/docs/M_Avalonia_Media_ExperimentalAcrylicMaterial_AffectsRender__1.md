@@ -7,7 +7,7 @@ Marks a property as affecting the brush's visual representation.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -44,7 +44,10 @@ static member AffectsRender :
 <dl><dt>  <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>[]</dt><dd>The properties.</dd></dl>
 
 #### Type Parameters
-<dl><dt /><dd /></dl>After a call to this method in a brush's static constructor, any change to the property will cause the <a href="E_Avalonia_Media_ExperimentalAcrylicMaterial_Invalidated">Invalidated</a> event to be raised on the brush.
+<dl><dt /><dd /></dl>
+
+## Remarks
+After a call to this method in a brush's static constructor, any change to the property will cause the <a href="E_Avalonia_Media_ExperimentalAcrylicMaterial_Invalidated">Invalidated</a> event to be raised on the brush.
 
 ## See Also
 

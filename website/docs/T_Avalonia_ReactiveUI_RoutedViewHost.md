@@ -7,7 +7,7 @@ This control hosts the View associated with ReactiveUI RoutingState, and will di
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_ReactiveUI">Avalonia.ReactiveUI</a>  
-**Assembly:** Avalonia.ReactiveUI (in Avalonia.ReactiveUI.dll) Version: 11.2.0
+**Assembly:** Avalonia.ReactiveUI (in Avalonia.ReactiveUI.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -44,6 +44,9 @@ type RoutedViewHost =
 <tr><td><strong>Implements</strong></td><td>IActivatableView, IEnableLogger</td></tr>
 </table>
 
+
+
+## Remarks
 
 ReactiveUI routing consists of an IScreen that contains current RoutingState, several IRoutableViewModels, and a platform-specific XAML control called RoutedViewHost.
 

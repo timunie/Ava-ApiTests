@@ -7,7 +7,7 @@ Provides calculated values for use with the <a href="T_Avalonia_Controls_Progres
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -39,6 +39,9 @@ type ProgressBarTemplateSettings =
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a>  →  ProgressBar.ProgressBarTemplateSettings</td></tr>
 </table>
 
+
+
+## Remarks
 This class is NOT intended for general use outside of control templates.
 
 ## Constructors

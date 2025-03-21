@@ -7,7 +7,7 @@ Gets or sets the custom method that uses the user-entered text to filter items s
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -37,7 +37,10 @@ member TextFilter : AutoCompleteFilterPredicate<string> with get, set
 
 #### Property Value
 <a href="T_Avalonia_Controls_AutoCompleteFilterPredicate_1">AutoCompleteFilterPredicate</a>(<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>)  
-The custom method that uses the user-entered text to filter items specified by the <a href="P_Avalonia_Controls_AutoCompleteBox_ItemsSource">ItemsSource</a> property in a text-based way for display in the drop-down.The search mode is automatically set to Custom if you set the TextFilter property.
+The custom method that uses the user-entered text to filter items specified by the <a href="P_Avalonia_Controls_AutoCompleteBox_ItemsSource">ItemsSource</a> property in a text-based way for display in the drop-down.
+
+## Remarks
+The search mode is automatically set to Custom if you set the TextFilter property.
 
 ## See Also
 

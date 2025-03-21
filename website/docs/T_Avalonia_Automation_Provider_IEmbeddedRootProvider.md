@@ -7,7 +7,7 @@ Exposure methods and properties to support UI Automation client access to the ro
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -31,6 +31,9 @@ type IEmbeddedRootProvider = interface end
 
 <a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Provider/IEmbeddedRootProvider.cs" title="View the source code">View Source</a>
 
+
+
+## Remarks
 This interface is implemented by the <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a> class, and can be used to embed an automation tree from a 3rd party UI framework that wishes to use Avalonia's automation support.
 
 ## Methods

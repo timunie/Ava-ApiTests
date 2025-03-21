@@ -7,7 +7,7 @@ Gets or sets the index of the selected tab/panel/page (subview).
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member SelectedIndex : int with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_blank" rel="noopener noreferrer">Int32</a>When using the default control theme, this property is designed to be used with the <a href="T_Avalonia_Controls_ColorViewTab">ColorViewTab</a> enum. The <a href="T_Avalonia_Controls_ColorViewTab">ColorViewTab</a> enum defines the index values of each of the three standard tabs. Use like `SelectedIndex = (int)ColorViewTab.Palette`.
+<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_blank" rel="noopener noreferrer">Int32</a>
+
+## Remarks
+When using the default control theme, this property is designed to be used with the <a href="T_Avalonia_Controls_ColorViewTab">ColorViewTab</a> enum. The <a href="T_Avalonia_Controls_ColorViewTab">ColorViewTab</a> enum defines the index values of each of the three standard tabs. Use like `SelectedIndex = (int)ColorViewTab.Palette`.
 
 ## See Also
 

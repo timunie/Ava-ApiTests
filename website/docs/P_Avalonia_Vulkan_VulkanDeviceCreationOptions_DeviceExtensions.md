@@ -7,7 +7,7 @@ Specifies extensions to enable if available on the logical device
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Vulkan">Avalonia.Vulkan</a>  
-**Assembly:** Avalonia.Vulkan (in Avalonia.Vulkan.dll) Version: 11.2.0
+**Assembly:** Avalonia.Vulkan (in Avalonia.Vulkan.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

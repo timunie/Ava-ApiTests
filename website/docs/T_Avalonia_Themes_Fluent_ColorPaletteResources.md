@@ -7,7 +7,7 @@ Represents a specialized resource dictionary that contains color resources used 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Themes_Fluent">Avalonia.Themes.Fluent</a>  
-**Assembly:** Avalonia.Themes.Fluent (in Avalonia.Themes.Fluent.dll) Version: 11.2.0
+**Assembly:** Avalonia.Themes.Fluent (in Avalonia.Themes.Fluent.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -39,6 +39,9 @@ type ColorPaletteResources =
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a>  →  <a href="T_Avalonia_Controls_ResourceProvider">ResourceProvider</a>  →  ColorPaletteResources</td></tr>
 </table>
 
+
+
+## Remarks
 This class can only be used in Palettes.
 
 ## Constructors

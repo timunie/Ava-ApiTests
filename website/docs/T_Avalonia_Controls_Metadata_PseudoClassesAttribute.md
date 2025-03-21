@@ -7,7 +7,7 @@ Defines all pseudoclasses by name referenced and implemented by a control.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Metadata">Avalonia.Controls.Metadata</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,6 +43,9 @@ type PseudoClassesAttribute =
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="https://learn.microsoft.com/dotnet/api/system.attribute" target="_blank" rel="noopener noreferrer">Attribute</a>  →  PseudoClassesAttribute</td></tr>
 </table>
 
+
+
+## Remarks
 This is currently used for code-completion in certain IDEs.
 
 ## Constructors

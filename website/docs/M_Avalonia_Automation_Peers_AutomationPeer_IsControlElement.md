@@ -7,7 +7,7 @@ Gets a value that indicates whether the element is understood by the user as int
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

@@ -7,7 +7,7 @@ Holds the result of calling <a href="M_Avalonia_Data_IBinding_Initiate">Initiate
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Data">Avalonia.Data</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,6 +36,9 @@ type InstancedBinding = class end
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  InstancedBinding</td></tr>
 </table>
 
+
+
+## Remarks
 Whereas an <a href="T_Avalonia_Data_IBinding">IBinding</a> holds a description of a binding such as "Bind to the X property on a control's DataContext"; this class represents a binding that has been *instanced* by calling <a href="M_Avalonia_Data_IBinding_Initiate">Initiate(AvaloniaObject, AvaloniaProperty, Object, Boolean)</a> on a target object.
 
 ## Properties

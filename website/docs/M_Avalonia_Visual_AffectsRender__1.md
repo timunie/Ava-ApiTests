@@ -7,7 +7,7 @@ Indicates that a property change should cause <a href="M_Avalonia_Visual_Invalid
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -44,7 +44,10 @@ static member AffectsRender :
 <dl><dt>  <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a>[]</dt><dd>The properties.</dd></dl>
 
 #### Type Parameters
-<dl><dt /><dd>The control which the property affects.</dd></dl>This method should be called in a control's static constructor with each property on the control which when changed should cause a redraw. This is similar to WPF's FrameworkPropertyMetadata.AffectsRender flag.
+<dl><dt /><dd>The control which the property affects.</dd></dl>
+
+## Remarks
+This method should be called in a control's static constructor with each property on the control which when changed should cause a redraw. This is similar to WPF's FrameworkPropertyMetadata.AffectsRender flag.
 
 ## See Also
 

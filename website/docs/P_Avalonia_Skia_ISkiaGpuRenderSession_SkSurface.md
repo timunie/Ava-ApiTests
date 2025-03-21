@@ -7,7 +7,7 @@ Canvas that will be used to render.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Skia">Avalonia.Skia</a>  
-**Assembly:** Avalonia.Skia (in Avalonia.Skia.dll) Version: 11.2.0
+**Assembly:** Avalonia.Skia (in Avalonia.Skia.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

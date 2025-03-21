@@ -7,7 +7,7 @@ Raised when the pointer leaves a menu item.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member PointerExitedItem : IEvent<EventHandler<RoutedEventArgs>,
 
 
 #### Value
-<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Interactivity_RoutedEventArgs">RoutedEventArgs</a>)A bubbling version of the <a href="E_Avalonia_Input_InputElement_PointerExited">PointerExited</a> event for menu items.
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Interactivity_RoutedEventArgs">RoutedEventArgs</a>)
+
+## Remarks
+A bubbling version of the <a href="E_Avalonia_Input_InputElement_PointerExited">PointerExited</a> event for menu items.
 
 ## See Also
 

@@ -7,7 +7,7 @@ Calls <a href="https://learn.microsoft.com/dotnet/api/system.string.format#syste
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Converters">Avalonia.Controls.Converters</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

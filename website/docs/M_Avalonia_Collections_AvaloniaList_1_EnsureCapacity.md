@@ -7,7 +7,7 @@ Ensures that the capacity of the list is at least <a href="P_Avalonia_Collection
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Collections">Avalonia.Collections</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

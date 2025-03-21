@@ -7,7 +7,7 @@ Returns a binding accessor that can be passed to <a href="T_Avalonia_AvaloniaObj
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member Bind : unit -> IndexerDescriptor
 
 #### Return Value
 <a href="T_Avalonia_Data_IndexerDescriptor">IndexerDescriptor</a>  
-A <a href="T_Avalonia_Data_IndexerDescriptor">IndexerDescriptor</a>.The ! and ~ operators are short forms of this.
+A <a href="T_Avalonia_Data_IndexerDescriptor">IndexerDescriptor</a>.
+
+## Remarks
+The ! and ~ operators are short forms of this.
 
 ## See Also
 

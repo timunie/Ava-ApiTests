@@ -7,7 +7,7 @@ Attempts to interpolate between two transform operations.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media_Transformation">Avalonia.Media.Transformation</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -51,7 +51,10 @@ static member TryInterpolate :
 <dl><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="T_Avalonia_Media_Transformation_TransformOperation">TransformOperation</a>)</dt><dd>Source operation.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="T_Avalonia_Media_Transformation_TransformOperation">TransformOperation</a>)</dt><dd>Target operation.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a></dt><dd>Interpolation progress.</dd><dt>  <a href="T_Avalonia_Media_Transformation_TransformOperation">TransformOperation</a></dt><dd>Interpolation result that will be filled in when operation was successful.</dd></dl>
 
 #### Return Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>Based upon https://www.w3.org/TR/css-transforms-1/#interpolation-of-transform-functions.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## Remarks
+Based upon https://www.w3.org/TR/css-transforms-1/#interpolation-of-transform-functions.
 
 ## See Also
 

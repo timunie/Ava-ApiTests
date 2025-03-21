@@ -7,7 +7,7 @@ Builds the visual tree for the row header when a new template is applied.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
-**Assembly:** Avalonia.Controls.DataGrid (in Avalonia.Controls.DataGrid.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.DataGrid (in Avalonia.Controls.DataGrid.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

@@ -7,7 +7,7 @@ Provides a set of properties, such as typeface or foreground brush, that can be 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media_TextFormatting">Avalonia.Media.TextFormatting</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -42,6 +42,9 @@ type TextRunProperties =
 <tr><td><strong>Implements</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.iequatable-1" target="_blank" rel="noopener noreferrer">IEquatable</a>(TextRunProperties)</td></tr>
 </table>
 
+
+
+## Remarks
 The text layout client provides a concrete implementation of this abstract class. This enables the client to implement text run properties in a way that corresponds with the associated formatting store.
 
 ## Constructors

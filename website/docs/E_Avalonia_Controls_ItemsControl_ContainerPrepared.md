@@ -7,7 +7,7 @@ Occurs each time a container is prepared for use.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member ContainerPrepared : IEvent<EventHandler<ContainerPreparedEventArgs>,
 
 
 #### Value
-<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Controls_ContainerPreparedEventArgs">ContainerPreparedEventArgs</a>)The prepared element might be newly created or an existing container that is being re- used.
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Controls_ContainerPreparedEventArgs">ContainerPreparedEventArgs</a>)
+
+## Remarks
+The prepared element might be newly created or an existing container that is being re- used.
 
 ## See Also
 

@@ -5,7 +5,7 @@
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Themes_Fluent">Avalonia.Themes.Fluent</a>  
-**Assembly:** Avalonia.Themes.Fluent (in Avalonia.Themes.Fluent.dll) Version: 11.2.0
+**Assembly:** Avalonia.Themes.Fluent (in Avalonia.Themes.Fluent.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

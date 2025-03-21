@@ -7,7 +7,7 @@ The name of the property whose item type should be used on the target property.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Metadata">Avalonia.Metadata</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

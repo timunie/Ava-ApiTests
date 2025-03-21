@@ -7,7 +7,7 @@ Gets the text that is used to filter items in the <a href="P_Avalonia_Controls_A
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member SearchText : string with get
 
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>  
-The text that is used to filter items in the <a href="P_Avalonia_Controls_AutoCompleteBox_ItemsSource">ItemsSource</a> item collection.The SearchText value is typically the same as the Text property, but is set after the TextChanged event occurs and before the Populating event.
+The text that is used to filter items in the <a href="P_Avalonia_Controls_AutoCompleteBox_ItemsSource">ItemsSource</a> item collection.
+
+## Remarks
+The SearchText value is typically the same as the Text property, but is set after the TextChanged event occurs and before the Populating event.
 
 ## See Also
 

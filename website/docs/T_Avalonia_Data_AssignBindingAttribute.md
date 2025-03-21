@@ -7,7 +7,7 @@ Signifies that a binding can be assigned to a property.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Data">Avalonia.Data</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,6 +43,9 @@ type AssignBindingAttribute =
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="https://learn.microsoft.com/dotnet/api/system.attribute" target="_blank" rel="noopener noreferrer">Attribute</a>  →  AssignBindingAttribute</td></tr>
 </table>
 
+
+
+## Remarks
 Usually in markup, when a binding is set for a property that property will be bound. Applying this attribute to a property indicates that the binding should be assigned to the property rather than bound.
 
 ## Constructors

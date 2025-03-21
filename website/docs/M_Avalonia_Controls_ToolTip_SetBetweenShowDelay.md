@@ -7,7 +7,7 @@ Sets the number of milliseconds since the last tooltip closed during which the t
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -42,7 +42,10 @@ static member SetBetweenShowDelay :
 
 
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The control to get the property from.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_blank" rel="noopener noreferrer">Int32</a></dt><dd>The number of milliseconds to set, or a negative value to disable the behaviour.</dd></dl>Setting a negative value disables the immediate opening behaviour. The tooltip of *element* will then always wait until <a href="F_Avalonia_Controls_ToolTip_ShowDelayProperty">ShowDelayProperty</a> elapses before showing.
+<dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The control to get the property from.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_blank" rel="noopener noreferrer">Int32</a></dt><dd>The number of milliseconds to set, or a negative value to disable the behaviour.</dd></dl>
+
+## Remarks
+Setting a negative value disables the immediate opening behaviour. The tooltip of *element* will then always wait until <a href="F_Avalonia_Controls_ToolTip_ShowDelayProperty">ShowDelayProperty</a> elapses before showing.
 
 ## See Also
 

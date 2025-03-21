@@ -7,7 +7,7 @@ Initializes a new instance of the <a href="T_Avalonia_Rendering_RendererDiagnost
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Rendering">Avalonia.Rendering</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

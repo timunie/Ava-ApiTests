@@ -7,7 +7,7 @@ Base class for controls that provides rendering and related visual properties.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,6 +43,9 @@ type Visual =
 <tr><td><strong>Derived</strong></td><td><a href="T_Avalonia_Layout_Layoutable">Avalonia.Layout.Layoutable</a></td></tr>
 </table>
 
+
+
+## Remarks
 The Visual class represents elements that have a visual on-screen representation and stores all the information needed for an IRenderer to render the control. To traverse the visual tree, use the extension methods defined in <a href="T_Avalonia_VisualExtensions">VisualExtensions</a>.
 
 ## Constructors

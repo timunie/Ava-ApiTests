@@ -7,7 +7,7 @@ Use to predefine the prefix associated to an xml namespace in a xaml file
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Metadata">Avalonia.Metadata</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,6 +43,9 @@ type XmlnsPrefixAttribute =
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="https://learn.microsoft.com/dotnet/api/system.attribute" target="_blank" rel="noopener noreferrer">Attribute</a>  →  XmlnsPrefixAttribute</td></tr>
 </table>
 
+
+
+## Remarks
 example: [assembly: XmlnsPrefix("https://github.com/avaloniaui", "av")] xaml: xmlns:av="https://github.com/avaloniaui"
 
 ## Constructors

@@ -7,7 +7,7 @@ Gets the <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a>
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,7 +43,10 @@ static member CreatePeerForElement :
 
 #### Return Value
 <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a>  
-The automation peer.Despite the name (which comes from the analogous WPF API), this method does not create a new peer if one already exists: instead it returns the existing peer.
+The automation peer.
+
+## Remarks
+Despite the name (which comes from the analogous WPF API), this method does not create a new peer if one already exists: instead it returns the existing peer.
 
 ## See Also
 

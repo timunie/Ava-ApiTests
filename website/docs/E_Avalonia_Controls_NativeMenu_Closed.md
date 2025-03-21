@@ -7,7 +7,7 @@ Raised after the menu is closed.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member Closed : IEvent<EventHandler<EventArgs>,
 
 
 #### Value
-<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="https://learn.microsoft.com/dotnet/api/system.eventargs" target="_blank" rel="noopener noreferrer">EventArgs</a>)Do not update the menu in this event; use <a href="E_Avalonia_Controls_NativeMenu_NeedsUpdate">NeedsUpdate</a>.
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="https://learn.microsoft.com/dotnet/api/system.eventargs" target="_blank" rel="noopener noreferrer">EventArgs</a>)
+
+## Remarks
+Do not update the menu in this event; use <a href="E_Avalonia_Controls_NativeMenu_NeedsUpdate">NeedsUpdate</a>.
 
 ## See Also
 

@@ -7,7 +7,7 @@ A multi-value converter that returns true if any of the inputs is true.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Data_Converters">Avalonia.Data.Converters</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

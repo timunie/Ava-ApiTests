@@ -7,7 +7,7 @@ Manipulates storage items (files and folders) and their contents, and provides i
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -42,6 +42,9 @@ type IStorageItem =
 <tr><td><strong>Implements</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_blank" rel="noopener noreferrer">IDisposable</a></td></tr>
 </table>
 
+
+
+## Remarks
 This interface inherits <a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_blank" rel="noopener noreferrer">IDisposable</a> . It's recommended to dispose IStorageItem when it's not used anymore.
 
 ## Properties

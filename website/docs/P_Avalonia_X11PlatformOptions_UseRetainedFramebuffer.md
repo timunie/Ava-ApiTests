@@ -7,7 +7,7 @@ Retain window framebuffer contents if using CPU rendering mode. This will keep a
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.X11 (in Avalonia.X11.dll) Version: 11.2.0
+**Assembly:** Avalonia.X11 (in Avalonia.X11.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

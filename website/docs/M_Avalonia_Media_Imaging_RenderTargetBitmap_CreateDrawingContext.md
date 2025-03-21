@@ -7,7 +7,7 @@ Creates a <a href="T_Avalonia_Media_DrawingContext">DrawingContext</a> for drawi
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media_Imaging">Avalonia.Media.Imaging</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

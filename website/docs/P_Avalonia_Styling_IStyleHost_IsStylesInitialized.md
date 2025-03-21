@@ -7,7 +7,7 @@ Gets a value indicating whether <a href="P_Avalonia_Styling_IStyleHost_Styles">S
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Styling">Avalonia.Styling</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ abstract IsStylesInitialized : bool with get
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>The <a href="P_Avalonia_Styling_IStyleHost_Styles">Styles</a> property may be lazily initialized, if so this property indicates whether it has been initialized.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## Remarks
+The <a href="P_Avalonia_Styling_IStyleHost_Styles">Styles</a> property may be lazily initialized, if so this property indicates whether it has been initialized.
 
 ## See Also
 

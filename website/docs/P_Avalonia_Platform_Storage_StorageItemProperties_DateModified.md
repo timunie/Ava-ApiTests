@@ -7,7 +7,7 @@ Gets the date and time of the last time the file was modified.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member DateModified : Nullable<DateTimeOffset> with get
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="https://learn.microsoft.com/dotnet/api/system.datetimeoffset" target="_blank" rel="noopener noreferrer">DateTimeOffset</a>)Can be null if property is not available.
+<a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="https://learn.microsoft.com/dotnet/api/system.datetimeoffset" target="_blank" rel="noopener noreferrer">DateTimeOffset</a>)
+
+## Remarks
+Can be null if property is not available.
 
 ## See Also
 

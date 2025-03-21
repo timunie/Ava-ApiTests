@@ -7,7 +7,7 @@ Executes a layout pass.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Layout">Avalonia.Layout</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -31,6 +31,9 @@ member UpdateLayout : unit -> unit
 
 <a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Layout/Layoutable.cs#L220" title="View the source code">View Source</a>
 
+
+
+## Remarks
 You should not usually need to call this method explictly, the layout manager will schedule layout passes itself.
 
 ## See Also

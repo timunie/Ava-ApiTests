@@ -8,7 +8,7 @@ Represents a keyboard physical key.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Input">Avalonia.Input</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -32,6 +32,9 @@ type PhysicalKey
 
 <a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Input/PhysicalKey.cs" title="View the source code">View Source</a>
 
+
+
+## Remarks
 The names follow the W3C codes: https://www.w3.org/TR/uievents-code/
 
 ## Members

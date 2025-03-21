@@ -7,7 +7,7 @@ Creates or recycles a control to display the specified data.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -46,7 +46,10 @@ abstract Build :
 
 #### Return Value
 <a href="T_Avalonia_Controls_Control">Control</a>  
-The *existing* control if supplied and applicable to *data*, otherwise a new control or null.The caller should ensure that any control passed to *existing* originated from the same data template.
+The *existing* control if supplied and applicable to *data*, otherwise a new control or null.
+
+## Remarks
+The caller should ensure that any control passed to *existing* originated from the same data template.
 
 ## See Also
 

@@ -7,7 +7,7 @@ Gets the control that <a href="P_Avalonia_LogicalTree_LogicalTreeAttachmentEvent
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_LogicalTree">Avalonia.LogicalTree</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member Parent : ILogical with get
 
 
 #### Property Value
-<a href="T_Avalonia_LogicalTree_ILogical">ILogical</a>For logical tree attachment, holds the new logical parent of <a href="P_Avalonia_LogicalTree_LogicalTreeAttachmentEventArgs_Source">Source</a>. For detachment, holds the old logical parent of <a href="P_Avalonia_LogicalTree_LogicalTreeAttachmentEventArgs_Source">Source</a>. If the detachment event was caused by a top-level control being closed, then this property will be null.
+<a href="T_Avalonia_LogicalTree_ILogical">ILogical</a>
+
+## Remarks
+For logical tree attachment, holds the new logical parent of <a href="P_Avalonia_LogicalTree_LogicalTreeAttachmentEventArgs_Source">Source</a>. For detachment, holds the old logical parent of <a href="P_Avalonia_LogicalTree_LogicalTreeAttachmentEventArgs_Source">Source</a>. If the detachment event was caused by a top-level control being closed, then this property will be null.
 
 ## See Also
 

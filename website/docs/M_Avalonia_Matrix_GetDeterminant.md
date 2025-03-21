@@ -7,7 +7,7 @@ Calculates the determinant for this matrix.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member GetDeterminant : unit -> float
 
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>  
-The determinant.The determinant is calculated by expanding the matrix with a third column whose values are (0,0,1).
+The determinant.
+
+## Remarks
+The determinant is calculated by expanding the matrix with a third column whose values are (0,0,1).
 
 ## See Also
 

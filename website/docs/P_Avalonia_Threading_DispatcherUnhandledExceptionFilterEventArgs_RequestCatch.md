@@ -7,7 +7,7 @@ Gets or sets whether the exception should be caught and the event handlers calle
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Threading">Avalonia.Threading</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member RequestCatch : bool with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>A filter handler can set this property to false to request that the exception not be caught, to avoid the callstack getting unwound up to the Dispatcher. 
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## Remarks
+A filter handler can set this property to false to request that the exception not be caught, to avoid the callstack getting unwound up to the Dispatcher. 
 
  A previous handler in the event multicast might have already set this property to false, signalling that the exception will not be caught. We let the "don't catch" behavior override all others because it most likely means a debugging scenario.
 

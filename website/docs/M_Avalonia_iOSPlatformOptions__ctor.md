@@ -7,7 +7,7 @@ Initializes a new instance of the <a href="T_Avalonia_iOSPlatformOptions">iOSPla
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.iOS (in Avalonia.iOS.dll) Version: 11.2.0
+**Assembly:** Avalonia.iOS (in Avalonia.iOS.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

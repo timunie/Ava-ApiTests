@@ -7,7 +7,7 @@ Notifies the resource host that one or more of its hosted resources has changed.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -39,7 +39,10 @@ abstract NotifyHostedResourcesChanged :
 
 
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_Controls_ResourcesChangedEventArgs">ResourcesChangedEventArgs</a></dt><dd>The event args.</dd></dl>This method will be called automatically by the framework, you should not need to call this method yourself. It is called when the resources hosted by this element have changed, and is usually called by a resource dictionary or style hosted by the element in response to a resource being added or removed.
+<dl><dt>  <a href="T_Avalonia_Controls_ResourcesChangedEventArgs">ResourcesChangedEventArgs</a></dt><dd>The event args.</dd></dl>
+
+## Remarks
+This method will be called automatically by the framework, you should not need to call this method yourself. It is called when the resources hosted by this element have changed, and is usually called by a resource dictionary or style hosted by the element in response to a resource being added or removed.
 
 ## See Also
 

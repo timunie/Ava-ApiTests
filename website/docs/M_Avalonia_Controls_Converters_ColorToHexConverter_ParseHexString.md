@@ -7,7 +7,7 @@ Parses a hex color value string into a new <a href="T_Avalonia_Media_Color">Colo
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Converters">Avalonia.Controls.Converters</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

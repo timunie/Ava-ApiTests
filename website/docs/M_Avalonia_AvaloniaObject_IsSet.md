@@ -7,7 +7,7 @@ Checks whether a <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a> is s
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,7 +43,10 @@ member IsSet :
 
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>  
-True if the property is set, otherwise false.Returns true if *property* is a styled property which has a value assigned to it or a binding targeting it; otherwise false.
+True if the property is set, otherwise false.
+
+## Remarks
+Returns true if *property* is a styled property which has a value assigned to it or a binding targeting it; otherwise false.
 
 ## See Also
 

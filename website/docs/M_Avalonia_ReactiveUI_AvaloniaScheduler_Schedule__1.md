@@ -7,7 +7,7 @@ Schedules an action to be executed after dueTime.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_ReactiveUI">Avalonia.ReactiveUI</a>  
-**Assembly:** Avalonia.ReactiveUI (in Avalonia.ReactiveUI.dll) Version: 11.2.0
+**Assembly:** Avalonia.ReactiveUI (in Avalonia.ReactiveUI.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

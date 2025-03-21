@@ -7,7 +7,7 @@ Base class for data validators.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Data_Core_Plugins">Avalonia.Data.Core.Plugins</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -44,6 +44,9 @@ type DataValidationBase =
 <tr><td><strong>Implements</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.iobserver-1" target="_blank" rel="noopener noreferrer">IObserver</a>(<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>)</td></tr>
 </table>
 
+
+
+## Remarks
 Data validators are <a href="T_Avalonia_Data_Core_Plugins_IPropertyAccessor">IPropertyAccessor</a>s that are returned from an <a href="T_Avalonia_Data_Core_Plugins_IDataValidationPlugin">IDataValidationPlugin</a>. They wrap an inner <a href="T_Avalonia_Data_Core_Plugins_IPropertyAccessor">IPropertyAccessor</a> and convert any values received from the inner property accessor into <a href="T_Avalonia_Data_BindingNotification">BindingNotification</a>s.
 
 ## Constructors

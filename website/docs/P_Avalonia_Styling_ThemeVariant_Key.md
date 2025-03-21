@@ -7,7 +7,7 @@ Key of the theme variant by which variants are compared.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Styling">Avalonia.Styling</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

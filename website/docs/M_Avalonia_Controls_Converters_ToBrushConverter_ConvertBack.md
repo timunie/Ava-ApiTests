@@ -7,7 +7,7 @@ Converts a value.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Converters">Avalonia.Controls.Converters</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -61,6 +61,9 @@ The converted value.
 
 #### Implements
 <a href="M_Avalonia_Data_Converters_IValueConverter_ConvertBack">IValueConverter.ConvertBack(Object, Type, Object, CultureInfo)</a>  
+
+
+## Remarks
 This method should not throw exceptions. If the value is not convertible, return a <a href="T_Avalonia_Data_BindingNotification">BindingNotification</a> in an error state. Any exceptions thrown will be treated as an application exception.
 
 ## See Also

@@ -1,6 +1,6 @@
 param (
 	[Parameter(Mandatory, HelpMessage="Enter the Avalonia version to document")]
-	[string]$version
+	[string]$version,
    
 	[Parameter()]
 	[switch]$preview

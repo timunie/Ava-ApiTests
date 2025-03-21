@@ -7,7 +7,7 @@ Provides services for managing work items on a thread.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Threading">Avalonia.Threading</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ type Dispatcher =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Threading_IDispatcher">IDispatcher</a></td></tr>
 </table>
 
+
+
+## Remarks
 In Avalonia, there is usually only a single Dispatcher in the application - the one for the UI thread, retrieved via the <a href="P_Avalonia_Threading_Dispatcher_UIThread">UIThread</a> property.
 
 ## Properties

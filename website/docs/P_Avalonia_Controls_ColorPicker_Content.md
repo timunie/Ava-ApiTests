@@ -7,7 +7,7 @@ Gets or sets any content displayed in the ColorPicker's preview content area.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -42,7 +42,10 @@ member Content : Object with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>By default this should show a preview of the currently selected color.
+<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>
+
+## Remarks
+By default this should show a preview of the currently selected color.
 
 ## See Also
 

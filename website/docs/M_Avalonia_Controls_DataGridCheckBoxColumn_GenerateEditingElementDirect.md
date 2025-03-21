@@ -7,7 +7,7 @@ Gets a <a href="https://learn.microsoft.com/dotnet/api/system.windows.controls.c
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.DataGrid (in Avalonia.Controls.DataGrid.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.DataGrid (in Avalonia.Controls.DataGrid.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

@@ -7,7 +7,7 @@ Represents the top-level control opened by a <a href="T_Avalonia_Controls_Primit
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -47,6 +47,9 @@ type IPopupHost =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Input_IFocusScope">IFocusScope</a>, <a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_blank" rel="noopener noreferrer">IDisposable</a></td></tr>
 </table>
 
+
+
+## Remarks
 A popup host can be either be a popup window created by the operating system (<a href="T_Avalonia_Controls_Primitives_PopupRoot">PopupRoot</a>) or an <a href="T_Avalonia_Controls_Primitives_OverlayPopupHost">OverlayPopupHost</a> which is created on an <a href="T_Avalonia_Controls_Primitives_OverlayLayer">OverlayLayer</a>.
 
 ## Properties

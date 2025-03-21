@@ -7,7 +7,7 @@ Hit test the geometry in this node.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Rendering_SceneGraph">Avalonia.Rendering.SceneGraph</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -39,7 +39,10 @@ abstract HitTest :
 
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>  
-True if the point hits the node's geometry; otherwise false.This method does not recurse to childs, if you want to hit test children they must be hit tested manually.
+True if the point hits the node's geometry; otherwise false.
+
+## Remarks
+This method does not recurse to childs, if you want to hit test children they must be hit tested manually.
 
 ## See Also
 

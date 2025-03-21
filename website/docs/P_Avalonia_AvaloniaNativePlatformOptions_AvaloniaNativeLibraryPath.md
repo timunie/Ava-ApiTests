@@ -7,7 +7,7 @@ This property should be used in case you want to build Avalonia OSX native part 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Native (in Avalonia.Native.dll) Version: 11.2.0
+**Assembly:** Avalonia.Native (in Avalonia.Native.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

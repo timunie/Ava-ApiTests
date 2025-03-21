@@ -7,7 +7,7 @@ Validates the tab/panel/page selection taking into account the visibility of eac
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -32,6 +32,9 @@ override ValidateSelection : unit -> unit
 
 <a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/ColorView/ColorView.cs#L82" title="View the source code">View Source</a>
 
+
+
+## Remarks
 Derived controls may re-implement this based on their default style / control template and any specialized selection needs.
 
 ## See Also

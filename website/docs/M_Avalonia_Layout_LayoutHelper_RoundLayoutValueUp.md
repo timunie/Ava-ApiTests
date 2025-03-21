@@ -7,7 +7,7 @@ Calculates the value to be used for layout rounding at high DPI by rounding the 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Layout">Avalonia.Layout</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -46,7 +46,10 @@ static member RoundLayoutValueUp :
 
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>  
-Adjusted value that will produce layout rounding on screen at high dpi.This is a layout helper method. It takes DPI into account and also does not return the rounded value if it is unacceptable for layout, e.g. Infinity or NaN. It's a helper associated with the UseLayoutRounding property and should not be used as a general rounding utility.
+Adjusted value that will produce layout rounding on screen at high dpi.
+
+## Remarks
+This is a layout helper method. It takes DPI into account and also does not return the rounded value if it is unacceptable for layout, e.g. Infinity or NaN. It's a helper associated with the UseLayoutRounding property and should not be used as a general rounding utility.
 
 ## See Also
 

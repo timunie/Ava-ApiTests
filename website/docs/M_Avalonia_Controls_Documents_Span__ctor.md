@@ -7,7 +7,7 @@ Initializes a new instance of the <a href="T_Avalonia_Controls_Documents_Span">S
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Documents">Avalonia.Controls.Documents</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

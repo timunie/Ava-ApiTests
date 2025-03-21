@@ -5,7 +5,7 @@
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Dialogs">Avalonia.Dialogs</a>  
-**Assembly:** Avalonia.Dialogs (in Avalonia.Dialogs.dll) Version: 11.2.0
+**Assembly:** Avalonia.Dialogs (in Avalonia.Dialogs.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

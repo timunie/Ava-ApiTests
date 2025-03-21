@@ -7,7 +7,7 @@ Gets or sets the initial size of the DevTools window. The default value is 1280x
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Diagnostics">Avalonia.Diagnostics</a>  
-**Assembly:** Avalonia.Diagnostics (in Avalonia.Diagnostics.dll) Version: 11.2.0
+**Assembly:** Avalonia.Diagnostics (in Avalonia.Diagnostics.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

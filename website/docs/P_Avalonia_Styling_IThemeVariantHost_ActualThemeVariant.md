@@ -7,7 +7,7 @@ Gets the UI theme that is currently used by the element, which might be differen
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Styling">Avalonia.Styling</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

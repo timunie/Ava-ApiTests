@@ -7,7 +7,7 @@ Gets the difference from the previous and current pinch angle.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Input">Avalonia.Input</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member AngleDelta : float with get
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>The AngleDelta value includes the sign of rotation. Positive for clockwise, negative counterclockwise.
+<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>
+
+## Remarks
+The AngleDelta value includes the sign of rotation. Positive for clockwise, negative counterclockwise.
 
 ## See Also
 

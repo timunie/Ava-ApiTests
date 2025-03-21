@@ -7,7 +7,7 @@ Builds an event route for a routed event.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Interactivity">Avalonia.Interactivity</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,7 +43,10 @@ member BuildEventRoute :
 
 #### Return Value
 <a href="T_Avalonia_Interactivity_EventRoute">EventRoute</a>  
-An <a href="T_Avalonia_Interactivity_EventRoute">EventRoute</a> describing the route.Usually, calling <a href="M_Avalonia_Interactivity_Interactive_RaiseEvent">RaiseEvent(RoutedEventArgs)</a> is sufficient to raise a routed event, however there are situations in which the construction of the event args is expensive and should be avoided if there are no handlers for an event. In these cases you can call this method to build the event route and check the <a href="P_Avalonia_Interactivity_EventRoute_HasHandlers">HasHandlers</a> property to see if there are any handlers registered on the route. If there are, call <a href="M_Avalonia_Interactivity_EventRoute_RaiseEvent">RaiseEvent(Interactive, RoutedEventArgs)</a> to raise the event.
+An <a href="T_Avalonia_Interactivity_EventRoute">EventRoute</a> describing the route.
+
+## Remarks
+Usually, calling <a href="M_Avalonia_Interactivity_Interactive_RaiseEvent">RaiseEvent(RoutedEventArgs)</a> is sufficient to raise a routed event, however there are situations in which the construction of the event args is expensive and should be avoided if there are no handlers for an event. In these cases you can call this method to build the event route and check the <a href="P_Avalonia_Interactivity_EventRoute_HasHandlers">HasHandlers</a> property to see if there are any handlers registered on the route. If there are, call <a href="M_Avalonia_Interactivity_EventRoute_RaiseEvent">RaiseEvent(Interactive, RoutedEventArgs)</a> to raise the event.
 
 ## See Also
 

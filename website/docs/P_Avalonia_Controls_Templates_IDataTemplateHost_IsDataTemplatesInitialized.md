@@ -7,7 +7,7 @@ Gets a value indicating whether <a href="P_Avalonia_Controls_Templates_IDataTemp
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Templates">Avalonia.Controls.Templates</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ abstract IsDataTemplatesInitialized : bool with get
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>The <a href="P_Avalonia_Controls_Templates_IDataTemplateHost_DataTemplates">DataTemplates</a> property may be lazily initialized, if so this property indicates whether it has been initialized.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## Remarks
+The <a href="P_Avalonia_Controls_Templates_IDataTemplateHost_DataTemplates">DataTemplates</a> property may be lazily initialized, if so this property indicates whether it has been initialized.
 
 ## See Also
 

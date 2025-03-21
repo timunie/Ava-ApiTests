@@ -7,7 +7,7 @@ Gets or sets a value indicating whether color component sliders are visible.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member IsComponentSliderVisible : bool with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>All color components are controlled by this property but alpha can also be controlled with <a href="P_Avalonia_Controls_ColorView_IsAlphaVisible">IsAlphaVisible</a>.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## Remarks
+All color components are controlled by this property but alpha can also be controlled with <a href="P_Avalonia_Controls_ColorView_IsAlphaVisible">IsAlphaVisible</a>.
 
 ## See Also
 

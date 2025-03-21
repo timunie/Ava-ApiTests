@@ -7,7 +7,7 @@ Executes the specified Func&lt;TResult&gt; synchronously on the thread that the 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Threading">Avalonia.Threading</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -47,7 +47,10 @@ member Invoke :
 
 #### Return Value
 TResult  
-The return value from the delegate being invoked.Note that the default priority is DispatcherPriority.Send.
+The return value from the delegate being invoked.
+
+## Remarks
+Note that the default priority is DispatcherPriority.Send.
 
 ## See Also
 

@@ -7,7 +7,7 @@ Gets or sets a validation routine that can be used to validate items before they
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Collections">Avalonia.Collections</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

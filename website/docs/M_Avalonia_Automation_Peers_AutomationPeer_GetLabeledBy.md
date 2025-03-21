@@ -7,7 +7,7 @@ Gets the automation peer for the label that is targeted to the element.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Automation_Peers">Avalonia.Automation.Peers</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

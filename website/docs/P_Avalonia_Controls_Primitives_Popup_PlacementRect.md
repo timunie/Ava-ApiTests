@@ -7,7 +7,7 @@ Gets or sets the anchor rectangle within the parent that the popup will be place
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member PlacementRect : Nullable<Rect> with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="T_Avalonia_Rect">Rect</a>)The placement rect defines a rectangle relative to <a href="P_Avalonia_Controls_Primitives_Popup_PlacementTarget">PlacementTarget</a> around which the popup will be opened, with <a href="P_Avalonia_Controls_Primitives_Popup_PlacementAnchor">PlacementAnchor</a> determining which edge of the placement target is used. If unset, the anchor rectangle will be the bounds of the <a href="P_Avalonia_Controls_Primitives_Popup_PlacementTarget">PlacementTarget</a>.
+<a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="T_Avalonia_Rect">Rect</a>)
+
+## Remarks
+The placement rect defines a rectangle relative to <a href="P_Avalonia_Controls_Primitives_Popup_PlacementTarget">PlacementTarget</a> around which the popup will be opened, with <a href="P_Avalonia_Controls_Primitives_Popup_PlacementAnchor">PlacementAnchor</a> determining which edge of the placement target is used. If unset, the anchor rectangle will be the bounds of the <a href="P_Avalonia_Controls_Primitives_Popup_PlacementTarget">PlacementTarget</a>.
 
 ## See Also
 

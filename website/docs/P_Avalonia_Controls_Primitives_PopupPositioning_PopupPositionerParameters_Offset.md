@@ -7,7 +7,7 @@ Specify the popup position offset relative to the position of the anchor on the 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives_PopupPositioning">Avalonia.Controls.Primitives.PopupPositioning</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -39,7 +39,10 @@ member Offset : Point with
 
 
 #### Property Value
-<a href="T_Avalonia_Point">Point</a>For example if the anchor of the anchor rectangle is at (x, y), the popup has the gravity bottom|right, and the offset is (ox, oy), the calculated surface position will be (x + ox, y + oy). The offset position of the surface is the one used for constraint testing. See set_constraint_adjustment. An example use case is placing a popup menu on top of a user interface element, while aligning the user interface element of the parent surface with some user interface element placed somewhere in the popup.
+<a href="T_Avalonia_Point">Point</a>
+
+## Remarks
+For example if the anchor of the anchor rectangle is at (x, y), the popup has the gravity bottom|right, and the offset is (ox, oy), the calculated surface position will be (x + ox, y + oy). The offset position of the surface is the one used for constraint testing. See set_constraint_adjustment. An example use case is placing a popup menu on top of a user interface element, while aligning the user interface element of the parent surface with some user interface element placed somewhere in the popup.
 
 ## See Also
 

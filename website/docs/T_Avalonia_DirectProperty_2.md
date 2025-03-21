@@ -7,7 +7,7 @@ A direct avalonia property.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -44,7 +44,10 @@ type DirectProperty<'TOwner, 'TValue when 'TOwner : AvaloniaObject> =
 
 
 #### Type Parameters
-<dl><dt /><dd>The class that registered the property.</dd><dt /><dd>The type of the property's value.</dd></dl>Direct avalonia properties are backed by a field on the object, but exposed via the <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a> system. They hold a getter and an optional setter which allows the avalonia property system to read and write the current value.
+<dl><dt /><dd>The class that registered the property.</dd><dt /><dd>The type of the property's value.</dd></dl>
+
+## Remarks
+Direct avalonia properties are backed by a field on the object, but exposed via the <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a> system. They hold a getter and an optional setter which allows the avalonia property system to read and write the current value.
 
 ## Properties
 <table>

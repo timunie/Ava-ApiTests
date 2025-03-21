@@ -11,7 +11,7 @@ This value is independent of the current keyboard layout and usually correspond 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Input">Avalonia.Input</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,7 +40,10 @@ member PhysicalKey : PhysicalKey with get, set
 
 
 #### Property Value
-<a href="T_Avalonia_Input_PhysicalKey">PhysicalKey</a>Use this property if you need to refer to a key given its position on the keyboard (a common usage is moving the player with WASD-like keys).
+<a href="T_Avalonia_Input_PhysicalKey">PhysicalKey</a>
+
+## Remarks
+Use this property if you need to refer to a key given its position on the keyboard (a common usage is moving the player with WASD-like keys).
 
 ## See Also
 

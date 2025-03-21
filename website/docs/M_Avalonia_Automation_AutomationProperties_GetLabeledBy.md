@@ -7,7 +7,7 @@ Helper for reading LabeledBy property from a StyledElement.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Automation">Avalonia.Automation</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

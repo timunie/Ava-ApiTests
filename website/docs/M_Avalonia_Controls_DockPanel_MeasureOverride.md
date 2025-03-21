@@ -7,7 +7,7 @@ Updates DesiredSize of the DockPanel. Called by parent Control. This is the firs
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -45,7 +45,10 @@ override MeasureOverride :
 
 #### Return Value
 <a href="T_Avalonia_Size">Size</a>  
-The Panel's desired size.Children are measured based on their sizing properties and <a href="T_Avalonia_Controls_Dock">Dock</a>. Each child is allowed to consume all of the space on the side on which it is docked; Left/Right docked children are granted all vertical space for their entire width, and Top/Bottom docked children are granted all horizontal space for their entire height.
+The Panel's desired size.
+
+## Remarks
+Children are measured based on their sizing properties and <a href="T_Avalonia_Controls_Dock">Dock</a>. Each child is allowed to consume all of the space on the side on which it is docked; Left/Right docked children are granted all vertical space for their entire width, and Top/Bottom docked children are granted all horizontal space for their entire height.
 
 ## See Also
 

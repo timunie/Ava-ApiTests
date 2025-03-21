@@ -7,7 +7,7 @@ Gets or sets the <a href="T_Avalonia_Controls_Templates_IDataTemplate">IDataTemp
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.DataGrid (in Avalonia.Controls.DataGrid.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.DataGrid (in Avalonia.Controls.DataGrid.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,7 +40,10 @@ member CellEditingTemplate : IDataTemplate with get, set
 
 #### Property Value
 <a href="T_Avalonia_Controls_Templates_IDataTemplate">IDataTemplate</a>  
-An <a href="T_Avalonia_Controls_Templates_IDataTemplate">IDataTemplate</a> for the editing mode of the current <a href="T_Avalonia_Controls_DataGridCell">DataGridCell</a>If this property is null the column is read-only.
+An <a href="T_Avalonia_Controls_Templates_IDataTemplate">IDataTemplate</a> for the editing mode of the current <a href="T_Avalonia_Controls_DataGridCell">DataGridCell</a>
+
+## Remarks
+If this property is null the column is read-only.
 
 ## See Also
 

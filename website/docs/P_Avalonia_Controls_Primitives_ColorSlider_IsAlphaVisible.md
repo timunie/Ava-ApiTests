@@ -7,7 +7,7 @@ Gets or sets a value indicating whether the alpha component is visible and rende
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member IsAlphaVisible : bool with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>Setting to false means the alpha component is always forced to maximum for components other than <a href="P_Avalonia_Controls_Primitives_ColorSlider_ColorComponent">ColorComponent</a> during rendering. This doesn't change the value of the alpha component in the color – it is only for display.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## Remarks
+Setting to false means the alpha component is always forced to maximum for components other than <a href="P_Avalonia_Controls_Primitives_ColorSlider_ColorComponent">ColorComponent</a> during rendering. This doesn't change the value of the alpha component in the color – it is only for display.
 
 ## See Also
 

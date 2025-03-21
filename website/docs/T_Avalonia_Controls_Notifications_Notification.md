@@ -7,7 +7,7 @@ A notification that can be shown in a window or by the host operating system.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -42,6 +42,9 @@ type Notification =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_Notifications_INotification">INotification</a>, <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.inotifypropertychanged" target="_blank" rel="noopener noreferrer">INotifyPropertyChanged</a></td></tr>
 </table>
 
+
+
+## Remarks
 This class represents a notification that can be displayed either in a window using <a href="T_Avalonia_Controls_Notifications_WindowNotificationManager">WindowNotificationManager</a> or by the host operating system (to be implemented).
 
 ## Constructors

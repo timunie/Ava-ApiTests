@@ -7,7 +7,7 @@ Gets or sets the selection adapter used to populate the drop-down with a list of
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -37,7 +37,10 @@ member SelectionAdapter : ISelectionAdapter with get, set
 
 #### Property Value
 <a href="T_Avalonia_Controls_Utils_ISelectionAdapter">ISelectionAdapter</a>  
-The selection adapter used to populate the drop-down with a list of selectable items.You can use this property when you create an automation peer to use with AutoCompleteBox or deriving from AutoCompleteBox to create a custom control.
+The selection adapter used to populate the drop-down with a list of selectable items.
+
+## Remarks
+You can use this property when you create an automation peer to use with AutoCompleteBox or deriving from AutoCompleteBox to create a custom control.
 
 ## See Also
 

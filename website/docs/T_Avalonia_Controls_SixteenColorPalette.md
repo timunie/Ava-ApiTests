@@ -7,7 +7,7 @@ Implements the standard sixteen color palette from the HTML 4.01 specification.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ type SixteenColorPalette =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_IColorPalette">IColorPalette</a></td></tr>
 </table>
 
+
+
+## Remarks
 See https://en.wikipedia.org/wiki/Web_colors#HTML_color_names.
 
 ## Constructors

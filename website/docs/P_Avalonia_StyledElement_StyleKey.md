@@ -7,7 +7,7 @@ Gets the type by which the element is styled.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ override StyleKey : Type with get
 
 #### Implements
 <a href="P_Avalonia_Styling_IStyleable_StyleKey">IStyleable.StyleKey</a>  
+
+
+## Remarks
 Usually controls are styled by their own type, but there are instances where you want an element to be styled by its base type, e.g. creating SpecialButton that derives from Button and adds extra functionality but is still styled as a regular Button. To change the style for a control class, override the <a href="P_Avalonia_StyledElement_StyleKeyOverride">StyleKeyOverride</a> property
 
 ## See Also

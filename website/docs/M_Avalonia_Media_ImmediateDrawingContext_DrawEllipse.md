@@ -7,7 +7,7 @@ Draws an ellipse with the specified Brush and Pen.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -51,7 +51,10 @@ member DrawEllipse :
 
 
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_Media_IImmutableBrush">IImmutableBrush</a></dt><dd>The brush used to fill the ellipse, or <code>null</code> for no fill.</dd><dt>  <a href="T_Avalonia_Media_Immutable_ImmutablePen">ImmutablePen</a></dt><dd>The pen used to stroke the ellipse, or <code>null</code> for no stroke.</dd><dt>  <a href="T_Avalonia_Point">Point</a></dt><dd>The location of the center of the ellipse.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a></dt><dd>The horizontal radius of the ellipse.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a></dt><dd>The vertical radius of the ellipse.</dd></dl>The brush and the pen can both be null. If the brush is null, then no fill is performed. If the pen is null, then no stoke is performed. If both the pen and the brush are null, then the drawing is not visible.
+<dl><dt>  <a href="T_Avalonia_Media_IImmutableBrush">IImmutableBrush</a></dt><dd>The brush used to fill the ellipse, or <code>null</code> for no fill.</dd><dt>  <a href="T_Avalonia_Media_Immutable_ImmutablePen">ImmutablePen</a></dt><dd>The pen used to stroke the ellipse, or <code>null</code> for no stroke.</dd><dt>  <a href="T_Avalonia_Point">Point</a></dt><dd>The location of the center of the ellipse.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a></dt><dd>The horizontal radius of the ellipse.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a></dt><dd>The vertical radius of the ellipse.</dd></dl>
+
+## Remarks
+The brush and the pen can both be null. If the brush is null, then no fill is performed. If the pen is null, then no stoke is performed. If both the pen and the brush are null, then the drawing is not visible.
 
 ## See Also
 

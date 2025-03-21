@@ -7,7 +7,7 @@ Represents a notification manager that can show arbitrary content. Managed notif
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Notifications">Avalonia.Controls.Notifications</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -42,6 +42,9 @@ type IManagedNotificationManager =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_Notifications_INotificationManager">INotificationManager</a></td></tr>
 </table>
 
+
+
+## Remarks
 Because notification managers of this type are implemented purely in managed code, they can display arbitrary content, as opposed to notification managers which display notifications using the host operating system's notification mechanism.
 
 ## Methods

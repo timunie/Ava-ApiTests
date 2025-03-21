@@ -7,7 +7,7 @@ Deflates the size by a <a href="T_Avalonia_Thickness">Thickness</a>.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,7 +43,10 @@ member Deflate :
 
 #### Return Value
 <a href="T_Avalonia_Size">Size</a>  
-The deflated size.The deflated size cannot be less than 0.
+The deflated size.
+
+## Remarks
+The deflated size cannot be less than 0.
 
 ## See Also
 

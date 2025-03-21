@@ -7,7 +7,7 @@ Base class for panels that can be used to virtualize items for an <a href="P_Ava
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -45,6 +45,9 @@ type VirtualizingPanel =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Input_INavigableContainer">INavigableContainer</a></td></tr>
 </table>
 
+
+
+## Remarks
 Panels should implement the abstract members of this class to provide virtualization of items in a <a href="P_Avalonia_Controls_VirtualizingPanel_ItemsControl">ItemsControl</a>. Derived panels can manage scrolling by implementing <a href="T_Avalonia_Controls_Primitives_ILogicalScrollable">ILogicalScrollable</a> or by listening to the <a href="E_Avalonia_Layout_Layoutable_EffectiveViewportChanged">EffectiveViewportChanged</a> event. The methods on the <a href="P_Avalonia_Controls_VirtualizingPanel_ItemContainerGenerator">ItemContainerGenerator</a> should be used to create, prepare and clear containers for items.
 
 ## Constructors

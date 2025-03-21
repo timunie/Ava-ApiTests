@@ -7,7 +7,7 @@ Gets or sets the type of the element that should be used as a part with name spe
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Metadata">Avalonia.Controls.Metadata</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

@@ -7,7 +7,7 @@ Represents an element which hosts resources.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -42,6 +42,9 @@ type IResourceHost =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_IResourceNode">IResourceNode</a></td></tr>
 </table>
 
+
+
+## Remarks
 This interface is implemented by <a href="T_Avalonia_StyledElement">StyledElement</a> and `Application`.
 
 ## Properties

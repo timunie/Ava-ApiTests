@@ -7,7 +7,7 @@ Called when a change in scrolling state is detected, such as a change in scroll 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -41,7 +41,10 @@ override OnScrollChanged :
 
 
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_Controls_ScrollChangedEventArgs">ScrollChangedEventArgs</a></dt><dd>The event args.</dd></dl>If you override this method, call `base.OnScrollChanged(ScrollChangedEventArgs)` to ensure that this event is raised.
+<dl><dt>  <a href="T_Avalonia_Controls_ScrollChangedEventArgs">ScrollChangedEventArgs</a></dt><dd>The event args.</dd></dl>
+
+## Remarks
+If you override this method, call `base.OnScrollChanged(ScrollChangedEventArgs)` to ensure that this event is raised.
 
 ## See Also
 

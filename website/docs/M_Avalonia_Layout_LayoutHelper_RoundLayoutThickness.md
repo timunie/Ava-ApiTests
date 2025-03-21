@@ -7,7 +7,7 @@ Rounds a thickness to integer values for layout purposes, compensating for high 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Layout">Avalonia.Layout</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -49,7 +49,10 @@ static member RoundLayoutThickness :
 
 #### Return Value
 <a href="T_Avalonia_Thickness">Thickness</a>  
-Value of thickness that will be rounded under screen DPI.This is a layout helper method. It takes DPI into account and also does not return the rounded value if it is unacceptable for layout, e.g. Infinity or NaN. It's a helper associated with the UseLayoutRounding property and should not be used as a general rounding utility.
+Value of thickness that will be rounded under screen DPI.
+
+## Remarks
+This is a layout helper method. It takes DPI into account and also does not return the rounded value if it is unacceptable for layout, e.g. Infinity or NaN. It's a helper associated with the UseLayoutRounding property and should not be used as a general rounding utility.
 
 ## See Also
 

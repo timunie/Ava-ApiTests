@@ -5,7 +5,7 @@
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Desktop (in Avalonia.Desktop.dll) Version: 11.2.0
+**Assembly:** Avalonia.Desktop (in Avalonia.Desktop.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

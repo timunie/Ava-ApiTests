@@ -7,7 +7,7 @@ Gets or sets a value indicating whether the routed event has already been handle
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Interactivity">Avalonia.Interactivity</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member Handled : bool with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>Once handled, a routed event should be ignored.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## Remarks
+Once handled, a routed event should be ignored.
 
 ## See Also
 

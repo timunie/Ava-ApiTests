@@ -7,7 +7,7 @@ Gets the Lightness component in the range from 0..1 (percentage).
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member L : float with get
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a><ul>0 is fully black.1 is fully white.</ul>
+<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>
+
+## Remarks
+<ul>0 is fully black.1 is fully white.</ul>
 
 ## See Also
 

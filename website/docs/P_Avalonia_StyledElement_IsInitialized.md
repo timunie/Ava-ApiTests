@@ -7,7 +7,7 @@ Gets a value that indicates whether the element has finished initialization.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member IsInitialized : bool with get
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>For more information about when IsInitialized is set, see the <a href="E_Avalonia_StyledElement_Initialized">Initialized</a> event.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## Remarks
+For more information about when IsInitialized is set, see the <a href="E_Avalonia_StyledElement_Initialized">Initialized</a> event.
 
 ## See Also
 

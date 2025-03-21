@@ -7,7 +7,7 @@ Executes the specified Action asynchronously on the thread that the Dispatcher w
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Threading">Avalonia.Threading</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,7 +43,10 @@ member InvokeAsync :
 
 #### Return Value
 <a href="T_Avalonia_Threading_DispatcherOperation">DispatcherOperation</a>  
-An operation representing the queued delegate to be invoked.Note that the default priority is DispatcherPriority.Default.
+An operation representing the queued delegate to be invoked.
+
+## Remarks
+Note that the default priority is DispatcherPriority.Default.
 
 ## See Also
 

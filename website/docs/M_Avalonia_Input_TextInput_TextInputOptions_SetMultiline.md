@@ -7,7 +7,7 @@ Sets the value of the attached <a href="F_Avalonia_Input_TextInput_TextInputOpti
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Input_TextInput">Avalonia.Input.TextInput</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

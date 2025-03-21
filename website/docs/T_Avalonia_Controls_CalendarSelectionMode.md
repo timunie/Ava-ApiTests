@@ -7,7 +7,7 @@ Specifies values that describe the available selection modes for a <a href="T_Av
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -27,6 +27,9 @@ type CalendarSelectionMode
 </TabItem>
 </Tabs>
 
+
+
+## Remarks
 This enumeration provides the values that are used by the SelectionMode property.
 
 ## Members

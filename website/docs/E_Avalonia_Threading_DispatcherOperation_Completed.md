@@ -7,7 +7,7 @@ An event that is raised when the operation completes.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Threading">Avalonia.Threading</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member Completed : IEvent<EventHandler,
 
 
 #### Value
-<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler" target="_blank" rel="noopener noreferrer">EventHandler</a>Completed indicates that the operation was invoked and has either completed successfully or faulted. Note that a canceled or aborted operation is never is never considered completed.
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler" target="_blank" rel="noopener noreferrer">EventHandler</a>
+
+## Remarks
+Completed indicates that the operation was invoked and has either completed successfully or faulted. Note that a canceled or aborted operation is never is never considered completed.
 
 ## See Also
 

@@ -7,7 +7,7 @@ Selects all items in the <a href="T_Avalonia_Controls_TreeView">TreeView</a>.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -31,6 +31,9 @@ member SelectAll : unit -> unit
 
 <a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TreeView.cs#L219" title="View the source code">View Source</a>
 
+
+
+## Remarks
 Note that this method only selects nodes currently visible due to their parent nodes being expanded: it does not expand nodes.
 
 ## See Also

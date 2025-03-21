@@ -7,7 +7,7 @@ Initializes a new instance of InlineUIContainer element.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Documents">Avalonia.Controls.Documents</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -31,6 +31,9 @@ new : unit -> InlineUIContainer
 
 <a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Documents/InlineUIContainer.cs#L34" title="View the source code">View Source</a>
 
+
+
+## Remarks
 The purpose of this element is to be a wrapper for UIElements when they are embedded into text flow - as items of InlineCollections.
 
 ## See Also

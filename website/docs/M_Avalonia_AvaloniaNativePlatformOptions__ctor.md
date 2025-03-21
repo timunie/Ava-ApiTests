@@ -7,7 +7,7 @@ Initializes a new instance of the <a href="T_Avalonia_AvaloniaNativePlatformOpti
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Native (in Avalonia.Native.dll) Version: 11.2.0
+**Assembly:** Avalonia.Native (in Avalonia.Native.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

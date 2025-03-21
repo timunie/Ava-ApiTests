@@ -7,7 +7,7 @@ Notifies the control that it is being attached to a rooted logical tree.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_LogicalTree">Avalonia.LogicalTree</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -39,7 +39,10 @@ abstract NotifyAttachedToLogicalTree :
 
 
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_LogicalTree_LogicalTreeAttachmentEventArgs">LogicalTreeAttachmentEventArgs</a></dt><dd>The event args.</dd></dl>This method will be called automatically by the framework, you should not need to call this method yourself.
+<dl><dt>  <a href="T_Avalonia_LogicalTree_LogicalTreeAttachmentEventArgs">LogicalTreeAttachmentEventArgs</a></dt><dd>The event args.</dd></dl>
+
+## Remarks
+This method will be called automatically by the framework, you should not need to call this method yourself.
 
 ## See Also
 

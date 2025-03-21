@@ -7,7 +7,7 @@ Called when a container has been fully prepared to display an item.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -49,7 +49,10 @@ override ContainerForItemPreparedOverride :
 
 
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The container control.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a></dt><dd>The item being displayed.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_blank" rel="noopener noreferrer">Int32</a></dt><dd>The index of the item being displayed.</dd></dl>This method will be called when a container has been fully prepared and added to the logical and visual trees, but may be called before a layout pass has completed. It is called immediately before the <a href="E_Avalonia_Controls_ItemsControl_ContainerPrepared">ContainerPrepared</a> event is raised.
+<dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The container control.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a></dt><dd>The item being displayed.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_blank" rel="noopener noreferrer">Int32</a></dt><dd>The index of the item being displayed.</dd></dl>
+
+## Remarks
+This method will be called when a container has been fully prepared and added to the logical and visual trees, but may be called before a layout pass has completed. It is called immediately before the <a href="E_Avalonia_Controls_ItemsControl_ContainerPrepared">ContainerPrepared</a> event is raised.
 
 ## See Also
 

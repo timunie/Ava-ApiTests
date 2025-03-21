@@ -7,7 +7,7 @@ Gets the angle of the pinch gesture, in degrees.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Input">Avalonia.Input</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member Angle : float with get
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>A pinch gesture is the movement of two pressed points closer together. This property is the measured angle of the line between those two points. Remember zero degrees is a line pointing up.
+<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>
+
+## Remarks
+A pinch gesture is the movement of two pressed points closer together. This property is the measured angle of the line between those two points. Remember zero degrees is a line pointing up.
 
 ## See Also
 

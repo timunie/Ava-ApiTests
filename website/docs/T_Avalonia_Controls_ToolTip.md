@@ -7,7 +7,7 @@ A control which pops up a hint when a control is hovered.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -45,6 +45,9 @@ type ToolTip =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_Diagnostics_IPopupHostProvider">IPopupHostProvider</a></td></tr>
 </table>
 
+
+
+## Remarks
 You will probably not want to create a ToolTip control directly: if added to the tree it will act as a simple <a href="T_Avalonia_Controls_ContentControl">ContentControl</a> styled to look like a tooltip. To add a tooltip to a control, use the <a href="F_Avalonia_Controls_ToolTip_TipProperty">TipProperty</a> attached property, assigning the content that you want displayed.
 
 ## Constructors

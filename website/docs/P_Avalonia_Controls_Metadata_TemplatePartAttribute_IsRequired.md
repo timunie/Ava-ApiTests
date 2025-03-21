@@ -7,7 +7,7 @@ Gets or sets a value indicating whether the template part is mandatory to be pre
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Metadata">Avalonia.Controls.Metadata</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

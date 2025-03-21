@@ -7,7 +7,7 @@ Gets an <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a> base value.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -46,7 +46,10 @@ member GetBaseValue :
 <dl><dt /><dd /></dl>
 
 #### Return Value
-<a href="T_Avalonia_Data_Optional_1">Optional</a>(T)Gets the value of the property excluding animated values, otherwise <a href="P_Avalonia_Data_Optional_1_Empty">Empty</a>. Note that this method does not return property values that come from inherited or default values.
+<a href="T_Avalonia_Data_Optional_1">Optional</a>(T)
+
+## Remarks
+Gets the value of the property excluding animated values, otherwise <a href="P_Avalonia_Data_Optional_1_Empty">Empty</a>. Note that this method does not return property values that come from inherited or default values.
 
 ## See Also
 

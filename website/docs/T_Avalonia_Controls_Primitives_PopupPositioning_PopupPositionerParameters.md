@@ -7,7 +7,7 @@ Provides positioning parameters to <a href="T_Avalonia_Controls_Primitives_Popup
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives_PopupPositioning">Avalonia.Controls.Primitives.PopupPositioning</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -45,6 +45,9 @@ type PopupPositionerParameters =
 <tr><td><strong>Implements</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.iequatable-1" target="_blank" rel="noopener noreferrer">IEquatable</a>(PopupPositionerParameters)</td></tr>
 </table>
 
+
+
+## Remarks
 The IPopupPositioner provides a collection of rules for the placement of a popup relative to its parent. Rules can be defined to ensure the popup remains within the visible area's borders, and to specify how the popup changes its position, such as sliding along an axis, or flipping around a rectangle. These positioner-created rules are constrained by the requirement that a popup must intersect with or be at least partially adjacent to its parent surface.
 
 ## Properties

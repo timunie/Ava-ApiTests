@@ -7,7 +7,7 @@ Represents a binding notification that can be a valid binding value, or a bindin
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Data">Avalonia.Data</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,6 +35,9 @@ type BindingNotification = class end
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  BindingNotification</td></tr>
 </table>
 
+
+
+## Remarks
 This class is very similar to <a href="T_Avalonia_Data_BindingValue_1">BindingValue(T)</a>, but where <a href="T_Avalonia_Data_BindingValue_1">BindingValue(T)</a> is used by typed bindings, this class is used to hold binding and data validation errors in untyped bindings. As Avalonia moves towards using typed bindings by default we may want to remove this class.
 
 ## Constructors

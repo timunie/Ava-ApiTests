@@ -7,7 +7,7 @@ Represents a group of serialized changes from the UI thread to be atomically app
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Rendering_Composition_Transport">Avalonia.Rendering.Composition.Transport</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

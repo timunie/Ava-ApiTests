@@ -7,7 +7,7 @@ Exposes methods and properties to support UI Automation client access to the roo
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -31,6 +31,9 @@ type IRootProvider = interface end
 
 <a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Automation/Provider/IRootProvider.cs" title="View the source code">View Source</a>
 
+
+
+## Remarks
 This interface is implemented by the <a href="T_Avalonia_Automation_Peers_AutomationPeer">AutomationPeer</a> class, and should only be implemented on true root elements, such as Windows. To embed an automation tree, use <a href="T_Avalonia_Automation_Provider_IEmbeddedRootProvider">IEmbeddedRootProvider</a> instead.
 
 ## Methods

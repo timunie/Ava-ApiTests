@@ -7,7 +7,7 @@ Gets or sets the active color model used by the slider.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member ColorModel : ColorModel with get, set
 
 
 #### Property Value
-<a href="T_Avalonia_Controls_ColorModel">ColorModel</a>This property is only applicable to the components tab. The spectrum tab must always be in HSV and the palette tab contains only pre-defined colors.
+<a href="T_Avalonia_Controls_ColorModel">ColorModel</a>
+
+## Remarks
+This property is only applicable to the components tab. The spectrum tab must always be in HSV and the palette tab contains only pre-defined colors.
 
 ## See Also
 

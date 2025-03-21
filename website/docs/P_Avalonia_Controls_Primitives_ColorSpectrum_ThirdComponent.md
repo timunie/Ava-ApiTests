@@ -7,7 +7,7 @@ Gets the third HSV color component that is NOT displayed by the spectrum. This i
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member ThirdComponent : ColorComponent with get
 
 
 #### Property Value
-<a href="T_Avalonia_Controls_ColorComponent">ColorComponent</a>This property should be used for any external color slider that represents the third component of the color. Note that this property uses the generic <a href="T_Avalonia_Controls_ColorComponent">ColorComponent</a> type instead of the more accurate <a href="T_Avalonia_Controls_HsvComponent">HsvComponent</a> to allow direct usage by the generalized color sliders.
+<a href="T_Avalonia_Controls_ColorComponent">ColorComponent</a>
+
+## Remarks
+This property should be used for any external color slider that represents the third component of the color. Note that this property uses the generic <a href="T_Avalonia_Controls_ColorComponent">ColorComponent</a> type instead of the more accurate <a href="T_Avalonia_Controls_HsvComponent">HsvComponent</a> to allow direct usage by the generalized color sliders.
 
 ## See Also
 

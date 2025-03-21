@@ -7,7 +7,7 @@ Represents a contract for accessing global platform-specific settings.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member PlatformSettings : IPlatformSettings with get
 
 
 #### Property Value
-<a href="T_Avalonia_Platform_IPlatformSettings">IPlatformSettings</a>PlatformSettings can be null only if application wasn't initialized yet. <a href="T_Avalonia_Controls_TopLevel">TopLevel</a>'s <a href="P_Avalonia_Controls_TopLevel_PlatformSettings">PlatformSettings</a> is an equivalent API which should always be preferred over a global one, as specific top levels might have different settings set-up.
+<a href="T_Avalonia_Platform_IPlatformSettings">IPlatformSettings</a>
+
+## Remarks
+PlatformSettings can be null only if application wasn't initialized yet. <a href="T_Avalonia_Controls_TopLevel">TopLevel</a>'s <a href="P_Avalonia_Controls_TopLevel_PlatformSettings">PlatformSettings</a> is an equivalent API which should always be preferred over a global one, as specific top levels might have different settings set-up.
 
 ## See Also
 

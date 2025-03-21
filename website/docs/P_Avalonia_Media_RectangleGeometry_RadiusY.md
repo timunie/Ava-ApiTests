@@ -7,7 +7,7 @@ Gets or sets the radius on the Y-axis used to round the corners of the rectangle
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member RadiusY : float with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>In order for this property to be used, <a href="P_Avalonia_Media_RectangleGeometry_Rect">Rect</a> must not be set (equal to the default <a href="T_Avalonia_Rect">Rect</a> value).
+<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>
+
+## Remarks
+In order for this property to be used, <a href="P_Avalonia_Media_RectangleGeometry_Rect">Rect</a> must not be set (equal to the default <a href="T_Avalonia_Rect">Rect</a> value).
 
 ## See Also
 

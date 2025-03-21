@@ -7,7 +7,7 @@ List of extensions in Apple uniform format.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Platform_Storage">Avalonia.Platform.Storage</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member AppleUniformTypeIdentifiers : IReadOnlyList<string> with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ireadonlylist-1" target="_blank" rel="noopener noreferrer">IReadOnlyList</a>(<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>)Used only on Apple devices. See https://developer.apple.com/documentation/uniformtypeidentifiers/system_declared_uniform_type_identifiers.
+<a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ireadonlylist-1" target="_blank" rel="noopener noreferrer">IReadOnlyList</a>(<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>)
+
+## Remarks
+Used only on Apple devices. See https://developer.apple.com/documentation/uniformtypeidentifiers/system_declared_uniform_type_identifiers.
 
 ## See Also
 

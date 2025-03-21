@@ -7,7 +7,7 @@ Gets the value that should be passed to the target when <a href="P_Avalonia_Data
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Data">Avalonia.Data</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member Value : Object with get
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>If this property is read when <a href="P_Avalonia_Data_BindingNotification_HasValue">HasValue</a> is false then it will return <a href="F_Avalonia_AvaloniaProperty_UnsetValue">UnsetValue</a>.
+<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>
+
+## Remarks
+If this property is read when <a href="P_Avalonia_Data_BindingNotification_HasValue">HasValue</a> is false then it will return <a href="F_Avalonia_AvaloniaProperty_UnsetValue">UnsetValue</a>.
 
 ## See Also
 

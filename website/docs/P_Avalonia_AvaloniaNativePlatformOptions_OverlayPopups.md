@@ -7,7 +7,7 @@ Embeds popups to the window when set to true. The default value is false.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Native (in Avalonia.Native.dll) Version: 11.2.0
+**Assembly:** Avalonia.Native (in Avalonia.Native.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

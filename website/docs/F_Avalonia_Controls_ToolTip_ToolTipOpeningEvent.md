@@ -7,7 +7,7 @@ The event raised when a ToolTip is going to be shown on an element.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -34,7 +34,10 @@ static val ToolTipOpeningEvent: RoutedEvent<CancelRoutedEventArgs>
 
 
 #### Field Value
-<a href="T_Avalonia_Interactivity_RoutedEvent_1">RoutedEvent</a>(<a href="T_Avalonia_Interactivity_CancelRoutedEventArgs">CancelRoutedEventArgs</a>)To prevent a tooltip from appearing in the UI, your handler for ToolTipOpening can mark the event data handled. Otherwise, the tooltip is displayed, using the value of the ToolTip property as the tooltip content. Another possible scenario is that you could write a handler that resets the value of the ToolTip property for the element that is the event source, just before the tooltip is displayed. ToolTipOpening will not be raised if the value of ToolTip is null or otherwise unset. Do not deliberately set ToolTip to null while a tooltip is open or opening; this will not have the effect of closing the tooltip, and will instead create an undesirable visual artifact in the UI.
+<a href="T_Avalonia_Interactivity_RoutedEvent_1">RoutedEvent</a>(<a href="T_Avalonia_Interactivity_CancelRoutedEventArgs">CancelRoutedEventArgs</a>)
+
+## Remarks
+To prevent a tooltip from appearing in the UI, your handler for ToolTipOpening can mark the event data handled. Otherwise, the tooltip is displayed, using the value of the ToolTip property as the tooltip content. Another possible scenario is that you could write a handler that resets the value of the ToolTip property for the element that is the event source, just before the tooltip is displayed. ToolTipOpening will not be raised if the value of ToolTip is null or otherwise unset. Do not deliberately set ToolTip to null while a tooltip is open or opening; this will not have the effect of closing the tooltip, and will instead create an undesirable visual artifact in the UI.
 
 ## See Also
 

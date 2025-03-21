@@ -7,7 +7,7 @@ Gets or sets a value indicating whether DevTools should be displayed as a child 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Diagnostics">Avalonia.Diagnostics</a>  
-**Assembly:** Avalonia.Diagnostics (in Avalonia.Diagnostics.dll) Version: 11.2.0
+**Assembly:** Avalonia.Diagnostics (in Avalonia.Diagnostics.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member ShowAsChildWindow : bool with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>This setting is ignored if DevTools is attached to <a href="T_Avalonia_Application">Application</a>
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## Remarks
+This setting is ignored if DevTools is attached to <a href="T_Avalonia_Application">Application</a>
 
 ## See Also
 

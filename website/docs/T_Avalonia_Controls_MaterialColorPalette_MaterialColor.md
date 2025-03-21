@@ -7,7 +7,7 @@ Defines all colors in the <a href="T_Avalonia_Controls_MaterialColorPalette">Mat
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -31,6 +31,9 @@ type MaterialColor
 
 <a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls.ColorPicker/ColorPalettes/MaterialColorPalette.cs" title="View the source code">View Source</a>
 
+
+
+## Remarks
 This is done in an enum to ensure it is compiled into the assembly improving startup performance.
 
 ## Members

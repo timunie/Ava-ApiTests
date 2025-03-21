@@ -7,7 +7,7 @@ Contains methods used to translate a Windows virtual/physical key to an Avalonia
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Win32_Input">Avalonia.Win32.Input</a>  
-**Assembly:** Avalonia.Win32 (in Avalonia.Win32.dll) Version: 11.2.0
+**Assembly:** Avalonia.Win32 (in Avalonia.Win32.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

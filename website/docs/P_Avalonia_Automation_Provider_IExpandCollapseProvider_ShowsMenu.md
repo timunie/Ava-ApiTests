@@ -7,7 +7,7 @@ Gets a value indicating whether expanding the element shows a menu of items to t
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Automation_Provider">Avalonia.Automation.Provider</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ abstract ShowsMenu : bool with get
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>Used in OSX to enable the "Show Menu" action on the element.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## Remarks
+Used in OSX to enable the "Show Menu" action on the element.
 
 ## See Also
 

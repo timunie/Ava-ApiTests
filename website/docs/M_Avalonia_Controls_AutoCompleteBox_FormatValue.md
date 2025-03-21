@@ -7,7 +7,7 @@ Converts the specified object to a string by using the Converter and ConverterCu
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -45,7 +45,10 @@ override FormatValue :
 
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>  
-The string representation of the specified object.Override this method to provide a custom string conversion.
+The string representation of the specified object.
+
+## Remarks
+Override this method to provide a custom string conversion.
 
 ## See Also
 

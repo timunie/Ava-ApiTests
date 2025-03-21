@@ -5,7 +5,7 @@
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Direct2D1 (in Avalonia.Direct2D1.dll) Version: 11.2.0
+**Assembly:** Avalonia.Direct2D1 (in Avalonia.Direct2D1.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

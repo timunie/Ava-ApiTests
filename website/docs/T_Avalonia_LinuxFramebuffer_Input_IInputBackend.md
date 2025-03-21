@@ -5,7 +5,7 @@
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_LinuxFramebuffer_Input">Avalonia.LinuxFramebuffer.Input</a>  
-**Assembly:** Avalonia.LinuxFramebuffer (in Avalonia.LinuxFramebuffer.dll) Version: 11.2.0
+**Assembly:** Avalonia.LinuxFramebuffer (in Avalonia.LinuxFramebuffer.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

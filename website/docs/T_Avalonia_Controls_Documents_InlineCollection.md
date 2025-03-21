@@ -7,7 +7,7 @@ A collection of <a href="T_Avalonia_Controls_Documents_Inline">Inline</a>s.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Documents">Avalonia.Controls.Documents</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -72,7 +72,7 @@ type InlineCollection =
 </tr>
 <tr>
 <td><a href="P_Avalonia_Controls_Documents_InlineCollection_Text">Text</a></td>
-<td>Gets or adds the text held by the inlines collection. Can be null for complex content.</td>
+<td>Gets or adds the text held by the inlines collection. <span>**Remarks:*\*</span>Can be null for complex content.</td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_Collections_AvaloniaList_1_Validate">Validate</a></td>
@@ -92,7 +92,7 @@ type InlineCollection =
 </tr>
 <tr>
 <td><a href="M_Avalonia_Controls_Documents_InlineCollection_Add_2">Add(String)</a></td>
-<td>Adds a text segment to the collection. For non-complex content this appends the text to the end of currently held text. For complex content this adds a <a href="T_Avalonia_Controls_Documents_Run">Run</a> to the collection.</td>
+<td>Adds a text segment to the collection. <span>**Remarks:*\*</span>For non-complex content this appends the text to the end of currently held text. For complex content this adds a <a href="T_Avalonia_Controls_Documents_Run">Run</a> to the collection.</td>
 </tr>
 <tr>
 <td><a href="M_Avalonia_Collections_AvaloniaList_1_AddRange">AddRange(IEnumerable(T))</a></td>

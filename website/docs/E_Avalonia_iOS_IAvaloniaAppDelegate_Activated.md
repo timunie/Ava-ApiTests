@@ -5,7 +5,7 @@
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_iOS">Avalonia.iOS</a>  
-**Assembly:** Avalonia.iOS (in Avalonia.iOS.dll) Version: 11.2.0
+**Assembly:** Avalonia.iOS (in Avalonia.iOS.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

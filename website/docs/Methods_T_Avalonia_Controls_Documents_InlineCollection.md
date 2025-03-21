@@ -15,7 +15,7 @@
 </tr>
 <tr>
 <td><a href="M_Avalonia_Controls_Documents_InlineCollection_Add_2">Add(String)</a></td>
-<td>Adds a text segment to the collection. For non-complex content this appends the text to the end of currently held text. For complex content this adds a <a href="T_Avalonia_Controls_Documents_Run">Run</a> to the collection.</td>
+<td>Adds a text segment to the collection. <span>**Remarks:*\*</span>For non-complex content this appends the text to the end of currently held text. For complex content this adds a <a href="T_Avalonia_Controls_Documents_Run">Run</a> to the collection.</td>
 </tr>
 <tr>
 <td><a href="M_Avalonia_Collections_AvaloniaList_1_AddRange">AddRange(IEnumerable(T))</a></td>

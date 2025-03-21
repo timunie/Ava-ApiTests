@@ -7,7 +7,7 @@ Specifies a callback method to be called when compositor needs to create a platf
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Win32 (in Avalonia.Win32.dll) Version: 11.2.0
+**Assembly:** Avalonia.Win32 (in Avalonia.Win32.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

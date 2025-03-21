@@ -7,7 +7,7 @@ Interface implemented by controls that handle their own scrolling when placed in
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -39,6 +39,9 @@ type ILogicalScrollable =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_Primitives_IScrollable">IScrollable</a></td></tr>
 </table>
 
+
+
+## Remarks
 Controls that implement this interface, when placed inside a <a href="T_Avalonia_Controls_ScrollViewer">ScrollViewer</a> can override the physical scrolling behavior of the scroll viewer with logical scrolling. Physical scrolling means that the scroll viewer is a simple viewport onto a larger canvas whereas logical scrolling means that the scrolling is handled by the child control itself and it can choose to do handle the scroll information as it sees fit.
 
 ## Properties

@@ -7,7 +7,7 @@ The event raised when a ToolTip on an element that was shown should now be hidde
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -34,7 +34,10 @@ static val ToolTipClosingEvent: RoutedEvent
 
 
 #### Field Value
-<a href="T_Avalonia_Interactivity_RoutedEvent">RoutedEvent</a>Marking the ToolTipClosing event as handled does not cancel closing the tooltip. Once the tooltip is displayed, closing the tooltip is done only in response to user interaction with the UI.
+<a href="T_Avalonia_Interactivity_RoutedEvent">RoutedEvent</a>
+
+## Remarks
+Marking the ToolTipClosing event as handled does not cancel closing the tooltip. Once the tooltip is displayed, closing the tooltip is done only in response to user interaction with the UI.
 
 ## See Also
 

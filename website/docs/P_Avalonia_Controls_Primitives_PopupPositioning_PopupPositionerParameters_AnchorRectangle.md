@@ -7,7 +7,7 @@ Specifies the anchor rectangle within the parent that the popup will be placed r
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives_PopupPositioning">Avalonia.Controls.Primitives.PopupPositioning</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -39,7 +39,10 @@ member AnchorRectangle : Rect with
 
 
 #### Property Value
-<a href="T_Avalonia_Rect">Rect</a>The rectangle is relative to the parent geometry and may not extend outside the window geometry of the popup's parent.
+<a href="T_Avalonia_Rect">Rect</a>
+
+## Remarks
+The rectangle is relative to the parent geometry and may not extend outside the window geometry of the popup's parent.
 
 ## See Also
 

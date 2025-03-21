@@ -7,7 +7,7 @@ Defines a flexible grid area that consists of columns and rows.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -906,7 +906,7 @@ type Grid =
 </tr>
 <tr>
 <td><a href="F_Avalonia_Controls_Grid_RowProperty">RowProperty</a></td>
-<td>Row property. This is an attached property. Grid defines Row, so that it can be set on any element treated as a cell. Row property specifies child's position with respect to rows. <p>Rows are 0 - based. In order to appear in first row, element should have Row property set to <code>0</code>.</p><p>Default value for the property is <code>0</code>.</p></td>
+<td>Row property. This is an attached property. Grid defines Row, so that it can be set on any element treated as a cell. Row property specifies child's position with respect to rows. <span>**Remarks:*\*</span><p>Rows are 0 - based. In order to appear in first row, element should have Row property set to <code>0</code>.</p><p>Default value for the property is <code>0</code>.</p></td>
 </tr>
 <tr>
 <td><a href="F_Avalonia_Controls_Grid_RowSpanProperty">RowSpanProperty</a></td>

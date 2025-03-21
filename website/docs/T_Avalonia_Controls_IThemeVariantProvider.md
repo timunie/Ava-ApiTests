@@ -7,7 +7,7 @@ Resource provider with theme variant awareness. Can be used with <a href="P_Aval
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -41,6 +41,9 @@ type IThemeVariantProvider =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_IResourceNode">IResourceNode</a>, <a href="T_Avalonia_Controls_IResourceProvider">IResourceProvider</a></td></tr>
 </table>
 
+
+
+## Remarks
 This is a helper interface for the XAML compiler to make Key property accessibly by the markup extensions. Which means, it can only be used with ResourceDictionaries and markup extensions in the XAML code.
 
 ## Properties

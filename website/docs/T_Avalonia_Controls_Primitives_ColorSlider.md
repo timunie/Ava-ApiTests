@@ -7,7 +7,7 @@ A slider with a background that represents a single color component.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -42,6 +42,9 @@ type ColorSlider =
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a>  →  <a href="T_Avalonia_Animation_Animatable">Animatable</a>  →  <a href="T_Avalonia_StyledElement">StyledElement</a>  →  <a href="T_Avalonia_Visual">Visual</a>  →  <a href="T_Avalonia_Layout_Layoutable">Layoutable</a>  →  <a href="T_Avalonia_Interactivity_Interactive">Interactive</a>  →  <a href="T_Avalonia_Input_InputElement">InputElement</a>  →  <a href="T_Avalonia_Controls_Control">Control</a>  →  <a href="T_Avalonia_Controls_Primitives_TemplatedControl">TemplatedControl</a>  →  <a href="T_Avalonia_Controls_Primitives_RangeBase">RangeBase</a>  →  <a href="T_Avalonia_Controls_Slider">Slider</a>  →  ColorSlider</td></tr>
 </table>
 
+
+
+## Remarks
 The control class extends <a href="T_Avalonia_Input_InputElement">InputElement</a> and adds the following features: - A <a href="P_Avalonia_Controls_Control_Tag">Tag</a> property to allow user-defined data to be attached to the control. - <a href="F_Avalonia_Controls_Control_ContextRequestedEvent">ContextRequestedEvent</a> and other context menu related members.
 
 ## Constructors

@@ -7,7 +7,7 @@ Gets or sets the two HSV color components displayed by the spectrum.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member ColorSpectrumComponents : ColorSpectrumComponents with get, set
 
 
 #### Property Value
-<a href="T_Avalonia_Controls_ColorSpectrumComponents">ColorSpectrumComponents</a>Internally, the <a href="T_Avalonia_Controls_Primitives_ColorSpectrum">ColorSpectrum</a> uses the HSV color model.
+<a href="T_Avalonia_Controls_ColorSpectrumComponents">ColorSpectrumComponents</a>
+
+## Remarks
+Internally, the <a href="T_Avalonia_Controls_Primitives_ColorSpectrum">ColorSpectrum</a> uses the HSV color model.
 
 ## See Also
 

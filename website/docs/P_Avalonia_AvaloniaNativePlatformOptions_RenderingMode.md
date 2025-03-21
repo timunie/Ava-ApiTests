@@ -7,7 +7,7 @@ Gets or sets Avalonia rendering modes with fallbacks. The first element in the a
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Native (in Avalonia.Native.dll) Version: 11.2.0
+**Assembly:** Avalonia.Native (in Avalonia.Native.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member RenderingMode : IReadOnlyList<AvaloniaNativeRenderingMode> with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ireadonlylist-1" target="_blank" rel="noopener noreferrer">IReadOnlyList</a>(<a href="T_Avalonia_AvaloniaNativeRenderingMode">AvaloniaNativeRenderingMode</a>)If application should work on as wide range of devices as possible, at least add <a href="T_Avalonia_AvaloniaNativeRenderingMode">Software</a> as a fallback value.
+<a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ireadonlylist-1" target="_blank" rel="noopener noreferrer">IReadOnlyList</a>(<a href="T_Avalonia_AvaloniaNativeRenderingMode">AvaloniaNativeRenderingMode</a>)
+
+## Remarks
+If application should work on as wide range of devices as possible, at least add <a href="T_Avalonia_AvaloniaNativeRenderingMode">Software</a> as a fallback value.
 
 ## Exceptions
 <table>

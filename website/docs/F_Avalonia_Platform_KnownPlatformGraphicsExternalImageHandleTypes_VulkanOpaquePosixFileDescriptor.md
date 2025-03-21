@@ -7,7 +7,7 @@ A POSIX file descriptor that's exported by Vulkan using VK_EXTERNAL_MEMORY_HANDL
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Platform">Avalonia.Platform</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

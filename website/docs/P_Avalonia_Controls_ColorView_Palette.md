@@ -7,7 +7,7 @@ Gets or sets the color palette.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member Palette : IColorPalette with get, set
 
 
 #### Property Value
-<a href="T_Avalonia_Controls_IColorPalette">IColorPalette</a>This will automatically set both <a href="P_Avalonia_Controls_ColorView_PaletteColors">PaletteColors</a> and <a href="P_Avalonia_Controls_ColorView_PaletteColumnCount">PaletteColumnCount</a> overwriting any existing values.
+<a href="T_Avalonia_Controls_IColorPalette">IColorPalette</a>
+
+## Remarks
+This will automatically set both <a href="P_Avalonia_Controls_ColorView_PaletteColors">PaletteColors</a> and <a href="P_Avalonia_Controls_ColorView_PaletteColumnCount">PaletteColumnCount</a> overwriting any existing values.
 
 ## See Also
 

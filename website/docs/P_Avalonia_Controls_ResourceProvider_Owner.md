@@ -7,7 +7,7 @@ Gets the owner of the resource provider.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ override Owner : IResourceHost with get
 
 #### Implements
 <a href="P_Avalonia_Controls_IResourceProvider_Owner">IResourceProvider.Owner</a>  
+
+
+## Remarks
 If multiple owners are added, returns the first.
 
 ## See Also

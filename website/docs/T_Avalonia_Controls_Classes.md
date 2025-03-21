@@ -7,7 +7,7 @@ Holds a collection of style classes for an <a href="T_Avalonia_StyledElement">St
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,6 +43,9 @@ type Classes =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_IPseudoClasses">IPseudoClasses</a></td></tr>
 </table>
 
+
+
+## Remarks
 Similar to CSS, each control may have any number of styling classes applied.
 
 ## Constructors

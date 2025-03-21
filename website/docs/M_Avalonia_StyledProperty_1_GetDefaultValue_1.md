@@ -7,7 +7,7 @@ Gets the default value for the property on the specified type.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -43,7 +43,10 @@ member GetDefaultValue :
 
 #### Return Value
 <a href="T_Avalonia_StyledProperty_1">TValue</a>  
-The default value.For performance, prefer the <a href="M_Avalonia_StyledProperty_1_GetDefaultValue">GetDefaultValue(AvaloniaObject)</a> overload when possible.
+The default value.
+
+## Remarks
+For performance, prefer the <a href="M_Avalonia_StyledProperty_1_GetDefaultValue">GetDefaultValue(AvaloniaObject)</a> overload when possible.
 
 ## See Also
 

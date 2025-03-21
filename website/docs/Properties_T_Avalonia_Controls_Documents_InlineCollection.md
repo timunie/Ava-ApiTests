@@ -23,7 +23,7 @@
 </tr>
 <tr>
 <td><a href="P_Avalonia_Controls_Documents_InlineCollection_Text">Text</a></td>
-<td>Gets or adds the text held by the inlines collection. Can be null for complex content.</td>
+<td>Gets or adds the text held by the inlines collection. <span>**Remarks:*\*</span>Can be null for complex content.</td>
 </tr>
 <tr>
 <td><a href="P_Avalonia_Collections_AvaloniaList_1_Validate">Validate</a></td>

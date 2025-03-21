@@ -7,7 +7,7 @@ A 3x3 matrix.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -42,6 +42,9 @@ type Matrix =
 <tr><td><strong>Implements</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.iequatable-1" target="_blank" rel="noopener noreferrer">IEquatable</a>(Matrix)</td></tr>
 </table>
 
+
+
+## Remarks
 Matrix layout: | 1st col | 2nd col | 3r col | 1st row | scaleX | skewY | perspX | 2nd row | skewX | scaleY | perspY | 3rd row | transX | transY | perspZ | Note: Skia.SkMatrix uses a transposed layout (where for example skewX/skewY and persp0/transX are swapped).
 
 ## Constructors

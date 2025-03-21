@@ -7,7 +7,7 @@ Asks underlying platform to provide detailed screen information. On some platfor
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member RequestScreenDetails : unit -> Task<bool>
 
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.threading.tasks.task-1" target="_blank" rel="noopener noreferrer">Task</a>(<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>)  
-True, if detailed screen information was provided. False, if denied by the platform or user.This method is async and might show a dialog to the user asking for a permission.
+True, if detailed screen information was provided. False, if denied by the platform or user.
+
+## Remarks
+This method is async and might show a dialog to the user asking for a permission.
 
 ## See Also
 

@@ -7,7 +7,7 @@ Occurs when a thread exception is thrown and uncaught during execution of a dele
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Threading">Avalonia.Threading</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member UnhandledException : IEvent<DispatcherUnhandledExceptionEventHandler,
 
 
 #### Value
-<a href="T_Avalonia_Threading_DispatcherUnhandledExceptionEventHandler">DispatcherUnhandledExceptionEventHandler</a>This event is raised when an exception that was thrown during execution of a delegate by way of <a href="M_Avalonia_Threading_Dispatcher_Invoke_3">Invoke(Action)</a> or <a href="M_Avalonia_Threading_Dispatcher_InvokeAsync_2">InvokeAsync(Action)</a> is uncaught. A handler can mark the exception as handled, which will prevent the internal exception handler from being called. Event handlers for this event must be written with care to avoid creating secondary exceptions and to catch any that occur. It is recommended to avoid allocating memory or doing any resource intensive operations in the handler.
+<a href="T_Avalonia_Threading_DispatcherUnhandledExceptionEventHandler">DispatcherUnhandledExceptionEventHandler</a>
+
+## Remarks
+This event is raised when an exception that was thrown during execution of a delegate by way of <a href="M_Avalonia_Threading_Dispatcher_Invoke_3">Invoke(Action)</a> or <a href="M_Avalonia_Threading_Dispatcher_InvokeAsync_2">InvokeAsync(Action)</a> is uncaught. A handler can mark the exception as handled, which will prevent the internal exception handler from being called. Event handlers for this event must be written with care to avoid creating secondary exceptions and to catch any that occur. It is recommended to avoid allocating memory or doing any resource intensive operations in the handler.
 
 ## See Also
 

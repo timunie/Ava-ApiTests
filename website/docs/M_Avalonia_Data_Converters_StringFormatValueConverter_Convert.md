@@ -7,7 +7,7 @@ Converts a value.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Data_Converters">Avalonia.Data.Converters</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -61,6 +61,9 @@ The converted value.
 
 #### Implements
 <a href="M_Avalonia_Data_Converters_IValueConverter_Convert">IValueConverter.Convert(Object, Type, Object, CultureInfo)</a>  
+
+
+## Remarks
 This method should not throw exceptions. If the value is not convertible, return a <a href="T_Avalonia_Data_BindingNotification">BindingNotification</a> in an error state. Any exceptions thrown will be treated as an application exception.
 
 ## See Also

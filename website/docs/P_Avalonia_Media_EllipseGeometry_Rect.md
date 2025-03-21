@@ -7,7 +7,7 @@ Gets or sets a rect that defines the bounds of the ellipse.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member Rect : Rect with get, set
 
 
 #### Property Value
-<a href="T_Avalonia_Rect">Rect</a>When set, this takes priority over the other properties that define an ellipse using a center point and X/Y-axis radii.
+<a href="T_Avalonia_Rect">Rect</a>
+
+## Remarks
+When set, this takes priority over the other properties that define an ellipse using a center point and X/Y-axis radii.
 
 ## See Also
 

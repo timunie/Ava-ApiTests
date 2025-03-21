@@ -7,7 +7,7 @@ Instructs the compiler to resolve the compiled bindings data type for the item-s
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Metadata">Avalonia.Metadata</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -46,6 +46,9 @@ type InheritDataTypeFromItemsAttribute =
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="https://learn.microsoft.com/dotnet/api/system.attribute" target="_blank" rel="noopener noreferrer">Attribute</a>  →  InheritDataTypeFromItemsAttribute</td></tr>
 </table>
 
+
+
+## Remarks
 A typical usage example is a ListBox control, where InheritDataTypeFromItemsAttribute is defined on the ItemTemplate property, allowing the template to inherit the data type from the Items collection binding.
 
 ## Constructors

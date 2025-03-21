@@ -7,7 +7,7 @@ Defines in what direction a popup should be positioned, relative to the anchor p
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives_PopupPositioning">Avalonia.Controls.Primitives.PopupPositioning</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member Gravity : PopupGravity with get, set
 
 
 #### Property Value
-<a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupGravity">PopupGravity</a>If a corner gravity is specified (e.g. 'BottomRight' or 'TopLeft'), then the popup will be placed towards the specified gravity; otherwise, the popup will be centered over the anchor point on any axis that had no gravity specified.
+<a href="T_Avalonia_Controls_Primitives_PopupPositioning_PopupGravity">PopupGravity</a>
+
+## Remarks
+If a corner gravity is specified (e.g. 'BottomRight' or 'TopLeft'), then the popup will be placed towards the specified gravity; otherwise, the popup will be centered over the anchor point on any axis that had no gravity specified.
 
 ## See Also
 

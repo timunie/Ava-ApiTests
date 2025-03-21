@@ -7,7 +7,7 @@ Creates a new <a href="T_Avalonia_Media_HsvColor">HsvColor</a> from individual c
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -49,7 +49,10 @@ static member FromHsv :
 
 #### Return Value
 <a href="T_Avalonia_Media_HsvColor">HsvColor</a>  
-A new <a href="T_Avalonia_Media_HsvColor">HsvColor</a> built from the individual color component values.This exists for symmetry with the <a href="T_Avalonia_Media_Color">Color</a> struct; however, the appropriate constructor should commonly be used instead.
+A new <a href="T_Avalonia_Media_HsvColor">HsvColor</a> built from the individual color component values.
+
+## Remarks
+This exists for symmetry with the <a href="T_Avalonia_Media_Color">Color</a> struct; however, the appropriate constructor should commonly be used instead.
 
 ## See Also
 

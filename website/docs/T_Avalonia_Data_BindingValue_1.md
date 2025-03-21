@@ -7,7 +7,7 @@ A value passed into a binding.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Data">Avalonia.Data</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -46,7 +46,10 @@ type BindingValue<'T> =
 
 
 #### Type Parameters
-<dl><dt /><dd>The value type.</dd></dl>The avalonia binding system is typed, and as such additional state is stored in this structure. A binding value can be in a number of states, described by the <a href="P_Avalonia_Data_BindingValue_1_Type">Type</a> property: - <a href="T_Avalonia_Data_BindingValueType">Value</a>: a simple value - <a href="T_Avalonia_Data_BindingValueType">UnsetValue</a>: the target property will revert to its unbound state until a new binding value is produced. Represented by <a href="F_Avalonia_AvaloniaProperty_UnsetValue">UnsetValue</a> in an untyped context - <a href="T_Avalonia_Data_BindingValueType">DoNothing</a>: the binding value will be ignored. Represented by <a href="F_Avalonia_Data_BindingOperations_DoNothing">DoNothing</a> in an untyped context - <a href="T_Avalonia_Data_BindingValueType">BindingError</a>: a binding error, such as a missing source property, with an optional fallback value - <a href="T_Avalonia_Data_BindingValueType">DataValidationError</a>: a data validation error, with an optional fallback value To create a new binding value you can: - For a simple value, call the BindingValue(T) constructor or use an implicit conversion from *T* - For an unset value, use <a href="P_Avalonia_Data_BindingValue_1_Unset">Unset</a> or simply `default` - For other types, call one of the static factory methods
+<dl><dt /><dd>The value type.</dd></dl>
+
+## Remarks
+The avalonia binding system is typed, and as such additional state is stored in this structure. A binding value can be in a number of states, described by the <a href="P_Avalonia_Data_BindingValue_1_Type">Type</a> property: - <a href="T_Avalonia_Data_BindingValueType">Value</a>: a simple value - <a href="T_Avalonia_Data_BindingValueType">UnsetValue</a>: the target property will revert to its unbound state until a new binding value is produced. Represented by <a href="F_Avalonia_AvaloniaProperty_UnsetValue">UnsetValue</a> in an untyped context - <a href="T_Avalonia_Data_BindingValueType">DoNothing</a>: the binding value will be ignored. Represented by <a href="F_Avalonia_Data_BindingOperations_DoNothing">DoNothing</a> in an untyped context - <a href="T_Avalonia_Data_BindingValueType">BindingError</a>: a binding error, such as a missing source property, with an optional fallback value - <a href="T_Avalonia_Data_BindingValueType">DataValidationError</a>: a data validation error, with an optional fallback value To create a new binding value you can: - For a simple value, call the BindingValue(T) constructor or use an implicit conversion from *T* - For an unset value, use <a href="P_Avalonia_Data_BindingValue_1_Unset">Unset</a> or simply `default` - For other types, call one of the static factory methods
 
 ## Constructors
 <table>

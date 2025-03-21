@@ -7,7 +7,7 @@ Allows a derived class to override the enabled state of the control.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ override IsEnabledCore : bool with get
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>Derived controls may wish to disable the enabled state of the control without overwriting the user-supplied <a href="P_Avalonia_Input_InputElement_IsEnabled">IsEnabled</a> setting. This can be done by overriding this property to return the overridden enabled state. If the value returned from <a href="P_Avalonia_Input_InputElement_IsEnabledCore">IsEnabledCore</a> should change, then the derived control should call <a href="M_Avalonia_Input_InputElement_UpdateIsEffectivelyEnabled">UpdateIsEffectivelyEnabled()</a>.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## Remarks
+Derived controls may wish to disable the enabled state of the control without overwriting the user-supplied <a href="P_Avalonia_Input_InputElement_IsEnabled">IsEnabled</a> setting. This can be done by overriding this property to return the overridden enabled state. If the value returned from <a href="P_Avalonia_Input_InputElement_IsEnabledCore">IsEnabledCore</a> should change, then the derived control should call <a href="M_Avalonia_Input_InputElement_UpdateIsEffectivelyEnabled">UpdateIsEffectivelyEnabled()</a>.
 
 ## See Also
 

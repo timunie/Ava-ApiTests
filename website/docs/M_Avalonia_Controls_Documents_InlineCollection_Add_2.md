@@ -1,13 +1,16 @@
 # Add(String) Method
 
 
-Adds a text segment to the collection. For non-complex content this appends the text to the end of currently held text. For complex content this adds a <a href="T_Avalonia_Controls_Documents_Run">Run</a> to the collection.
+Adds a text segment to the collection. 
+
+## Remarks
+For non-complex content this appends the text to the end of currently held text. For complex content this adds a <a href="T_Avalonia_Controls_Documents_Run">Run</a> to the collection.
 
 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Documents">Avalonia.Controls.Documents</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

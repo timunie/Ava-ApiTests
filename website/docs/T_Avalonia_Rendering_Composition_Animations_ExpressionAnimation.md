@@ -7,7 +7,7 @@ A Composition Animation that uses a mathematical equation to calculate the value
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Rendering_Composition_Animations">Avalonia.Rendering.Composition.Animations</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ type ExpressionAnimation =
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  <a href="T_Avalonia_Rendering_Composition_CompositionObject">CompositionObject</a>  →  <a href="T_Avalonia_Rendering_Composition_Animations_CompositionAnimation">CompositionAnimation</a>  →  ExpressionAnimation</td></tr>
 </table>
 
+
+
+## Remarks
 The core of ExpressionAnimations allows a developer to define a mathematical equation that can be used to calculate the value of a targeted animating property each frame. This contrasts <a href="T_Avalonia_Rendering_Composition_Animations_KeyFrameAnimation">KeyFrameAnimation</a>s, which use an interpolator to define how the animating property changes over time. The mathematical equation can be defined using references to properties of Composition objects, mathematical functions and operators and Input. Use the <a href="M_Avalonia_Rendering_Composition_CompositionObject_StartAnimation">StartAnimation(String, CompositionAnimation)</a> method to start the animation.
 
 ## Properties

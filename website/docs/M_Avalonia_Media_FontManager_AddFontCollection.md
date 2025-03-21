@@ -7,7 +7,7 @@ Add a font collection to the manager.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -39,7 +39,10 @@ member AddFontCollection :
 
 
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_Media_Fonts_IFontCollection">IFontCollection</a></dt><dd>The font collection.</dd></dl>If a font collection's key is already present the collection is replaced.
+<dl><dt>  <a href="T_Avalonia_Media_Fonts_IFontCollection">IFontCollection</a></dt><dd>The font collection.</dd></dl>
+
+## Remarks
+If a font collection's key is already present the collection is replaced.
 
 ## Exceptions
 <table>

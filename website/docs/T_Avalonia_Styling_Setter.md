@@ -7,7 +7,7 @@ A setter for a <a href="T_Avalonia_Styling_Style">Style</a>.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Styling">Avalonia.Styling</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -44,6 +44,9 @@ type Setter =
 <tr><td><strong>Implements</strong></td><td>IAnimationSetter, <a href="T_Avalonia_Styling_ISetterInstance">ISetterInstance</a></td></tr>
 </table>
 
+
+
+## Remarks
 A Setter is used to set a <a href="T_Avalonia_AvaloniaProperty">AvaloniaProperty</a> value on a <a href="T_Avalonia_AvaloniaObject">AvaloniaObject</a> depending on a condition.
 
 ## Constructors

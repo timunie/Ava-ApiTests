@@ -7,7 +7,7 @@ Converter to convert an enum value to bool by comparing to the given parameter. 
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Converters">Avalonia.Controls.Converters</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ type EnumToBoolConverter =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Data_Converters_IValueConverter">IValueConverter</a></td></tr>
 </table>
 
+
+
+## Remarks
 This converter is useful to enable binding of radio buttons with a selected enum value.
 
 ## Constructors

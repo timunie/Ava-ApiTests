@@ -7,7 +7,7 @@ Initializes a new instance of the <a href="T_Avalonia_Fonts_Inter_InterFontColle
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Fonts_Inter">Avalonia.Fonts.Inter</a>  
-**Assembly:** Avalonia.Fonts.Inter (in Avalonia.Fonts.Inter.dll) Version: 11.2.0
+**Assembly:** Avalonia.Fonts.Inter (in Avalonia.Fonts.Inter.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

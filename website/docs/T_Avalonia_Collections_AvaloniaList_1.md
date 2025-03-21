@@ -7,7 +7,7 @@ A notifying list.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Collections">Avalonia.Collections</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -63,6 +63,9 @@ type AvaloniaList<'T> =
 
 #### Type Parameters
 <dl><dt /><dd>The type of the list items.</dd></dl>
+
+## Remarks
+
 AvaloniaList is similar to <a href="https://learn.microsoft.com/dotnet/api/system.collections.objectmodel.observablecollection-1" target="_blank" rel="noopener noreferrer">ObservableCollection(T)</a> with a few added features:
 <ul>It can be configured to notify the <a href="E_Avalonia_Collections_AvaloniaList_1_CollectionChanged">CollectionChanged</a> event with a <a href="https://learn.microsoft.com/dotnet/api/system.collections.specialized.notifycollectionchangedaction#system-collections-specialized-notifycollectionchangedaction-remove" target="_blank" rel="noopener noreferrer">Remove</a> action instead of a <a href="https://learn.microsoft.com/dotnet/api/system.collections.specialized.notifycollectionchangedaction#system-collections-specialized-notifycollectionchangedaction-reset" target="_blank" rel="noopener noreferrer">Reset</a> when the list is cleared by setting <a href="P_Avalonia_Collections_AvaloniaList_1_ResetBehavior">ResetBehavior</a> to <a href="T_Avalonia_Collections_ResetBehavior">Remove</a>.A <a href="P_Avalonia_Collections_AvaloniaList_1_Validate">Validate</a> function can be used to validate each item before insertion.</ul>
 

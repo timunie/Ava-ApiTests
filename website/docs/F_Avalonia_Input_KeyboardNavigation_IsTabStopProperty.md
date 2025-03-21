@@ -7,7 +7,7 @@ Defines the IsTabStop attached property.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Input">Avalonia.Input</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -34,7 +34,10 @@ static val IsTabStopProperty: AttachedProperty<bool>
 
 
 #### Field Value
-<a href="T_Avalonia_AttachedProperty_1">AttachedProperty</a>(<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>)The IsTabStop attached property determines whether the control is focusable by tab navigation.
+<a href="T_Avalonia_AttachedProperty_1">AttachedProperty</a>(<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>)
+
+## Remarks
+The IsTabStop attached property determines whether the control is focusable by tab navigation.
 
 ## See Also
 

@@ -7,7 +7,7 @@ Releases all resources used by the <a href="T_Avalonia_OpenGL_Egl_EglPlatformSur
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_OpenGL_Egl">Avalonia.OpenGL.Egl</a>  
-**Assembly:** Avalonia.OpenGL (in Avalonia.OpenGL.dll) Version: 11.2.0
+**Assembly:** Avalonia.OpenGL (in Avalonia.OpenGL.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

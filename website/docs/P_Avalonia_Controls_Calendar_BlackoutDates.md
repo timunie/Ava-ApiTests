@@ -7,7 +7,7 @@ Gets a collection of dates that are marked as not selectable.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -37,6 +37,9 @@ member BlackoutDates : CalendarBlackoutDatesCollection with get
 #### Property Value
 <a href="T_Avalonia_Controls_Primitives_CalendarBlackoutDatesCollection">CalendarBlackoutDatesCollection</a>  
 A collection of dates that cannot be selected. The default value is an empty collection.
+
+## Remarks
+
 Dates in this collection will appear as disabled on the calendar.
 
 To make all past dates not selectable, you can use the AddDatesInPast method provided by the collection returned by this property.

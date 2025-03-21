@@ -7,7 +7,7 @@ Sets the value of the IsTemplateFocusTargetProperty attached property on a contr
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -42,7 +42,10 @@ static member SetIsTemplateFocusTarget :
 
 
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The control.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a></dt><dd>The property value.</dd></dl>When a control is navigated to using the keyboard, a focus adorner is shown - usually around the control itself. However if the TemplatedControl.IsTemplateFocusTarget attached property is set to true on an element in the control template, then the focus adorner will be shown around that control instead.
+<dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The control.</dd><dt>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a></dt><dd>The property value.</dd></dl>
+
+## Remarks
+When a control is navigated to using the keyboard, a focus adorner is shown - usually around the control itself. However if the TemplatedControl.IsTemplateFocusTarget attached property is set to true on an element in the control template, then the focus adorner will be shown around that control instead.
 
 ## See Also
 

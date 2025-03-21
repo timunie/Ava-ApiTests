@@ -7,7 +7,7 @@ An optional typed value.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Data">Avalonia.Data</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -46,7 +46,10 @@ type Optional<'T> =
 
 
 #### Type Parameters
-<dl><dt /><dd>The value type.</dd></dl>This struct is similar to <a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable(T)</a> except it also accepts reference types: note that null is a valid value for reference types. It is also similar to <a href="T_Avalonia_Data_BindingValue_1">BindingValue(T)</a> but has only two states: "value present" and "value missing". To create a new optional value you can: - For a simple value, call the Optional(T) constructor or use an implicit conversion from *T* - For an missing value, use <a href="P_Avalonia_Data_Optional_1_Empty">Empty</a> or simply `default`
+<dl><dt /><dd>The value type.</dd></dl>
+
+## Remarks
+This struct is similar to <a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable(T)</a> except it also accepts reference types: note that null is a valid value for reference types. It is also similar to <a href="T_Avalonia_Data_BindingValue_1">BindingValue(T)</a> but has only two states: "value present" and "value missing". To create a new optional value you can: - For a simple value, call the Optional(T) constructor or use an implicit conversion from *T* - For an missing value, use <a href="P_Avalonia_Data_Optional_1_Empty">Empty</a> or simply `default`
 
 ## Constructors
 <table>

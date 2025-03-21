@@ -7,7 +7,7 @@ Gets or sets a value indicating whether the event that closes the flyout is pass
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member OverlayDismissEventPassThrough : bool with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>Clicks outside the popup cause the popup to close. When OverlayDismissEventPassThrough is set to false, these clicks will be handled by the popup and not be registered by the parent window. When set to true, the events will be passed through to the parent window.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## Remarks
+Clicks outside the popup cause the popup to close. When OverlayDismissEventPassThrough is set to false, these clicks will be handled by the popup and not be registered by the parent window. When set to true, the events will be passed through to the parent window.
 
 ## See Also
 

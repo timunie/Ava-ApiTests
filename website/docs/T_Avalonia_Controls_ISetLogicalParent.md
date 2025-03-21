@@ -7,7 +7,7 @@ Defines an interface through which a <a href="T_Avalonia_StyledElement">StyledEl
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -34,6 +34,9 @@ type ISetLogicalParent = interface end
 
 <a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Controls/ISetLogicalParent.cs" title="View the source code">View Source</a>
 
+
+
+## Remarks
 You should not usually need to use this interface - it is for advanced scenarios only.
 
 ## Methods

@@ -7,7 +7,7 @@ Gets the common visual parent of the two control.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Animation">Avalonia.Animation</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -46,7 +46,10 @@ static member GetVisualParent :
 
 #### Return Value
 <a href="T_Avalonia_Visual">Visual</a>  
-The common parent.Any one of the parameters may be null, but not both.
+The common parent.
+
+## Remarks
+Any one of the parameters may be null, but not both.
 
 ## Exceptions
 <table>

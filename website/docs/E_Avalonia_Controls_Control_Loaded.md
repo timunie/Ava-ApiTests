@@ -7,7 +7,7 @@ Occurs when the control has been fully constructed in the visual tree and both l
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member Loaded : IEvent<EventHandler<RoutedEventArgs>,
 
 
 #### Value
-<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Interactivity_RoutedEventArgs">RoutedEventArgs</a>)This event is guaranteed to occur after the control template is applied and references to objects created after the template is applied are available. This makes it different from OnAttachedToVisualTree which doesn't have these references. This event occurs at the latest possible time in the control creation life-cycle.
+<a href="https://learn.microsoft.com/dotnet/api/system.eventhandler-1" target="_blank" rel="noopener noreferrer">EventHandler</a>(<a href="T_Avalonia_Interactivity_RoutedEventArgs">RoutedEventArgs</a>)
+
+## Remarks
+This event is guaranteed to occur after the control template is applied and references to objects created after the template is applied are available. This makes it different from OnAttachedToVisualTree which doesn't have these references. This event occurs at the latest possible time in the control creation life-cycle.
 
 ## See Also
 

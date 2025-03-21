@@ -7,7 +7,7 @@ Implements a reduced version of the 2014 Material Design color palette.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ type MaterialColorPalette =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_IColorPalette">IColorPalette</a></td></tr>
 </table>
 
+
+
+## Remarks
 This palette is based on the one outlined here: https://material.io/design/color/the-color-system.html#tools-for-picking-colors In order to make the palette uniform and rectangular the following alterations were made: 1. The A100-A700 shades of each color are excluded. These shades do not exist for all colors (brown/gray). 2. Black/White are stand-alone and are also excluded.
 
 ## Constructors

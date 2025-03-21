@@ -7,7 +7,7 @@ Gets or sets a dependency resolver for the <a href="T_Avalonia_Controls_Primitiv
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member DependencyResolver : IAvaloniaDependencyResolver with get, set
 
 
 #### Property Value
-IAvaloniaDependencyResolverThis property allows a client to customize the behaviour of the popup by injecting a specialized dependency resolver into the <a href="T_Avalonia_Controls_Primitives_PopupRoot">PopupRoot</a>'s constructor.
+IAvaloniaDependencyResolver
+
+## Remarks
+This property allows a client to customize the behaviour of the popup by injecting a specialized dependency resolver into the <a href="T_Avalonia_Controls_Primitives_PopupRoot">PopupRoot</a>'s constructor.
 
 ## See Also
 

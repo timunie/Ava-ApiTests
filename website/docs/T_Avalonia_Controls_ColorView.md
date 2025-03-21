@@ -7,7 +7,7 @@ Presents a color for user editing using a spectrum, palette and component slider
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls.ColorPicker (in Avalonia.Controls.ColorPicker.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -46,6 +46,9 @@ type ColorView =
 <tr><td><strong>Derived</strong></td><td><a href="T_Avalonia_Controls_ColorPicker">Avalonia.Controls.ColorPicker</a></td></tr>
 </table>
 
+
+
+## Remarks
 The control class extends <a href="T_Avalonia_Input_InputElement">InputElement</a> and adds the following features: - A <a href="P_Avalonia_Controls_Control_Tag">Tag</a> property to allow user-defined data to be attached to the control. - <a href="F_Avalonia_Controls_Control_ContextRequestedEvent">ContextRequestedEvent</a> and other context menu related members.
 
 ## Constructors

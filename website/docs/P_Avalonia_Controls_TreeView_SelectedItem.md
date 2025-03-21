@@ -7,7 +7,7 @@ Gets or sets the selected item.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member SelectedItem : Object with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>Note that setting this property only currently works if the item is expanded to be visible. To select non-expanded nodes use `Selection.SelectedIndex`.
+<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>
+
+## Remarks
+Note that setting this property only currently works if the item is expanded to be visible. To select non-expanded nodes use `Selection.SelectedIndex`.
 
 ## See Also
 

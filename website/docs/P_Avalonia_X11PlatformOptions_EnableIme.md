@@ -7,7 +7,7 @@ Determines whether to use IME. IME would be enabled by default if the current us
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.X11 (in Avalonia.X11.dll) Version: 11.2.0
+**Assembly:** Avalonia.X11 (in Avalonia.X11.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member EnableIme : Nullable<bool> with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>)Input method editor is a component that enables users to generate characters not natively available on their input devices by using sequences of characters or mouse operations that are natively available on their input devices.
+<a href="https://learn.microsoft.com/dotnet/api/system.nullable-1" target="_blank" rel="noopener noreferrer">Nullable</a>(<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>)
+
+## Remarks
+Input method editor is a component that enables users to generate characters not natively available on their input devices by using sequences of characters or mouse operations that are natively available on their input devices.
 
 ## See Also
 

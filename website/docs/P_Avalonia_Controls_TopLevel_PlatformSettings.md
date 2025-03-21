@@ -7,7 +7,7 @@ Represents a contract for accessing top-level platform-specific settings.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,6 +40,9 @@ override PlatformSettings : IPlatformSettings with get
 
 #### Implements
 <a href="P_Avalonia_Input_IInputRoot_PlatformSettings">IInputRoot.PlatformSettings</a>  
+
+
+## Remarks
 PlatformSettings can be null only if window wasn't initialized yet.
 
 ## See Also

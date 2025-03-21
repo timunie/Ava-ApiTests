@@ -7,7 +7,7 @@ Determines whether to enable support for the X Session Management Protocol.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.X11 (in Avalonia.X11.dll) Version: 11.2.0
+**Assembly:** Avalonia.X11 (in Avalonia.X11.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member EnableSessionManagement : bool with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>X Session Management Protocol is a standard implemented on most Linux systems that uses Xorg. This enables apps to control how they can control and/or cancel the pending shutdown requested by the user.
+<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_blank" rel="noopener noreferrer">Boolean</a>
+
+## Remarks
+X Session Management Protocol is a standard implemented on most Linux systems that uses Xorg. This enables apps to control how they can control and/or cancel the pending shutdown requested by the user.
 
 ## See Also
 

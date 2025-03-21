@@ -7,7 +7,7 @@ Gets or sets the Z index of the control.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -36,7 +36,10 @@ member ZIndex : int with get, set
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_blank" rel="noopener noreferrer">Int32</a>Controls with a higher ZIndex will appear in front of controls with a lower ZIndex. If two controls have the same ZIndex then the control that appears later in the containing element's children collection will appear on top.
+<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_blank" rel="noopener noreferrer">Int32</a>
+
+## Remarks
+Controls with a higher ZIndex will appear in front of controls with a lower ZIndex. If two controls have the same ZIndex then the control that appears later in the containing element's children collection will appear on top.
 
 ## See Also
 

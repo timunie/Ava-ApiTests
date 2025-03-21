@@ -7,7 +7,7 @@ Gets or sets the culture in which to evaluate the converter.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Data">Avalonia.Data</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -40,7 +40,10 @@ member ConverterCulture : CultureInfo with get, set
 
 #### Property Value
 <a href="https://learn.microsoft.com/dotnet/api/system.globalization.cultureinfo" target="_blank" rel="noopener noreferrer">CultureInfo</a>  
-The default value is null.If this property is not set then <a href="https://learn.microsoft.com/dotnet/api/system.globalization.cultureinfo.currentculture" target="_blank" rel="noopener noreferrer">CurrentCulture</a> will be used.
+The default value is null.
+
+## Remarks
+If this property is not set then <a href="https://learn.microsoft.com/dotnet/api/system.globalization.cultureinfo.currentculture" target="_blank" rel="noopener noreferrer">CurrentCulture</a> will be used.
 
 ## See Also
 

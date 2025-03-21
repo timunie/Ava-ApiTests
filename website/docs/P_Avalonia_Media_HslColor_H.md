@@ -7,7 +7,7 @@ Gets the Hue component in the range from 0..360 (degrees). This is the color's l
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -35,7 +35,10 @@ member H : float with get
 
 
 #### Property Value
-<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a><ul>0/360 degrees is Red.60 degrees is Yellow.120 degrees is Green.180 degrees is Cyan.240 degrees is Blue.300 degrees is Magenta.</ul>
+<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>
+
+## Remarks
+<ul>0/360 degrees is Red.60 degrees is Yellow.120 degrees is Green.180 degrees is Cyan.240 degrees is Blue.300 degrees is Magenta.</ul>
 
 ## See Also
 

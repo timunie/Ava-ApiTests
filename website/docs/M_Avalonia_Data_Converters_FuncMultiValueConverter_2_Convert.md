@@ -7,7 +7,7 @@ Converts multi-binding inputs to a final value.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Data_Converters">Avalonia.Data.Converters</a>  
-**Assembly:** Avalonia.Base (in Avalonia.Base.dll) Version: 11.2.0
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -61,6 +61,9 @@ The converted value.
 
 #### Implements
 <a href="M_Avalonia_Data_Converters_IMultiValueConverter_Convert">IMultiValueConverter.Convert(IList(Object), Type, Object, CultureInfo)</a>  
+
+
+## Remarks
 This method should not throw exceptions. If the value is not convertible, return <a href="F_Avalonia_AvaloniaProperty_UnsetValue">UnsetValue</a>. Any exception thrown will be treated as an application exception.
 
 ## See Also

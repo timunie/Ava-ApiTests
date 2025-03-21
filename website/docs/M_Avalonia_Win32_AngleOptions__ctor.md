@@ -7,7 +7,7 @@ Initializes a new instance of the <a href="T_Avalonia_Win32_AngleOptions">AngleO
 
 ## Definition
 **Namespace:** <a href="N_Avalonia_Win32">Avalonia.Win32</a>  
-**Assembly:** Avalonia.Win32 (in Avalonia.Win32.dll) Version: 11.2.0
+**Assembly:** Avalonia.Win32 (in Avalonia.Win32.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">

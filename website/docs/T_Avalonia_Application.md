@@ -7,7 +7,7 @@ Encapsulates a Avalonia application.
 
 ## Definition
 **Namespace:** <a href="N_Avalonia">Avalonia</a>  
-**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll) Version: 11.2.0
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
 
 <Tabs groupId="api-code-preview">
 <TabItem value="csharp" label="C#">
@@ -55,6 +55,9 @@ type Application =
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Controls_IGlobalDataTemplates">IGlobalDataTemplates</a>, <a href="T_Avalonia_Controls_IResourceHost">IResourceHost</a>, <a href="T_Avalonia_Controls_IResourceNode">IResourceNode</a>, <a href="T_Avalonia_Controls_Templates_IDataTemplateHost">IDataTemplateHost</a>, <a href="T_Avalonia_IDataContextProvider">IDataContextProvider</a>, <a href="T_Avalonia_Platform_IApplicationPlatformEvents">IApplicationPlatformEvents</a>, <a href="T_Avalonia_Platform_IOptionalFeatureProvider">IOptionalFeatureProvider</a>, <a href="T_Avalonia_Styling_IGlobalStyles">IGlobalStyles</a>, <a href="T_Avalonia_Styling_IStyleHost">IStyleHost</a>, <a href="T_Avalonia_Styling_IThemeVariantHost">IThemeVariantHost</a></td></tr>
 </table>
 
+
+
+## Remarks
 The Application class encapsulates Avalonia application-specific functionality, including: - A global set of <a href="P_Avalonia_Application_DataTemplates">DataTemplates</a>. - A global set of <a href="P_Avalonia_Application_Styles">Styles</a>. - A FocusManager. - An InputManager. - Registers services needed by the rest of Avalonia in the <a href="M_Avalonia_Application_RegisterServices">RegisterServices()</a> method. - Tracks the lifetime of the application.
 
 ## Constructors
