@@ -1,5 +1,13 @@
+param (
+	[Parameter(Mandatory, HelpMessage="Enter the Avalonia version to document")]
+	[string]$version
+   
+	[Parameter()]
+	[switch]$preview
+)
 
 # Update git submodules
+git config --file=.gitmodules submodule.Avalonia.branch "release/$version"  # change branch to requested version
 git submodule update --init --recursive
 
 # Define a list of dotNET projects to build
@@ -52,5 +60,10 @@ foreach ($proj in $avaloniaProjects){
 # Run the docs. Comment either one
 cd website 
 
-npx docusaurus start # preview
-# pnpm run build       # create release version
+# preview the website if preview switch is on
+if($preview.IsPresent){
+	npx docusaurus start
+}
+else{
+	pnpm run build 
+}

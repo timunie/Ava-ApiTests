@@ -184,11 +184,7 @@ namespace DocusaurusExportPlugin
 
 
                                 sidebar.AddItem(id, filePath, title, content);
-                                // if(tocReader.Depth > 1)
-                                //     sidebar.Write(new String(' ', (tocReader.Depth - 1) * 2));
-                                //
-                                // sidebar.WriteLine("- [{0}]({1}{2})", title, key, extension);
-
+      
                                 topicCount++;
 
                                 if ((topicCount % 500) == 0)

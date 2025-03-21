@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Text.Json;
 using System.Xml.Linq;
 
 using SandcastleBuilder.Utils.BuildComponent;
@@ -39,6 +41,11 @@ namespace DocusaurusExportPlugin
 
         #endregion
 
+        /// <summary>
+        /// Gets a dictionary with the mapping between the AssemblyName and the nuget package
+        /// </summary>
+        public static Dictionary<string, string>? AssemblyPackageMapping { get; private set; }
+        
         #region IPlugIn implementation
         //=====================================================================
 
@@ -72,6 +79,9 @@ namespace DocusaurusExportPlugin
             var metadata = (HelpFileBuilderPlugInExportAttribute)this.GetType().GetCustomAttributes(
                 typeof(HelpFileBuilderPlugInExportAttribute), false).First();
 
+            AssemblyPackageMapping = JsonSerializer.Deserialize<Dictionary<string, string>>(
+                File.ReadAllText(Path.Combine(buildProcess.ProjectFolder, "settings", "AssemblyPackageMapping.json")));
+            
             builder.ReportProgress("{0} Version {1}\r\n{2}", metadata.Id, metadata.Version, metadata.Copyright);
         }
 

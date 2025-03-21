@@ -19,7 +19,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/G_Avalonia">
+            to="/docs/category/avalonia">
             Avalonia-API
           </Link>
         </div>

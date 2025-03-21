@@ -452,7 +452,7 @@ namespace DocusaurusPresentationStyle.DocusaurusMarkdown
                 },
                 new MarkdownElement("paramref", "name", "*", "*", "em"), new PreliminaryElement(),
                 // TODO: new PassthroughElement("remarks"),
-                // new NamedSectionElement("remarksStandalone"), 
+                new MdxRemarksElement("remarks"), 
 				new ReturnsElement(), 
 				new SeeElement(),
                 // seeAlso should be a top-level element in the comments but may appear within other elements.

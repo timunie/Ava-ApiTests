@@ -228,7 +228,7 @@
 	<item id="searchPlaceHolder">Search</item>
 
 	<!-- Requirements section info -->
-	<item id="assemblyNameAndModule">{0} (in {1}.{2}) Version: {3}</item>
+	<item id="assemblyNameAndModule">{0} (in {1}.{2})</item>
   <item id="boilerplate_requirementsAssemblies">Assemblies:</item>
   <item id="boilerplate_requirementsAssemblyLabel">Assembly:</item>
   <item id="boilerplate_requirementsNamespace">Namespace:</item>
