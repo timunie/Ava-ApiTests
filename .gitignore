@@ -398,3 +398,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+src/ApiDocumentation/ApiDocumentation/Help/
+
+src/ApiDocumentation/ApiDocumentation/tools/
+
+.idea/
+
+website/pnpm-lock.yaml

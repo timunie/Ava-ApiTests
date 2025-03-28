@@ -1,0 +1,53 @@
+# GetTextWrapping Method
+
+
+Reads the attached property from the given element
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public static TextWrapping GetTextWrapping(
+	Control control
+)
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Shared Function GetTextWrapping ( 
+	control As Control
+) As TextWrapping
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+static member GetTextWrapping : 
+        control : Control -> TextWrapping 
+```
+</TabItem>
+</Tabs>
+
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/TextBlock.cs#L442" title="View the source code">View Source</a>
+
+
+
+#### Parameters
+<dl><dt>  <a href="T_Avalonia_Controls_Control">Control</a></dt><dd>The element to which to read the attached property.</dd></dl>
+
+#### Return Value
+<a href="T_Avalonia_Media_TextWrapping">TextWrapping</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Controls_TextBlock">TextBlock Class</a>  
+<a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

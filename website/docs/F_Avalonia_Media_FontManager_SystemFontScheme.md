@@ -1,0 +1,43 @@
+# SystemFontScheme Field
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public const string SystemFontScheme = "systemfont"
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Const SystemFontScheme As String = "systemfont"
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+static val mutable SystemFontScheme: string
+```
+</TabItem>
+</Tabs>
+
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/FontManager.cs" title="View the source code">View Source</a>
+
+
+
+#### Field Value
+<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_blank" rel="noopener noreferrer">String</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Media_FontManager">FontManager Class</a>  
+<a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+

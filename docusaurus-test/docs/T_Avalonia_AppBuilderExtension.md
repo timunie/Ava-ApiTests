@@ -1,0 +1,41 @@
+# AppBuilderExtension Class
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia">Avalonia</a>  <br />**Assembly:** Avalonia.Fonts.Inter (in Avalonia.Fonts.Inter.dll) Version: 11.3.999
+
+**C#**
+``` C#
+public static class AppBuilderExtension
+```
+**VB**
+``` VB
+<ExtensionAttribute>
+Public NotInheritable Class AppBuilderExtension
+```
+**F#**
+``` F#
+[<AbstractClassAttribute>]
+[<SealedAttribute>]
+[<ExtensionAttribute>]
+type AppBuilderExtension = class end
+```
+
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Fonts.Inter/AppBuilderExtension.cs" title="View the source code">View Source</a>
+
+<table><tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  AppBuilderExtension</td></tr></table>
+
+
+
+## Methods
+<table><tr><td><a href="M_Avalonia_AppBuilderExtension_WithInterFont">WithInterFont(AppBuilder)</a></td><td> </td></tr></table>
+
+## See Also
+
+
+#### Reference
+<a href="N_Avalonia">Avalonia Namespace</a>

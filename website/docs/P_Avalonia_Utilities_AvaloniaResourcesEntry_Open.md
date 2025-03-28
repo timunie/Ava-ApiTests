@@ -1,0 +1,45 @@
+# Open Property
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Utilities">Avalonia.Utilities</a>  
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public Func<Stream>? Open { get; init; }
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Property Open As Func(Of Stream)
+	Get
+	Set
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+member Open : Func<Stream> with get, set
+```
+</TabItem>
+</Tabs>
+
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Utilities/AvaloniaResourcesIndex.cs#L149" title="View the source code">View Source</a>
+
+
+
+#### Property Value
+<a href="https://learn.microsoft.com/dotnet/api/system.func-1" target="_blank" rel="noopener noreferrer">Func</a>(<a href="https://learn.microsoft.com/dotnet/api/system.io.stream" target="_blank" rel="noopener noreferrer">Stream</a>)
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Utilities_AvaloniaResourcesEntry">AvaloniaResourcesEntry Class</a>  
+<a href="N_Avalonia_Utilities">Avalonia.Utilities Namespace</a>  
+

@@ -1,0 +1,45 @@
+# Y Property
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia">Avalonia</a>  
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public double Y { get; init; }
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Property Y As Double
+	Get
+	Set
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+member Y : float with get, set
+```
+</TabItem>
+</Tabs>
+
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Vector3D.cs#L9" title="View the source code">View Source</a>
+
+
+
+#### Property Value
+<a href="https://learn.microsoft.com/dotnet/api/system.double" target="_blank" rel="noopener noreferrer">Double</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Vector3D">Vector3D Structure</a>  
+<a href="N_Avalonia">Avalonia Namespace</a>  
+

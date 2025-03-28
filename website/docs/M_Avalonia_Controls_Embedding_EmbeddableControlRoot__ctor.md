@@ -1,0 +1,42 @@
+# EmbeddableControlRoot Constructor
+
+
+Initializes a new instance of the <a href="T_Avalonia_Controls_Embedding_EmbeddableControlRoot">EmbeddableControlRoot</a> class
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls_Embedding">Avalonia.Controls.Embedding</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public EmbeddableControlRoot()
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Sub New
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+new : unit -> EmbeddableControlRoot
+```
+</TabItem>
+</Tabs>
+
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Embedding/EmbeddableControlRoot.cs#L20" title="View the source code">View Source</a>
+
+
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Controls_Embedding_EmbeddableControlRoot">EmbeddableControlRoot Class</a>  
+<a href="N_Avalonia_Controls_Embedding">Avalonia.Controls.Embedding Namespace</a>  
+

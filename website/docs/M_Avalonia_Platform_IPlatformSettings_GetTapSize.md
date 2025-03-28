@@ -1,0 +1,53 @@
+# GetTapSize Method
+
+
+The size of the rectangle around the location of a pointer down that a pointer up must occur within in order to register a tap gesture, in device-independent pixels.
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Platform">Avalonia.Platform</a>  
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+Size GetTapSize(
+	PointerType type
+)
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Function GetTapSize ( 
+	type As PointerType
+) As Size
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+abstract GetTapSize : 
+        type : PointerType -> Size 
+```
+</TabItem>
+</Tabs>
+
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Platform/IPlatformSettings.cs" title="View the source code">View Source</a>
+
+
+
+#### Parameters
+<dl><dt>  <a href="T_Avalonia_Input_PointerType">PointerType</a></dt><dd>The pointer type.</dd></dl>
+
+#### Return Value
+<a href="T_Avalonia_Size">Size</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Platform_IPlatformSettings">IPlatformSettings Interface</a>  
+<a href="N_Avalonia_Platform">Avalonia.Platform Namespace</a>  
+

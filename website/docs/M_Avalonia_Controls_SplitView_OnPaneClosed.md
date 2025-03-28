@@ -1,0 +1,50 @@
+# OnPaneClosed Method
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls">Avalonia.Controls</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+protected virtual void OnPaneClosed(
+	RoutedEventArgs args
+)
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Protected Overridable Sub OnPaneClosed ( 
+	args As RoutedEventArgs
+)
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+abstract OnPaneClosed : 
+        args : RoutedEventArgs -> unit 
+override OnPaneClosed : 
+        args : RoutedEventArgs -> unit 
+```
+</TabItem>
+</Tabs>
+
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/SplitView/SplitView.cs#L437" title="View the source code">View Source</a>
+
+
+
+#### Parameters
+<dl><dt>  <a href="T_Avalonia_Interactivity_RoutedEventArgs">RoutedEventArgs</a></dt><dd> </dd></dl>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Controls_SplitView">SplitView Class</a>  
+<a href="N_Avalonia_Controls">Avalonia.Controls Namespace</a>  
+

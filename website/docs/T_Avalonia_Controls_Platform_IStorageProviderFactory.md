@@ -1,0 +1,52 @@
+# IStorageProviderFactory Interface
+
+
+Factory allows to register custom storage provider instead of native implementation.
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+[UnstableAttribute]
+public interface IStorageProviderFactory
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+<UnstableAttribute>
+Public Interface IStorageProviderFactory
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+[<UnstableAttribute>]
+type IStorageProviderFactory = interface end
+```
+</TabItem>
+</Tabs>
+
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Platform/Dialogs/IStorageProviderFactory.cs" title="View the source code">View Source</a>
+
+
+
+## Methods
+<table>
+<tr>
+<td><a href="M_Avalonia_Controls_Platform_IStorageProviderFactory_CreateProvider">CreateProvider(TopLevel)</a></td>
+<td> </td>
+</tr>
+</table>
+
+## See Also
+
+
+#### Reference
+<a href="N_Avalonia_Controls_Platform">Avalonia.Controls.Platform Namespace</a>  
+

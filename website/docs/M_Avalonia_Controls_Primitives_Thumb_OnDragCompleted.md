@@ -1,0 +1,50 @@
+# OnDragCompleted Method
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives</a>  
+**Assembly:** Avalonia.Controls (in Avalonia.Controls.dll)
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+protected virtual void OnDragCompleted(
+	VectorEventArgs e
+)
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Protected Overridable Sub OnDragCompleted ( 
+	e As VectorEventArgs
+)
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+abstract OnDragCompleted : 
+        e : VectorEventArgs -> unit 
+override OnDragCompleted : 
+        e : VectorEventArgs -> unit 
+```
+</TabItem>
+</Tabs>
+
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Controls/Primitives/Thumb.cs#L67" title="View the source code">View Source</a>
+
+
+
+#### Parameters
+<dl><dt>  <a href="T_Avalonia_Input_VectorEventArgs">VectorEventArgs</a></dt><dd> </dd></dl>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Controls_Primitives_Thumb">Thumb Class</a>  
+<a href="N_Avalonia_Controls_Primitives">Avalonia.Controls.Primitives Namespace</a>  
+

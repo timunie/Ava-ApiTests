@@ -1,0 +1,44 @@
+# ToImmutable Method
+
+
+
+
+## Definition
+**Namespace:** <a href="N_Avalonia_Media">Avalonia.Media</a>  
+**Assembly:** Avalonia.Base (in Avalonia.Base.dll)
+
+<Tabs groupId="api-code-preview">
+<TabItem value="csharp" label="C#">
+```csharp
+public IImmutableEffect ToImmutable()
+```
+</TabItem>
+<TabItem value="vb" label="VB">
+```vb
+Public Function ToImmutable As IImmutableEffect
+```
+</TabItem>
+<TabItem value="fsharp" label="F#">
+```fsharp
+abstract ToImmutable : unit -> IImmutableEffect 
+override ToImmutable : unit -> IImmutableEffect 
+```
+</TabItem>
+</Tabs>
+
+
+
+<a href="https://github.com/AvaloniaUI/Avalonia/tree/master/src/Avalonia.Base/Media/Effects/DropShadowEffect.cs#L103" title="View the source code">View Source</a>
+
+
+
+#### Return Value
+<a href="T_Avalonia_Media_IImmutableEffect">IImmutableEffect</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_Avalonia_Media_DropShadowDirectionEffect">DropShadowDirectionEffect Class</a>  
+<a href="N_Avalonia_Media">Avalonia.Media Namespace</a>  
+
