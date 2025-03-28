@@ -63,6 +63,7 @@
       <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Themes.Simple\Avalonia.Themes.Simple.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
       <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.Vulkan\Avalonia.Vulkan.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
       <DocumentationSource sourceFile="..\..\..\Avalonia\src\Avalonia.X11\Avalonia.X11.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />
+      <DocumentationSource sourceFile="..\..\..\Avalonia\src\Browser\Avalonia.Browser\Avalonia.Browser.csproj" TargetFramework="$(AvsCurrentBrowserTargetFramework)" />
       <DocumentationSource sourceFile="..\..\..\Avalonia\src\Browser\Avalonia.Browser.Blazor\Avalonia.Browser.Blazor.csproj" TargetFramework="$(AvsCurrentBrowserTargetFramework)" />
       <DocumentationSource sourceFile="..\..\..\Avalonia\src\iOS\Avalonia.iOS\Avalonia.iOS.csproj" TargetFramework="$(AvsCurrentIOSTargetFramework)" />
       <DocumentationSource sourceFile="..\..\..\Avalonia\src\Linux\Avalonia.LinuxFramebuffer\Avalonia.LinuxFramebuffer.csproj" TargetFramework="$(AvsCurrentTargetFramework)" />

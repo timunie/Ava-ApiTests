@@ -14,10 +14,10 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "3.7.0-canary-6252",
-    "@docusaurus/faster": "3.7.0-canary-6252",
-    "@docusaurus/preset-classic": "3.7.0-canary-6252",
-    "@docusaurus/theme-common": "3.7.0-canary-6252",
+    "@docusaurus/core": "3.7.0-canary-6269",
+    "@docusaurus/faster": "3.7.0-canary-6269",
+    "@docusaurus/preset-classic": "3.7.0-canary-6269",
+    "@docusaurus/theme-common": "3.7.0-canary-6269",
     "@mdx-js/react": "^3.1.0",
     "@rspack/core": "^1.2.8",
     "clsx": "^2.1.1",
@@ -26,8 +26,8 @@
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.7.0-canary-6252",
-    "@docusaurus/types": "3.7.0-canary-6252"
+    "@docusaurus/module-type-aliases": "3.7.0-canary-6269",
+    "@docusaurus/types": "3.7.0-canary-6269"
   },
   "browserslist": {
     "production": [
@@ -44,5 +44,5 @@
   "engines": {
     "node": ">=18.0"
   },
-  "packageManager": "pnpm@10.6.3+sha512.bb45e34d50a9a76e858a95837301bfb6bd6d35aea2c5d52094fa497a467c43f5c440103ce2511e9e0a2f89c3d6071baac3358fc68ac6fb75e2ceb3d2736065e6"
+  "packageManager": "pnpm@10.7.0"
 }

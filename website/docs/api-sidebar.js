@@ -8522,6 +8522,62 @@ const sidebars = {
       },
       {
         'type': 'category',
+        'label': 'Avalonia.Browser',
+        'link': {
+          'type': 'generated-index',
+        },
+        'className': 'icon assembly-icon',
+        'items': [
+        {
+          'type': 'category',
+          'label': 'Avalonia.Browser',
+          'link': {
+            'type': 'generated-index',
+          },
+          'className': 'icon namespace-icon',
+          'items': [
+          {
+            'type': 'doc',
+            'label': 'AvaloniaView Class',
+            'id': 'T_Avalonia_Browser_AvaloniaView',
+          }
+,
+          {
+            'type': 'doc',
+            'label': 'BrowserAppBuilder Class',
+            'id': 'T_Avalonia_Browser_BrowserAppBuilder',
+          }
+,
+          {
+            'type': 'doc',
+            'label': 'BrowserPlatformOptions Class',
+            'id': 'T_Avalonia_Browser_BrowserPlatformOptions',
+          }
+,
+          {
+            'type': 'doc',
+            'label': 'BrowserRenderingMode Enumeration',
+            'id': 'T_Avalonia_Browser_BrowserRenderingMode',
+          }
+,
+          {
+            'type': 'doc',
+            'label': 'JSObjectControlHandle Class',
+            'id': 'T_Avalonia_Browser_JSObjectControlHandle',
+          }
+,
+          {
+            'type': 'doc',
+            'label': 'JSObjectPlatformHandle Class',
+            'id': 'T_Avalonia_Browser_JSObjectPlatformHandle',
+          }
+
+          ]
+        }
+        ]
+      },
+      {
+        'type': 'category',
         'label': 'Avalonia.Browser.Blazor',
         'link': {
           'type': 'generated-index',

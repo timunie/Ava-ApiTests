@@ -44,7 +44,7 @@ static member StartBlazorAppAsync :
 
 
 #### Parameters
-<dl><dt>  <a href="T_Avalonia_AppBuilder">AppBuilder</a></dt><dd>Application builder.</dd><dt>  BrowserPlatformOptions  (Optional)</dt><dd>Browser backend specific options.</dd></dl>
+<dl><dt>  <a href="T_Avalonia_AppBuilder">AppBuilder</a></dt><dd>Application builder.</dd><dt>  <a href="T_Avalonia_Browser_BrowserPlatformOptions">BrowserPlatformOptions</a>  (Optional)</dt><dd>Browser backend specific options.</dd></dl>
 
 #### Return Value
 <a href="https://learn.microsoft.com/dotnet/api/system.threading.tasks.task" target="_blank" rel="noopener noreferrer">Task</a>

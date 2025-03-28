@@ -39,7 +39,7 @@ type PlatformHandle =
 
 <table>
 <tr><td><strong>Inheritance</strong></td><td><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  →  PlatformHandle</td></tr>
-<tr><td><strong>Derived</strong></td><td><a href="T_Avalonia_Android_AndroidViewControlHandle">Avalonia.Android.AndroidViewControlHandle</a><br /><a href="T_Avalonia_iOS_UIViewControlHandle">Avalonia.iOS.UIViewControlHandle</a></td></tr>
+<tr><td><strong>Derived</strong></td><td><a href="T_Avalonia_Android_AndroidViewControlHandle">Avalonia.Android.AndroidViewControlHandle</a><br /><a href="T_Avalonia_Browser_JSObjectPlatformHandle">Avalonia.Browser.JSObjectPlatformHandle</a><br /><a href="T_Avalonia_iOS_UIViewControlHandle">Avalonia.iOS.UIViewControlHandle</a></td></tr>
 <tr><td><strong>Implements</strong></td><td><a href="T_Avalonia_Platform_IPlatformHandle">IPlatformHandle</a>, <a href="https://learn.microsoft.com/dotnet/api/system.iequatable-1" target="_blank" rel="noopener noreferrer">IEquatable</a>(PlatformHandle)</td></tr>
 </table>
 

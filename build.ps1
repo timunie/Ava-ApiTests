@@ -60,6 +60,9 @@ foreach ($proj in $avaloniaProjects){
 # Run the docs. Comment either one
 cd website 
 
+# Make sure all dependencies are installed and up to date
+pnpm install
+
 # preview the website if preview switch is on
 if($preview.IsPresent){
 	npx docusaurus start

@@ -86,12 +86,20 @@
 <td>Logs Avalonia events to the <a href="https://learn.microsoft.com/dotnet/api/system.diagnostics.trace" target="_blank" rel="noopener noreferrer">Trace</a> sink.<br />(Defined by <a href="T_Avalonia_LoggingExtensions">LoggingExtensions</a>)</td>
 </tr>
 <tr>
+<td><a href="M_Avalonia_Browser_BrowserAppBuilder_SetupBrowserAppAsync">SetupBrowserAppAsync(BrowserPlatformOptions)</a></td>
+<td>Loads avalonia javascript modules and configures browser backend.<br />(Defined by <a href="T_Avalonia_Browser_BrowserAppBuilder">BrowserAppBuilder</a>)</td>
+</tr>
+<tr>
 <td><a href="M_Avalonia_ClassicDesktopStyleApplicationLifetimeExtensions_SetupWithClassicDesktopLifetime">SetupWithClassicDesktopLifetime(String[], Action(IClassicDesktopStyleApplicationLifetime))</a></td>
 <td>Setups the Application with a IClassicDesktopStyleApplicationLifetime, but doesn't show the main window and doesn't run application main loop.<br />(Defined by <a href="T_Avalonia_ClassicDesktopStyleApplicationLifetimeExtensions">ClassicDesktopStyleApplicationLifetimeExtensions</a>)</td>
 </tr>
 <tr>
 <td><a href="M_Avalonia_Browser_Blazor_BlazorAppBuilder_StartBlazorAppAsync">StartBlazorAppAsync(BrowserPlatformOptions)</a></td>
 <td>Configures blazor backend, loads avalonia javascript modules and creates a single view lifetime.<br />(Defined by <a href="T_Avalonia_Browser_Blazor_BlazorAppBuilder">BlazorAppBuilder</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Browser_BrowserAppBuilder_StartBrowserAppAsync">StartBrowserAppAsync(String, BrowserPlatformOptions)</a></td>
+<td>Configures browser backend, loads avalonia javascript modules and creates a single view lifetime from the passed  parameter.<br />(Defined by <a href="T_Avalonia_Browser_BrowserAppBuilder">BrowserAppBuilder</a>)</td>
 </tr>
 <tr>
 <td><a href="M_Avalonia_ClassicDesktopStyleApplicationLifetimeExtensions_StartWithClassicDesktopLifetime_1">StartWithClassicDesktopLifetime(String[], Action(IClassicDesktopStyleApplicationLifetime))</a></td>
@@ -108,6 +116,10 @@
 <tr>
 <td><a href="M_Avalonia_AvaloniaNativePlatformExtensions_UseAvaloniaNative">UseAvaloniaNative()</a></td>
 <td><br />(Defined by <a href="T_Avalonia_AvaloniaNativePlatformExtensions">AvaloniaNativePlatformExtensions</a>)</td>
+</tr>
+<tr>
+<td><a href="M_Avalonia_Browser_BrowserAppBuilder_UseBrowser">UseBrowser()</a></td>
+<td><br />(Defined by <a href="T_Avalonia_Browser_BrowserAppBuilder">BrowserAppBuilder</a>)</td>
 </tr>
 <tr>
 <td><a href="M_Avalonia_Direct2DApplicationExtensions_UseDirect2D1">UseDirect2D1()</a></td>
