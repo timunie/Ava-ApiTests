@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html []><html lang="en-US"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="shortcut icon" href="../icons/favicon.ico" /><link rel="stylesheet" href="../css/bulma.css" /><link rel="stylesheet" href="../css/font-awesome.min.css" /><link rel="stylesheet" href="../css/presentationStyle.css" /><link rel="stylesheet" href="../css/vs.min.css" /><script src="../scripts/jquery-3.5.1.min.js"></script><script src="../scripts/clipboard.min.js"></script><script src="../scripts/highlight.min.js"></script><script src="../scripts/presentationStyle.js"></script><title>Win32PlatformOptions Properties</title><meta name="Title" content="Properties" /><meta name="Help.Id" content="Properties.T:Avalonia.Win32PlatformOptions" /><meta name="Help.ContentType" content="Reference" /><meta name="container" content="Avalonia" /><meta name="guid" content="Properties_T_Avalonia_Win32PlatformOptions" /><meta name="tocFile" content="../toc/ID0QC0AB.xml" /></head><body><div class="fixedLayout"><div id="Header" class="fixedHeader"><div class="pageHeader level mb-0 py-2 px-4"><div id="TitleContainer" class="level-left"><div class="level-item"><a target="_blank" rel="noopener noreferrer" href="https://avaloniaui.net"><img alt="Avalonia Logo" style="height: 40px; width: 40px;" src="../icons/avalonia_logo_box_white.png" /></a></div><div id="DocumentationTitle" class="level-item">Avalonia API Reference</div></div><div id="LangFilterSearchContainer" class="level-right"><div class="level-item"><div class="dropdown is-hoverable"><div class="dropdown-trigger"><button class="button" aria-haspopup="true" aria-controls="dropdown-menu"><span id="CurrentLanguage"></span><span class="icon is-small"><i class="fa fa-angle-down" aria-hidden="true"></i></span></button></div><div class="dropdown-menu" role="menu"><div id="LanguageSelections" class="dropdown-content"><a class="dropdown-item languageFilterItem" data-languageId="cs">C#</a><a class="dropdown-item languageFilterItem" data-languageId="vb">VB</a><a class="dropdown-item languageFilterItem" data-languageId="fs">F#</a></div></div></div></div><div class="level-item"><form id="SearchForm" action="#" onsubmit="TransferToSearchPage(); return false;"><div class="field"><div class="control has-icons-left"><input id="SearchTerms" class="input" type="text" maxlength="200" placeholder="Search" /><span class="icon is-small is-left"><i class="fa fa-search"></i></span><button id="SearchButton" type="submit" class="is-hidden"></button></div></div></form></div></div></div></div><div class="fixedContent"><nav class="breadcrumb my-1 px-2 border-bottom" role="navigation"><ul id="TopicBreadcrumbs" /></nav><div id="ContentContainer" class="columns pl-5 pr-5 fixedContent"><div id="ShowHideTOCColumn" class="column is-hidden-tablet"><a id="ShowHideTOC">Show/Hide TOC</a></div><div id="TOCColumn" class="column is-hidden-mobile toc-resizable"><nav class="toc"><ul id="TableOfContents" class="toc-menu" /></nav></div><div id="Resizer" class="toc-resizer"></div><div id="TopicContent" class="column content is-7 toc-resizable-content"><h1>Win<wbr />32Platform<wbr />Options Properties</h1><h2 class="quickLinkHeader"><span class="icon toggleSection" tabindex="0"><i class="fa fa-angle-down"></i></span>Properties</h2><div id="IDADASection"><table id="PropertyList" class="table is-hoverable"><tr><td><a href="P_Avalonia_Win32PlatformOptions_CompositionMode.htm">CompositionMode</a></td><td>
+            Gets or sets Avalonia composition modes with fallbacks.
+            The first element in the array has the highest priority.
+            The default value is: <a href="T_Avalonia_Win32CompositionMode.htm">WinUIComposition</a>, <a href="T_Avalonia_Win32CompositionMode.htm">DirectComposition</a>, <a href="T_Avalonia_Win32CompositionMode.htm">RedirectionSurface</a>.
+            </td></tr><tr><td><a href="P_Avalonia_Win32PlatformOptions_CustomPlatformGraphics.htm">CustomPlatformGraphics</a></td><td>
+            Provides a way to use a custom-implemented graphics context such as a custom ISkiaGpu.
+            When this property set <a href="P_Avalonia_Win32PlatformOptions_RenderingMode.htm">RenderingMode</a> is ignored
+            and <a href="P_Avalonia_Win32PlatformOptions_CompositionMode.htm">CompositionMode</a> only accepts null or <a href="T_Avalonia_Win32CompositionMode.htm">RedirectionSurface</a>.
+            </td></tr><tr><td><a href="P_Avalonia_Win32PlatformOptions_DpiAwareness.htm">DpiAwareness</a></td><td>
+            Gets or sets the application's DPI awareness.
+            </td></tr><tr><td><a href="P_Avalonia_Win32PlatformOptions_GraphicsAdapterSelectionCallback.htm">GraphicsAdapterSelectionCallback</a></td><td>
+            Specifies a callback method to be called when compositor needs to create a platform graphics device
+            Currently is only called for AngleEgl rendering mode when DirectX 11 is used
+            </td></tr><tr><td><a href="P_Avalonia_Win32PlatformOptions_OverlayPopups.htm">OverlayPopups</a></td><td>
+            Embeds popups to the window when set to true. The default value is false.
+            </td></tr><tr><td><a href="P_Avalonia_Win32PlatformOptions_RenderingMode.htm">RenderingMode</a></td><td>
+            Gets or sets Avalonia rendering modes with fallbacks.
+            The first element in the array has the highest priority.
+            The default value is: <a href="T_Avalonia_Win32RenderingMode.htm">AngleEgl</a>, <a href="T_Avalonia_Win32RenderingMode.htm">Software</a>.
+            </td></tr><tr><td><a href="P_Avalonia_Win32PlatformOptions_ShouldRenderOnUIThread.htm">ShouldRenderOnUIThread</a></td><td>
+            Render directly on the UI thread instead of using a dedicated render thread.
+            Only applicable if <a href="P_Avalonia_Win32PlatformOptions_CompositionMode.htm">CompositionMode</a> is set to <a href="T_Avalonia_Win32CompositionMode.htm">RedirectionSurface</a>.
+            This setting is only recommended for interop with systems that must render on the UI thread, such as WPF.
+            This setting is false by default.
+            </td></tr><tr><td><a href="P_Avalonia_Win32PlatformOptions_WglProfiles.htm">WglProfiles</a></td><td>
+            Windows OpenGL profiles used when <a href="P_Avalonia_Win32PlatformOptions_RenderingMode.htm">RenderingMode</a> is set to <a href="T_Avalonia_Win32RenderingMode.htm">Wgl</a>.
+            This setting is 4.0 and 3.2 by default.
+            </td></tr><tr><td><a href="P_Avalonia_Win32PlatformOptions_WinUICompositionBackdropCornerRadius.htm">WinUICompositionBackdropCornerRadius</a></td><td>
+            When <a href="P_Avalonia_Win32PlatformOptions_CompositionMode.htm">CompositionMode</a> is set to <a href="T_Avalonia_Win32CompositionMode.htm">WinUIComposition</a>, create rounded corner blur brushes
+            If set to null the brushes will be created using default settings (sharp corners)
+            This can be useful when you need a rounded-corner blurred Windows 10 app, or borderless Windows 11 app.
+            </td></tr></table></div><h2 class="quickLinkHeader"><span class="icon toggleSection" tabindex="0"><i class="fa fa-angle-down"></i></span>See Also</h2><div id="seeAlsoSection"><h4>Reference</h4><div><a href="T_Avalonia_Win32PlatformOptions.htm">Win32PlatformOptions Class</a></div><div><a href="N_Avalonia.htm">Avalonia Namespace</a></div></div></div><div id="InThisArticleColumn" class="column is-hidden-mobile"><nav class="menu sticky is-hidden"><p class="menu-label"><strong>In This Article</strong></p><ul id="InThisArticleMenu" class="menu-list"><li><a class="quickLink">Properties</a></li><li><a class="quickLink">See Also</a></li></ul></nav></div></div></div><footer id="PageFooter" class="footer border-top py-3 fixedFooter"><div class="columns"><div id="FooterContent" class="column"><p><a href="https://avaloniaui.net" target="_blank" rel="noopener noreferrer">© AvaloniaUI OÜ</a></p> 
+				</div></div></footer></div><script>$(function(){
+SetDefaultLanguage("cs");
+LoadTocFile(null, null);
+InitializeQuickLinks();
+
+$(".toggleSection" ).click(function () {
+    SectionExpandCollapse(this);
+});
+
+$(".toggleSection").keypress(function () {
+    SectionExpandCollapseCheckKey(this, event)
+});
+});</script></body></html>
